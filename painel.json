@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-19T02:45:48.407Z",
+  "geradoEm": "2026-08-19T17:50:57.396Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 117,
+      "n": 127,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 28,
+      "n": 33,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 24,
+      "n": 29,
       "quem": "código"
     },
     {
@@ -116,9 +116,9 @@
     }
   ],
   "motivosCorte": {
+    "sem midia e sem discussao": 13,
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1,
-    "sem midia e sem discussao": 8,
     "midia fraca": 1
   },
   "taxaAprovacao": 32,
@@ -151,24 +151,84 @@
     }
   ],
   "memoria": {
-    "total": 792,
+    "total": 1603,
     "de": "2018-12-15T14:34:23+0000",
-    "ate": "2026-08-18T13:07:17+0000",
+    "ate": "2026-08-19T00:27:01.000Z",
     "porPlataforma": {
       "facebook": 560,
       "instagram": 231,
-      "twitter": 1
+      "twitter": 812
     },
     "porAno": {
-      "2018": 60,
-      "2019": 172,
-      "2020": 50,
-      "2021": 34,
-      "2025": 75,
-      "2026": 401
+      "2018": 86,
+      "2019": 372,
+      "2020": 98,
+      "2021": 54,
+      "2025": 264,
+      "2026": 729
     }
   },
   "recentes": [
+    {
+      "id": 127,
+      "fonte": "reddit",
+      "titulo": "After building this mock-up fast food joint for a skit yesterday, I've come to the conclusion that Hytale isn't totally cut out for \"modern\" builds...",
+      "autor": "NoWin2652",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:50:57",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 124,
+      "fonte": "reddit",
+      "titulo": "Mytale_ Caldren Village",
+      "autor": "GreenMatias370",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:50:57",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 123,
+      "fonte": "reddit",
+      "titulo": "I recreated Kamado Tanjiro from Demon Slayer!",
+      "autor": "Netherzapdos",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:50:57",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 121,
+      "fonte": "reddit",
+      "titulo": "Giant Axe among the Trees",
+      "autor": "Shydass",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-19 17:50:57",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 118,
+      "fonte": "reddit",
+      "titulo": "A Castle Fit for a Dark Lord",
+      "autor": "Bargothball",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:50:57",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
     {
       "id": 117,
       "fonte": "site",
@@ -468,42 +528,6 @@
       "q": 76,
       "e": 84,
       "motivo": "123 upvotes, criador brasileiro, muda a cara do jogo"
-    },
-    {
-      "id": 8,
-      "fonte": "reddit",
-      "titulo": "Hytale Build Showcase - Autumn Biome Bridge",
-      "autor": "Arketetor",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "BUILD",
-      "q": 62,
-      "e": 58,
-      "motivo": "build bonita mas comum, 44 upvotes e ponte de bioma nao sustenta post da pagina"
-    },
-    {
-      "id": 7,
-      "fonte": "reddit",
-      "titulo": "Mods of the Week in Hytale",
-      "autor": "CptJonah",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "MOD",
-      "q": 66,
-      "e": 72,
-      "motivo": "mods da semana. A pagina publicou a selecao oficial do CurseForge ontem as 14h, repetir o tema em dois dias cansa"
-    },
-    {
-      "id": 4,
-      "fonte": "reddit",
-      "titulo": "Why are there no Hytale YouTubers all on a big server?",
-      "autor": "TechnicalStretch6203",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 25,
-      "e": 60,
-      "motivo": "discussao sem midia sobre falta de youtuber, assunto negativo que nao serve a pagina"
     }
   ],
   "grade": [
@@ -642,7 +666,7 @@
         "02-1230-rc26-5.png"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 88,
       "engajamento": 92,
       "categoria": "BUILD",
@@ -668,7 +692,7 @@
         "01-1000-rc31.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 82,
       "engajamento": 86,
       "categoria": "COMUNIDADE",
@@ -871,7 +895,7 @@
             "01-1000-rc31.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 82,
           "engajamento": 86,
           "categoria": "COMUNIDADE",
@@ -909,7 +933,7 @@
             "02-1230-rc26-5.png"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 88,
           "engajamento": 92,
           "categoria": "BUILD",
@@ -1209,26 +1233,26 @@
     }
   ],
   "contagem": {
-    "coletadosTotal": 117,
+    "coletadosTotal": 127,
     "aprovados": 7,
     "rejeitados": 15,
-    "rejeitadosFiltro": 89,
+    "rejeitadosFiltro": 94,
     "rejeitadosMemoria": 4,
     "escritos": 7,
     "agendados": 6,
-    "publicadosTotal": 792,
+    "publicadosTotal": 1603,
     "publicadosPorRede": {
       "facebook": 560,
       "instagram": 231,
-      "twitter": 1
+      "twitter": 812
     },
-    "publicadosMes": 49,
-    "publicadosHoje": 0
+    "publicadosMes": 70,
+    "publicadosHoje": 1
   },
   "twitterHoje": {
     "total": 6,
-    "feitos": 0,
-    "data": "2026-08-18"
+    "feitos": 1,
+    "data": "2026-08-19"
   },
   "custos": {
     "infraMensal": 0,
@@ -1266,12 +1290,12 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-18T14:47:39.418Z",
+  "ultimaColeta": "2026-08-19T17:50:57.198Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5924,
+      "seguidores": 5925,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -1279,8 +1303,8 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6036,
-      "totalPosts": 239,
+      "seguidores": 6035,
+      "totalPosts": 241,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
       "mediaCurtidas": 129,
@@ -1292,7 +1316,7 @@
       "medidoEm": "2026-08-18",
       "link": "https://x.com/OrbisHytale",
       "nota": "sem API acessível, número lido no navegador",
-      "totalPosts": 1
+      "totalPosts": 812
     },
     "grupo": {
       "nome": "Grupo Hytale Brasil",
@@ -1344,7 +1368,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 361,
+        "curtidas": 366,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
@@ -1354,8 +1378,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-04-29T15:10:42+0000",
-      "ate": "2026-08-18T23:31:44+0000"
+      "de": "2026-04-30T14:56:32+0000",
+      "ate": "2026-08-19T15:52:23+0000"
     },
     "serie": [
       {
