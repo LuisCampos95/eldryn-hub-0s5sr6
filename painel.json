@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-19T17:57:07.618Z",
+  "geradoEm": "2026-08-19T23:05:56.377Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -96,12 +96,12 @@
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 22,
+      "n": 40,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 7,
+      "n": 16,
       "quem": "IA"
     },
     {
@@ -123,28 +123,28 @@
     "fora de pauta": 1,
     "midia fraca": 1
   },
-  "taxaAprovacao": 32,
+  "taxaAprovacao": 40,
   "qualidade": {
-    "q": 59.5,
-    "e": 67.4,
-    "qAprov": 82.6,
-    "qRej": 48.7
+    "q": 62.7,
+    "e": 66,
+    "qAprov": 82.9,
+    "qRej": 49.3
   },
   "porCategoria": [
     {
       "categoria": "COMUNIDADE",
-      "n": 11,
-      "ok": 2
+      "n": 16,
+      "ok": 4
     },
     {
       "categoria": "BUILD",
-      "n": 5,
-      "ok": 2
+      "n": 12,
+      "ok": 5
     },
     {
       "categoria": "MOD",
-      "n": 4,
-      "ok": 2
+      "n": 10,
+      "ok": 6
     },
     {
       "categoria": "NOTICIA",
@@ -176,60 +176,60 @@
       "fonte": "twitter",
       "titulo": "Last week I showcased the new flying mechanics in Animal Husbandry / Tamework.",
       "autor": "Alechilles",
-      "status": "PARECIDO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 85,
+      "e": 78,
+      "motivo": "mod de domesticacao (Tamework) agora deixa comandar Dragoes de Gelo pra lutar por voce, bate direto na categoria de criatura colecionavel que comprovadamente funciona na pagina"
     },
     {
       "id": 143,
       "fonte": "twitter",
       "titulo": "Hytale Build Showcase - Autumn Biome Bridge #Hytale",
       "autor": "Arketetor",
-      "status": "CANDIDATO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "BUILD",
+      "q": 55,
+      "e": 42,
+      "motivo": "so 34 curtidas em 52h; ponte e build comum sem crossover, criatura ou sistema que justifique competir com opcoes bem mais fortes da mesma fila"
     },
     {
       "id": 141,
       "fonte": "twitter",
       "titulo": "The full starter character roster for our minigame!",
       "autor": "Asterudus",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "COMUNIDADE",
+      "q": 88,
+      "e": 90,
+      "motivo": "411 curtidas, o maior engajamento de toda a fila; elenco completo de 8 personagens modelados em Blockbench pra um minigame proprio"
     },
     {
       "id": 138,
       "fonte": "twitter",
       "titulo": "The Devs Absolutely Won",
       "autor": "MelodicAlbuild",
-      "status": "PARECIDO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "COMUNIDADE",
+      "q": 30,
+      "e": 45,
+      "motivo": "legenda The Devs Absolutely Won sem nenhum contexto, e imagem (nao video) e ainda tem 50% de semelhanca com post de 196 dias atras sobre mapa customizado; confianca baixa demais pra publicar"
     },
     {
       "id": 137,
       "fonte": "twitter",
       "titulo": "Oh shit, here we go again #Hytale",
       "autor": "SVHyspain",
-      "status": "CANDIDATO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "COMUNIDADE",
+      "q": 25,
+      "e": 20,
+      "motivo": "video sem contexto (frase vaga tipo oh shit here we go again), so 15 curtidas em 16h, confianca baixa demais sobre o que esta sendo mostrado"
     },
     {
       "id": 135,
@@ -248,132 +248,132 @@
       "fonte": "twitter",
       "titulo": "A new inventory management interface has been added to my mod.",
       "autor": "_Lexem_",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 85,
+      "e": 70,
+      "motivo": "sistema de inventario para NPCs (equipar armadura, dar itens) contado pela fonte original; preferido sobre o repost 133 mesmo com menos curtidas brutas, por ser o autor original"
     },
     {
       "id": 133,
       "fonte": "twitter",
       "titulo": "Wow, this is actually very intuitive!",
       "autor": "_Lexem_",
-      "status": "CANDIDATO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 82,
+      "e": 80,
+      "motivo": "duplicata do 134 (mesmo sistema de equipar NPC do _Lexem_, repostado pelo HytaleAlerts); regra da rodada manda preferir o autor original"
     },
     {
       "id": 132,
       "fonte": "twitter",
       "titulo": "This is AWESOME! If you want guns in Hytale, check out the Hyguns mod by TheScar_3.",
       "autor": "HytaleAlerts",
-      "status": "PARECIDO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 78,
+      "e": 78,
+      "motivo": "175 curtidas, terceiro maior engajamento do lote; mod inedito de armas de fogo quebra o padrao do jogo e gera curiosidade imediata"
     },
     {
       "id": 131,
       "fonte": "twitter",
       "titulo": "Wow, this adds so much realism to the game!",
       "autor": "GaiaScript",
-      "status": "PARECIDO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 80,
+      "e": 85,
+      "motivo": "duplicata do 130 (mesmo video do GaiaScript, repostado pelo HytaleAlerts); regra da rodada manda preferir o autor original mesmo com mais curtidas no repost"
     },
     {
       "id": 130,
       "fonte": "twitter",
       "titulo": "Developing immersion in timber logging of trees #hytale #hytalemodding",
       "autor": "GaiaScript",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 85,
+      "e": 82,
+      "motivo": "163 curtidas em 32h do criador original; sistema de derrubada de arvore com fisica realista e o tipo de sistema visual grande que funciona na pagina, preferido sobre o repost do 131"
     },
     {
       "id": 129,
       "fonte": "twitter",
       "titulo": "Dragon Rider - A Hytale Cinematic.",
       "autor": "gamevid4",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-19 17:54:04",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "COMUNIDADE",
+      "q": 80,
+      "e": 75,
+      "motivo": "cinematic fa-feita com lore propria e dragao montavel enfrentando uma Hydra domada, exatamente o tipo de criatura montavel que comprovadamente funciona aqui; video com boa narrativa visual"
     },
     {
       "id": 127,
       "fonte": "reddit",
       "titulo": "After building this mock-up fast food joint for a skit yesterday, I've come to the conclusion that Hytale isn't totally cut out for \"modern\" builds...",
       "autor": "NoWin2652",
-      "status": "CANDIDATO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:50:57",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "BUILD",
+      "q": 55,
+      "e": 70,
+      "motivo": "autor conclui que Hytale nao e cortado pra builds modernas, isso e discussao negativa sobre o jogo; regra exclui esse tipo de conteudo mesmo com engajamento alto (54 upvotes e 13 comentarios)"
     },
     {
       "id": 124,
       "fonte": "reddit",
       "titulo": "Mytale_ Caldren Village",
       "autor": "GreenMatias370",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-19 17:50:57",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "BUILD",
+      "q": 80,
+      "e": 85,
+      "motivo": "87 upvotes, o maior engajamento do lote reddit; vilarejo detalhado com forte apelo visual de escala"
     },
     {
       "id": 123,
       "fonte": "reddit",
       "titulo": "I recreated Kamado Tanjiro from Demon Slayer!",
       "autor": "Netherzapdos",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-19 17:50:57",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "BUILD",
+      "q": 85,
+      "e": 82,
+      "motivo": "recriacao do Tanjiro (Demon Slayer) em Hytale, crossover de anime reconhecivel e o que comprovadamente funciona na pagina; 64 upvotes em so 8h"
     },
     {
       "id": 121,
       "fonte": "reddit",
       "titulo": "Giant Axe among the Trees",
       "autor": "Shydass",
-      "status": "PARECIDO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-19 17:50:57",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "BUILD",
+      "q": 82,
+      "e": 85,
+      "motivo": "55 upvotes em apenas 4h, a velocidade de engajamento mais rapida de toda a fila; imagem simples mas de forte impacto visual"
     },
     {
       "id": 118,
       "fonte": "reddit",
       "titulo": "A Castle Fit for a Dark Lord",
       "autor": "Bargothball",
-      "status": "CANDIDATO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:50:57",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "BUILD",
+      "q": 50,
+      "e": 25,
+      "motivo": "apenas 5 upvotes e 0 comentarios em 1h; engajamento insuficiente frente a opcoes de build muito mais fortes na mesma fila"
     },
     {
       "id": 117,
@@ -578,7 +578,7 @@
         "05-2000-rc22.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 78,
       "engajamento": 74,
       "categoria": "MOD",
@@ -604,7 +604,7 @@
         "04-1730-rc27.jpg"
       ],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 90,
       "engajamento": 88,
       "categoria": "NOTICIA",
@@ -630,7 +630,7 @@
         "03-1500-rc35.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 80,
       "engajamento": 88,
       "categoria": "MOD",
@@ -961,7 +961,7 @@
             "03-1500-rc35.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 80,
           "engajamento": 88,
           "categoria": "MOD",
@@ -987,7 +987,7 @@
             "04-1730-rc27.jpg"
           ],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 90,
           "engajamento": 88,
           "categoria": "NOTICIA",
@@ -1013,7 +1013,7 @@
             "05-2000-rc22.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 78,
           "engajamento": 74,
           "categoria": "MOD",
@@ -1236,8 +1236,8 @@
   ],
   "contagem": {
     "coletadosTotal": 147,
-    "aprovados": 7,
-    "rejeitados": 15,
+    "aprovados": 16,
+    "rejeitados": 24,
     "rejeitadosFiltro": 102,
     "rejeitadosMemoria": 5,
     "escritos": 7,
@@ -1305,11 +1305,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6035,
-      "totalPosts": 241,
+      "seguidores": 6036,
+      "totalPosts": 243,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 129,
+      "mediaCurtidas": 128,
       "amostra": 100
     },
     "twitter": {
@@ -1380,8 +1380,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-04-30T14:56:32+0000",
-      "ate": "2026-08-19T15:52:23+0000"
+      "de": "2026-05-04T20:27:33+0000",
+      "ate": "2026-08-19T20:47:40+0000"
     },
     "serie": [
       {
