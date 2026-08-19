@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-19T23:24:29.013Z",
+  "geradoEm": "2026-08-19T23:26:33.162Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -111,7 +111,7 @@
     },
     {
       "etapa": "Agendados",
-      "n": 6,
+      "n": 12,
       "quem": "código"
     }
   ],
@@ -176,7 +176,7 @@
       "fonte": "twitter",
       "titulo": "Last week I showcased the new flying mechanics in Animal Husbandry / Tamework.",
       "autor": "Alechilles",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "MOD",
       "q": 85,
@@ -200,7 +200,7 @@
       "fonte": "twitter",
       "titulo": "The full starter character roster for our minigame!",
       "autor": "Asterudus",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "COMUNIDADE",
       "q": 88,
@@ -296,7 +296,7 @@
       "fonte": "twitter",
       "titulo": "Developing immersion in timber logging of trees #hytale #hytalemodding",
       "autor": "GaiaScript",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "MOD",
       "q": 85,
@@ -308,7 +308,7 @@
       "fonte": "twitter",
       "titulo": "Dragon Rider - A Hytale Cinematic.",
       "autor": "gamevid4",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "COMUNIDADE",
       "q": 80,
@@ -344,7 +344,7 @@
       "fonte": "reddit",
       "titulo": "I recreated Kamado Tanjiro from Demon Slayer!",
       "autor": "Netherzapdos",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-19 17:50:57",
       "categoria": "BUILD",
       "q": 85,
@@ -356,7 +356,7 @@
       "fonte": "reddit",
       "titulo": "Giant Axe among the Trees",
       "autor": "Shydass",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-19 17:50:57",
       "categoria": "BUILD",
       "q": 82,
@@ -541,9 +541,7 @@
       "textoMeta": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE\n\nUma construção temática de mago de pedra, montada com material que combina com a função de quem mora nela.\n\n🔹 A rocha aparece trabalhada, não é bloco jogado pra encher parede.\n🔹 O interior foi decorado seguindo o mesmo tema, não só a fachada.\n\n📷 YLASRO\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
       "textoTwitter": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE\n\nUma construção temática de mago de pedra, montada com material que combina com a função de quem mora nela.\n\n🔹 A rocha aparece trabalhada, não é bloco jogado pra encher parede.\n🔹 O interior foi decorado seguindo o mesmo tema, não só a fachada.\n\n📷 u/YLASRO\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vq7gfp/the_geomancers_home/",
-      "arquivos": [
-        "midia/reddit/rc13/1.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc13.jpg"
       ],
@@ -567,9 +565,7 @@
       "textoMeta": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE\n\nO Hyblend puxa modelo e animação do jogo direto pro Blender, o que facilita muito a vida de quem cria mod com criatura e personagem próprio.\n\n🔹 Serve tanto pra estudar como o jogo monta as coisas quanto pra criar em cima do que já existe.\n\n🎥 Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
       "textoTwitter": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE\n\nO Hyblend puxa modelo e animação do jogo direto pro Blender, o que facilita muito a vida de quem cria mod com criatura e personagem próprio.\n\n🔹 Serve tanto pra estudar como o jogo monta as coisas quanto pra criar em cima do que já existe.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vp9s8r/hyblend_import_any_hytale_model_and_animations/",
-      "arquivos": [
-        "midia/reddit/rc22.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc22.mp4"
       ],
@@ -593,9 +589,7 @@
       "textoMeta": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE\n\nA nova geração de mundo criou um mar congelado com torres de gelo saindo da água, altas o bastante pra sumir na neblina.\n\n🔹 A água aparece quebrada em placa de gelo solta, uma diferente da outra.\n🔹 Os picos nascem em grupo e cada um tem formato próprio, nada repetido.\n\nÉ o tipo de paisagem que o worldgen antigo não conseguia montar sozinho.\n\n📷 AnyEconomy8588\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE\n\nA nova geração de mundo criou um mar congelado com torres de gelo saindo da água, altas o bastante pra sumir na neblina.\n\n🔹 A água aparece quebrada em placa de gelo solta, uma diferente da outra.\n🔹 Os picos nascem em grupo e cada um tem formato próprio, nada repetido.\n\nÉ o tipo de paisagem que o worldgen antigo não conseguia montar sozinho.\n\n📷 u/AnyEconomy8588\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vmgx4x/ice_spikes_world_gen_v2/",
-      "arquivos": [
-        "midia/reddit/rc27/1.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc27.jpg"
       ],
@@ -619,9 +613,7 @@
       "textoMeta": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE\n\nO desafio em andar do Genshin Impact virou mod, com sala de combate que você limpa pra descer pro próximo nível.\n\n🎥 Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
       "textoTwitter": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE\n\nO desafio em andar do Genshin Impact virou mod, com sala de combate que você limpa pra descer pro próximo nível.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vmsz54/genshin_spiral_abyss_in_hytale/",
-      "arquivos": [
-        "midia/reddit/rc35.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc35.mp4"
       ],
@@ -645,13 +637,7 @@
       "textoMeta": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE\n\nUm quarteirão inteiro de rua japonesa, com prédio de vários andares, letreiro aceso e movimento de cidade grande.\n\n🔹 Ar-condicionado pendurado na janela, sacada com roupa e antena no telhado.\n🔹 Máquina de venda ligada na calçada, cone de obra e bueiro na rua.\n🔹 Placa vertical em japonês, faixa de pedestre e fiação passando por cima de tudo.\n\n📷 sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
       "textoTwitter": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE\n\nUm quarteirão inteiro de rua japonesa, com prédio de vários andares, letreiro aceso e movimento de cidade grande.\n\n🔹 Ar-condicionado pendurado na janela, sacada com roupa e antena no telhado.\n🔹 Máquina de venda ligada na calçada, cone de obra e bueiro na rua.\n🔹 Placa vertical em japonês, faixa de pedestre e fiação passando por cima de tudo.\n\n📷 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vo9lxa/new_neon_city_blocks_and_props/",
-      "arquivos": [
-        "midia/reddit/rc26/1.png",
-        "midia/reddit/rc26/2.png",
-        "midia/reddit/rc26/3.png",
-        "midia/reddit/rc26/4.png",
-        "midia/reddit/rc26/5.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc26_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc26_2.jpg",
@@ -683,9 +669,7 @@
       "textoMeta": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE\n\nUm jogador montou um parque de diversão no jogo, com aquela barraca de feira onde o bichinho sai do buraco e você tem que acertar de martelo antes dele voltar. No lugar do bichinho, goblin.\n\n🎥 Wakkaloon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE\n\nUm jogador montou um parque de diversão no jogo, com aquela barraca de feira onde o bichinho sai do buraco e você tem que acertar de martelo antes dele voltar. No lugar do bichinho, goblin.\n\n🎥 u/Wakkaloon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vnp6p3/whos_up_for_a_game_of_whackagoblin_at_the_summer/",
-      "arquivos": [
-        "midia/reddit/rc31.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc31.mp4"
       ],
@@ -886,9 +870,7 @@
           "textoMeta": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE\n\nUm jogador montou um parque de diversão no jogo, com aquela barraca de feira onde o bichinho sai do buraco e você tem que acertar de martelo antes dele voltar. No lugar do bichinho, goblin.\n\n🎥 Wakkaloon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE\n\nUm jogador montou um parque de diversão no jogo, com aquela barraca de feira onde o bichinho sai do buraco e você tem que acertar de martelo antes dele voltar. No lugar do bichinho, goblin.\n\n🎥 u/Wakkaloon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vnp6p3/whos_up_for_a_game_of_whackagoblin_at_the_summer/",
-          "arquivos": [
-            "midia/reddit/rc31.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc31.mp4"
           ],
@@ -912,13 +894,7 @@
           "textoMeta": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE\n\nUm quarteirão inteiro de rua japonesa, com prédio de vários andares, letreiro aceso e movimento de cidade grande.\n\n🔹 Ar-condicionado pendurado na janela, sacada com roupa e antena no telhado.\n🔹 Máquina de venda ligada na calçada, cone de obra e bueiro na rua.\n🔹 Placa vertical em japonês, faixa de pedestre e fiação passando por cima de tudo.\n\n📷 sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
           "textoTwitter": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE\n\nUm quarteirão inteiro de rua japonesa, com prédio de vários andares, letreiro aceso e movimento de cidade grande.\n\n🔹 Ar-condicionado pendurado na janela, sacada com roupa e antena no telhado.\n🔹 Máquina de venda ligada na calçada, cone de obra e bueiro na rua.\n🔹 Placa vertical em japonês, faixa de pedestre e fiação passando por cima de tudo.\n\n📷 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vo9lxa/new_neon_city_blocks_and_props/",
-          "arquivos": [
-            "midia/reddit/rc26/1.png",
-            "midia/reddit/rc26/2.png",
-            "midia/reddit/rc26/3.png",
-            "midia/reddit/rc26/4.png",
-            "midia/reddit/rc26/5.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc26_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc26_2.jpg",
@@ -950,9 +926,7 @@
           "textoMeta": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE\n\nO desafio em andar do Genshin Impact virou mod, com sala de combate que você limpa pra descer pro próximo nível.\n\n🎥 Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
           "textoTwitter": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE\n\nO desafio em andar do Genshin Impact virou mod, com sala de combate que você limpa pra descer pro próximo nível.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vmsz54/genshin_spiral_abyss_in_hytale/",
-          "arquivos": [
-            "midia/reddit/rc35.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc35.mp4"
           ],
@@ -976,9 +950,7 @@
           "textoMeta": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE\n\nA nova geração de mundo criou um mar congelado com torres de gelo saindo da água, altas o bastante pra sumir na neblina.\n\n🔹 A água aparece quebrada em placa de gelo solta, uma diferente da outra.\n🔹 Os picos nascem em grupo e cada um tem formato próprio, nada repetido.\n\nÉ o tipo de paisagem que o worldgen antigo não conseguia montar sozinho.\n\n📷 AnyEconomy8588\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE\n\nA nova geração de mundo criou um mar congelado com torres de gelo saindo da água, altas o bastante pra sumir na neblina.\n\n🔹 A água aparece quebrada em placa de gelo solta, uma diferente da outra.\n🔹 Os picos nascem em grupo e cada um tem formato próprio, nada repetido.\n\nÉ o tipo de paisagem que o worldgen antigo não conseguia montar sozinho.\n\n📷 u/AnyEconomy8588\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vmgx4x/ice_spikes_world_gen_v2/",
-          "arquivos": [
-            "midia/reddit/rc27/1.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc27.jpg"
           ],
@@ -1002,9 +974,7 @@
           "textoMeta": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE\n\nO Hyblend puxa modelo e animação do jogo direto pro Blender, o que facilita muito a vida de quem cria mod com criatura e personagem próprio.\n\n🔹 Serve tanto pra estudar como o jogo monta as coisas quanto pra criar em cima do que já existe.\n\n🎥 Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
           "textoTwitter": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE\n\nO Hyblend puxa modelo e animação do jogo direto pro Blender, o que facilita muito a vida de quem cria mod com criatura e personagem próprio.\n\n🔹 Serve tanto pra estudar como o jogo monta as coisas quanto pra criar em cima do que já existe.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vp9s8r/hyblend_import_any_hytale_model_and_animations/",
-          "arquivos": [
-            "midia/reddit/rc22.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc22.mp4"
           ],
@@ -1028,9 +998,7 @@
           "textoMeta": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE\n\nUma construção temática de mago de pedra, montada com material que combina com a função de quem mora nela.\n\n🔹 A rocha aparece trabalhada, não é bloco jogado pra encher parede.\n🔹 O interior foi decorado seguindo o mesmo tema, não só a fachada.\n\n📷 YLASRO\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
           "textoTwitter": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE\n\nUma construção temática de mago de pedra, montada com material que combina com a função de quem mora nela.\n\n🔹 A rocha aparece trabalhada, não é bloco jogado pra encher parede.\n🔹 O interior foi decorado seguindo o mesmo tema, não só a fachada.\n\n📷 u/YLASRO\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vq7gfp/the_geomancers_home/",
-          "arquivos": [
-            "midia/reddit/rc13/1.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc13.jpg"
           ],
@@ -1241,7 +1209,7 @@
     "rejeitadosFiltro": 102,
     "rejeitadosMemoria": 5,
     "escritos": 16,
-    "agendados": 6,
+    "agendados": 12,
     "publicadosTotal": 1603,
     "publicadosPorRede": {
       "facebook": 560,
