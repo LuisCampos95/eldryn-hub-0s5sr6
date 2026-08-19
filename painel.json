@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-19T23:05:56.377Z",
+  "geradoEm": "2026-08-19T23:12:33.303Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -106,7 +106,7 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 7,
+      "n": 16,
       "quem": "IA + código"
     },
     {
@@ -1240,7 +1240,7 @@
     "rejeitados": 24,
     "rejeitadosFiltro": 102,
     "rejeitadosMemoria": 5,
-    "escritos": 7,
+    "escritos": 16,
     "agendados": 6,
     "publicadosTotal": 1603,
     "publicadosPorRede": {
@@ -1306,10 +1306,10 @@
     "instagram": {
       "nome": "@brasilhytale",
       "seguidores": 6036,
-      "totalPosts": 243,
+      "totalPosts": 244,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 128,
+      "mediaCurtidas": 127,
       "amostra": 100
     },
     "twitter": {
@@ -1380,8 +1380,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-05-04T20:27:33+0000",
-      "ate": "2026-08-19T20:47:40+0000"
+      "de": "2026-05-05T00:10:44+0000",
+      "ate": "2026-08-19T23:10:50+0000"
     },
     "serie": [
       {
