@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-18T21:09:55.394Z",
+  "geradoEm": "2026-08-19T02:45:48.407Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -692,7 +692,7 @@
         "06-2130-hyblend-tool.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -716,7 +716,7 @@
         "05-2000-lunaronin-airship.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -1147,7 +1147,7 @@
             "05-2000-lunaronin-airship.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -1171,7 +1171,7 @@
             "06-2130-hyblend-tool.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -1271,7 +1271,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5923,
+      "seguidores": 5924,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -1279,11 +1279,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6034,
-      "totalPosts": 238,
+      "seguidores": 6036,
+      "totalPosts": 239,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 130,
+      "mediaCurtidas": 129,
       "amostra": 100
     },
     "twitter": {
@@ -1304,7 +1304,7 @@
     "topPosts": [
       {
         "titulo": "⚔️ AS BATALHAS DE POKÉMON VÃO DEIXAR VOCÊ ANDAR NO MEIO DA LUTA",
-        "curtidas": 702,
+        "curtidas": 704,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-07-19T15:05:09+0000",
@@ -1344,7 +1344,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 357,
+        "curtidas": 361,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
@@ -1354,8 +1354,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-04-23T16:32:51+0000",
-      "ate": "2026-08-18T20:32:50+0000"
+      "de": "2026-04-29T15:10:42+0000",
+      "ate": "2026-08-18T23:31:44+0000"
     },
     "serie": [
       {
