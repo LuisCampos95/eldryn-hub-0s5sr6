@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-19T17:50:57.396Z",
+  "geradoEm": "2026-08-19T17:54:04.962Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 127,
+      "n": 147,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 33,
+      "n": 50,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 29,
+      "n": 45,
       "quem": "código"
     },
     {
@@ -116,6 +116,7 @@
     }
   ],
   "motivosCorte": {
+    "velho demais": 3,
     "sem midia e sem discussao": 13,
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1,
@@ -169,6 +170,210 @@
     }
   },
   "recentes": [
+    {
+      "id": 147,
+      "fonte": "twitter",
+      "titulo": "Update 6 releases August 27.",
+      "autor": "Hytale",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 146,
+      "fonte": "twitter",
+      "titulo": "Last week I showcased the new flying mechanics in Animal Husbandry / Tamework.",
+      "autor": "Alechilles",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 144,
+      "fonte": "twitter",
+      "titulo": "Hytale Update 6 drops on August 27!",
+      "autor": "HytaleAlerts",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 143,
+      "fonte": "twitter",
+      "titulo": "Hytale Build Showcase - Autumn Biome Bridge #Hytale",
+      "autor": "Arketetor",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 141,
+      "fonte": "twitter",
+      "titulo": "The full starter character roster for our minigame!",
+      "autor": "Asterudus",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 140,
+      "fonte": "twitter",
+      "titulo": "Experimenting with airships in hytale!",
+      "autor": "Blovienn",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 138,
+      "fonte": "twitter",
+      "titulo": "The Devs Absolutely Won",
+      "autor": "MelodicAlbuild",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 137,
+      "fonte": "twitter",
+      "titulo": "Oh shit, here we go again #Hytale",
+      "autor": "SVHyspain",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 136,
+      "fonte": "twitter",
+      "titulo": "Who's up for a game of Whack-A-Goblin at the Summer Carnival?",
+      "autor": "GibsonHougland",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 135,
+      "fonte": "twitter",
+      "titulo": "Season 1 of the SMP will feature the Zephyr mod by @sharkeatcats.",
+      "autor": "GuildWarsSMP",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 134,
+      "fonte": "twitter",
+      "titulo": "A new inventory management interface has been added to my mod.",
+      "autor": "_Lexem_",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 133,
+      "fonte": "twitter",
+      "titulo": "Wow, this is actually very intuitive!",
+      "autor": "_Lexem_",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 132,
+      "fonte": "twitter",
+      "titulo": "This is AWESOME! If you want guns in Hytale, check out the Hyguns mod by TheScar_3.",
+      "autor": "HytaleAlerts",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 131,
+      "fonte": "twitter",
+      "titulo": "Wow, this adds so much realism to the game!",
+      "autor": "GaiaScript",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 130,
+      "fonte": "twitter",
+      "titulo": "Developing immersion in timber logging of trees #hytale #hytalemodding",
+      "autor": "GaiaScript",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 129,
+      "fonte": "twitter",
+      "titulo": "Dragon Rider - A Hytale Cinematic.",
+      "autor": "gamevid4",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 128,
+      "fonte": "twitter",
+      "titulo": "I am proud to announce to have implemented a fully physics driven 9k blocks ship in @Hytale.",
+      "autor": "Blovienn",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-19 17:54:04",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
     {
       "id": 127,
       "fonte": "reddit",
@@ -324,210 +529,6 @@
       "q": 82,
       "e": 86,
       "motivo": "video de 160 upvotes, minigame divertido e facil de entender em 5 segundos"
-    },
-    {
-      "id": 30,
-      "fonte": "reddit",
-      "titulo": "From Blender to Hytale (WIP-2)",
-      "autor": "Kaayky_rpg",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 64,
-      "e": 60,
-      "motivo": "WIP-2 e continuacao de processo, o painel ja tem o WIP anterior parado sem uso"
-    },
-    {
-      "id": 29,
-      "fonte": "reddit",
-      "titulo": "Update 6 - Pre-Release 11 - August 13th, 2026",
-      "autor": "RiverShards",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "NOTICIA",
-      "q": 72,
-      "e": 68,
-      "motivo": "pre-release parte 11 do dia 13. A pagina ja cobriu a parte 12 e a data oficial do Update 6, entao isso e informacao atrasada"
-    },
-    {
-      "id": 28,
-      "fonte": "reddit",
-      "titulo": "What do you think? Leave your character in the comments.",
-      "autor": "mael888",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 45,
-      "e": 70,
-      "motivo": "244 upvotes mas e post de pedir personagem nos comentarios. Engajamento alto com qualidade editorial baixa e exatamente o que degrada a pagina"
-    },
-    {
-      "id": 27,
-      "fonte": "reddit",
-      "titulo": "Ice Spikes - world gen v2",
-      "autor": "AnyEconomy8588",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "NOTICIA",
-      "q": 90,
-      "e": 88,
-      "motivo": "293 upvotes, mostra o worldgen v2 na pratica, assunto que gera discussao"
-    },
-    {
-      "id": 26,
-      "fonte": "reddit",
-      "titulo": "New Neon City Blocks and Props",
-      "autor": "sora_sabi",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "BUILD",
-      "q": 88,
-      "e": 92,
-      "motivo": "320 upvotes com galeria, bloco de cidade neon e visual forte e inedito na pagina"
-    },
-    {
-      "id": 25,
-      "fonte": "reddit",
-      "titulo": "Froggits no Hytale (Vídeo)",
-      "autor": "HaruzitoMain",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
-    },
-    {
-      "id": 24,
-      "fonte": "reddit",
-      "titulo": "Is worldgen 2 already out? I dont know if i read some fake news on that",
-      "autor": "riolovt",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 20,
-      "e": 45,
-      "motivo": "pergunta de duvida sobre worldgen v2, sem midia e sem informacao nova"
-    },
-    {
-      "id": 23,
-      "fonte": "reddit",
-      "titulo": "Itachi Uchiha from Naruto in Hytale !",
-      "autor": "Yoren_Aijin",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
-    },
-    {
-      "id": 22,
-      "fonte": "reddit",
-      "titulo": "Hyblend - Import any Hytale model and animations!",
-      "autor": "Kaayky_rpg",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "MOD",
-      "q": 78,
-      "e": 74,
-      "motivo": "video de 159 upvotes, ferramenta importante pra quem faz mod. Os parecidos sao de 2769d e nao batem"
-    },
-    {
-      "id": 21,
-      "fonte": "reddit",
-      "titulo": "🌼?Flores e Abelhas?🐝",
-      "autor": "HaruzitoMain",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
-    },
-    {
-      "id": 20,
-      "fonte": "reddit",
-      "titulo": "Is anyone else experiencing this bug?.",
-      "autor": "temporarytimeGate0",
-      "status": "PARECIDO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
-    },
-    {
-      "id": 17,
-      "fonte": "reddit",
-      "titulo": "[Collosus Storage] Progress on the 3rd floor. Face is unintentional )))",
-      "autor": "AndyTheDragonborn",
-      "status": "PARECIDO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
-    },
-    {
-      "id": 16,
-      "fonte": "reddit",
-      "titulo": "Portgas D. Ace from One Piece in Hytale !",
-      "autor": "Yoren_Aijin",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 70,
-      "e": 75,
-      "motivo": "68% parecido com o post do Ace publicado ontem. E o mesmo conteudo"
-    },
-    {
-      "id": 14,
-      "fonte": "reddit",
-      "titulo": "Estoy recreando el modelo de este boos",
-      "autor": "LEONAR67",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 60,
-      "e": 66,
-      "motivo": "recriacao de modelo ainda em andamento, sem resultado pronto pra mostrar"
-    },
-    {
-      "id": 13,
-      "fonte": "reddit",
-      "titulo": "The Geomancer's Home",
-      "autor": "YLASRO",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "BUILD",
-      "q": 84,
-      "e": 80,
-      "motivo": "162 upvotes com galeria boa, build tematica rende carrossel"
-    },
-    {
-      "id": 11,
-      "fonte": "reddit",
-      "titulo": "[Tower of Hytalia] A timelapse of my first ever large build )",
-      "autor": "AndyTheDragonborn",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "BUILD",
-      "q": 30,
-      "e": 35,
-      "motivo": "o Luis reprovou esse conteudo explicitamente ontem, disse que o post era horrivel"
-    },
-    {
-      "id": 10,
-      "fonte": "reddit",
-      "titulo": "This texture pack...",
-      "autor": "HaruzitoMain",
-      "status": "APROVADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 76,
-      "e": 84,
-      "motivo": "123 upvotes, criador brasileiro, muda a cara do jogo"
     }
   ],
   "grade": [
@@ -1233,11 +1234,11 @@
     }
   ],
   "contagem": {
-    "coletadosTotal": 127,
+    "coletadosTotal": 147,
     "aprovados": 7,
     "rejeitados": 15,
-    "rejeitadosFiltro": 94,
-    "rejeitadosMemoria": 4,
+    "rejeitadosFiltro": 97,
+    "rejeitadosMemoria": 5,
     "escritos": 7,
     "agendados": 6,
     "publicadosTotal": 1603,
@@ -1290,7 +1291,7 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-19T17:50:57.198Z",
+  "ultimaColeta": "2026-08-19T17:54:04.768Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
