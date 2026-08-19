@@ -1,0 +1,1387 @@
+{
+  "geradoEm": "2026-08-18T21:09:55.394Z",
+  "ia": {
+    "rodadas": 6,
+    "tokens": 806750,
+    "itens": 58,
+    "tokensPorItem": 13909,
+    "porAgente": [
+      {
+        "agente": "curador",
+        "n": 4,
+        "tk": 580682,
+        "it": 20,
+        "modelo": "sonnet"
+      },
+      {
+        "agente": "analista",
+        "n": 2,
+        "tk": 226068,
+        "it": 38,
+        "modelo": "sonnet"
+      }
+    ],
+    "recentes": [
+      {
+        "agente": "analista",
+        "etapa": "analise",
+        "modelo": "sonnet",
+        "tokens": 129426,
+        "itens": 30,
+        "observacao": "varredura de 800 mods do CurseForge",
+        "rodou_em": "2026-08-18 17:34:00"
+      },
+      {
+        "agente": "analista",
+        "etapa": "analise",
+        "modelo": "sonnet",
+        "tokens": 96642,
+        "itens": 8,
+        "observacao": "varredura CurseForge, faixa 3k-50k",
+        "rodou_em": "2026-08-18 17:34:00"
+      },
+      {
+        "agente": "curador",
+        "etapa": "curadoria",
+        "modelo": "sonnet",
+        "tokens": 141740,
+        "itens": 4,
+        "observacao": "julgou 62 imagens de 4 mods",
+        "rodou_em": "2026-08-18 17:34:00"
+      },
+      {
+        "agente": "curador",
+        "etapa": "curadoria",
+        "modelo": "sonnet",
+        "tokens": 123624,
+        "itens": 4,
+        "observacao": "julgou 41 imagens de 4 mods",
+        "rodou_em": "2026-08-18 17:34:00"
+      },
+      {
+        "agente": "curador",
+        "etapa": "curadoria",
+        "modelo": "sonnet",
+        "tokens": 142883,
+        "itens": 6,
+        "observacao": "julgou galeria de 6 mods, 46 imagens",
+        "rodou_em": "2026-08-18 17:34:00"
+      },
+      {
+        "agente": "curador",
+        "etapa": "curadoria",
+        "modelo": "sonnet",
+        "tokens": 172435,
+        "itens": 6,
+        "observacao": "julgou galeria de 6 mods, 57 imagens",
+        "rodou_em": "2026-08-18 17:34:00"
+      }
+    ]
+  },
+  "funil": [
+    {
+      "etapa": "Coletados",
+      "n": 117,
+      "quem": "código"
+    },
+    {
+      "etapa": "Passaram no filtro",
+      "n": 28,
+      "quem": "código"
+    },
+    {
+      "etapa": "Assunto novo ou parecido",
+      "n": 24,
+      "quem": "código"
+    },
+    {
+      "etapa": "Julgados pelo Analyst",
+      "n": 22,
+      "quem": "IA"
+    },
+    {
+      "etapa": "Aprovados",
+      "n": 7,
+      "quem": "IA"
+    },
+    {
+      "etapa": "Escritos e no QC",
+      "n": 7,
+      "quem": "IA + código"
+    },
+    {
+      "etapa": "Agendados",
+      "n": 6,
+      "quem": "código"
+    }
+  ],
+  "motivosCorte": {
+    "blog do arquivo, nao e novidade": 79,
+    "fora de pauta": 1,
+    "sem midia e sem discussao": 8,
+    "midia fraca": 1
+  },
+  "taxaAprovacao": 32,
+  "qualidade": {
+    "q": 59.5,
+    "e": 67.4,
+    "qAprov": 82.6,
+    "qRej": 48.7
+  },
+  "porCategoria": [
+    {
+      "categoria": "COMUNIDADE",
+      "n": 11,
+      "ok": 2
+    },
+    {
+      "categoria": "BUILD",
+      "n": 5,
+      "ok": 2
+    },
+    {
+      "categoria": "MOD",
+      "n": 4,
+      "ok": 2
+    },
+    {
+      "categoria": "NOTICIA",
+      "n": 2,
+      "ok": 1
+    }
+  ],
+  "memoria": {
+    "total": 792,
+    "de": "2018-12-15T14:34:23+0000",
+    "ate": "2026-08-18T13:07:17+0000",
+    "porPlataforma": {
+      "facebook": 560,
+      "instagram": 231,
+      "twitter": 1
+    },
+    "porAno": {
+      "2018": 60,
+      "2019": 172,
+      "2020": 50,
+      "2021": 34,
+      "2025": 75,
+      "2026": 401
+    }
+  },
+  "recentes": [
+    {
+      "id": 117,
+      "fonte": "site",
+      "titulo": "Patch Notes Update 6, Parte 12",
+      "autor": "Hytale",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:47:38",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 37,
+      "fonte": "reddit",
+      "titulo": "Adding Elemental Armors!",
+      "autor": "Emmanuel-Dyz89",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "MOD",
+      "q": 55,
+      "e": 50,
+      "motivo": "37 upvotes e zero comentario, mod ainda em desenvolvimento sem tracao"
+    },
+    {
+      "id": 36,
+      "fonte": "reddit",
+      "titulo": "I've seen sentiment that modders leave due to lack of backwards-compatibility, is it true?",
+      "autor": "oneandonlysealoftime",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 30,
+      "e": 58,
+      "motivo": "discussao sobre modder abandonando o jogo, sem midia e assunto delicado sem ganho"
+    },
+    {
+      "id": 35,
+      "fonte": "reddit",
+      "titulo": "Genshin Spiral Abyss in Hytale?!",
+      "autor": "Airijko",
+      "status": "AGENDADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "MOD",
+      "q": 80,
+      "e": 88,
+      "motivo": "video de crossover com Genshin, mesma linha do Capitao America e do Pokemon que bombaram"
+    },
+    {
+      "id": 34,
+      "fonte": "reddit",
+      "titulo": "hytale does not work anymore",
+      "autor": "aiserberg",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 15,
+      "e": 65,
+      "motivo": "post de reclamacao de bug. Conteudo negativo nao entra na pagina"
+    },
+    {
+      "id": 33,
+      "fonte": "reddit",
+      "titulo": "New palace in Hytale",
+      "autor": "GreenMatias370",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "BUILD",
+      "q": 58,
+      "e": 54,
+      "motivo": "71 upvotes, palacio generico. A pagina ja tem build melhor na fila hoje"
+    },
+    {
+      "id": 32,
+      "fonte": "reddit",
+      "titulo": "Arte conceitual Froggit",
+      "autor": "HaruzitoMain",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 58,
+      "e": 55,
+      "motivo": "arte conceitual isolada, 71 upvotes e zero comentario. Froggit ja apareceu na pagina esta semana"
+    },
+    {
+      "id": 31,
+      "fonte": "reddit",
+      "titulo": "Who's up for a game of Whack-A-Goblin at the Summer Carnival?",
+      "autor": "Wakkaloon",
+      "status": "AGENDADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 82,
+      "e": 86,
+      "motivo": "video de 160 upvotes, minigame divertido e facil de entender em 5 segundos"
+    },
+    {
+      "id": 30,
+      "fonte": "reddit",
+      "titulo": "From Blender to Hytale (WIP-2)",
+      "autor": "Kaayky_rpg",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 64,
+      "e": 60,
+      "motivo": "WIP-2 e continuacao de processo, o painel ja tem o WIP anterior parado sem uso"
+    },
+    {
+      "id": 29,
+      "fonte": "reddit",
+      "titulo": "Update 6 - Pre-Release 11 - August 13th, 2026",
+      "autor": "RiverShards",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "NOTICIA",
+      "q": 72,
+      "e": 68,
+      "motivo": "pre-release parte 11 do dia 13. A pagina ja cobriu a parte 12 e a data oficial do Update 6, entao isso e informacao atrasada"
+    },
+    {
+      "id": 28,
+      "fonte": "reddit",
+      "titulo": "What do you think? Leave your character in the comments.",
+      "autor": "mael888",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 45,
+      "e": 70,
+      "motivo": "244 upvotes mas e post de pedir personagem nos comentarios. Engajamento alto com qualidade editorial baixa e exatamente o que degrada a pagina"
+    },
+    {
+      "id": 27,
+      "fonte": "reddit",
+      "titulo": "Ice Spikes - world gen v2",
+      "autor": "AnyEconomy8588",
+      "status": "AGENDADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "NOTICIA",
+      "q": 90,
+      "e": 88,
+      "motivo": "293 upvotes, mostra o worldgen v2 na pratica, assunto que gera discussao"
+    },
+    {
+      "id": 26,
+      "fonte": "reddit",
+      "titulo": "New Neon City Blocks and Props",
+      "autor": "sora_sabi",
+      "status": "AGENDADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "BUILD",
+      "q": 88,
+      "e": 92,
+      "motivo": "320 upvotes com galeria, bloco de cidade neon e visual forte e inedito na pagina"
+    },
+    {
+      "id": 25,
+      "fonte": "reddit",
+      "titulo": "Froggits no Hytale (Vídeo)",
+      "autor": "HaruzitoMain",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 24,
+      "fonte": "reddit",
+      "titulo": "Is worldgen 2 already out? I dont know if i read some fake news on that",
+      "autor": "riolovt",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 20,
+      "e": 45,
+      "motivo": "pergunta de duvida sobre worldgen v2, sem midia e sem informacao nova"
+    },
+    {
+      "id": 23,
+      "fonte": "reddit",
+      "titulo": "Itachi Uchiha from Naruto in Hytale !",
+      "autor": "Yoren_Aijin",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 22,
+      "fonte": "reddit",
+      "titulo": "Hyblend - Import any Hytale model and animations!",
+      "autor": "Kaayky_rpg",
+      "status": "AGENDADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "MOD",
+      "q": 78,
+      "e": 74,
+      "motivo": "video de 159 upvotes, ferramenta importante pra quem faz mod. Os parecidos sao de 2769d e nao batem"
+    },
+    {
+      "id": 21,
+      "fonte": "reddit",
+      "titulo": "🌼?Flores e Abelhas?🐝",
+      "autor": "HaruzitoMain",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 20,
+      "fonte": "reddit",
+      "titulo": "Is anyone else experiencing this bug?.",
+      "autor": "temporarytimeGate0",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 17,
+      "fonte": "reddit",
+      "titulo": "[Collosus Storage] Progress on the 3rd floor. Face is unintentional )))",
+      "autor": "AndyTheDragonborn",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 16,
+      "fonte": "reddit",
+      "titulo": "Portgas D. Ace from One Piece in Hytale !",
+      "autor": "Yoren_Aijin",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 70,
+      "e": 75,
+      "motivo": "68% parecido com o post do Ace publicado ontem. E o mesmo conteudo"
+    },
+    {
+      "id": 14,
+      "fonte": "reddit",
+      "titulo": "Estoy recreando el modelo de este boos",
+      "autor": "LEONAR67",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 60,
+      "e": 66,
+      "motivo": "recriacao de modelo ainda em andamento, sem resultado pronto pra mostrar"
+    },
+    {
+      "id": 13,
+      "fonte": "reddit",
+      "titulo": "The Geomancer's Home",
+      "autor": "YLASRO",
+      "status": "AGENDADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "BUILD",
+      "q": 84,
+      "e": 80,
+      "motivo": "162 upvotes com galeria boa, build tematica rende carrossel"
+    },
+    {
+      "id": 11,
+      "fonte": "reddit",
+      "titulo": "[Tower of Hytalia] A timelapse of my first ever large build )",
+      "autor": "AndyTheDragonborn",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "BUILD",
+      "q": 30,
+      "e": 35,
+      "motivo": "o Luis reprovou esse conteudo explicitamente ontem, disse que o post era horrivel"
+    },
+    {
+      "id": 10,
+      "fonte": "reddit",
+      "titulo": "This texture pack...",
+      "autor": "HaruzitoMain",
+      "status": "APROVADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 76,
+      "e": 84,
+      "motivo": "123 upvotes, criador brasileiro, muda a cara do jogo"
+    },
+    {
+      "id": 8,
+      "fonte": "reddit",
+      "titulo": "Hytale Build Showcase - Autumn Biome Bridge",
+      "autor": "Arketetor",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "BUILD",
+      "q": 62,
+      "e": 58,
+      "motivo": "build bonita mas comum, 44 upvotes e ponte de bioma nao sustenta post da pagina"
+    },
+    {
+      "id": 7,
+      "fonte": "reddit",
+      "titulo": "Mods of the Week in Hytale",
+      "autor": "CptJonah",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "MOD",
+      "q": 66,
+      "e": 72,
+      "motivo": "mods da semana. A pagina publicou a selecao oficial do CurseForge ontem as 14h, repetir o tema em dois dias cansa"
+    },
+    {
+      "id": 4,
+      "fonte": "reddit",
+      "titulo": "Why are there no Hytale YouTubers all on a big server?",
+      "autor": "TechnicalStretch6203",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-18 14:45:33",
+      "categoria": "COMUNIDADE",
+      "q": 25,
+      "e": 60,
+      "motivo": "discussao sem midia sobre falta de youtuber, assunto negativo que nao serve a pagina"
+    }
+  ],
+  "grade": [
+    {
+      "hora": "21:30",
+      "data": "2026-08-19",
+      "id": "rc13",
+      "titulo": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE",
+      "textoMeta": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE\n\nUma construção temática de mago de pedra, montada com material que combina com a função de quem mora nela.\n\n🔹 A rocha aparece trabalhada, não é bloco jogado pra encher parede.\n🔹 O interior foi decorado seguindo o mesmo tema, não só a fachada.\n\n📷 YLASRO\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
+      "textoTwitter": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE\n\nUma construção temática de mago de pedra, montada com material que combina com a função de quem mora nela.\n\n🔹 A rocha aparece trabalhada, não é bloco jogado pra encher parede.\n🔹 O interior foi decorado seguindo o mesmo tema, não só a fachada.\n\n📷 u/YLASRO\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1vq7gfp/the_geomancers_home/",
+      "arquivos": [
+        "midia/reddit/rc13/1.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc13.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+      "arquivosTwitter": [
+        "06-2130-rc13.png"
+      ],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": 84,
+      "engajamento": 80,
+      "categoria": "BUILD",
+      "motivo": "162 upvotes com galeria boa, build tematica rende carrossel",
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1679553414173249"
+    },
+    {
+      "hora": "20:00",
+      "data": "2026-08-19",
+      "id": "rc22",
+      "titulo": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE",
+      "textoMeta": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE\n\nO Hyblend puxa modelo e animação do jogo direto pro Blender, o que facilita muito a vida de quem cria mod com criatura e personagem próprio.\n\n🔹 Serve tanto pra estudar como o jogo monta as coisas quanto pra criar em cima do que já existe.\n\n🎥 Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
+      "textoTwitter": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE\n\nO Hyblend puxa modelo e animação do jogo direto pro Blender, o que facilita muito a vida de quem cria mod com criatura e personagem próprio.\n\n🔹 Serve tanto pra estudar como o jogo monta as coisas quanto pra criar em cima do que já existe.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1vp9s8r/hyblend_import_any_hytale_model_and_animations/",
+      "arquivos": [
+        "midia/reddit/rc22.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc22.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+      "arquivosTwitter": [
+        "05-2000-rc22.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": 78,
+      "engajamento": 74,
+      "categoria": "MOD",
+      "motivo": "video de 159 upvotes, ferramenta importante pra quem faz mod. Os parecidos sao de 2769d e nao batem",
+      "urlPublicada": "https://www.facebook.com/reel/1584456579981808/"
+    },
+    {
+      "hora": "17:30",
+      "data": "2026-08-19",
+      "id": "rc27",
+      "titulo": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE",
+      "textoMeta": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE\n\nA nova geração de mundo criou um mar congelado com torres de gelo saindo da água, altas o bastante pra sumir na neblina.\n\n🔹 A água aparece quebrada em placa de gelo solta, uma diferente da outra.\n🔹 Os picos nascem em grupo e cada um tem formato próprio, nada repetido.\n\nÉ o tipo de paisagem que o worldgen antigo não conseguia montar sozinho.\n\n📷 AnyEconomy8588\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE\n\nA nova geração de mundo criou um mar congelado com torres de gelo saindo da água, altas o bastante pra sumir na neblina.\n\n🔹 A água aparece quebrada em placa de gelo solta, uma diferente da outra.\n🔹 Os picos nascem em grupo e cada um tem formato próprio, nada repetido.\n\nÉ o tipo de paisagem que o worldgen antigo não conseguia montar sozinho.\n\n📷 u/AnyEconomy8588\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1vmgx4x/ice_spikes_world_gen_v2/",
+      "arquivos": [
+        "midia/reddit/rc27/1.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc27.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+      "arquivosTwitter": [
+        "04-1730-rc27.jpg"
+      ],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": 90,
+      "engajamento": 88,
+      "categoria": "NOTICIA",
+      "motivo": "293 upvotes, mostra o worldgen v2 na pratica, assunto que gera discussao",
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1679553337506590"
+    },
+    {
+      "hora": "15:00",
+      "data": "2026-08-19",
+      "id": "rc35",
+      "titulo": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE",
+      "textoMeta": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE\n\nO desafio em andar do Genshin Impact virou mod, com sala de combate que você limpa pra descer pro próximo nível.\n\n🎥 Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
+      "textoTwitter": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE\n\nO desafio em andar do Genshin Impact virou mod, com sala de combate que você limpa pra descer pro próximo nível.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1vmsz54/genshin_spiral_abyss_in_hytale/",
+      "arquivos": [
+        "midia/reddit/rc35.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc35.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+      "arquivosTwitter": [
+        "03-1500-rc35.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": 80,
+      "engajamento": 88,
+      "categoria": "MOD",
+      "motivo": "video de crossover com Genshin, mesma linha do Capitao America e do Pokemon que bombaram",
+      "urlPublicada": "https://www.facebook.com/reel/1404802408164050/"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-08-19",
+      "id": "rc26",
+      "titulo": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE",
+      "textoMeta": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE\n\nUm quarteirão inteiro de rua japonesa, com prédio de vários andares, letreiro aceso e movimento de cidade grande.\n\n🔹 Ar-condicionado pendurado na janela, sacada com roupa e antena no telhado.\n🔹 Máquina de venda ligada na calçada, cone de obra e bueiro na rua.\n🔹 Placa vertical em japonês, faixa de pedestre e fiação passando por cima de tudo.\n\n📷 sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
+      "textoTwitter": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE\n\nUm quarteirão inteiro de rua japonesa, com prédio de vários andares, letreiro aceso e movimento de cidade grande.\n\n🔹 Ar-condicionado pendurado na janela, sacada com roupa e antena no telhado.\n🔹 Máquina de venda ligada na calçada, cone de obra e bueiro na rua.\n🔹 Placa vertical em japonês, faixa de pedestre e fiação passando por cima de tudo.\n\n📷 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1vo9lxa/new_neon_city_blocks_and_props/",
+      "arquivos": [
+        "midia/reddit/rc26/1.png",
+        "midia/reddit/rc26/2.png",
+        "midia/reddit/rc26/3.png",
+        "midia/reddit/rc26/4.png",
+        "midia/reddit/rc26/5.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc26_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc26_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc26_3.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc26_4.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc26_5.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+      "arquivosTwitter": [
+        "02-1230-rc26-1.png",
+        "02-1230-rc26-2.png",
+        "02-1230-rc26-3.png",
+        "02-1230-rc26-4.png",
+        "02-1230-rc26-5.png"
+      ],
+      "tipo": "carrossel",
+      "status": "agendado",
+      "qualidade": 88,
+      "engajamento": 92,
+      "categoria": "BUILD",
+      "motivo": "320 upvotes com galeria, bloco de cidade neon e visual forte e inedito na pagina",
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1679552747506649"
+    },
+    {
+      "hora": "10:00",
+      "data": "2026-08-19",
+      "id": "rc31",
+      "titulo": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE",
+      "textoMeta": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE\n\nUm jogador montou um parque de diversão no jogo, com aquela barraca de feira onde o bichinho sai do buraco e você tem que acertar de martelo antes dele voltar. No lugar do bichinho, goblin.\n\n🎥 Wakkaloon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE\n\nUm jogador montou um parque de diversão no jogo, com aquela barraca de feira onde o bichinho sai do buraco e você tem que acertar de martelo antes dele voltar. No lugar do bichinho, goblin.\n\n🎥 u/Wakkaloon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1vnp6p3/whos_up_for_a_game_of_whackagoblin_at_the_summer/",
+      "arquivos": [
+        "midia/reddit/rc31.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc31.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+      "arquivosTwitter": [
+        "01-1000-rc31.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": 82,
+      "engajamento": 86,
+      "categoria": "COMUNIDADE",
+      "motivo": "video de 160 upvotes, minigame divertido e facil de entender em 5 segundos",
+      "urlPublicada": "https://www.facebook.com/reel/2259766778111930/"
+    },
+    {
+      "hora": "21:30",
+      "data": "2026-08-18",
+      "id": "reddit-hyblend-tool",
+      "titulo": "🛠️ FERRAMENTA NOVA DEIXA IMPORTAR MODELO E ANIMAÇÃO PRO HYTALE",
+      "textoMeta": "🛠️ FERRAMENTA NOVA DEIXA IMPORTAR MODELO E ANIMAÇÃO PRO HYTALE\n\nO Hyblend é uma ferramenta que importa qualquer modelo e animação do Hytale, facilitando bastante a vida de quem cria mod com personagem e criatura customizados.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🛠️ FERRAMENTA NOVA DEIXA IMPORTAR MODELO E ANIMAÇÃO PRO HYTALE\n\nO Hyblend é uma ferramenta que importa qualquer modelo e animação do Hytale, facilitando bastante a vida de quem cria mod com personagem e criatura customizados.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1vp9s8r/hyblend_import_any_hytale_model_and_animations/",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/reddit-hyblend-tool.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+      "arquivosTwitter": [
+        "06-2130-hyblend-tool.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1336448961615429/"
+    },
+    {
+      "hora": "20:00",
+      "data": "2026-08-18",
+      "id": "x13-lunaronin-airship",
+      "titulo": "🛩️ CONSTRUÍRAM UMA AERONAVE PRA USAR NUM MOD DE HYTALE",
+      "textoMeta": "🛩️ CONSTRUÍRAM UMA AERONAVE PRA USAR NUM MOD DE HYTALE\n\nUma aeronave feita pra entrar num mod que tá sendo desenvolvido, já dando um gostinho de como vai ficar.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🛩️ CONSTRUÍRAM UMA AERONAVE PRA USAR NUM MOD DE HYTALE\n\nUma aeronave feita pra entrar num mod que tá sendo desenvolvido, já dando um gostinho de como vai ficar.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/lunaronin777/status/2087940936584122852",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/x13-lunaronin-airship.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+      "arquivosTwitter": [
+        "05-2000-lunaronin-airship.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/27912901618404264/"
+    },
+    {
+      "hora": "17:30",
+      "data": "2026-08-18",
+      "id": "mod-wildtale-carrossel",
+      "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
+      "textoMeta": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE\n\nO WildTale adiciona cerca de 200 espécies reais, de elefante africano e girafa a leão, tigre, gorila e camelo.\n\n🔹 Eles nascem sozinhos pelo mundo, cada um no bioma que combina com a espécie.\n🔹 No criativo dá pra posicionar na mão e montar zoológico ou santuário do jeito que quiser.\n\n🔧 Mod do Nicholas_LionRider\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE\n\nO WildTale adiciona cerca de 200 espécies reais, de elefante africano e girafa a leão, tigre, gorila e camelo.\n\n🔹 Eles nascem sozinhos pelo mundo, cada um no bioma que combina com a espécie.\n🔹 No criativo dá pra posicionar na mão e montar zoológico ou santuário do jeito que quiser.\n\n🔧 Mod do Nicholas_LionRider\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/wildtale",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_3.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_4.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_5.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+      "arquivosTwitter": [
+        "04-1730-wildtale-carrossel-1.png",
+        "04-1730-wildtale-carrossel-2.png",
+        "04-1730-wildtale-carrossel-3.png",
+        "04-1730-wildtale-carrossel-4.png",
+        "04-1730-wildtale-carrossel-5.png"
+      ],
+      "tipo": "carrossel",
+      "status": "publicado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1678942220901035"
+    },
+    {
+      "hora": "15:00",
+      "data": "2026-08-18",
+      "id": "reddit-evil-fortress",
+      "titulo": "🏰 DESTRUIR OU MORAR NESSA FORTALEZA SOMBRIA DO HYTALE",
+      "textoMeta": "🏰 DESTRUIR OU MORAR NESSA FORTALEZA SOMBRIA DO HYTALE\n\nUma fortaleza imponente e sombria, do tipo que dá pra escolher entre invadir e destruir ou simplesmente tomar posse.\n\n🎥 u/Arketetor\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🏰 DESTRUIR OU MORAR NESSA FORTALEZA SOMBRIA DO HYTALE\n\nUma fortaleza imponente e sombria, do tipo que dá pra escolher entre invadir e destruir ou simplesmente tomar posse.\n\n🎥 u/Arketetor\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1vec7c0/would_you_destroy_this_evil_fortress_or_claim_it/",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/reddit-evil-fortress.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+      "arquivosTwitter": [
+        "03-1500-evil-fortress.mp4"
+      ],
+      "tipo": "video",
+      "status": "publicado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1531231788248382/"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-08-18",
+      "id": "mod-perfect-dodges",
+      "titulo": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE",
+      "textoMeta": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE\n\nO Perfect Dodges deixa você rolar, dar dash, girar e dar flip, e se acerta o tempo da esquiva no golpe leva vantagem. Do mesmo criador do Perfect Parries.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE\n\nO Perfect Dodges deixa você rolar, dar dash, girar e dar flip, e se acerta o tempo da esquiva no golpe leva vantagem. Do mesmo criador do Perfect Parries.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/perfect-dodges",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/mod-perfect-dodges.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+      "arquivosTwitter": [
+        "02-1230-perfect-dodges.mp4"
+      ],
+      "tipo": "video",
+      "status": "publicado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1639333790942779/"
+    },
+    {
+      "hora": "10:00",
+      "data": "2026-08-18",
+      "id": "x08-blovienn-railway",
+      "titulo": "🚂 UM MODDER TÁ CRIANDO TREM COM FÍSICA DE VERDADE NO HYTALE",
+      "textoMeta": "🚂 UM MODDER TÁ CRIANDO TREM COM FÍSICA DE VERDADE NO HYTALE\n\nA ferramenta que está sendo desenvolvida é de trilho com curva que gera trem customizável e todo baseado em física de verdade.\n\nAs novas capacidades de física do Hytale abriram espaço pra esse tipo de mod, e essa mesma peça também funciona como plataforma móvel.\n\n🎥 @Blovienn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🚂 UM MODDER TÁ CRIANDO TREM COM FÍSICA DE VERDADE NO HYTALE\n\nA ferramenta que está sendo desenvolvida é de trilho com curva que gera trem customizável e todo baseado em física de verdade.\n\nAs novas capacidades de física do Hytale abriram espaço pra esse tipo de mod, e essa mesma peça também funciona como plataforma móvel.\n\n🎥 @Blovienn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/Blovienn/status/2086206842263294409",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/x08-blovienn-railway.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+      "arquivosTwitter": [
+        "01-1000-blovienn-railway.mp4"
+      ],
+      "tipo": "video",
+      "status": "publicado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1408771277781816/"
+    },
+    {
+      "hora": "22:45",
+      "data": "2026-08-17",
+      "id": "mod-potion-trader",
+      "titulo": "🧙 UM MOD ADICIONA UM MERCADOR DE POÇÃO NO HYTALE",
+      "textoMeta": "🧙 UM MOD ADICIONA UM MERCADOR DE POÇÃO NO HYTALE\n\nO Potion Trader coloca um NPC que troca poção com você, facilitando conseguir a que precisa.\n\n🔧 Mod do EpicNNG\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🧙 UM MOD ADICIONA UM MERCADOR DE POÇÃO NO HYTALE\n\nO Potion Trader coloca um NPC que troca poção com você, facilitando conseguir a que precisa.\n\n🔧 Mod do EpicNNG\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/epics-potion-trader",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-17",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "publicado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1678603224268268"
+    }
+  ],
+  "diasGrade": [
+    {
+      "dia": "2026-08-19",
+      "posts": [
+        {
+          "hora": "10:00",
+          "data": "2026-08-19",
+          "id": "rc31",
+          "titulo": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE",
+          "textoMeta": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE\n\nUm jogador montou um parque de diversão no jogo, com aquela barraca de feira onde o bichinho sai do buraco e você tem que acertar de martelo antes dele voltar. No lugar do bichinho, goblin.\n\n🎥 Wakkaloon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE\n\nUm jogador montou um parque de diversão no jogo, com aquela barraca de feira onde o bichinho sai do buraco e você tem que acertar de martelo antes dele voltar. No lugar do bichinho, goblin.\n\n🎥 u/Wakkaloon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1vnp6p3/whos_up_for_a_game_of_whackagoblin_at_the_summer/",
+          "arquivos": [
+            "midia/reddit/rc31.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc31.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+          "arquivosTwitter": [
+            "01-1000-rc31.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": 82,
+          "engajamento": 86,
+          "categoria": "COMUNIDADE",
+          "motivo": "video de 160 upvotes, minigame divertido e facil de entender em 5 segundos",
+          "urlPublicada": "https://www.facebook.com/reel/2259766778111930/"
+        },
+        {
+          "hora": "12:30",
+          "data": "2026-08-19",
+          "id": "rc26",
+          "titulo": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE",
+          "textoMeta": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE\n\nUm quarteirão inteiro de rua japonesa, com prédio de vários andares, letreiro aceso e movimento de cidade grande.\n\n🔹 Ar-condicionado pendurado na janela, sacada com roupa e antena no telhado.\n🔹 Máquina de venda ligada na calçada, cone de obra e bueiro na rua.\n🔹 Placa vertical em japonês, faixa de pedestre e fiação passando por cima de tudo.\n\n📷 sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
+          "textoTwitter": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE\n\nUm quarteirão inteiro de rua japonesa, com prédio de vários andares, letreiro aceso e movimento de cidade grande.\n\n🔹 Ar-condicionado pendurado na janela, sacada com roupa e antena no telhado.\n🔹 Máquina de venda ligada na calçada, cone de obra e bueiro na rua.\n🔹 Placa vertical em japonês, faixa de pedestre e fiação passando por cima de tudo.\n\n📷 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1vo9lxa/new_neon_city_blocks_and_props/",
+          "arquivos": [
+            "midia/reddit/rc26/1.png",
+            "midia/reddit/rc26/2.png",
+            "midia/reddit/rc26/3.png",
+            "midia/reddit/rc26/4.png",
+            "midia/reddit/rc26/5.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc26_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc26_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc26_3.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc26_4.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc26_5.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+          "arquivosTwitter": [
+            "02-1230-rc26-1.png",
+            "02-1230-rc26-2.png",
+            "02-1230-rc26-3.png",
+            "02-1230-rc26-4.png",
+            "02-1230-rc26-5.png"
+          ],
+          "tipo": "carrossel",
+          "status": "agendado",
+          "qualidade": 88,
+          "engajamento": 92,
+          "categoria": "BUILD",
+          "motivo": "320 upvotes com galeria, bloco de cidade neon e visual forte e inedito na pagina",
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1679552747506649"
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-08-19",
+          "id": "rc35",
+          "titulo": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE",
+          "textoMeta": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE\n\nO desafio em andar do Genshin Impact virou mod, com sala de combate que você limpa pra descer pro próximo nível.\n\n🎥 Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
+          "textoTwitter": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE\n\nO desafio em andar do Genshin Impact virou mod, com sala de combate que você limpa pra descer pro próximo nível.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1vmsz54/genshin_spiral_abyss_in_hytale/",
+          "arquivos": [
+            "midia/reddit/rc35.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc35.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+          "arquivosTwitter": [
+            "03-1500-rc35.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": 80,
+          "engajamento": 88,
+          "categoria": "MOD",
+          "motivo": "video de crossover com Genshin, mesma linha do Capitao America e do Pokemon que bombaram",
+          "urlPublicada": "https://www.facebook.com/reel/1404802408164050/"
+        },
+        {
+          "hora": "17:30",
+          "data": "2026-08-19",
+          "id": "rc27",
+          "titulo": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE",
+          "textoMeta": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE\n\nA nova geração de mundo criou um mar congelado com torres de gelo saindo da água, altas o bastante pra sumir na neblina.\n\n🔹 A água aparece quebrada em placa de gelo solta, uma diferente da outra.\n🔹 Os picos nascem em grupo e cada um tem formato próprio, nada repetido.\n\nÉ o tipo de paisagem que o worldgen antigo não conseguia montar sozinho.\n\n📷 AnyEconomy8588\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE\n\nA nova geração de mundo criou um mar congelado com torres de gelo saindo da água, altas o bastante pra sumir na neblina.\n\n🔹 A água aparece quebrada em placa de gelo solta, uma diferente da outra.\n🔹 Os picos nascem em grupo e cada um tem formato próprio, nada repetido.\n\nÉ o tipo de paisagem que o worldgen antigo não conseguia montar sozinho.\n\n📷 u/AnyEconomy8588\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1vmgx4x/ice_spikes_world_gen_v2/",
+          "arquivos": [
+            "midia/reddit/rc27/1.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc27.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+          "arquivosTwitter": [
+            "04-1730-rc27.jpg"
+          ],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": 90,
+          "engajamento": 88,
+          "categoria": "NOTICIA",
+          "motivo": "293 upvotes, mostra o worldgen v2 na pratica, assunto que gera discussao",
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1679553337506590"
+        },
+        {
+          "hora": "20:00",
+          "data": "2026-08-19",
+          "id": "rc22",
+          "titulo": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE",
+          "textoMeta": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE\n\nO Hyblend puxa modelo e animação do jogo direto pro Blender, o que facilita muito a vida de quem cria mod com criatura e personagem próprio.\n\n🔹 Serve tanto pra estudar como o jogo monta as coisas quanto pra criar em cima do que já existe.\n\n🎥 Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
+          "textoTwitter": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE\n\nO Hyblend puxa modelo e animação do jogo direto pro Blender, o que facilita muito a vida de quem cria mod com criatura e personagem próprio.\n\n🔹 Serve tanto pra estudar como o jogo monta as coisas quanto pra criar em cima do que já existe.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1vp9s8r/hyblend_import_any_hytale_model_and_animations/",
+          "arquivos": [
+            "midia/reddit/rc22.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc22.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+          "arquivosTwitter": [
+            "05-2000-rc22.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": 78,
+          "engajamento": 74,
+          "categoria": "MOD",
+          "motivo": "video de 159 upvotes, ferramenta importante pra quem faz mod. Os parecidos sao de 2769d e nao batem",
+          "urlPublicada": "https://www.facebook.com/reel/1584456579981808/"
+        },
+        {
+          "hora": "21:30",
+          "data": "2026-08-19",
+          "id": "rc13",
+          "titulo": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE",
+          "textoMeta": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE\n\nUma construção temática de mago de pedra, montada com material que combina com a função de quem mora nela.\n\n🔹 A rocha aparece trabalhada, não é bloco jogado pra encher parede.\n🔹 O interior foi decorado seguindo o mesmo tema, não só a fachada.\n\n📷 YLASRO\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
+          "textoTwitter": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE\n\nUma construção temática de mago de pedra, montada com material que combina com a função de quem mora nela.\n\n🔹 A rocha aparece trabalhada, não é bloco jogado pra encher parede.\n🔹 O interior foi decorado seguindo o mesmo tema, não só a fachada.\n\n📷 u/YLASRO\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1vq7gfp/the_geomancers_home/",
+          "arquivos": [
+            "midia/reddit/rc13/1.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc13.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
+          "arquivosTwitter": [
+            "06-2130-rc13.png"
+          ],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": 84,
+          "engajamento": 80,
+          "categoria": "BUILD",
+          "motivo": "162 upvotes com galeria boa, build tematica rende carrossel",
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1679553414173249"
+        }
+      ],
+      "total": 6
+    },
+    {
+      "dia": "2026-08-18",
+      "posts": [
+        {
+          "hora": "10:00",
+          "data": "2026-08-18",
+          "id": "x08-blovienn-railway",
+          "titulo": "🚂 UM MODDER TÁ CRIANDO TREM COM FÍSICA DE VERDADE NO HYTALE",
+          "textoMeta": "🚂 UM MODDER TÁ CRIANDO TREM COM FÍSICA DE VERDADE NO HYTALE\n\nA ferramenta que está sendo desenvolvida é de trilho com curva que gera trem customizável e todo baseado em física de verdade.\n\nAs novas capacidades de física do Hytale abriram espaço pra esse tipo de mod, e essa mesma peça também funciona como plataforma móvel.\n\n🎥 @Blovienn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🚂 UM MODDER TÁ CRIANDO TREM COM FÍSICA DE VERDADE NO HYTALE\n\nA ferramenta que está sendo desenvolvida é de trilho com curva que gera trem customizável e todo baseado em física de verdade.\n\nAs novas capacidades de física do Hytale abriram espaço pra esse tipo de mod, e essa mesma peça também funciona como plataforma móvel.\n\n🎥 @Blovienn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/Blovienn/status/2086206842263294409",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/x08-blovienn-railway.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+          "arquivosTwitter": [
+            "01-1000-blovienn-railway.mp4"
+          ],
+          "tipo": "video",
+          "status": "publicado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1408771277781816/"
+        },
+        {
+          "hora": "12:30",
+          "data": "2026-08-18",
+          "id": "mod-perfect-dodges",
+          "titulo": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE",
+          "textoMeta": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE\n\nO Perfect Dodges deixa você rolar, dar dash, girar e dar flip, e se acerta o tempo da esquiva no golpe leva vantagem. Do mesmo criador do Perfect Parries.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE\n\nO Perfect Dodges deixa você rolar, dar dash, girar e dar flip, e se acerta o tempo da esquiva no golpe leva vantagem. Do mesmo criador do Perfect Parries.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/perfect-dodges",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/mod-perfect-dodges.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+          "arquivosTwitter": [
+            "02-1230-perfect-dodges.mp4"
+          ],
+          "tipo": "video",
+          "status": "publicado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1639333790942779/"
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-08-18",
+          "id": "reddit-evil-fortress",
+          "titulo": "🏰 DESTRUIR OU MORAR NESSA FORTALEZA SOMBRIA DO HYTALE",
+          "textoMeta": "🏰 DESTRUIR OU MORAR NESSA FORTALEZA SOMBRIA DO HYTALE\n\nUma fortaleza imponente e sombria, do tipo que dá pra escolher entre invadir e destruir ou simplesmente tomar posse.\n\n🎥 u/Arketetor\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🏰 DESTRUIR OU MORAR NESSA FORTALEZA SOMBRIA DO HYTALE\n\nUma fortaleza imponente e sombria, do tipo que dá pra escolher entre invadir e destruir ou simplesmente tomar posse.\n\n🎥 u/Arketetor\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1vec7c0/would_you_destroy_this_evil_fortress_or_claim_it/",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/reddit-evil-fortress.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+          "arquivosTwitter": [
+            "03-1500-evil-fortress.mp4"
+          ],
+          "tipo": "video",
+          "status": "publicado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1531231788248382/"
+        },
+        {
+          "hora": "17:30",
+          "data": "2026-08-18",
+          "id": "mod-wildtale-carrossel",
+          "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
+          "textoMeta": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE\n\nO WildTale adiciona cerca de 200 espécies reais, de elefante africano e girafa a leão, tigre, gorila e camelo.\n\n🔹 Eles nascem sozinhos pelo mundo, cada um no bioma que combina com a espécie.\n🔹 No criativo dá pra posicionar na mão e montar zoológico ou santuário do jeito que quiser.\n\n🔧 Mod do Nicholas_LionRider\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE\n\nO WildTale adiciona cerca de 200 espécies reais, de elefante africano e girafa a leão, tigre, gorila e camelo.\n\n🔹 Eles nascem sozinhos pelo mundo, cada um no bioma que combina com a espécie.\n🔹 No criativo dá pra posicionar na mão e montar zoológico ou santuário do jeito que quiser.\n\n🔧 Mod do Nicholas_LionRider\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/wildtale",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_3.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_4.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_5.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+          "arquivosTwitter": [
+            "04-1730-wildtale-carrossel-1.png",
+            "04-1730-wildtale-carrossel-2.png",
+            "04-1730-wildtale-carrossel-3.png",
+            "04-1730-wildtale-carrossel-4.png",
+            "04-1730-wildtale-carrossel-5.png"
+          ],
+          "tipo": "carrossel",
+          "status": "publicado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1678942220901035"
+        },
+        {
+          "hora": "20:00",
+          "data": "2026-08-18",
+          "id": "x13-lunaronin-airship",
+          "titulo": "🛩️ CONSTRUÍRAM UMA AERONAVE PRA USAR NUM MOD DE HYTALE",
+          "textoMeta": "🛩️ CONSTRUÍRAM UMA AERONAVE PRA USAR NUM MOD DE HYTALE\n\nUma aeronave feita pra entrar num mod que tá sendo desenvolvido, já dando um gostinho de como vai ficar.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🛩️ CONSTRUÍRAM UMA AERONAVE PRA USAR NUM MOD DE HYTALE\n\nUma aeronave feita pra entrar num mod que tá sendo desenvolvido, já dando um gostinho de como vai ficar.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/lunaronin777/status/2087940936584122852",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/x13-lunaronin-airship.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+          "arquivosTwitter": [
+            "05-2000-lunaronin-airship.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/27912901618404264/"
+        },
+        {
+          "hora": "21:30",
+          "data": "2026-08-18",
+          "id": "reddit-hyblend-tool",
+          "titulo": "🛠️ FERRAMENTA NOVA DEIXA IMPORTAR MODELO E ANIMAÇÃO PRO HYTALE",
+          "textoMeta": "🛠️ FERRAMENTA NOVA DEIXA IMPORTAR MODELO E ANIMAÇÃO PRO HYTALE\n\nO Hyblend é uma ferramenta que importa qualquer modelo e animação do Hytale, facilitando bastante a vida de quem cria mod com personagem e criatura customizados.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🛠️ FERRAMENTA NOVA DEIXA IMPORTAR MODELO E ANIMAÇÃO PRO HYTALE\n\nO Hyblend é uma ferramenta que importa qualquer modelo e animação do Hytale, facilitando bastante a vida de quem cria mod com personagem e criatura customizados.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1vp9s8r/hyblend_import_any_hytale_model_and_animations/",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/reddit-hyblend-tool.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
+          "arquivosTwitter": [
+            "06-2130-hyblend-tool.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1336448961615429/"
+        }
+      ],
+      "total": 6
+    },
+    {
+      "dia": "2026-08-17",
+      "posts": [
+        {
+          "hora": "22:45",
+          "data": "2026-08-17",
+          "id": "mod-potion-trader",
+          "titulo": "🧙 UM MOD ADICIONA UM MERCADOR DE POÇÃO NO HYTALE",
+          "textoMeta": "🧙 UM MOD ADICIONA UM MERCADOR DE POÇÃO NO HYTALE\n\nO Potion Trader coloca um NPC que troca poção com você, facilitando conseguir a que precisa.\n\n🔧 Mod do EpicNNG\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🧙 UM MOD ADICIONA UM MERCADOR DE POÇÃO NO HYTALE\n\nO Potion Trader coloca um NPC que troca poção com você, facilitando conseguir a que precisa.\n\n🔧 Mod do EpicNNG\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/epics-potion-trader",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-17",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "publicado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1678603224268268"
+        }
+      ],
+      "total": 1
+    }
+  ],
+  "contagem": {
+    "coletadosTotal": 117,
+    "aprovados": 7,
+    "rejeitados": 15,
+    "rejeitadosFiltro": 89,
+    "rejeitadosMemoria": 4,
+    "escritos": 7,
+    "agendados": 6,
+    "publicadosTotal": 792,
+    "publicadosPorRede": {
+      "facebook": 560,
+      "instagram": 231,
+      "twitter": 1
+    },
+    "publicadosMes": 49,
+    "publicadosHoje": 0
+  },
+  "twitterHoje": {
+    "total": 6,
+    "feitos": 0,
+    "data": "2026-08-18"
+  },
+  "custos": {
+    "infraMensal": 0,
+    "itens": [
+      {
+        "nome": "Graph API (Facebook + Instagram)",
+        "custo": 0,
+        "nota": "gratuita, sem limite de publicação relevante"
+      },
+      {
+        "nome": "GitHub Actions (repo público eldryn-midia)",
+        "custo": 0,
+        "nota": "minutos ilimitados em repo público"
+      },
+      {
+        "nome": "GitHub Pages (hospedagem)",
+        "custo": 0,
+        "nota": "painel e mídia do Instagram"
+      },
+      {
+        "nome": "SQLite local",
+        "custo": 0,
+        "nota": "sem servidor, sem serviço externo"
+      },
+      {
+        "nome": "Coleta (Reddit, site oficial)",
+        "custo": 0,
+        "nota": "HTTP direto, sem API paga"
+      },
+      {
+        "nome": "Twitter/X",
+        "custo": 0,
+        "nota": "manual, agendador nativo do Premium"
+      }
+    ],
+    "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
+  },
+  "ultimaColeta": "2026-08-18T14:47:39.418Z",
+  "ultimaImportacao": "2026-08-18T14:19:18.676Z",
+  "redes": {
+    "facebook": {
+      "nome": "Hytale Brasil",
+      "seguidores": 5923,
+      "link": "https://www.facebook.com/366088387528700",
+      "totalPosts": 560,
+      "engajamentoDisponivel": false,
+      "notaEngajamento": "curtida por post exige Acesso Avançado da Meta (App Review)"
+    },
+    "instagram": {
+      "nome": "@brasilhytale",
+      "seguidores": 6034,
+      "totalPosts": 238,
+      "link": "https://www.instagram.com/brasilhytale/",
+      "engajamentoDisponivel": true,
+      "mediaCurtidas": 130,
+      "amostra": 100
+    },
+    "twitter": {
+      "nome": "@OrbisHytale",
+      "seguidores": 11300,
+      "medidoEm": "2026-08-18",
+      "link": "https://x.com/OrbisHytale",
+      "nota": "sem API acessível, número lido no navegador",
+      "totalPosts": 1
+    },
+    "grupo": {
+      "nome": "Grupo Hytale Brasil",
+      "seguidores": 5400,
+      "medidoEm": "2026-08-18",
+      "link": "https://www.facebook.com/groups/hytalebrasil",
+      "nota": "sem API, número lido no navegador"
+    },
+    "topPosts": [
+      {
+        "titulo": "⚔️ AS BATALHAS DE POKÉMON VÃO DEIXAR VOCÊ ANDAR NO MEIO DA LUTA",
+        "curtidas": 702,
+        "comentarios": 9,
+        "tipo": "video",
+        "quando": "2026-07-19T15:05:09+0000",
+        "link": "https://www.instagram.com/reel/Da-pTxUlGSn/"
+      },
+      {
+        "titulo": "🔴 SAIU UM MOD DE POKÉMON PRO HYTALE",
+        "curtidas": 573,
+        "comentarios": 9,
+        "tipo": "video",
+        "quando": "2026-07-25T18:04:12+0000",
+        "link": "https://www.instagram.com/reel/DbOai4nFUVP/"
+      },
+      {
+        "titulo": "🎛️ Esse é o sistema que vai montar todas as boss fights do Hytale",
+        "curtidas": 501,
+        "comentarios": 11,
+        "tipo": "video",
+        "quando": "2026-07-17T18:31:58+0000",
+        "link": "https://www.instagram.com/reel/Da53YJhAZrS/"
+      },
+      {
+        "titulo": "🔮 O combate do Hytale vai mudar com runas, e dá até pra criar tornado",
+        "curtidas": 470,
+        "comentarios": 6,
+        "tipo": "image",
+        "quando": "2026-07-17T15:18:04+0000",
+        "link": "https://www.instagram.com/p/Da5hPCBkqIz/"
+      },
+      {
+        "titulo": "⚙️ SAIU A PRIMEIRA BETA DE UM MOD DE JUJUTSU KAISEN NO HYTALE",
+        "curtidas": 393,
+        "comentarios": 7,
+        "tipo": "video",
+        "quando": "2026-07-15T20:34:02+0000",
+        "link": "https://www.instagram.com/reel/Da07xFhjWYc/"
+      },
+      {
+        "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
+        "curtidas": 357,
+        "comentarios": 9,
+        "tipo": "video",
+        "quando": "2026-08-10T22:00:59+0000",
+        "link": "https://www.instagram.com/reel/Db4CWbPjNy5/"
+      }
+    ],
+    "erro": null,
+    "topPostsIntervalo": {
+      "amostra": 100,
+      "de": "2026-04-23T16:32:51+0000",
+      "ate": "2026-08-18T20:32:50+0000"
+    },
+    "serie": [
+      {
+        "rede": "grupo",
+        "dia": "2026-08-18",
+        "seguidores": 5400,
+        "curtidas": null
+      },
+      {
+        "rede": "twitter",
+        "dia": "2026-08-18",
+        "seguidores": 11300,
+        "curtidas": null
+      },
+      {
+        "rede": "instagram",
+        "dia": "2026-08-18",
+        "seguidores": 6034,
+        "curtidas": 2062
+      },
+      {
+        "rede": "facebook",
+        "dia": "2026-08-18",
+        "seguidores": 5923,
+        "curtidas": null
+      }
+    ]
+  }
+}
