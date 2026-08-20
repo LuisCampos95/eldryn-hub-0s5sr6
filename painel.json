@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-20T16:25:01.536Z",
+  "geradoEm": "2026-08-20T16:30:36.069Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -533,6 +533,25 @@
     }
   ],
   "grade": [
+    {
+      "hora": "18:00",
+      "data": "2026-08-20",
+      "id": "rc149",
+      "titulo": "HYTALE VAI DEIXAR VOCÊ JOGAR COM SEU AMIGO SEM PRECISAR DE PROGRAMA EXTERNO",
+      "textoMeta": "HYTALE VAI DEIXAR VOCÊ JOGAR COM SEU AMIGO SEM PRECISAR DE PROGRAMA EXTERNO\n\nQuem já tentou jogar com amigo e travou porque a rede de um dos dois \"não conecta\" sabe a dor. No Update 6, o Hytale implementa um sistema de conexão direta entre jogadores que resolve boa parte desses casos sozinho, sem precisar instalar Tailscale nem programa parecido pra simular rede local.\n\nA confirmação veio do próprio Alex, da equipe do Hytale, que também avisou que \"Duplo NAT\" (quando a rede tem duas camadas de bloqueio, comum em algumas operadoras) ainda não está coberto, mas a equipe já trabalha nisso pro Update 7.\n\n🔧 Alex, da equipe do Hytale (MelodicAlbuild)\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "HYTALE VAI DEIXAR VOCÊ JOGAR COM SEU AMIGO SEM PRECISAR DE PROGRAMA EXTERNO\n\nQuem já tentou jogar com amigo e travou porque a rede de um dos dois \"não conecta\" sabe a dor. No Update 6, o Hytale implementa um sistema de conexão direta entre jogadores que resolve boa parte desses casos sozinho, sem precisar instalar Tailscale nem programa parecido pra simular rede local.\n\nA confirmação veio do próprio Alex, da equipe do Hytale, que também avisou que \"Duplo NAT\" (quando a rede tem duas camadas de bloqueio, comum em algumas operadoras) ainda não está coberto, mas a equipe já trabalha nisso pro Update 7.\n\n🔧 Alex, da equipe do Hytale (@MelodicAlbuild)\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/MelodicAlbuild/status/2090464283767328884",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": 88,
+      "engajamento": 82,
+      "categoria": "NOTICIA",
+      "motivo": "pedido explicito do dono, so twitter"
+    },
     {
       "hora": "17:30",
       "data": "2026-08-20",
@@ -1093,9 +1112,28 @@
           "categoria": "MOD",
           "motivo": "mod de domesticacao (Tamework) agora deixa comandar Dragoes de Gelo pra lutar por voce, bate direto na categoria de criatura colecionavel que comprovadamente funciona na pagina",
           "urlPublicada": "https://www.facebook.com/reel/2811532455899733/"
+        },
+        {
+          "hora": "18:00",
+          "data": "2026-08-20",
+          "id": "rc149",
+          "titulo": "HYTALE VAI DEIXAR VOCÊ JOGAR COM SEU AMIGO SEM PRECISAR DE PROGRAMA EXTERNO",
+          "textoMeta": "HYTALE VAI DEIXAR VOCÊ JOGAR COM SEU AMIGO SEM PRECISAR DE PROGRAMA EXTERNO\n\nQuem já tentou jogar com amigo e travou porque a rede de um dos dois \"não conecta\" sabe a dor. No Update 6, o Hytale implementa um sistema de conexão direta entre jogadores que resolve boa parte desses casos sozinho, sem precisar instalar Tailscale nem programa parecido pra simular rede local.\n\nA confirmação veio do próprio Alex, da equipe do Hytale, que também avisou que \"Duplo NAT\" (quando a rede tem duas camadas de bloqueio, comum em algumas operadoras) ainda não está coberto, mas a equipe já trabalha nisso pro Update 7.\n\n🔧 Alex, da equipe do Hytale (MelodicAlbuild)\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "HYTALE VAI DEIXAR VOCÊ JOGAR COM SEU AMIGO SEM PRECISAR DE PROGRAMA EXTERNO\n\nQuem já tentou jogar com amigo e travou porque a rede de um dos dois \"não conecta\" sabe a dor. No Update 6, o Hytale implementa um sistema de conexão direta entre jogadores que resolve boa parte desses casos sozinho, sem precisar instalar Tailscale nem programa parecido pra simular rede local.\n\nA confirmação veio do próprio Alex, da equipe do Hytale, que também avisou que \"Duplo NAT\" (quando a rede tem duas camadas de bloqueio, comum em algumas operadoras) ainda não está coberto, mas a equipe já trabalha nisso pro Update 7.\n\n🔧 Alex, da equipe do Hytale (@MelodicAlbuild)\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/MelodicAlbuild/status/2090464283767328884",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": 88,
+          "engajamento": 82,
+          "categoria": "NOTICIA",
+          "motivo": "pedido explicito do dono, so twitter"
         }
       ],
-      "total": 4
+      "total": 5
     },
     {
       "dia": "2026-08-19",
