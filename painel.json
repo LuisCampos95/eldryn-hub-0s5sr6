@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-20T15:59:06.400Z",
+  "geradoEm": "2026-08-20T16:25:01.536Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -153,13 +153,13 @@
     }
   ],
   "memoria": {
-    "total": 1603,
+    "total": 1604,
     "de": "2018-12-15T14:34:23+0000",
-    "ate": "2026-08-19T00:27:01.000Z",
+    "ate": "2026-08-20T16:17:40.054Z",
     "porPlataforma": {
       "facebook": 560,
       "instagram": 231,
-      "twitter": 812
+      "twitter": 813
     },
     "porAno": {
       "2018": 86,
@@ -167,7 +167,7 @@
       "2020": 98,
       "2021": 54,
       "2025": 264,
-      "2026": 729
+      "2026": 730
     }
   },
   "recentes": [
@@ -1448,18 +1448,18 @@
     "rejeitadosMemoria": 5,
     "escritos": 18,
     "agendados": 9,
-    "publicadosTotal": 1603,
+    "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
       "instagram": 231,
-      "twitter": 812
+      "twitter": 813
     },
-    "publicadosMes": 70,
-    "publicadosHoje": 0
+    "publicadosMes": 71,
+    "publicadosHoje": 1
   },
   "twitterHoje": {
-    "total": 4,
-    "feitos": 0,
+    "total": 5,
+    "feitos": 1,
     "data": "2026-08-20"
   },
   "custos": {
@@ -1524,7 +1524,7 @@
       "medidoEm": "2026-08-20",
       "link": "https://x.com/OrbisHytale",
       "nota": "sem API acessível, número lido no navegador",
-      "totalPosts": 812
+      "totalPosts": 813
     },
     "grupo": {
       "nome": "Grupo Hytale Brasil",
