@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-20T15:40:02.619Z",
+  "geradoEm": "2026-08-20T15:58:08.270Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,32 +81,32 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 148,
+      "n": 149,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 46,
+      "n": 47,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 41,
+      "n": 42,
       "quem": "código"
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 41,
+      "n": 42,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 17,
+      "n": 18,
       "quem": "IA"
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 17,
+      "n": 18,
       "quem": "IA + código"
     },
     {
@@ -123,11 +123,11 @@
     "fora de pauta": 1,
     "midia fraca": 1
   },
-  "taxaAprovacao": 41,
+  "taxaAprovacao": 43,
   "qualidade": {
-    "q": 63.4,
-    "e": 66.3,
-    "qAprov": 83.3,
+    "q": 64,
+    "e": 66.7,
+    "qAprov": 83.6,
     "qRej": 49.3
   },
   "porCategoria": [
@@ -148,8 +148,8 @@
     },
     {
       "categoria": "NOTICIA",
-      "n": 3,
-      "ok": 2
+      "n": 4,
+      "ok": 3
     }
   ],
   "memoria": {
@@ -1441,12 +1441,12 @@
     }
   ],
   "contagem": {
-    "coletadosTotal": 148,
-    "aprovados": 17,
+    "coletadosTotal": 149,
+    "aprovados": 18,
     "rejeitados": 24,
     "rejeitadosFiltro": 102,
     "rejeitadosMemoria": 5,
-    "escritos": 17,
+    "escritos": 18,
     "agendados": 9,
     "publicadosTotal": 1603,
     "publicadosPorRede": {
