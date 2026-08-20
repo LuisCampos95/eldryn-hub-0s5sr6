@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-20T15:32:39.381Z",
+  "geradoEm": "2026-08-20T15:40:02.619Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -604,7 +604,7 @@
         "02-1240-rc148.png"
       ],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 90,
       "engajamento": 78,
       "categoria": "NOTICIA",
@@ -1035,7 +1035,7 @@
             "02-1240-rc148.png"
           ],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 90,
           "engajamento": 78,
           "categoria": "NOTICIA",
@@ -1521,7 +1521,7 @@
     "twitter": {
       "nome": "@OrbisHytale",
       "seguidores": 11300,
-      "medidoEm": "2026-08-18",
+      "medidoEm": "2026-08-20",
       "link": "https://x.com/OrbisHytale",
       "nota": "sem API acessível, número lido no navegador",
       "totalPosts": 812
@@ -1529,7 +1529,7 @@
     "grupo": {
       "nome": "Grupo Hytale Brasil",
       "seguidores": 5400,
-      "medidoEm": "2026-08-18",
+      "medidoEm": "2026-08-20",
       "link": "https://www.facebook.com/groups/hytalebrasil",
       "nota": "sem API, número lido no navegador"
     },
@@ -1612,6 +1612,30 @@
         "rede": "facebook",
         "dia": "2026-08-18",
         "seguidores": 5923,
+        "curtidas": null
+      },
+      {
+        "rede": "grupo",
+        "dia": "2026-08-20",
+        "seguidores": 5400,
+        "curtidas": null
+      },
+      {
+        "rede": "twitter",
+        "dia": "2026-08-20",
+        "seguidores": 11300,
+        "curtidas": null
+      },
+      {
+        "rede": "instagram",
+        "dia": "2026-08-20",
+        "seguidores": 6037,
+        "curtidas": 1644
+      },
+      {
+        "rede": "facebook",
+        "dia": "2026-08-20",
+        "seguidores": 5925,
         "curtidas": null
       }
     ]
