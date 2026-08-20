@@ -6,6 +6,24 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "rc132",
+    "rodada": "2026-08-20 00:17",
+    "emoji": "\ud83d",
+    "titulo": "[MOD] BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE",
+    "fonte": "https://x.com/HytaleAlerts/status/2087562663316402601",
+    "fonteData": "2026-08-20",
+    "confiabilidade": "comunidade",
+    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1603 posts, analise (qualidade 78, engajamento 78) e QC de estilo.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://x.com/HytaleAlerts/status/2087562663316402601",
+      "nota": "Gerado pela Redacao. Fonte twitter.",
+      "video": "midia/twitter/rc132.mp4"
+    },
+    "twitter": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 @TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "rc141",
     "rodada": "2026-08-19 20:26",
     "emoji": "\ud83c",

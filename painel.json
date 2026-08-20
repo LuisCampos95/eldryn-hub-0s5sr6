@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-20T03:14:35.231Z",
+  "geradoEm": "2026-08-20T03:17:53.291Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -111,7 +111,7 @@
     },
     {
       "etapa": "Agendados",
-      "n": 12,
+      "n": 8,
       "quem": "código"
     }
   ],
@@ -200,7 +200,7 @@
       "fonte": "twitter",
       "titulo": "The full starter character roster for our minigame!",
       "autor": "Asterudus",
-      "status": "AGENDADO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "COMUNIDADE",
       "q": 88,
@@ -248,7 +248,7 @@
       "fonte": "twitter",
       "titulo": "A new inventory management interface has been added to my mod.",
       "autor": "_Lexem_",
-      "status": "APROVADO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "MOD",
       "q": 85,
@@ -296,7 +296,7 @@
       "fonte": "twitter",
       "titulo": "Developing immersion in timber logging of trees #hytale #hytalemodding",
       "autor": "GaiaScript",
-      "status": "AGENDADO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "MOD",
       "q": 85,
@@ -308,7 +308,7 @@
       "fonte": "twitter",
       "titulo": "Dragon Rider - A Hytale Cinematic.",
       "autor": "gamevid4",
-      "status": "AGENDADO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "COMUNIDADE",
       "q": 80,
@@ -332,7 +332,7 @@
       "fonte": "reddit",
       "titulo": "Mytale_ Caldren Village",
       "autor": "GreenMatias370",
-      "status": "APROVADO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:50:57",
       "categoria": "BUILD",
       "q": 80,
@@ -356,7 +356,7 @@
       "fonte": "reddit",
       "titulo": "Giant Axe among the Trees",
       "autor": "Shydass",
-      "status": "AGENDADO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-19 17:50:57",
       "categoria": "BUILD",
       "q": 82,
@@ -534,48 +534,20 @@
   ],
   "grade": [
     {
-      "hora": "21:30",
-      "data": "2026-08-20",
-      "id": "rc121",
-      "titulo": "🌲 CRAVARAM UM MACHADO NUM TOCO MAIOR QUE A FLORESTA INTEIRA NO HYTALE",
-      "textoMeta": "🌲 CRAVARAM UM MACHADO NUM TOCO MAIOR QUE A FLORESTA INTEIRA NO HYTALE\n\nA floresta em volta é de árvore em tamanho normal. O toco sozinho passa por cima de todas elas, e o machado fincado nele é do mesmo tamanho.\n\n📷 Shydass\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🌲 CRAVARAM UM MACHADO NUM TOCO MAIOR QUE A FLORESTA INTEIRA NO HYTALE\n\nA floresta em volta é de árvore em tamanho normal. O toco sozinho passa por cima de todas elas, e o machado fincado nele é do mesmo tamanho.\n\n📷 u/Shydass\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://www.reddit.com/r/hytale/comments/1vsmzly/giant_axe_among_the_trees/",
-      "arquivos": [
-        "midia/reddit/rc121/1.png"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc121.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-      "arquivosTwitter": [
-        "06-2130-rc121.png"
-      ],
-      "tipo": "imagem",
-      "status": "agendado",
-      "qualidade": 82,
-      "engajamento": 85,
-      "categoria": "BUILD",
-      "motivo": "55 upvotes em apenas 4h, a velocidade de engajamento mais rapida de toda a fila; imagem simples mas de forte impacto visual",
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1681014310693826"
-    },
-    {
-      "hora": "20:00",
+      "hora": "17:30",
       "data": "2026-08-20",
       "id": "rc146",
       "titulo": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE",
       "textoMeta": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE\n\nAntes a criatura domada só servia de montaria pra voar. Com a atualização do Animal Husbandry / Tamework, ela entra na briga no seu lugar.\n\n🎥 Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE\n\nAntes a criatura domada só servia de montaria pra voar. Com a atualização do Animal Husbandry / Tamework, ela entra na briga no seu lugar.\n\n🎥 @Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Alechilles/status/2088631532168589604",
-      "arquivos": [
-        "midia/twitter/rc146.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc146.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
       "arquivosTwitter": [
-        "05-2000-rc146.mp4"
+        "04-1730-rc129.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -586,44 +558,18 @@
       "urlPublicada": "https://www.facebook.com/reel/2811532455899733/"
     },
     {
-      "hora": "17:30",
-      "data": "2026-08-20",
-      "id": "rc129",
-      "titulo": "🎬 CAVALEIRO DE DRAGÃO CONTRA UMA HYDRA, TUDO GRAVADO DENTRO DO HYTALE",
-      "textoMeta": "🎬 CAVALEIRO DE DRAGÃO CONTRA UMA HYDRA, TUDO GRAVADO DENTRO DO HYTALE\n\nTem posto avançado Outlander domando Hydra pra aterrorizar a região, vila pedindo socorro e um confronto final entre os dois. O curta se chama Dragon Rider.\n\n🎥 gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🎬 CAVALEIRO DE DRAGÃO CONTRA UMA HYDRA, TUDO GRAVADO DENTRO DO HYTALE\n\nTem posto avançado Outlander domando Hydra pra aterrorizar a região, vila pedindo socorro e um confronto final entre os dois. O curta se chama Dragon Rider.\n\n🎥 @gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/gamevid4/status/2089810333527429238",
-      "arquivos": [
-        "midia/twitter/rc129.mp4"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc129.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-      "arquivosTwitter": [
-        "04-1730-rc129.mp4"
-      ],
-      "tipo": "video",
-      "status": "agendado",
-      "qualidade": 80,
-      "engajamento": 75,
-      "categoria": "COMUNIDADE",
-      "motivo": "cinematic fa-feita com lore propria e dragao montavel enfrentando uma Hydra domada, exatamente o tipo de criatura montavel que comprovadamente funciona aqui; video com boa narrativa visual",
-      "urlPublicada": "https://www.facebook.com/reel/1086618920379732/"
-    },
-    {
       "hora": "15:00",
       "data": "2026-08-20",
-      "id": "rc130",
-      "titulo": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR DE VERDADE E VIRAR TORAS NO HYTALE",
-      "textoMeta": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR DE VERDADE E VIRAR TORAS NO HYTALE\n\nBateu no tronco, ele cai inteiro no chão em vez de sumir. Daí dá pra picar em toras. O mod ainda está em desenvolvimento.\n\n🎥 GaiaScript\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR DE VERDADE E VIRAR TORAS NO HYTALE\n\nBateu no tronco, ele cai inteiro no chão em vez de sumir. Daí dá pra picar em toras. O mod ainda está em desenvolvimento.\n\n🎥 @GaiaScript\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/GaiaScript/status/2089653621935722590",
+      "id": "rc132",
+      "titulo": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE",
+      "textoMeta": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 @TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/HytaleAlerts/status/2087562663316402601",
       "arquivos": [
-        "midia/twitter/rc130.mp4"
+        "midia/twitter/rc132.mp4"
       ],
       "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc130.mp4"
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc132.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
       "arquivosTwitter": [
@@ -631,11 +577,11 @@
       ],
       "tipo": "video",
       "status": "agendado",
-      "qualidade": 85,
-      "engajamento": 82,
+      "qualidade": 78,
+      "engajamento": 78,
       "categoria": "MOD",
-      "motivo": "163 curtidas em 32h do criador original; sistema de derrubada de arvore com fisica realista e o tipo de sistema visual grande que funciona na pagina, preferido sobre o repost do 131",
-      "urlPublicada": "https://www.facebook.com/reel/1947841182557626/"
+      "motivo": "175 curtidas, terceiro maior engajamento do lote; mod inedito de armas de fogo quebra o padrao do jogo e gera curiosidade imediata",
+      "urlPublicada": "https://www.facebook.com/reel/28020343910959947/"
     },
     {
       "hora": "12:30",
@@ -645,13 +591,7 @@
       "textoMeta": "🗡️ O TANJIRO, DE DEMON SLAYER, GANHOU VERSÃO DE PERSONAGEM NO HYTALE\n\nEstá tudo lá. O haori xadrez verde e preto, a katana na cintura e a caixa de madeira nas costas. Dá pra reconhecer de longe.\n\n📷 Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🗡️ O TANJIRO, DE DEMON SLAYER, GANHOU VERSÃO DE PERSONAGEM NO HYTALE\n\nEstá tudo lá. O haori xadrez verde e preto, a katana na cintura e a caixa de madeira nas costas. Dá pra reconhecer de longe.\n\n📷 u/Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vshptb/i_recreated_kamado_tanjiro_from_demon_slayer/",
-      "arquivos": [
-        "midia/reddit/rc123/1.png",
-        "midia/reddit/rc123/2.png",
-        "midia/reddit/rc123/3.png",
-        "midia/reddit/rc123/4.png",
-        "midia/reddit/rc123/5.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc123_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc123_2.jpg",
@@ -674,32 +614,6 @@
       "categoria": "BUILD",
       "motivo": "recriacao do Tanjiro (Demon Slayer) em Hytale, crossover de anime reconhecivel e o que comprovadamente funciona na pagina; 64 upvotes em so 8h",
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1681013790693878"
-    },
-    {
-      "hora": "10:00",
-      "data": "2026-08-20",
-      "id": "rc141",
-      "titulo": "🎮 CONHEÇA OS 8 PERSONAGENS DO MINIGAME QUE ESTÃO FAZENDO NO HYTALE",
-      "textoMeta": "🎮 CONHEÇA OS 8 PERSONAGENS DO MINIGAME QUE ESTÃO FAZENDO NO HYTALE\n\nAmalgo, Pyreus, Grim Bill, DR.Stinky, Fyr, Hakka, Omniphat e Ora. Esse é o elenco inicial, todo modelado no Blockbench, e o vídeo passa um por um.\n\n🎥 Asterudus\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🎮 CONHEÇA OS 8 PERSONAGENS DO MINIGAME QUE ESTÃO FAZENDO NO HYTALE\n\nAmalgo, Pyreus, Grim Bill, DR.Stinky, Fyr, Hakka, Omniphat e Ora. Esse é o elenco inicial, todo modelado no Blockbench, e o vídeo passa um por um.\n\n🎥 @Asterudus\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/Asterudus/status/2088551276305125689",
-      "arquivos": [
-        "midia/twitter/rc141.mp4"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc141.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-      "arquivosTwitter": [
-        "01-1000-rc141.mp4"
-      ],
-      "tipo": "video",
-      "status": "agendado",
-      "qualidade": 88,
-      "engajamento": 90,
-      "categoria": "COMUNIDADE",
-      "motivo": "411 curtidas, o maior engajamento de toda a fila; elenco completo de 8 personagens modelados em Blockbench pra um minigame proprio",
-      "urlPublicada": "https://www.facebook.com/reel/1654240760035980/"
     },
     {
       "hora": "21:30",
@@ -1031,32 +945,6 @@
       "dia": "2026-08-20",
       "posts": [
         {
-          "hora": "10:00",
-          "data": "2026-08-20",
-          "id": "rc141",
-          "titulo": "🎮 CONHEÇA OS 8 PERSONAGENS DO MINIGAME QUE ESTÃO FAZENDO NO HYTALE",
-          "textoMeta": "🎮 CONHEÇA OS 8 PERSONAGENS DO MINIGAME QUE ESTÃO FAZENDO NO HYTALE\n\nAmalgo, Pyreus, Grim Bill, DR.Stinky, Fyr, Hakka, Omniphat e Ora. Esse é o elenco inicial, todo modelado no Blockbench, e o vídeo passa um por um.\n\n🎥 Asterudus\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🎮 CONHEÇA OS 8 PERSONAGENS DO MINIGAME QUE ESTÃO FAZENDO NO HYTALE\n\nAmalgo, Pyreus, Grim Bill, DR.Stinky, Fyr, Hakka, Omniphat e Ora. Esse é o elenco inicial, todo modelado no Blockbench, e o vídeo passa um por um.\n\n🎥 @Asterudus\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/Asterudus/status/2088551276305125689",
-          "arquivos": [
-            "midia/twitter/rc141.mp4"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc141.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-          "arquivosTwitter": [
-            "01-1000-rc141.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": 88,
-          "engajamento": 90,
-          "categoria": "COMUNIDADE",
-          "motivo": "411 curtidas, o maior engajamento de toda a fila; elenco completo de 8 personagens modelados em Blockbench pra um minigame proprio",
-          "urlPublicada": "https://www.facebook.com/reel/1654240760035980/"
-        },
-        {
           "hora": "12:30",
           "data": "2026-08-20",
           "id": "rc123",
@@ -1064,13 +952,7 @@
           "textoMeta": "🗡️ O TANJIRO, DE DEMON SLAYER, GANHOU VERSÃO DE PERSONAGEM NO HYTALE\n\nEstá tudo lá. O haori xadrez verde e preto, a katana na cintura e a caixa de madeira nas costas. Dá pra reconhecer de longe.\n\n📷 Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🗡️ O TANJIRO, DE DEMON SLAYER, GANHOU VERSÃO DE PERSONAGEM NO HYTALE\n\nEstá tudo lá. O haori xadrez verde e preto, a katana na cintura e a caixa de madeira nas costas. Dá pra reconhecer de longe.\n\n📷 u/Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vshptb/i_recreated_kamado_tanjiro_from_demon_slayer/",
-          "arquivos": [
-            "midia/reddit/rc123/1.png",
-            "midia/reddit/rc123/2.png",
-            "midia/reddit/rc123/3.png",
-            "midia/reddit/rc123/4.png",
-            "midia/reddit/rc123/5.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc123_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc123_2.jpg",
@@ -1097,16 +979,16 @@
         {
           "hora": "15:00",
           "data": "2026-08-20",
-          "id": "rc130",
-          "titulo": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR DE VERDADE E VIRAR TORAS NO HYTALE",
-          "textoMeta": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR DE VERDADE E VIRAR TORAS NO HYTALE\n\nBateu no tronco, ele cai inteiro no chão em vez de sumir. Daí dá pra picar em toras. O mod ainda está em desenvolvimento.\n\n🎥 GaiaScript\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR DE VERDADE E VIRAR TORAS NO HYTALE\n\nBateu no tronco, ele cai inteiro no chão em vez de sumir. Daí dá pra picar em toras. O mod ainda está em desenvolvimento.\n\n🎥 @GaiaScript\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/GaiaScript/status/2089653621935722590",
+          "id": "rc132",
+          "titulo": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE",
+          "textoMeta": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 @TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/HytaleAlerts/status/2087562663316402601",
           "arquivos": [
-            "midia/twitter/rc130.mp4"
+            "midia/twitter/rc132.mp4"
           ],
           "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc130.mp4"
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc132.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
           "arquivosTwitter": [
@@ -1114,55 +996,27 @@
           ],
           "tipo": "video",
           "status": "agendado",
-          "qualidade": 85,
-          "engajamento": 82,
+          "qualidade": 78,
+          "engajamento": 78,
           "categoria": "MOD",
-          "motivo": "163 curtidas em 32h do criador original; sistema de derrubada de arvore com fisica realista e o tipo de sistema visual grande que funciona na pagina, preferido sobre o repost do 131",
-          "urlPublicada": "https://www.facebook.com/reel/1947841182557626/"
+          "motivo": "175 curtidas, terceiro maior engajamento do lote; mod inedito de armas de fogo quebra o padrao do jogo e gera curiosidade imediata",
+          "urlPublicada": "https://www.facebook.com/reel/28020343910959947/"
         },
         {
           "hora": "17:30",
-          "data": "2026-08-20",
-          "id": "rc129",
-          "titulo": "🎬 CAVALEIRO DE DRAGÃO CONTRA UMA HYDRA, TUDO GRAVADO DENTRO DO HYTALE",
-          "textoMeta": "🎬 CAVALEIRO DE DRAGÃO CONTRA UMA HYDRA, TUDO GRAVADO DENTRO DO HYTALE\n\nTem posto avançado Outlander domando Hydra pra aterrorizar a região, vila pedindo socorro e um confronto final entre os dois. O curta se chama Dragon Rider.\n\n🎥 gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🎬 CAVALEIRO DE DRAGÃO CONTRA UMA HYDRA, TUDO GRAVADO DENTRO DO HYTALE\n\nTem posto avançado Outlander domando Hydra pra aterrorizar a região, vila pedindo socorro e um confronto final entre os dois. O curta se chama Dragon Rider.\n\n🎥 @gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/gamevid4/status/2089810333527429238",
-          "arquivos": [
-            "midia/twitter/rc129.mp4"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc129.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-          "arquivosTwitter": [
-            "04-1730-rc129.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": 80,
-          "engajamento": 75,
-          "categoria": "COMUNIDADE",
-          "motivo": "cinematic fa-feita com lore propria e dragao montavel enfrentando uma Hydra domada, exatamente o tipo de criatura montavel que comprovadamente funciona aqui; video com boa narrativa visual",
-          "urlPublicada": "https://www.facebook.com/reel/1086618920379732/"
-        },
-        {
-          "hora": "20:00",
           "data": "2026-08-20",
           "id": "rc146",
           "titulo": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE",
           "textoMeta": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE\n\nAntes a criatura domada só servia de montaria pra voar. Com a atualização do Animal Husbandry / Tamework, ela entra na briga no seu lugar.\n\n🎥 Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE\n\nAntes a criatura domada só servia de montaria pra voar. Com a atualização do Animal Husbandry / Tamework, ela entra na briga no seu lugar.\n\n🎥 @Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Alechilles/status/2088631532168589604",
-          "arquivos": [
-            "midia/twitter/rc146.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc146.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
           "arquivosTwitter": [
-            "05-2000-rc146.mp4"
+            "04-1730-rc129.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -1171,35 +1025,9 @@
           "categoria": "MOD",
           "motivo": "mod de domesticacao (Tamework) agora deixa comandar Dragoes de Gelo pra lutar por voce, bate direto na categoria de criatura colecionavel que comprovadamente funciona na pagina",
           "urlPublicada": "https://www.facebook.com/reel/2811532455899733/"
-        },
-        {
-          "hora": "21:30",
-          "data": "2026-08-20",
-          "id": "rc121",
-          "titulo": "🌲 CRAVARAM UM MACHADO NUM TOCO MAIOR QUE A FLORESTA INTEIRA NO HYTALE",
-          "textoMeta": "🌲 CRAVARAM UM MACHADO NUM TOCO MAIOR QUE A FLORESTA INTEIRA NO HYTALE\n\nA floresta em volta é de árvore em tamanho normal. O toco sozinho passa por cima de todas elas, e o machado fincado nele é do mesmo tamanho.\n\n📷 Shydass\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🌲 CRAVARAM UM MACHADO NUM TOCO MAIOR QUE A FLORESTA INTEIRA NO HYTALE\n\nA floresta em volta é de árvore em tamanho normal. O toco sozinho passa por cima de todas elas, e o machado fincado nele é do mesmo tamanho.\n\n📷 u/Shydass\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://www.reddit.com/r/hytale/comments/1vsmzly/giant_axe_among_the_trees/",
-          "arquivos": [
-            "midia/reddit/rc121/1.png"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc121.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-          "arquivosTwitter": [
-            "06-2130-rc121.png"
-          ],
-          "tipo": "imagem",
-          "status": "agendado",
-          "qualidade": 82,
-          "engajamento": 85,
-          "categoria": "BUILD",
-          "motivo": "55 upvotes em apenas 4h, a velocidade de engajamento mais rapida de toda a fila; imagem simples mas de forte impacto visual",
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1681014310693826"
         }
       ],
-      "total": 6
+      "total": 3
     },
     {
       "dia": "2026-08-19",
@@ -1551,7 +1379,7 @@
     "rejeitadosFiltro": 102,
     "rejeitadosMemoria": 5,
     "escritos": 16,
-    "agendados": 12,
+    "agendados": 8,
     "publicadosTotal": 1603,
     "publicadosPorRede": {
       "facebook": 560,
