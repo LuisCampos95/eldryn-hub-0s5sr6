@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-20T15:26:47.631Z",
+  "geradoEm": "2026-08-20T15:28:03.139Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -593,8 +593,12 @@
       "textoMeta": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nO destaque é pra quem já tá jogando. Corrigiram um bug que duplicava item, os portais não fecham mais assim que você se afasta (o mundo fica aberto e reconecta quando você volta), consertaram uma queda que travava mundo grande depois de muito tempo aberto (e ficou mais rápido também) e agora instalar um mod não cancela mais o download dos outros, entra numa fila.\n\n🔹 Bloco mole grande, tipo casulo de aranha, agora pode ser derrubado com flecha\n🔹 Vários vazamentos de memória corrigidos, o jogo deve ficar mais estável em sessão longa\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nO destaque é pra quem já tá jogando. Corrigiram um bug que duplicava item, os portais não fecham mais assim que você se afasta (o mundo fica aberto e reconecta quando você volta), consertaram uma queda que travava mundo grande depois de muito tempo aberto (e ficou mais rápido também) e agora instalar um mod não cancela mais o download dos outros, entra numa fila.\n\n🔹 Bloco mole grande, tipo casulo de aranha, agora pode ser derrubado com flecha\n🔹 Vários vazamentos de memória corrigidos, o jogo deve ficar mais estável em sessão longa\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/site/rc-update6-p13.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc148.jpg"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
       "arquivosTwitter": [],
       "tipo": "imagem",
@@ -1018,8 +1022,12 @@
           "textoMeta": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nO destaque é pra quem já tá jogando. Corrigiram um bug que duplicava item, os portais não fecham mais assim que você se afasta (o mundo fica aberto e reconecta quando você volta), consertaram uma queda que travava mundo grande depois de muito tempo aberto (e ficou mais rápido também) e agora instalar um mod não cancela mais o download dos outros, entra numa fila.\n\n🔹 Bloco mole grande, tipo casulo de aranha, agora pode ser derrubado com flecha\n🔹 Vários vazamentos de memória corrigidos, o jogo deve ficar mais estável em sessão longa\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nO destaque é pra quem já tá jogando. Corrigiram um bug que duplicava item, os portais não fecham mais assim que você se afasta (o mundo fica aberto e reconecta quando você volta), consertaram uma queda que travava mundo grande depois de muito tempo aberto (e ficou mais rápido também) e agora instalar um mod não cancela mais o download dos outros, entra numa fila.\n\n🔹 Bloco mole grande, tipo casulo de aranha, agora pode ser derrubado com flecha\n🔹 Vários vazamentos de memória corrigidos, o jogo deve ficar mais estável em sessão longa\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/site/rc-update6-p13.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc148.jpg"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
           "arquivosTwitter": [],
           "tipo": "imagem",
