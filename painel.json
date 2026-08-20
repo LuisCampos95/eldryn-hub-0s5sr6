@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-20T15:28:03.139Z",
+  "geradoEm": "2026-08-20T15:30:25.251Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -549,7 +549,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
       "arquivosTwitter": [
-        "03-1730-rc146.mp4"
+        "04-1730-rc146.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -575,7 +575,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
       "arquivosTwitter": [
-        "02-1500-rc132.mp4"
+        "03-1500-rc132.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -600,7 +600,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc148.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "02-1240-rc148.png"
+      ],
       "tipo": "imagem",
       "status": "agendado",
       "qualidade": 90,
@@ -640,7 +642,7 @@
         "01-1230-rc123-5.png"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 85,
       "engajamento": 82,
       "categoria": "BUILD",
@@ -1007,7 +1009,7 @@
             "01-1230-rc123-5.png"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 85,
           "engajamento": 82,
           "categoria": "BUILD",
@@ -1029,7 +1031,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc148.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "02-1240-rc148.png"
+          ],
           "tipo": "imagem",
           "status": "agendado",
           "qualidade": 90,
@@ -1054,7 +1058,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
           "arquivosTwitter": [
-            "02-1500-rc132.mp4"
+            "03-1500-rc132.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -1080,7 +1084,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
           "arquivosTwitter": [
-            "03-1730-rc146.mp4"
+            "04-1730-rc146.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -1454,7 +1458,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 3,
+    "total": 4,
     "feitos": 0,
     "data": "2026-08-20"
   },
