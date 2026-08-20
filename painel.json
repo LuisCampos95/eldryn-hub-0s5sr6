@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-20T00:49:59.371Z",
+  "geradoEm": "2026-08-20T03:14:35.231Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -1563,8 +1563,8 @@
   },
   "twitterHoje": {
     "total": 6,
-    "feitos": 1,
-    "data": "2026-08-19"
+    "feitos": 0,
+    "data": "2026-08-20"
   },
   "custos": {
     "infraMensal": 0,
@@ -1615,8 +1615,8 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6036,
-      "totalPosts": 244,
+      "seguidores": 6037,
+      "totalPosts": 245,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
       "mediaCurtidas": 127,
@@ -1680,7 +1680,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 366,
+        "curtidas": 367,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
@@ -1690,8 +1690,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-05-05T00:10:44+0000",
-      "ate": "2026-08-19T23:10:50+0000"
+      "de": "2026-05-06T14:49:47+0000",
+      "ate": "2026-08-20T01:46:47+0000"
     },
     "serie": [
       {
