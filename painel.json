@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-20T03:21:31.845Z",
+  "geradoEm": "2026-08-20T15:22:59.475Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,27 +81,27 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 147,
+      "n": 148,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 45,
+      "n": 46,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 40,
+      "n": 41,
       "quem": "código"
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 40,
+      "n": 41,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 16,
+      "n": 17,
       "quem": "IA"
     },
     {
@@ -123,11 +123,11 @@
     "fora de pauta": 1,
     "midia fraca": 1
   },
-  "taxaAprovacao": 40,
+  "taxaAprovacao": 41,
   "qualidade": {
-    "q": 62.7,
-    "e": 66,
-    "qAprov": 82.9,
+    "q": 63.4,
+    "e": 66.3,
+    "qAprov": 83.3,
     "qRej": 49.3
   },
   "porCategoria": [
@@ -148,8 +148,8 @@
     },
     {
       "categoria": "NOTICIA",
-      "n": 2,
-      "ok": 1
+      "n": 3,
+      "ok": 2
     }
   ],
   "memoria": {
@@ -1389,12 +1389,12 @@
     }
   ],
   "contagem": {
-    "coletadosTotal": 147,
-    "aprovados": 16,
+    "coletadosTotal": 148,
+    "aprovados": 17,
     "rejeitados": 24,
     "rejeitadosFiltro": 102,
     "rejeitadosMemoria": 5,
-    "escritos": 16,
+    "escritos": 17,
     "agendados": 8,
     "publicadosTotal": 1603,
     "publicadosPorRede": {
@@ -1463,7 +1463,7 @@
       "totalPosts": 245,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 127,
+      "mediaCurtidas": 128,
       "amostra": 100
     },
     "twitter": {
