@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-19T23:28:04.892Z",
+  "geradoEm": "2026-08-20T00:47:06.814Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -718,7 +718,7 @@
         "06-2130-rc13.png"
       ],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 84,
       "engajamento": 80,
       "categoria": "BUILD",
@@ -1349,7 +1349,7 @@
             "06-2130-rc13.png"
           ],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 84,
           "engajamento": 80,
           "categoria": "BUILD",
@@ -1559,7 +1559,7 @@
       "twitter": 812
     },
     "publicadosMes": 70,
-    "publicadosHoje": 1
+    "publicadosHoje": 0
   },
   "twitterHoje": {
     "total": 6,
