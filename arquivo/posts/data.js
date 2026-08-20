@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "rc149",
+    "rodada": "2026-08-20 12:58",
+    "emoji": "H",
+    "titulo": "[NOTICIA] VAI DEIXAR VOCÊ JOGAR COM SEU AMIGO SEM PRECISAR DE ",
+    "fonte": "https://x.com/MelodicAlbuild/status/2090464283767328884",
+    "fonteData": "2026-08-20",
+    "confiabilidade": "comunidade",
+    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1603 posts, analise (qualidade 88, engajamento 82) e QC de estilo.",
+    "midia": {
+      "tipo": "nenhuma",
+      "url": "https://x.com/MelodicAlbuild/status/2090464283767328884",
+      "nota": "Gerado pela Redacao. Fonte twitter."
+    },
+    "twitter": "HYTALE VAI DEIXAR VOCÊ JOGAR COM SEU AMIGO SEM PRECISAR DE PROGRAMA EXTERNO\n\nQuem já tentou jogar com amigo e travou porque a rede de um dos dois \"não conecta\" sabe a dor. No Update 6, o Hytale implementa um sistema de conexão direta entre jogadores que resolve boa parte desses casos sozinho, sem precisar instalar Tailscale nem programa parecido pra simular rede local.\n\nA confirmação veio do próprio Alex, da equipe do Hytale, que também avisou que \"Duplo NAT\" (quando a rede tem duas camadas de bloqueio, comum em algumas operadoras) ainda não está coberto, mas a equipe já trabalha nisso pro Update 7.\n\n🔧 Alex, da equipe do Hytale (@MelodicAlbuild)\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "HYTALE VAI DEIXAR VOCÊ JOGAR COM SEU AMIGO SEM PRECISAR DE PROGRAMA EXTERNO\n\nQuem já tentou jogar com amigo e travou porque a rede de um dos dois \"não conecta\" sabe a dor. No Update 6, o Hytale implementa um sistema de conexão direta entre jogadores que resolve boa parte desses casos sozinho, sem precisar instalar Tailscale nem programa parecido pra simular rede local.\n\nA confirmação veio do próprio Alex, da equipe do Hytale, que também avisou que \"Duplo NAT\" (quando a rede tem duas camadas de bloqueio, comum em algumas operadoras) ainda não está coberto, mas a equipe já trabalha nisso pro Update 7.\n\n🔧 Alex, da equipe do Hytale (MelodicAlbuild)\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "rc148",
     "rodada": "2026-08-20 12:24",
     "emoji": "S",
