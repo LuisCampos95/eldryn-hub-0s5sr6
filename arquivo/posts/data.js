@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "rc148",
+    "rodada": "2026-08-20 12:24",
+    "emoji": "S",
+    "titulo": "[NOTICIA] A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VA",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+    "fonteData": "2026-08-20",
+    "confiabilidade": "oficial",
+    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1603 posts, analise (qualidade 90, engajamento 78) e QC de estilo.",
+    "midia": {
+      "tipo": "imagem",
+      "url": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
+      "nota": "Gerado pela Redacao. Fonte site."
+    },
+    "twitter": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nO destaque é pra quem já tá jogando. Corrigiram um bug que duplicava item, os portais não fecham mais assim que você se afasta (o mundo fica aberto e reconecta quando você volta), consertaram uma queda que travava mundo grande depois de muito tempo aberto (e ficou mais rápido também) e agora instalar um mod não cancela mais o download dos outros, entra numa fila.\n\n🔹 Bloco mole grande, tipo casulo de aranha, agora pode ser derrubado com flecha\n🔹 Vários vazamentos de memória corrigidos, o jogo deve ficar mais estável em sessão longa\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nO destaque é pra quem já tá jogando. Corrigiram um bug que duplicava item, os portais não fecham mais assim que você se afasta (o mundo fica aberto e reconecta quando você volta), consertaram uma queda que travava mundo grande depois de muito tempo aberto (e ficou mais rápido também) e agora instalar um mod não cancela mais o download dos outros, entra numa fila.\n\n🔹 Bloco mole grande, tipo casulo de aranha, agora pode ser derrubado com flecha\n🔹 Vários vazamentos de memória corrigidos, o jogo deve ficar mais estável em sessão longa\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "rc132",
     "rodada": "2026-08-20 00:17",
     "emoji": "\ud83d",
