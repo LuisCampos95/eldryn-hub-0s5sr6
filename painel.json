@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T04:42:03.755Z",
+  "geradoEm": "2026-08-21T04:43:32.438Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -548,7 +548,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc160.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "03-1730-rc160.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": 80,
@@ -572,7 +574,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc130.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "02-1500-rc130.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": 85,
@@ -596,7 +600,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc161.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "01-1230-rc161.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": 85,
@@ -1072,7 +1078,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc161.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "01-1230-rc161.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": 85,
@@ -1096,7 +1104,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc130.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "02-1500-rc130.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": 85,
@@ -1120,7 +1130,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc160.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "03-1730-rc160.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": 80,
@@ -1622,8 +1634,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 0,
-    "feitos": 0
+    "total": 3,
+    "feitos": 0,
+    "data": "2026-08-21"
   },
   "custos": {
     "infraMensal": 0,
