@@ -8,8 +8,8 @@ window.ELDRYN_POSTS = [
   {
     "id": "rc163",
     "rodada": "2026-08-21 10:57",
-    "emoji": "E",
-    "titulo": "[MOD] MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE",
+    "emoji": "⛵",
+    "titulo": "[MOD] ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE",
     "fonte": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
     "fonteData": "2026-08-21",
     "confiabilidade": "comunidade",
@@ -20,8 +20,8 @@ window.ELDRYN_POSTS = [
       "nota": "Gerado pela Redacao. Fonte twitter.",
       "video": "midia/twitter/rc163.mp4"
     },
-    "twitter": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "⛵ ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⛵ ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "rc161",
@@ -174,7 +174,7 @@ window.ELDRYN_POSTS = [
   {
     "id": "rc129",
     "rodada": "2026-08-19 20:26",
-    "emoji": "\ud83c",
+    "emoji": "🎬",
     "titulo": "[COMUNIDADE] ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GI",
     "fonte": "https://x.com/gamevid4/status/2089810333527429238",
     "fonteData": "2026-08-20",
@@ -186,8 +186,8 @@ window.ELDRYN_POSTS = [
       "nota": "Gerado pela Redacao. Fonte twitter.",
       "video": "midia/twitter/rc129.mp4"
     },
-    "twitter": "ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 @gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🎬 ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 @gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🎬 ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "rc146",
