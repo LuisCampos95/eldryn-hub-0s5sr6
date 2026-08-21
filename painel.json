@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T04:21:51.974Z",
+  "geradoEm": "2026-08-21T04:26:46.568Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -96,12 +96,12 @@
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 42,
+      "n": 50,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 18,
+      "n": 21,
       "quem": "IA"
     },
     {
@@ -123,28 +123,28 @@
     "fora de pauta": 1,
     "midia fraca": 1
   },
-  "taxaAprovacao": 43,
+  "taxaAprovacao": 42,
   "qualidade": {
-    "q": 64,
-    "e": 66.7,
-    "qAprov": 83.6,
-    "qRej": 49.3
+    "q": 62.8,
+    "e": 64.9,
+    "qAprov": 83.4,
+    "qRej": 47.9
   },
   "porCategoria": [
     {
       "categoria": "COMUNIDADE",
-      "n": 16,
-      "ok": 4
-    },
-    {
-      "categoria": "BUILD",
-      "n": 12,
+      "n": 20,
       "ok": 5
     },
     {
       "categoria": "MOD",
-      "n": 10,
-      "ok": 6
+      "n": 13,
+      "ok": 8
+    },
+    {
+      "categoria": "BUILD",
+      "n": 13,
+      "ok": 5
     },
     {
       "categoria": "NOTICIA",
@@ -176,96 +176,96 @@
       "fonte": "twitter",
       "titulo": "Eldryn está te esperando!",
       "autor": "eldrynhub",
-      "status": "PARECIDO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-21 04:21:51",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "COMUNIDADE",
+      "q": 20,
+      "e": 20,
+      "motivo": "tweet generico de hype ('Eldryn esta te esperando') sem informacao nenhuma, so 20 curtidas em 13h, mesmo tema de posts genericos antigos de espera pelo jogo"
     },
     {
       "id": 161,
       "fonte": "twitter",
       "titulo": "Snake? On a phone? With Trigger Volumes? Ye :3 Mod out now on @CurseForge! #Hytale #HytaleModding",
       "autor": "foxy_cca",
-      "status": "PARECIDO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-21 04:21:51",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 85,
+      "e": 90,
+      "motivo": "mod de crossover reconhecivel (jogo da cobrinha) com 81 curtidas em video, lancado agora no CurseForge, exatamente o tipo de conteudo que ja funciona nessa pagina"
     },
     {
       "id": 160,
       "fonte": "twitter",
       "titulo": "Using @sharkeatcats Perfect Parries and Perfect Dodges, Players can choose how they wish to react to incoming attacks.",
       "autor": "GuildWarsSMP",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-21 04:21:51",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 80,
+      "e": 82,
+      "motivo": "sistema de combate grande e visual (parry vs dodge) com 58 curtidas em 16h, mod de criador conhecido (sharkeatcats), video demonstra a mecanica sozinho"
     },
     {
       "id": 159,
       "fonte": "twitter",
       "titulo": "The final showdown 'boss fight' scene from the Dragon Rider Hytale cinematic.",
       "autor": "gamevid4",
-      "status": "CANDIDATO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-21 04:21:51",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "COMUNIDADE",
+      "q": 62,
+      "e": 55,
+      "motivo": "mesma fonte do video vetado ontem (Dragon Rider), agora so o climax resolve o problema de duracao, mas so tem 34 curtidas em 13h e a grade de hoje ja fechou com 3 candidatos mais fortes"
     },
     {
       "id": 158,
       "fonte": "reddit",
       "titulo": "Bioma 2 de 3 para o meu mod de dimensão de mineração",
       "autor": "Jequiyot",
-      "status": "CANDIDATO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-21 04:21:51",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 55,
+      "e": 35,
+      "motivo": "mod de dimensao de mineracao ainda em progresso (bioma 2 de 3, sem resultado pronto), so 15 upvotes e 0 comentarios, esperar o mod ficar completo"
     },
     {
       "id": 155,
       "fonte": "reddit",
       "titulo": "Onde eu posso conseguir esse banco?",
       "autor": "Icy-Egg154",
-      "status": "PARECIDO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-21 04:21:51",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "COMUNIDADE",
+      "q": 15,
+      "e": 25,
+      "motivo": "pergunta de suporte sobre onde conseguir um banco especifico, sem informacao nova nem contexto de mod ou build, regra explicita de exclusao"
     },
     {
       "id": 154,
       "fonte": "reddit",
       "titulo": "Conheçam meu novo avatar, Ru'ya Hamad, um Deep One da cidade costeira de Innsmouth",
       "autor": "night_river",
-      "status": "PARECIDO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-21 04:21:51",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "COMUNIDADE",
+      "q": 82,
+      "e": 85,
+      "motivo": "131 upvotes e 11 comentarios no Reddit, maior engajamento de toda a fila, avatar customizado com conceito original (horror cosmico) que nenhum concorrente cobriu"
     },
     {
       "id": 153,
       "fonte": "reddit",
       "titulo": "Progresso na construção do palácio",
       "autor": "GreenMatias370",
-      "status": "PARECIDO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-21 04:21:51",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "BUILD",
+      "q": 55,
+      "e": 55,
+      "motivo": "mesmo autor do post de Vila Caldren vetado ontem por HUD de servidor concorrente aparecendo na foto; sem confirmar visualmente que essa imagem do palacio esta limpa, o padrao e nao publicar"
     },
     {
       "id": 152,
@@ -1480,8 +1480,8 @@
   ],
   "contagem": {
     "coletadosTotal": 162,
-    "aprovados": 18,
-    "rejeitados": 24,
+    "aprovados": 21,
+    "rejeitados": 29,
     "rejeitadosFiltro": 105,
     "rejeitadosMemoria": 7,
     "escritos": 18,
