@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-20T16:30:36.069Z",
+  "geradoEm": "2026-08-21T04:11:13.014Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,7 +81,7 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 149,
+      "n": 150,
       "quem": "código"
     },
     {
@@ -111,12 +111,12 @@
     },
     {
       "etapa": "Agendados",
-      "n": 9,
+      "n": 10,
       "quem": "código"
     }
   ],
   "motivosCorte": {
-    "link ja virou post": 5,
+    "link ja virou post": 6,
     "velho demais": 3,
     "sem midia e sem discussao": 13,
     "blog do arquivo, nao e novidade": 79,
@@ -272,7 +272,7 @@
       "fonte": "twitter",
       "titulo": "This is AWESOME! If you want guns in Hytale, check out the Hyguns mod by TheScar_3.",
       "autor": "HytaleAlerts",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "MOD",
       "q": 78,
@@ -571,7 +571,7 @@
         "04-1730-rc146.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 85,
       "engajamento": 78,
       "categoria": "MOD",
@@ -597,7 +597,7 @@
         "03-1500-rc132.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 78,
       "engajamento": 78,
       "categoria": "MOD",
@@ -1080,7 +1080,7 @@
             "03-1500-rc132.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 78,
           "engajamento": 78,
           "categoria": "MOD",
@@ -1106,7 +1106,7 @@
             "04-1730-rc146.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 85,
           "engajamento": 78,
           "categoria": "MOD",
@@ -1479,13 +1479,13 @@
     }
   ],
   "contagem": {
-    "coletadosTotal": 149,
+    "coletadosTotal": 150,
     "aprovados": 18,
     "rejeitados": 24,
-    "rejeitadosFiltro": 102,
+    "rejeitadosFiltro": 103,
     "rejeitadosMemoria": 5,
     "escritos": 18,
-    "agendados": 9,
+    "agendados": 10,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -1493,12 +1493,11 @@
       "twitter": 813
     },
     "publicadosMes": 71,
-    "publicadosHoje": 1
+    "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 5,
-    "feitos": 1,
-    "data": "2026-08-20"
+    "total": 0,
+    "feitos": 0
   },
   "custos": {
     "infraMensal": 0,
@@ -1536,7 +1535,7 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-19T17:57:07.360Z",
+  "ultimaColeta": "2026-08-21T04:11:12.664Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
@@ -1549,11 +1548,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6037,
-      "totalPosts": 245,
+      "seguidores": 6036,
+      "totalPosts": 249,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 128,
+      "mediaCurtidas": 127,
       "amostra": 100
     },
     "twitter": {
@@ -1614,7 +1613,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 367,
+        "curtidas": 368,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
@@ -1624,8 +1623,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-05-06T14:49:47+0000",
-      "ate": "2026-08-20T01:46:47+0000"
+      "de": "2026-05-26T22:51:12+0000",
+      "ate": "2026-08-20T20:39:43+0000"
     },
     "serie": [
       {
