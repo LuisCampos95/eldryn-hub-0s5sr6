@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T04:38:55.745Z",
+  "geradoEm": "2026-08-21T04:40:27.098Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -111,7 +111,7 @@
     },
     {
       "etapa": "Agendados",
-      "n": 10,
+      "n": 13,
       "quem": "código"
     }
   ],
@@ -188,7 +188,7 @@
       "fonte": "twitter",
       "titulo": "Snake? On a phone? With Trigger Volumes? Ye :3 Mod out now on @CurseForge! #Hytale #HytaleModding",
       "autor": "foxy_cca",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-21 04:21:51",
       "categoria": "MOD",
       "q": 85,
@@ -200,7 +200,7 @@
       "fonte": "twitter",
       "titulo": "Using @sharkeatcats Perfect Parries and Perfect Dodges, Players can choose how they wish to react to incoming attacks.",
       "autor": "GuildWarsSMP",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-21 04:21:51",
       "categoria": "MOD",
       "q": 80,
@@ -416,7 +416,7 @@
       "fonte": "twitter",
       "titulo": "Developing immersion in timber logging of trees #hytale #hytalemodding",
       "autor": "GaiaScript",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "MOD",
       "q": 85,
@@ -560,9 +560,7 @@
       "textoMeta": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE\n\nAntes a criatura domada só servia de montaria pra voar. Com a atualização do Animal Husbandry / Tamework, ela entra na briga no seu lugar.\n\n🎥 Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE\n\nAntes a criatura domada só servia de montaria pra voar. Com a atualização do Animal Husbandry / Tamework, ela entra na briga no seu lugar.\n\n🎥 @Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Alechilles/status/2088631532168589604",
-      "arquivos": [
-        "midia/twitter/rc146.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc146.mp4"
       ],
@@ -586,9 +584,7 @@
       "textoMeta": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 @TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/HytaleAlerts/status/2087562663316402601",
-      "arquivos": [
-        "midia/twitter/rc132.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc132.mp4"
       ],
@@ -612,9 +608,7 @@
       "textoMeta": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nA décima terceira parte da pre-release trouxe uma leva grande de correções. Os destaques pra quem já tá jogando:\n\n🔹 Portal não fecha mais assim que você se afasta do dispositivo, o mundo fica aberto e reconecta quando você volta\n🔹 Corrigido o bug que duplicava item em situações específicas\n🔹 Consertaram um crash que travava mundo muito grande depois de rodar por muito tempo, e o processo ficou mais rápido de quebra\n🔹 Instalar um mod não cancela mais o download dos outros, agora entra numa fila\n🔹 Bloco mole grande, tipo o casulo de aranha, agora pode ser derrubado com flecha\n🔹 Baú Grande de Kweebec conta como bloco de madeira pra quebrar, machado é a ferramenta certa\n🔹 Vários vazamentos de memória fechados, sessão longa deve ficar mais estável\n🔹 Superfície transparente, tipo vidro e água, parou de perder nitidez\n\nPatch notes completo com todas as correções no site oficial do Hytale.\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nA décima terceira parte da pre-release trouxe uma leva grande de correções. Segue tudo que interessa pra quem já tá jogando:\n\n🔹 ITENS E INTERAÇÃO\nBloco mole grande, tipo o casulo de aranha, agora pode ser derrubado com flecha. E quando um bloco tem mais de uma interação possível, o jogo mostra todas as opções na hora.\n\n🔹 DESEMPENHO\nMelhorou o uso de memória em distância de visão alta. Mundo com muito céu aberto acima agora guarda bem menos dado de luz.\n\n🔹 COMBATE E MOVIMENTO\nObjeto de vários blocos, tipo porta e estátua, agora é acertado exatamente onde você mirou. Ataque em área passou a acertar direito em coordenada negativa do mundo.\n\n🔹 MUNDO E BLOCOS\nO maior aqui é o portal. Antes ele fechava assim que você se afastava do dispositivo, agora o mundo continua aberto e o portal reconecta quando você volta. Trigger Volume colada no mundo não perde mais condição, efeito nem grupo. E o Baú Grande de Kweebec agora conta como bloco de madeira pra quebrar, machado é a ferramenta certa.\n\n🔹 GERAÇÃO DE MUNDO\nCorrigiram um defeito do WorldGen V2 que apagava entidade em prefab rotacionado, e outro que gerava prefab diferente dependendo da plataforma.\n\n🔹 ITENS E DUPLICAÇÃO\nCorrigiram o bug que deixava duplicar item em situações específicas. Flecha atirada através de célula com bloco de hitbox pequena agora interage com o bloco certo.\n\n🔹 NPCS E CRIATURAS\nCriatura invulnerável parou de sofrer empurrão de projétil. E abrir baú ou interagir com objeto volta a chamar atenção de criatura por perto, que tinha parado de acontecer.\n\n🔹 FERRAMENTAS CRIATIVAS\nPincel de construção segurado na mão usa o modelo certo agora. E ao copiar ou salvar uma seleção de blocos, só entra Trigger Volume que estiver de fato dentro da área selecionada.\n\n🔹 INTERFACE\nPegar item sem relação um do outro não junta mais as notificações numa coisa só confusa.\n\n🔹 MOD BROWSER\nInstalar um mod não cancela mais o download dos outros, agora entra numa fila. Melhorou bastante o uso com controle, botão de instalar mais fácil de alcançar, thumbstick chega em tudo (carrossel, caixa de seleção, botão, ladrilho), navegação entre abas não perde mais o foco.\n\n🔹 GRÁFICOS\nSuperfície transparente, tipo vidro e água, parou de perder nitidez. Partícula brilhante voltou a brilhar. E corrigiram uma escuridão infinita que acontecia quando efeito de clima era aplicado num mundo que já forçava o próprio clima.\n\n🔹 ÁUDIO\nMúsica e ambiente não ficam mais tão baixas quando sua vida tá no fim, então dá pra ouvir o jogo mesmo em perigo.\n\n🔹 ESTABILIDADE\nVários vazamentos de memória fechados de uma vez, isso deve deixar sessão longa mais estável. Corrigiram também um crash que acontecia em mundo muito grande depois de rodar por muito tempo, e o processo ficou mais rápido de quebra.\n\n🔧 PRA QUEM CRIA MOD\nSistema de trigger volume ganhou mais nós lógicos de comparação. NPC agora consegue girar no lugar numa velocidade controlada. Bloco pode rodar uma animação mais rápida ou mais devagar que o padrão. E marcador de mapa pode ser sobrescrito por código, útil pra quem cria evento customizado.\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
-      "arquivos": [
-        "midia/site/rc-update6-p13.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc148.jpg"
       ],
@@ -638,13 +632,7 @@
       "textoMeta": "🗡️ O TANJIRO, DE DEMON SLAYER, GANHOU VERSÃO DE PERSONAGEM NO HYTALE\n\nEstá tudo lá. O haori xadrez verde e preto, a katana na cintura e a caixa de madeira nas costas. Dá pra reconhecer de longe.\n\n📷 Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🗡️ O TANJIRO, DE DEMON SLAYER, GANHOU VERSÃO DE PERSONAGEM NO HYTALE\n\nEstá tudo lá. O haori xadrez verde e preto, a katana na cintura e a caixa de madeira nas costas. Dá pra reconhecer de longe.\n\n📷 u/Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vshptb/i_recreated_kamado_tanjiro_from_demon_slayer/",
-      "arquivos": [
-        "midia/reddit/rc123/1.png",
-        "midia/reddit/rc123/2.png",
-        "midia/reddit/rc123/3.png",
-        "midia/reddit/rc123/4.png",
-        "midia/reddit/rc123/5.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc123_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc123_2.jpg",
@@ -1005,13 +993,7 @@
           "textoMeta": "🗡️ O TANJIRO, DE DEMON SLAYER, GANHOU VERSÃO DE PERSONAGEM NO HYTALE\n\nEstá tudo lá. O haori xadrez verde e preto, a katana na cintura e a caixa de madeira nas costas. Dá pra reconhecer de longe.\n\n📷 Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🗡️ O TANJIRO, DE DEMON SLAYER, GANHOU VERSÃO DE PERSONAGEM NO HYTALE\n\nEstá tudo lá. O haori xadrez verde e preto, a katana na cintura e a caixa de madeira nas costas. Dá pra reconhecer de longe.\n\n📷 u/Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vshptb/i_recreated_kamado_tanjiro_from_demon_slayer/",
-          "arquivos": [
-            "midia/reddit/rc123/1.png",
-            "midia/reddit/rc123/2.png",
-            "midia/reddit/rc123/3.png",
-            "midia/reddit/rc123/4.png",
-            "midia/reddit/rc123/5.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc123_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc123_2.jpg",
@@ -1043,9 +1025,7 @@
           "textoMeta": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nA décima terceira parte da pre-release trouxe uma leva grande de correções. Os destaques pra quem já tá jogando:\n\n🔹 Portal não fecha mais assim que você se afasta do dispositivo, o mundo fica aberto e reconecta quando você volta\n🔹 Corrigido o bug que duplicava item em situações específicas\n🔹 Consertaram um crash que travava mundo muito grande depois de rodar por muito tempo, e o processo ficou mais rápido de quebra\n🔹 Instalar um mod não cancela mais o download dos outros, agora entra numa fila\n🔹 Bloco mole grande, tipo o casulo de aranha, agora pode ser derrubado com flecha\n🔹 Baú Grande de Kweebec conta como bloco de madeira pra quebrar, machado é a ferramenta certa\n🔹 Vários vazamentos de memória fechados, sessão longa deve ficar mais estável\n🔹 Superfície transparente, tipo vidro e água, parou de perder nitidez\n\nPatch notes completo com todas as correções no site oficial do Hytale.\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nA décima terceira parte da pre-release trouxe uma leva grande de correções. Segue tudo que interessa pra quem já tá jogando:\n\n🔹 ITENS E INTERAÇÃO\nBloco mole grande, tipo o casulo de aranha, agora pode ser derrubado com flecha. E quando um bloco tem mais de uma interação possível, o jogo mostra todas as opções na hora.\n\n🔹 DESEMPENHO\nMelhorou o uso de memória em distância de visão alta. Mundo com muito céu aberto acima agora guarda bem menos dado de luz.\n\n🔹 COMBATE E MOVIMENTO\nObjeto de vários blocos, tipo porta e estátua, agora é acertado exatamente onde você mirou. Ataque em área passou a acertar direito em coordenada negativa do mundo.\n\n🔹 MUNDO E BLOCOS\nO maior aqui é o portal. Antes ele fechava assim que você se afastava do dispositivo, agora o mundo continua aberto e o portal reconecta quando você volta. Trigger Volume colada no mundo não perde mais condição, efeito nem grupo. E o Baú Grande de Kweebec agora conta como bloco de madeira pra quebrar, machado é a ferramenta certa.\n\n🔹 GERAÇÃO DE MUNDO\nCorrigiram um defeito do WorldGen V2 que apagava entidade em prefab rotacionado, e outro que gerava prefab diferente dependendo da plataforma.\n\n🔹 ITENS E DUPLICAÇÃO\nCorrigiram o bug que deixava duplicar item em situações específicas. Flecha atirada através de célula com bloco de hitbox pequena agora interage com o bloco certo.\n\n🔹 NPCS E CRIATURAS\nCriatura invulnerável parou de sofrer empurrão de projétil. E abrir baú ou interagir com objeto volta a chamar atenção de criatura por perto, que tinha parado de acontecer.\n\n🔹 FERRAMENTAS CRIATIVAS\nPincel de construção segurado na mão usa o modelo certo agora. E ao copiar ou salvar uma seleção de blocos, só entra Trigger Volume que estiver de fato dentro da área selecionada.\n\n🔹 INTERFACE\nPegar item sem relação um do outro não junta mais as notificações numa coisa só confusa.\n\n🔹 MOD BROWSER\nInstalar um mod não cancela mais o download dos outros, agora entra numa fila. Melhorou bastante o uso com controle, botão de instalar mais fácil de alcançar, thumbstick chega em tudo (carrossel, caixa de seleção, botão, ladrilho), navegação entre abas não perde mais o foco.\n\n🔹 GRÁFICOS\nSuperfície transparente, tipo vidro e água, parou de perder nitidez. Partícula brilhante voltou a brilhar. E corrigiram uma escuridão infinita que acontecia quando efeito de clima era aplicado num mundo que já forçava o próprio clima.\n\n🔹 ÁUDIO\nMúsica e ambiente não ficam mais tão baixas quando sua vida tá no fim, então dá pra ouvir o jogo mesmo em perigo.\n\n🔹 ESTABILIDADE\nVários vazamentos de memória fechados de uma vez, isso deve deixar sessão longa mais estável. Corrigiram também um crash que acontecia em mundo muito grande depois de rodar por muito tempo, e o processo ficou mais rápido de quebra.\n\n🔧 PRA QUEM CRIA MOD\nSistema de trigger volume ganhou mais nós lógicos de comparação. NPC agora consegue girar no lugar numa velocidade controlada. Bloco pode rodar uma animação mais rápida ou mais devagar que o padrão. E marcador de mapa pode ser sobrescrito por código, útil pra quem cria evento customizado.\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
-          "arquivos": [
-            "midia/site/rc-update6-p13.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc148.jpg"
           ],
@@ -1069,9 +1049,7 @@
           "textoMeta": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 @TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/HytaleAlerts/status/2087562663316402601",
-          "arquivos": [
-            "midia/twitter/rc132.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc132.mp4"
           ],
@@ -1095,9 +1073,7 @@
           "textoMeta": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE\n\nAntes a criatura domada só servia de montaria pra voar. Com a atualização do Animal Husbandry / Tamework, ela entra na briga no seu lugar.\n\n🎥 Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE\n\nAntes a criatura domada só servia de montaria pra voar. Com a atualização do Animal Husbandry / Tamework, ela entra na briga no seu lugar.\n\n🎥 @Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Alechilles/status/2088631532168589604",
-          "arquivos": [
-            "midia/twitter/rc146.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc146.mp4"
           ],
@@ -1485,7 +1461,7 @@
     "rejeitadosFiltro": 105,
     "rejeitadosMemoria": 7,
     "escritos": 20,
-    "agendados": 10,
+    "agendados": 13,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,

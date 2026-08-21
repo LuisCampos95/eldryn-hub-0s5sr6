@@ -6,6 +6,42 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "rc161",
+    "rodada": "2026-08-21 01:40",
+    "emoji": "\ud83d",
+    "titulo": "[MOD] COLOCARAM O JOGO DA COBRINHA DO NOKIA DENTRO DO HYTA",
+    "fonte": "https://x.com/foxy_cca/status/2089422365486719399",
+    "fonteData": "2026-08-21",
+    "confiabilidade": "comunidade",
+    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 85, engajamento 90) e QC de estilo.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://x.com/foxy_cca/status/2089422365486719399",
+      "nota": "Gerado pela Redacao. Fonte twitter.",
+      "video": "midia/twitter/rc161.mp4"
+    },
+    "twitter": "🐍 COLOCARAM O JOGO DA COBRINHA DO NOKIA DENTRO DO HYTALE\n\nO celular tijolão aparece gigante flutuando no céu, com a tela verde rodando a cobrinha de verdade, comendo item e crescendo. Depois o personagem aparece segurando o aparelho na mão.\n\nO mod funciona com Trigger Volumes e já está no CurseForge.\n\n🎥 @foxy_cca\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🐍 COLOCARAM O JOGO DA COBRINHA DO NOKIA DENTRO DO HYTALE\n\nO celular tijolão aparece gigante flutuando no céu, com a tela verde rodando a cobrinha de verdade, comendo item e crescendo. Depois o personagem aparece segurando o aparelho na mão.\n\nO mod funciona com Trigger Volumes e já está no CurseForge.\n\n🎥 foxy_cca\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "rc160",
+    "rodada": "2026-08-21 01:40",
+    "emoji": "⚔",
+    "titulo": "[MOD] DÁ PRA APARAR OU ESQUIVAR CONFORME O GOLPE NESSE MOD",
+    "fonte": "https://x.com/GuildWarsSMP/status/2090417313464074700",
+    "fonteData": "2026-08-21",
+    "confiabilidade": "comunidade",
+    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 80, engajamento 82) e QC de estilo.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://x.com/GuildWarsSMP/status/2090417313464074700",
+      "nota": "Gerado pela Redacao. Fonte twitter.",
+      "video": "midia/twitter/rc160.mp4"
+    },
+    "twitter": "⚔️ DÁ PRA APARAR OU ESQUIVAR CONFORME O GOLPE NESSE MOD DE COMBATE DO HYTALE\n\nO sistema Perfect Parries and Perfect Dodges deixa o jogador escolher a reação conforme o tipo de ataque que vem. A luta é em primeira pessoa, com machado e escudo, em uma arena de deserto do servidor GuildWarsSMP na Season 1.\n\n🎥 @sharkeatcats\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ DÁ PRA APARAR OU ESQUIVAR CONFORME O GOLPE NESSE MOD DE COMBATE DO HYTALE\n\nO sistema Perfect Parries and Perfect Dodges deixa o jogador escolher a reação conforme o tipo de ataque que vem. A luta é em primeira pessoa, com machado e escudo, em uma arena de deserto do servidor GuildWarsSMP na Season 1.\n\n🎥 sharkeatcats\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "rc149",
     "rodada": "2026-08-20 12:58",
     "emoji": "H",
