@@ -439,6 +439,30 @@
   .post.tw-marcado:hover { opacity:.75; filter:grayscale(.3); }
   label.chk-postei { display:inline-flex; align-items:center; gap:6px; }
 
+  /* ===== editorial (Twitter, analise/opiniao) ===== */
+  .editorial-filtros { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:16px; align-items:center; }
+  .ed-pilula { font-family:var(--mono); font-size:.75rem; font-weight:600; padding:6px 13px;
+    border-radius:99px; border:1px solid var(--line); background:var(--surface-2); color:var(--ink-soft); cursor:pointer; }
+  .ed-pilula.ativa { background:var(--c-agenda); color:#fff; border-color:var(--c-agenda); }
+  .ed-busca { font-family:var(--body); font-size:.82rem; padding:7px 12px; border-radius:99px;
+    border:1px solid var(--line); background:var(--surface); color:var(--ink); flex:1; min-width:160px; max-width:280px; }
+  .ed-card { background:var(--surface); border:1px solid var(--line); border-radius:12px;
+    padding:16px 18px; margin-bottom:12px; box-shadow:var(--shadow); }
+  .ed-card.ed-postado { opacity:.5; filter:grayscale(.6); }
+  .ed-card.ed-postado:hover { opacity:.8; filter:grayscale(.2); }
+  .ed-topo { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin-bottom:8px; }
+  .ed-tit { font-weight:600; font-size:.92rem; flex:1; min-width:180px; }
+  .tag.status-ideia{background:var(--surface-3);color:var(--ink-faint)}
+  .tag.status-rascunho{background:var(--warn-soft);color:var(--warn)}
+  .tag.status-pronto{background:var(--accent-soft);color:var(--accent)}
+  .tag.status-postado{background:var(--good-soft);color:var(--good)}
+  .tag.status-arquivado{background:var(--surface-3);color:var(--ink-faint)}
+  .tag.dev{background:var(--c-ia)/*fallback*/;background:color-mix(in srgb, var(--c-ia) 18%, var(--surface));color:var(--c-ia)}
+  .ed-texto { background:var(--surface-2); border:1px solid var(--line); border-radius:9px;
+    padding:12px 14px; white-space:pre-wrap; font-size:.85rem; line-height:1.6; margin-bottom:10px; }
+  .ed-meta { display:flex; gap:12px; flex-wrap:wrap; font-family:var(--mono); font-size:.71rem; color:var(--ink-faint); margin-bottom:10px; }
+  .ed-meta a { color:var(--accent); }
+
   ::-webkit-scrollbar{width:9px;height:9px}
   ::-webkit-scrollbar-track{background:transparent}
   ::-webkit-scrollbar-thumb{background:var(--line-strong);border-radius:99px}
@@ -467,6 +491,7 @@
   <nav class="abas">
     <button class="aba ativa" data-aba="hoje">Hoje</button>
     <button class="aba" data-aba="twitter">Twitter</button>
+    <button class="aba" data-aba="editorial">Twitter — Editorial</button>
     <button class="aba" data-aba="dados">Dados</button>
     <a class="aba aba-link" href="arquivo/" target="_blank" rel="noopener">Arquivo de cards ↗</a>
   </nav>
@@ -503,6 +528,24 @@
       <div id="twitterLista"></div>
     </div>
 
+  </section>
+
+  <!-- ================= ABA TWITTER EDITORIAL ================= -->
+  <section class="painel-aba" id="aba-editorial">
+    <div class="bloco agenda">
+      <div class="bloco-topo">
+        <h2>Twitter — Editorial</h2>
+        <span class="bloco-nota">análise/opinião, sempre manual, nunca vai pro Facebook nem Instagram</span>
+      </div>
+      <div class="bloco-corpo">
+        <div class="aviso" style="margin-top:0">
+          IA só sugere. Nada publica sozinho. "NOVA IDEIA"/"GERAR IDEIAS" não são
+          botões — peça no chat, tipo "gera ideias sobre [tópico]".
+        </div>
+        <div class="editorial-filtros" id="editorialFiltros"></div>
+        <div id="editorialLista"></div>
+      </div>
+    </div>
   </section>
 
   <!-- ================= ABA DADOS ================= -->
@@ -819,6 +862,81 @@ function postoDe(i){
 }
 function copiarTexto(i){ copiar(postoDe(i).textoMeta,'texto copiado, cole onde quiser'); }
 
+/* ===== editorial (Twitter, analise/opiniao) ===== */
+var EDITORIAL_FILTRO = 'TODOS';
+var EDITORIAL_BUSCA = '';
+
+function montaEditorialFiltros(d){
+  var porStatus = (d.editorial && d.editorial.porStatus) || {};
+  var total = Object.keys(porStatus).reduce(function(s,k){return s+porStatus[k]},0);
+  var opcoes = [
+    ['TODOS', 'Todos', total],
+    ['IDEIA', 'Ideias', porStatus.IDEIA||0],
+    ['RASCUNHO', 'Rascunhos', porStatus.RASCUNHO||0],
+    ['PRONTO', 'Prontos', porStatus.PRONTO||0],
+    ['POSTADO', 'Postados', porStatus.POSTADO||0],
+    ['ARQUIVADO', 'Arquivados', porStatus.ARQUIVADO||0],
+  ];
+  var html = opcoes.map(function(o){
+    return '<button class="ed-pilula'+(EDITORIAL_FILTRO===o[0]?' ativa':'')+'" onclick="filtrarEditorial(\''+o[0]+'\')">'
+      +o[1]+' ('+o[2]+')</button>';
+  }).join('');
+  html += '<input class="ed-busca" placeholder="buscar por assunto, texto, fonte..." value="'+esc(EDITORIAL_BUSCA)+'" oninput="buscarEditorial(this.value)">';
+  document.getElementById('editorialFiltros').innerHTML = html;
+}
+function filtrarEditorial(s){ EDITORIAL_FILTRO = s; montaEditorialFiltros(DADOS); montaEditorialLista(DADOS); }
+function buscarEditorial(v){ EDITORIAL_BUSCA = v; montaEditorialLista(DADOS); }
+
+function cartaoEditorial(p){
+  var status = (p.status||'IDEIA').toLowerCase();
+  var postado = status === 'postado';
+  var devBadge = p.mencao_dev
+    ? '<span class="tag dev" title="'+esc(p.mencao_dev_motivo||'')+'">@ '+esc(p.mencao_dev_quem||'dev')+'</span>'
+    : '';
+  var intent = 'https://x.com/intent/post?text='+encodeURIComponent(p.texto||'');
+  var acoes = postado
+    ? '<a class="btn neutro" target="_blank" rel="noopener" href="'+esc(p.tweet_url||'#')+'">Ver tweet ↗</a>'
+    : (p.texto
+        ? '<a class="btn tw" target="_blank" rel="noopener" href="'+esc(intent)+'">'+SVG.twitter+' Abrir no X</a>'
+          +'<button class="btn neutro" onclick="copiar(document.getElementById(\'edtxt'+p.id+'\').textContent,\'texto copiado\')">Copiar texto</button>'
+        : '<span class="tag status-ideia">ainda sem texto (status IDEIA)</span>');
+
+  return '<div class="ed-card'+(postado?' ed-postado':'')+'">'
+    +'<div class="ed-topo">'
+      +'<span class="ed-tit">'+esc(p.titulo)+'</span>'
+      +(p.tipo_conteudo?'<span class="tag score">'+esc(p.tipo_conteudo)+'</span>':'')
+      +'<span class="tag status-'+status+'">'+esc(p.status)+'</span>'
+      +devBadge
+    +'</div>'
+    +(p.angulo?'<div class="post-motivo" style="margin-bottom:10px">'+esc(p.angulo)+'</div>':'')
+    +(p.texto?'<div class="ed-texto" id="edtxt'+p.id+'">'+esc(p.texto)+'</div>':'')
+    +'<div class="ed-meta">'
+      +'<span><a href="'+esc(p.fonte_url)+'" target="_blank" rel="noopener">fonte: '+esc(p.fonte_titulo||p.fonte_url)+' ↗</a></span>'
+      +(p.fonte_data?'<span>'+esc(p.fonte_data)+'</span>':'')
+      +(p.fontes_secundarias&&p.fontes_secundarias.length?'<span>+'+p.fontes_secundarias.length+' fonte(s) secundária(s)</span>':'')
+    +'</div>'
+    +'<div class="post-acoes">'+acoes+'</div>'
+  +'</div>';
+}
+
+function montaEditorialLista(d){
+  var el = document.getElementById('editorialLista');
+  var posts = (d.editorial && d.editorial.posts) || [];
+  if (EDITORIAL_FILTRO !== 'TODOS') posts = posts.filter(function(p){return p.status===EDITORIAL_FILTRO});
+  if (EDITORIAL_BUSCA.trim()) {
+    var q = EDITORIAL_BUSCA.trim().toLowerCase();
+    posts = posts.filter(function(p){
+      return (p.titulo||'').toLowerCase().indexOf(q)>=0
+        || (p.texto||'').toLowerCase().indexOf(q)>=0
+        || (p.fonte_url||'').toLowerCase().indexOf(q)>=0
+        || (p.angulo||'').toLowerCase().indexOf(q)>=0;
+    });
+  }
+  if (!posts.length) { el.innerHTML = '<div class="vazio">nada aqui ainda</div>'; return; }
+  el.innerHTML = posts.map(cartaoEditorial).join('');
+}
+function montaEditorial(d){ montaEditorialFiltros(d); montaEditorialLista(d); }
+
 /* ===== aba Twitter =====
    Mesmo flatten de dias/posts da grade principal (por isso o indice "i" bate
    com postoDe), so que o card mostra so o que importa pra postar na mao: o
@@ -1080,7 +1198,7 @@ function carregar(){
     DADOS=d;
     document.getElementById('ultimaColeta').textContent='última coleta '+rel(d.ultimaColeta);
     document.getElementById('geradoEm').textContent=hora(d.geradoEm);
-    montaRedes(d); montaKpis(d); montaGrade(d); montaAbaTwitter(d); montaFunil(d); montaIA(d);
+    montaRedes(d); montaKpis(d); montaGrade(d); montaAbaTwitter(d); montaEditorial(d); montaFunil(d); montaIA(d);
     montaPlacar(d); montaGrafico(d);
     montaTopPosts(d); montaFeed(d);
     barras('motivos',Object.keys(d.motivosCorte).map(function(k){return [k,d.motivosCorte[k]]})
