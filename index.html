@@ -430,6 +430,15 @@
   .dia:not(.aberto) .data-num { color:var(--ink-faint); }
   .tag.publicado { background:var(--info-soft); color:var(--info); }
 
+  /* ===== aba Twitter =====
+     Card mais simples, so o que importa pra postar na mao: texto, arquivo,
+     link. "Ja postei" e local ao navegador (sem backend pra gravar de
+     verdade), entao so esmaece o card, nunca esconde. */
+  .post-cab.tw-simples { grid-template-columns:74px 1fr auto; }
+  .post.tw-marcado { opacity:.5; filter:grayscale(.65); }
+  .post.tw-marcado:hover { opacity:.75; filter:grayscale(.3); }
+  label.chk-postei { display:inline-flex; align-items:center; gap:6px; }
+
   ::-webkit-scrollbar{width:9px;height:9px}
   ::-webkit-scrollbar-track{background:transparent}
   ::-webkit-scrollbar-thumb{background:var(--line-strong);border-radius:99px}
@@ -457,6 +466,7 @@
 
   <nav class="abas">
     <button class="aba ativa" data-aba="hoje">Hoje</button>
+    <button class="aba" data-aba="twitter">Twitter</button>
     <button class="aba" data-aba="dados">Dados</button>
     <a class="aba aba-link" href="arquivo/" target="_blank" rel="noopener">Arquivo de cards ↗</a>
   </nav>
@@ -478,6 +488,19 @@
         <span class="bloco-nota">desde o início da pipeline</span>
       </div>
       <div class="bloco-corpo"><div class="placar" id="placar"></div></div>
+    </div>
+
+  </section>
+
+  <!-- ================= ABA TWITTER ================= -->
+  <section class="painel-aba" id="aba-twitter">
+
+    <div class="bloco agenda destaque-grade">
+      <div class="bloco-topo">
+        <h2>Pra postar no Twitter</h2>
+        <span class="bloco-nota">sempre manual · "já postei" só muda a cor neste navegador, não grava em lugar nenhum</span>
+      </div>
+      <div id="twitterLista"></div>
     </div>
 
   </section>
@@ -795,6 +818,76 @@ function postoDe(i){
   return lista[i];
 }
 function copiarTexto(i){ copiar(postoDe(i).textoMeta,'texto copiado, cole onde quiser'); }
+
+/* ===== aba Twitter =====
+   Mesmo flatten de dias/posts da grade principal (por isso o indice "i" bate
+   com postoDe), so que o card mostra so o que importa pra postar na mao: o
+   texto com @, o arquivo pra arrastar e o link do compositor. Sem backend
+   pra guardar "ja postei" de verdade, entao fica local ao navegador. */
+function cartaoTwitter(g,i){
+  var marcado = localStorage.getItem('tw-postado-'+g.id)==='1';
+  var intent='https://x.com/intent/post?text='+encodeURIComponent(g.textoTwitter||g.textoMeta||'');
+  return '<div class="post'+(marcado?' tw-marcado':'')+'" id="posttw-'+i+'">'
+    +'<div class="post-cab tw-simples" onclick="alternaTw('+i+')">'
+    +'<span class="post-hora mono">'+esc(g.hora)+'</span>'
+    +'<span class="post-tit">'+esc(g.titulo)+'</span>'
+    +'<span class="post-badges" id="badgetw-'+i+'">'
+      +(marcado?'<span class="tag publicado">já postei</span>':'<span class="tag '+esc(g.status)+'">'+esc(g.status)+'</span>')
+      +'<span class="seta">▶</span></span>'
+    +'</div>'
+    +'<div class="post-corpo">'
+      +'<div class="post-texto">'+esc(g.textoTwitter||g.textoMeta)+'</div>'
+      +montaPasta(g,i)
+      +'<div class="post-acoes">'
+        +'<a class="btn tw" href="'+esc(intent)+'" target="_blank" rel="noopener">'+SVG.twitter+' Abrir no X</a>'
+        +'<button class="btn neutro" onclick="copiarTextoTwitter('+i+')">Copiar texto</button>'
+        +'<label class="btn neutro chk-postei"><input type="checkbox" '+(marcado?'checked':'')
+          +' onclick="event.stopPropagation()" onchange="marcarPostadoTw('+i+',this.checked)">Já postei</label>'
+      +'</div>'
+    +'</div>'
+  +'</div>';
+}
+function montaAbaTwitter(d){
+  var el=document.getElementById('twitterLista');
+  var dias=d.diasGrade||[];
+  if(!dias.length){ el.innerHTML='<div class="vazio">nada agendado ainda</div>'; return; }
+  var hojeISO=new Date().toLocaleString('sv-SE',{timeZone:'America/Sao_Paulo'}).slice(0,10);
+  var html=''; var idx=0;
+  for(var di=0;di<dias.length;di++){
+    var dia=dias[di];
+    var quando = ehHoje(dia.dia)?'HOJE' : ehAmanha(dia.dia)?'AMANHÃ' : '';
+    var passado = dia.dia < hojeISO;
+    var aberto = !passado;
+    html+='<div class="dia'+(aberto?' aberto':'')+'" id="diatw-'+di+'">'
+      +'<div class="data-faixa" onclick="alternaDiaTw('+di+')">'
+        +'<div class="data-forte">'+(quando?'<span class="data-tag">'+quando+'</span>':'')
+          +'<span class="data-num">'+esc(dia.dia.split('-').reverse().join('/'))+'</span></div>'
+        +'<span class="data-ext">'+esc(dataPorExtenso(dia.dia))+'</span>'
+        +'<span class="data-qtd">'+dia.total+' posts</span>'
+        +'<span class="seta-dia">▶</span>'
+      +'</div>'
+      +'<div class="dia-posts">';
+    for(var i2=0;i2<dia.posts.length;i2++){
+      html+=cartaoTwitter(dia.posts[i2],idx);
+      idx++;
+    }
+    html+='</div></div>';
+  }
+  el.innerHTML=html;
+}
+function alternaDiaTw(i){ document.getElementById('diatw-'+i).classList.toggle('aberto'); }
+function alternaTw(i){ document.getElementById('posttw-'+i).classList.toggle('aberto'); }
+function copiarTextoTwitter(i){ var g=postoDe(i); copiar(g.textoTwitter||g.textoMeta,'texto copiado, cole no X'); }
+function marcarPostadoTw(i,val){
+  var g=postoDe(i);
+  if(val) localStorage.setItem('tw-postado-'+g.id,'1'); else localStorage.removeItem('tw-postado-'+g.id);
+  document.getElementById('posttw-'+i).classList.toggle('tw-marcado',val);
+  var badge=document.getElementById('badgetw-'+i);
+  if(badge){
+    var tagHtml = val ? '<span class="tag publicado">já postei</span>' : '<span class="tag '+esc(g.status)+'">'+esc(g.status)+'</span>';
+    badge.innerHTML = tagHtml+'<span class="seta">▶</span>';
+  }
+}
 function compartilharGrupo(i){
   var g=postoDe(i);
   if(!g.urlPublicada){
@@ -987,7 +1080,7 @@ function carregar(){
     DADOS=d;
     document.getElementById('ultimaColeta').textContent='última coleta '+rel(d.ultimaColeta);
     document.getElementById('geradoEm').textContent=hora(d.geradoEm);
-    montaRedes(d); montaKpis(d); montaGrade(d); montaFunil(d); montaIA(d);
+    montaRedes(d); montaKpis(d); montaGrade(d); montaAbaTwitter(d); montaFunil(d); montaIA(d);
     montaPlacar(d); montaGrafico(d);
     montaTopPosts(d); montaFeed(d);
     barras('motivos',Object.keys(d.motivosCorte).map(function(k){return [k,d.motivosCorte[k]]})
