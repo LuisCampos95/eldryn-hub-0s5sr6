@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T04:11:13.014Z",
+  "geradoEm": "2026-08-21T04:21:51.974Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 150,
+      "n": 162,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 47,
+      "n": 57,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 42,
+      "n": 50,
       "quem": "código"
     },
     {
@@ -116,9 +116,9 @@
     }
   ],
   "motivosCorte": {
+    "sem midia e sem discussao": 15,
     "link ja virou post": 6,
     "velho demais": 3,
-    "sem midia e sem discussao": 13,
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1,
     "midia fraca": 1
@@ -171,6 +171,126 @@
     }
   },
   "recentes": [
+    {
+      "id": 162,
+      "fonte": "twitter",
+      "titulo": "Eldryn está te esperando!",
+      "autor": "eldrynhub",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-21 04:21:51",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 161,
+      "fonte": "twitter",
+      "titulo": "Snake? On a phone? With Trigger Volumes? Ye :3 Mod out now on @CurseForge! #Hytale #HytaleModding",
+      "autor": "foxy_cca",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-21 04:21:51",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 160,
+      "fonte": "twitter",
+      "titulo": "Using @sharkeatcats Perfect Parries and Perfect Dodges, Players can choose how they wish to react to incoming attacks.",
+      "autor": "GuildWarsSMP",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-21 04:21:51",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 159,
+      "fonte": "twitter",
+      "titulo": "The final showdown 'boss fight' scene from the Dragon Rider Hytale cinematic.",
+      "autor": "gamevid4",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-21 04:21:51",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 158,
+      "fonte": "reddit",
+      "titulo": "Bioma 2 de 3 para o meu mod de dimensão de mineração",
+      "autor": "Jequiyot",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-21 04:21:51",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 155,
+      "fonte": "reddit",
+      "titulo": "Onde eu posso conseguir esse banco?",
+      "autor": "Icy-Egg154",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-21 04:21:51",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 154,
+      "fonte": "reddit",
+      "titulo": "Conheçam meu novo avatar, Ru'ya Hamad, um Deep One da cidade costeira de Innsmouth",
+      "autor": "night_river",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-21 04:21:51",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 153,
+      "fonte": "reddit",
+      "titulo": "Progresso na construção do palácio",
+      "autor": "GreenMatias370",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-21 04:21:51",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 152,
+      "fonte": "reddit",
+      "titulo": "Atualização 6 - Pré-lançamento 13 - 20 de agosto de 2026",
+      "autor": "RiverShards",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-21 04:21:51",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 151,
+      "fonte": "reddit",
+      "titulo": "Primeiro Castelo Construído - Aceito qualquer feedback :)",
+      "autor": "GO_Steve",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-21 04:21:51",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
     {
       "id": 146,
       "fonte": "twitter",
@@ -410,126 +530,6 @@
       "q": 30,
       "e": 58,
       "motivo": "discussao sobre modder abandonando o jogo, sem midia e assunto delicado sem ganho"
-    },
-    {
-      "id": 35,
-      "fonte": "reddit",
-      "titulo": "Genshin Spiral Abyss in Hytale?!",
-      "autor": "Airijko",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "MOD",
-      "q": 80,
-      "e": 88,
-      "motivo": "video de crossover com Genshin, mesma linha do Capitao America e do Pokemon que bombaram"
-    },
-    {
-      "id": 34,
-      "fonte": "reddit",
-      "titulo": "hytale does not work anymore",
-      "autor": "aiserberg",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 15,
-      "e": 65,
-      "motivo": "post de reclamacao de bug. Conteudo negativo nao entra na pagina"
-    },
-    {
-      "id": 33,
-      "fonte": "reddit",
-      "titulo": "New palace in Hytale",
-      "autor": "GreenMatias370",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "BUILD",
-      "q": 58,
-      "e": 54,
-      "motivo": "71 upvotes, palacio generico. A pagina ja tem build melhor na fila hoje"
-    },
-    {
-      "id": 32,
-      "fonte": "reddit",
-      "titulo": "Arte conceitual Froggit",
-      "autor": "HaruzitoMain",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 58,
-      "e": 55,
-      "motivo": "arte conceitual isolada, 71 upvotes e zero comentario. Froggit ja apareceu na pagina esta semana"
-    },
-    {
-      "id": 31,
-      "fonte": "reddit",
-      "titulo": "Who's up for a game of Whack-A-Goblin at the Summer Carnival?",
-      "autor": "Wakkaloon",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 82,
-      "e": 86,
-      "motivo": "video de 160 upvotes, minigame divertido e facil de entender em 5 segundos"
-    },
-    {
-      "id": 30,
-      "fonte": "reddit",
-      "titulo": "From Blender to Hytale (WIP-2)",
-      "autor": "Kaayky_rpg",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 64,
-      "e": 60,
-      "motivo": "WIP-2 e continuacao de processo, o painel ja tem o WIP anterior parado sem uso"
-    },
-    {
-      "id": 29,
-      "fonte": "reddit",
-      "titulo": "Update 6 - Pre-Release 11 - August 13th, 2026",
-      "autor": "RiverShards",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "NOTICIA",
-      "q": 72,
-      "e": 68,
-      "motivo": "pre-release parte 11 do dia 13. A pagina ja cobriu a parte 12 e a data oficial do Update 6, entao isso e informacao atrasada"
-    },
-    {
-      "id": 28,
-      "fonte": "reddit",
-      "titulo": "What do you think? Leave your character in the comments.",
-      "autor": "mael888",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "COMUNIDADE",
-      "q": 45,
-      "e": 70,
-      "motivo": "244 upvotes mas e post de pedir personagem nos comentarios. Engajamento alto com qualidade editorial baixa e exatamente o que degrada a pagina"
-    },
-    {
-      "id": 27,
-      "fonte": "reddit",
-      "titulo": "Ice Spikes - world gen v2",
-      "autor": "AnyEconomy8588",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "NOTICIA",
-      "q": 90,
-      "e": 88,
-      "motivo": "293 upvotes, mostra o worldgen v2 na pratica, assunto que gera discussao"
-    },
-    {
-      "id": 26,
-      "fonte": "reddit",
-      "titulo": "New Neon City Blocks and Props",
-      "autor": "sora_sabi",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-18 14:45:33",
-      "categoria": "BUILD",
-      "q": 88,
-      "e": 92,
-      "motivo": "320 upvotes com galeria, bloco de cidade neon e visual forte e inedito na pagina"
     }
   ],
   "grade": [
@@ -1479,11 +1479,11 @@
     }
   ],
   "contagem": {
-    "coletadosTotal": 150,
+    "coletadosTotal": 162,
     "aprovados": 18,
     "rejeitados": 24,
-    "rejeitadosFiltro": 103,
-    "rejeitadosMemoria": 5,
+    "rejeitadosFiltro": 105,
+    "rejeitadosMemoria": 7,
     "escritos": 18,
     "agendados": 10,
     "publicadosTotal": 1604,
@@ -1535,7 +1535,7 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-21T04:11:12.664Z",
+  "ultimaColeta": "2026-08-21T04:21:51.798Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
