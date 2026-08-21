@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T04:26:46.568Z",
+  "geradoEm": "2026-08-21T04:38:55.745Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -106,7 +106,7 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 18,
+      "n": 20,
       "quem": "IA + código"
     },
     {
@@ -248,7 +248,7 @@
       "fonte": "reddit",
       "titulo": "Conheçam meu novo avatar, Ru'ya Hamad, um Deep One da cidade costeira de Innsmouth",
       "autor": "night_river",
-      "status": "APROVADO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-21 04:21:51",
       "categoria": "COMUNIDADE",
       "q": 82,
@@ -1484,7 +1484,7 @@
     "rejeitados": 29,
     "rejeitadosFiltro": 105,
     "rejeitadosMemoria": 7,
-    "escritos": 18,
+    "escritos": 20,
     "agendados": 10,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
