@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T04:54:03.068Z",
+  "geradoEm": "2026-08-21T14:01:57.929Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,37 +81,37 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 162,
+      "n": 163,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 57,
+      "n": 58,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 50,
+      "n": 51,
       "quem": "código"
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 50,
+      "n": 51,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 21,
+      "n": 22,
       "quem": "IA"
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 20,
+      "n": 21,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 13,
+      "n": 14,
       "quem": "código"
     }
   ],
@@ -123,11 +123,11 @@
     "fora de pauta": 1,
     "midia fraca": 1
   },
-  "taxaAprovacao": 42,
+  "taxaAprovacao": 43,
   "qualidade": {
-    "q": 62.8,
-    "e": 64.9,
-    "qAprov": 83.4,
+    "q": 63.3,
+    "e": 65.3,
+    "qAprov": 83.5,
     "qRej": 47.9
   },
   "porCategoria": [
@@ -138,8 +138,8 @@
     },
     {
       "categoria": "MOD",
-      "n": 13,
-      "ok": 8
+      "n": 14,
+      "ok": 9
     },
     {
       "categoria": "BUILD",
@@ -612,6 +612,26 @@
       "urlPublicada": "https://www.facebook.com/reel/1041396365289234/"
     },
     {
+      "hora": "11:14",
+      "data": "2026-08-21",
+      "id": "rc163",
+      "titulo": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE",
+      "textoMeta": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": 86,
+      "engajamento": 84,
+      "categoria": "MOD",
+      "motivo": "mod novo, visual forte de veleiro navegando ao por do sol, gratis com Update 6 em 27/08",
+      "urlPublicada": "https://www.facebook.com/reel/1945681982777197/"
+    },
+    {
       "hora": "18:00",
       "data": "2026-08-20",
       "id": "rc149",
@@ -1064,6 +1084,26 @@
       "dia": "2026-08-21",
       "posts": [
         {
+          "hora": "11:14",
+          "data": "2026-08-21",
+          "id": "rc163",
+          "titulo": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE",
+          "textoMeta": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": 86,
+          "engajamento": 84,
+          "categoria": "MOD",
+          "motivo": "mod novo, visual forte de veleiro navegando ao por do sol, gratis com Update 6 em 27/08",
+          "urlPublicada": "https://www.facebook.com/reel/1945681982777197/"
+        },
+        {
           "hora": "12:30",
           "data": "2026-08-21",
           "id": "rc161",
@@ -1142,7 +1182,7 @@
           "urlPublicada": "https://www.facebook.com/reel/1354980329952070/"
         }
       ],
-      "total": 3
+      "total": 4
     },
     {
       "dia": "2026-08-20",
@@ -1617,13 +1657,13 @@
     }
   ],
   "contagem": {
-    "coletadosTotal": 162,
-    "aprovados": 21,
+    "coletadosTotal": 163,
+    "aprovados": 22,
     "rejeitados": 29,
     "rejeitadosFiltro": 105,
     "rejeitadosMemoria": 7,
-    "escritos": 20,
-    "agendados": 13,
+    "escritos": 21,
+    "agendados": 14,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -1679,7 +1719,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5925,
+      "seguidores": 5926,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -1687,7 +1727,7 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6036,
+      "seguidores": 6034,
       "totalPosts": 249,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
@@ -1752,7 +1792,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 368,
+        "curtidas": 371,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",

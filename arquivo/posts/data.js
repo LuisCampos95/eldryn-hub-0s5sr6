@@ -6,6 +6,24 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "rc163",
+    "rodada": "2026-08-21 10:57",
+    "emoji": "E",
+    "titulo": "[MOD] MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE",
+    "fonte": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
+    "fonteData": "2026-08-21",
+    "confiabilidade": "comunidade",
+    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 86, engajamento 84) e QC de estilo.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
+      "nota": "Gerado pela Redacao. Fonte twitter.",
+      "video": "midia/twitter/rc163.mp4"
+    },
+    "twitter": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "rc161",
     "rodada": "2026-08-21 01:40",
     "emoji": "\ud83d",
