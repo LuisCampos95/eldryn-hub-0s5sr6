@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T14:01:57.929Z",
+  "geradoEm": "2026-08-21T14:06:02.033Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -619,11 +619,17 @@
       "textoMeta": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/twitter/rc163.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc163.mp4"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "04-1114-maritimelife.mp4"
+      ],
+      "tipo": "video",
       "status": "agendado",
       "qualidade": 86,
       "engajamento": 84,
@@ -1091,11 +1097,17 @@
           "textoMeta": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/twitter/rc163.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc163.mp4"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "04-1114-maritimelife.mp4"
+          ],
+          "tipo": "video",
           "status": "agendado",
           "qualidade": 86,
           "engajamento": 84,
@@ -1674,7 +1686,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 3,
+    "total": 4,
     "feitos": 0,
     "data": "2026-08-21"
   },
@@ -1727,7 +1739,7 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6034,
+      "seguidores": 6033,
       "totalPosts": 249,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
