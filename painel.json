@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T15:31:05.850Z",
+  "geradoEm": "2026-08-21T15:39:39.888Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -600,7 +600,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc129.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "05-1330-rc129.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": 80,
@@ -1180,7 +1182,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc129.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "05-1330-rc129.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": 80,
@@ -1734,7 +1738,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 4,
+    "total": 5,
     "feitos": 0,
     "data": "2026-08-21"
   },
@@ -1788,7 +1792,7 @@
     "instagram": {
       "nome": "@brasilhytale",
       "seguidores": 6032,
-      "totalPosts": 250,
+      "totalPosts": 251,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
       "mediaCurtidas": 127,
@@ -1862,8 +1866,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-06-02T22:35:31+0000",
-      "ate": "2026-08-21T14:53:22+0000"
+      "de": "2026-06-11T14:45:40+0000",
+      "ate": "2026-08-21T15:39:30+0000"
     },
     "serie": [
       {
