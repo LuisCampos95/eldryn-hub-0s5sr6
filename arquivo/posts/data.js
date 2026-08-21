@@ -175,7 +175,7 @@ window.ELDRYN_POSTS = [
     "id": "rc129",
     "rodada": "2026-08-19 20:26",
     "emoji": "\ud83c",
-    "titulo": "[COMUNIDADE] CAVALEIRO DE DRAGÃO CONTRA UMA HYDRA, TUDO GRAVADO DENTR",
+    "titulo": "[COMUNIDADE] ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GI",
     "fonte": "https://x.com/gamevid4/status/2089810333527429238",
     "fonteData": "2026-08-20",
     "confiabilidade": "comunidade",
@@ -186,8 +186,8 @@ window.ELDRYN_POSTS = [
       "nota": "Gerado pela Redacao. Fonte twitter.",
       "video": "midia/twitter/rc129.mp4"
     },
-    "twitter": "🎬 CAVALEIRO DE DRAGÃO CONTRA UMA HYDRA, TUDO GRAVADO DENTRO DO HYTALE\n\nTem posto avançado Outlander domando Hydra pra aterrorizar a região, vila pedindo socorro e um confronto final entre os dois. O curta se chama Dragon Rider.\n\n🎥 @gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🎬 CAVALEIRO DE DRAGÃO CONTRA UMA HYDRA, TUDO GRAVADO DENTRO DO HYTALE\n\nTem posto avançado Outlander domando Hydra pra aterrorizar a região, vila pedindo socorro e um confronto final entre os dois. O curta se chama Dragon Rider.\n\n🎥 gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 @gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "rc146",

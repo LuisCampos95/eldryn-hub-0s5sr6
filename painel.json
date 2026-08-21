@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T14:13:23.163Z",
+  "geradoEm": "2026-08-21T15:31:05.850Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -111,7 +111,7 @@
     },
     {
       "etapa": "Agendados",
-      "n": 14,
+      "n": 15,
       "quem": "código"
     }
   ],
@@ -428,7 +428,7 @@
       "fonte": "twitter",
       "titulo": "Dragon Rider - A Hytale Cinematic.",
       "autor": "gamevid4",
-      "status": "REJEITADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-19 17:54:04",
       "categoria": "COMUNIDADE",
       "q": 80,
@@ -586,6 +586,30 @@
       "urlPublicada": "https://www.facebook.com/reel/1570576064530984/"
     },
     {
+      "hora": "13:30",
+      "data": "2026-08-21",
+      "id": "rc129",
+      "titulo": "ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO",
+      "textoMeta": "ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 @gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/gamevid4/status/2089810333527429238",
+      "arquivos": [
+        "midia/twitter/rc129.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc129.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
+      "arquivosTwitter": [],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": 80,
+      "engajamento": 75,
+      "categoria": "COMUNIDADE",
+      "motivo": "cinematic fa-feita com lore propria e dragao montavel enfrentando uma Hydra domada, exatamente o tipo de criatura montavel que comprovadamente funciona aqui; video com boa narrativa visual",
+      "urlPublicada": "https://www.facebook.com/reel/2017472885595087/"
+    },
+    {
       "hora": "12:30",
       "data": "2026-08-21",
       "id": "rc161",
@@ -604,7 +628,7 @@
         "01-1230-rc161.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 85,
       "engajamento": 90,
       "categoria": "MOD",
@@ -630,7 +654,7 @@
         "04-1114-rc163.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 86,
       "engajamento": 84,
       "categoria": "MOD",
@@ -1108,7 +1132,7 @@
             "04-1114-rc163.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 86,
           "engajamento": 84,
           "categoria": "MOD",
@@ -1134,12 +1158,36 @@
             "01-1230-rc161.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 85,
           "engajamento": 90,
           "categoria": "MOD",
           "motivo": "mod de crossover reconhecivel (jogo da cobrinha) com 81 curtidas em video, lancado agora no CurseForge, exatamente o tipo de conteudo que ja funciona nessa pagina",
           "urlPublicada": "https://www.facebook.com/reel/1041396365289234/"
+        },
+        {
+          "hora": "13:30",
+          "data": "2026-08-21",
+          "id": "rc129",
+          "titulo": "ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO",
+          "textoMeta": "ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 @gamevid4\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/gamevid4/status/2089810333527429238",
+          "arquivos": [
+            "midia/twitter/rc129.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc129.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
+          "arquivosTwitter": [],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": 80,
+          "engajamento": 75,
+          "categoria": "COMUNIDADE",
+          "motivo": "cinematic fa-feita com lore propria e dragao montavel enfrentando uma Hydra domada, exatamente o tipo de criatura montavel que comprovadamente funciona aqui; video com boa narrativa visual",
+          "urlPublicada": "https://www.facebook.com/reel/2017472885595087/"
         },
         {
           "hora": "15:00",
@@ -1194,7 +1242,7 @@
           "urlPublicada": "https://www.facebook.com/reel/1354980329952070/"
         }
       ],
-      "total": 4
+      "total": 5
     },
     {
       "dia": "2026-08-20",
@@ -1675,7 +1723,7 @@
     "rejeitadosFiltro": 105,
     "rejeitadosMemoria": 7,
     "escritos": 21,
-    "agendados": 14,
+    "agendados": 15,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -1739,8 +1787,8 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6033,
-      "totalPosts": 249,
+      "seguidores": 6032,
+      "totalPosts": 250,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
       "mediaCurtidas": 127,
@@ -1804,7 +1852,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 371,
+        "curtidas": 372,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
@@ -1814,8 +1862,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-05-26T22:51:12+0000",
-      "ate": "2026-08-20T20:39:43+0000"
+      "de": "2026-06-02T22:35:31+0000",
+      "ate": "2026-08-21T14:53:22+0000"
     },
     "serie": [
       {
