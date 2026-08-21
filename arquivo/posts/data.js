@@ -139,7 +139,7 @@ window.ELDRYN_POSTS = [
     "id": "rc130",
     "rodada": "2026-08-19 20:26",
     "emoji": "\ud83e",
-    "titulo": "[MOD] ESSE MOD FAZ A ÁRVORE TOMBAR DE VERDADE E VIRAR TORAS NO",
+    "titulo": "[MOD] ESSE MOD FAZ A ÁRVORE TOMBAR E CAIR INTEIRA NO CHÃO NO H",
     "fonte": "https://x.com/GaiaScript/status/2089653621935722590",
     "fonteData": "2026-08-20",
     "confiabilidade": "comunidade",
@@ -150,8 +150,8 @@ window.ELDRYN_POSTS = [
       "nota": "Gerado pela Redacao. Fonte twitter.",
       "video": "midia/twitter/rc130.mp4"
     },
-    "twitter": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR DE VERDADE E VIRAR TORAS NO HYTALE\n\nBateu no tronco, ele cai inteiro no chão em vez de sumir. Daí dá pra picar em toras. O mod ainda está em desenvolvimento.\n\n🎥 @GaiaScript\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR DE VERDADE E VIRAR TORAS NO HYTALE\n\nBateu no tronco, ele cai inteiro no chão em vez de sumir. Daí dá pra picar em toras. O mod ainda está em desenvolvimento.\n\n🎥 GaiaScript\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR E CAIR INTEIRA NO CHÃO NO HYTALE\n\nDepois do último golpe de machado a árvore não some, ela tomba e fica deitada no chão. O tronco caído ainda pode ser cortado em toras ali mesmo. O sistema está em desenvolvimento.\n\n🎥 @GaiaScript\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR E CAIR INTEIRA NO CHÃO NO HYTALE\n\nDepois do último golpe de machado a árvore não some, ela tomba e fica deitada no chão. O tronco caído ainda pode ser cortado em toras ali mesmo. O sistema está em desenvolvimento.\n\n🎥 GaiaScript\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "rc129",
