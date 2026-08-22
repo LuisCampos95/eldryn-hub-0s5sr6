@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T14:28:27.929Z",
+  "geradoEm": "2026-08-22T14:29:05.815Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -549,13 +549,17 @@
         "midia/curseforge/zephyr/3.jpg"
       ],
       "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg"
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc176_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc176_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
       "arquivosTwitter": [
-        "02-1500-rc176.jpg"
+        "02-1500-rc176-1.jpg",
+        "02-1500-rc176-2.jpg",
+        "02-1500-rc176-3.jpg"
       ],
-      "tipo": "imagem",
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": 84,
       "engajamento": 85,
@@ -1239,13 +1243,17 @@
             "midia/curseforge/zephyr/3.jpg"
           ],
           "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg"
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc176_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc176_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
           "arquivosTwitter": [
-            "02-1500-rc176.jpg"
+            "02-1500-rc176-1.jpg",
+            "02-1500-rc176-2.jpg",
+            "02-1500-rc176-3.jpg"
           ],
-          "tipo": "imagem",
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": 84,
           "engajamento": 85,
@@ -2008,7 +2016,7 @@
       "totalPosts": 254,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 126,
+      "mediaCurtidas": 127,
       "amostra": 100
     },
     "twitter": {
