@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T21:35:45.753Z",
+  "geradoEm": "2026-08-22T23:37:08.508Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,37 +81,37 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 182,
+      "n": 183,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 70,
+      "n": 71,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 63,
+      "n": 64,
       "quem": "código"
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 63,
+      "n": 64,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 31,
+      "n": 32,
       "quem": "IA"
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 30,
+      "n": 31,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 20,
+      "n": 21,
       "quem": "código"
     }
   ],
@@ -124,11 +124,11 @@
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1
   },
-  "taxaAprovacao": 49,
+  "taxaAprovacao": 50,
   "qualidade": {
-    "q": 64.4,
-    "e": 65.9,
-    "qAprov": 82.9,
+    "q": 64.8,
+    "e": 65.8,
+    "qAprov": 83,
     "qRej": 46.5
   },
   "porCategoria": [
@@ -149,8 +149,8 @@
     },
     {
       "categoria": "NOTICIA",
-      "n": 4,
-      "ok": 3
+      "n": 5,
+      "ok": 4
     }
   ],
   "memoria": {
@@ -606,7 +606,7 @@
         "03-1900-rc182.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 75,
       "engajamento": 78,
       "categoria": "COMUNIDADE",
@@ -1391,7 +1391,7 @@
             "03-1900-rc182.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 75,
           "engajamento": 78,
           "categoria": "COMUNIDADE",
@@ -2106,13 +2106,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 182,
-    "aprovados": 31,
+    "coletadosTotal": 183,
+    "aprovados": 32,
     "rejeitados": 32,
     "rejeitadosFiltro": 112,
     "rejeitadosMemoria": 7,
-    "escritos": 30,
-    "agendados": 20,
+    "escritos": 31,
+    "agendados": 21,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -2176,11 +2176,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6030,
-      "totalPosts": 257,
+      "seguidores": 6031,
+      "totalPosts": 258,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 124,
+      "mediaCurtidas": 123,
       "amostra": 100
     },
     "twitter": {
@@ -2241,7 +2241,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 374,
+        "curtidas": 375,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
@@ -2251,8 +2251,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-09T15:14:59+0000",
-      "ate": "2026-08-22T20:39:26+0000"
+      "de": "2026-07-09T16:45:39+0000",
+      "ate": "2026-08-22T22:11:58+0000"
     },
     "serie": [
       {
