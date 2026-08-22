@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T14:40:02.844Z",
+  "geradoEm": "2026-08-22T20:46:02.003Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,37 +81,37 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 180,
+      "n": 182,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 68,
+      "n": 70,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 61,
+      "n": 63,
       "quem": "código"
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 61,
+      "n": 63,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 29,
+      "n": 31,
       "quem": "IA"
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 28,
+      "n": 30,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 18,
+      "n": 20,
       "quem": "código"
     }
   ],
@@ -124,23 +124,23 @@
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1
   },
-  "taxaAprovacao": 48,
+  "taxaAprovacao": 49,
   "qualidade": {
-    "q": 64,
-    "e": 65.4,
-    "qAprov": 83.2,
+    "q": 64.4,
+    "e": 65.9,
+    "qAprov": 82.9,
     "qRej": 46.5
   },
   "porCategoria": [
     {
+      "categoria": "COMUNIDADE",
+      "n": 23,
+      "ok": 7
+    },
+    {
       "categoria": "MOD",
       "n": 22,
       "ok": 15
-    },
-    {
-      "categoria": "COMUNIDADE",
-      "n": 21,
-      "ok": 5
     },
     {
       "categoria": "BUILD",
@@ -543,14 +543,14 @@
       "textoMeta": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 @Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Pilipchen1/status/2090899444417827001",
-      "arquivos": [
-        "midia/twitter/rc178.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc178.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-23",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "01-1230-rc178.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": 78,
@@ -558,6 +558,60 @@
       "categoria": "MOD",
       "motivo": "primeira atualização de mod publicado no CurseForge com sistema de habilidade nova (Q especial na PoisonRune) demonstrada em vídeo, achado cedo antes de viralizar",
       "urlPublicada": "https://www.facebook.com/reel/2578712255975609/"
+    },
+    {
+      "hora": "21:00",
+      "data": "2026-08-22",
+      "id": "rc181",
+      "rede": "facebook",
+      "titulo": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT",
+      "textoMeta": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/WoWTaleTeam/status/2091232311824019931",
+      "arquivos": [
+        "midia/twitter/rc181.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc181.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
+      "arquivosTwitter": [
+        "04-2100-rc181.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": 84,
+      "engajamento": 82,
+      "categoria": "COMUNIDADE",
+      "motivo": "pedido direto do Luis",
+      "urlPublicada": "https://www.facebook.com/reel/1856206239087531/"
+    },
+    {
+      "hora": "19:00",
+      "data": "2026-08-22",
+      "id": "rc182",
+      "rede": "facebook",
+      "titulo": "⛵ O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27",
+      "textoMeta": "⛵ O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27\n\nA cena mostra um barco cortando a água no pôr do sol, sem mostrar o que vem a seguir. O Update 6, que libera o mod de navegação, chega nesse dia.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "⛵ O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27\n\nA cena mostra um barco cortando a água no pôr do sol, sem mostrar o que vem a seguir. O Update 6, que libera o mod de navegação, chega nesse dia.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
+      "arquivos": [
+        "midia/twitter/rc182.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc182.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
+      "arquivosTwitter": [
+        "03-1900-rc182.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": 75,
+      "engajamento": 78,
+      "categoria": "COMUNIDADE",
+      "motivo": "pedido direto do Luis",
+      "urlPublicada": "https://www.facebook.com/reel/2114792689464597/"
     },
     {
       "hora": "15:00",
@@ -568,7 +622,11 @@
       "textoMeta": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
-      "arquivos": [],
+      "arquivos": [
+        "midia/curseforge/zephyr/1.jpg",
+        "midia/curseforge/zephyr/2.jpg",
+        "midia/curseforge/zephyr/3.jpg"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc176_2.jpg",
@@ -581,7 +639,7 @@
         "02-1500-rc176-3.jpg"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 84,
       "engajamento": 85,
       "categoria": "MOD",
@@ -597,7 +655,11 @@
       "textoMeta": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
-      "arquivos": [],
+      "arquivos": [
+        "midia/curseforge/wonderweapons/1.png",
+        "midia/curseforge/wonderweapons/2.png",
+        "midia/curseforge/wonderweapons/3.png"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc175_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc175_2.jpg",
@@ -610,7 +672,7 @@
         "01-1230-rc175-3.png"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 85,
       "engajamento": 86,
       "categoria": "MOD",
@@ -1221,14 +1283,14 @@
           "textoMeta": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 @Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Pilipchen1/status/2090899444417827001",
-          "arquivos": [
-            "midia/twitter/rc178.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc178.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-23",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "01-1230-rc178.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": 78,
@@ -1252,7 +1314,11 @@
           "textoMeta": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
-          "arquivos": [],
+          "arquivos": [
+            "midia/curseforge/wonderweapons/1.png",
+            "midia/curseforge/wonderweapons/2.png",
+            "midia/curseforge/wonderweapons/3.png"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc175_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc175_2.jpg",
@@ -1265,7 +1331,7 @@
             "01-1230-rc175-3.png"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 85,
           "engajamento": 86,
           "categoria": "MOD",
@@ -1281,7 +1347,11 @@
           "textoMeta": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
-          "arquivos": [],
+          "arquivos": [
+            "midia/curseforge/zephyr/1.jpg",
+            "midia/curseforge/zephyr/2.jpg",
+            "midia/curseforge/zephyr/3.jpg"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc176_2.jpg",
@@ -1294,15 +1364,69 @@
             "02-1500-rc176-3.jpg"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 84,
           "engajamento": 85,
           "categoria": "MOD",
           "motivo": "atualização legítima, não repetição: os posts antigos (274 e 272 dias atrás) eram sobre a CONFIRMAÇÃO OFICIAL de grappling hooks como feature futura, este é um mod já lançado com resultado pronto (112 mil downloads) entregando um overhaul de movimento inteiro, muito além do que foi coberto antes",
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683647463763844"
+        },
+        {
+          "hora": "19:00",
+          "data": "2026-08-22",
+          "id": "rc182",
+          "rede": "facebook",
+          "titulo": "⛵ O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27",
+          "textoMeta": "⛵ O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27\n\nA cena mostra um barco cortando a água no pôr do sol, sem mostrar o que vem a seguir. O Update 6, que libera o mod de navegação, chega nesse dia.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "⛵ O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27\n\nA cena mostra um barco cortando a água no pôr do sol, sem mostrar o que vem a seguir. O Update 6, que libera o mod de navegação, chega nesse dia.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
+          "arquivos": [
+            "midia/twitter/rc182.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc182.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
+          "arquivosTwitter": [
+            "03-1900-rc182.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": 75,
+          "engajamento": 78,
+          "categoria": "COMUNIDADE",
+          "motivo": "pedido direto do Luis",
+          "urlPublicada": "https://www.facebook.com/reel/2114792689464597/"
+        },
+        {
+          "hora": "21:00",
+          "data": "2026-08-22",
+          "id": "rc181",
+          "rede": "facebook",
+          "titulo": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT",
+          "textoMeta": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/WoWTaleTeam/status/2091232311824019931",
+          "arquivos": [
+            "midia/twitter/rc181.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc181.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
+          "arquivosTwitter": [
+            "04-2100-rc181.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": 84,
+          "engajamento": 82,
+          "categoria": "COMUNIDADE",
+          "motivo": "pedido direto do Luis",
+          "urlPublicada": "https://www.facebook.com/reel/1856206239087531/"
         }
       ],
-      "total": 2
+      "total": 4
     },
     {
       "dia": "2026-08-21",
@@ -1982,13 +2106,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 180,
-    "aprovados": 29,
+    "coletadosTotal": 182,
+    "aprovados": 31,
     "rejeitados": 32,
     "rejeitadosFiltro": 112,
     "rejeitadosMemoria": 7,
-    "escritos": 28,
-    "agendados": 18,
+    "escritos": 30,
+    "agendados": 20,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -1999,7 +2123,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 2,
+    "total": 4,
     "feitos": 0,
     "data": "2026-08-22"
   },
@@ -2052,11 +2176,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6033,
-      "totalPosts": 254,
+      "seguidores": 6030,
+      "totalPosts": 257,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 127,
+      "mediaCurtidas": 124,
       "amostra": 100
     },
     "twitter": {
@@ -2085,7 +2209,7 @@
       },
       {
         "titulo": "🔴 SAIU UM MOD DE POKÉMON PRO HYTALE",
-        "curtidas": 573,
+        "curtidas": 574,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-07-25T18:04:12+0000",
@@ -2127,8 +2251,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-06-25T16:36:14+0000",
-      "ate": "2026-08-21T20:39:36+0000"
+      "de": "2026-07-09T15:14:59+0000",
+      "ate": "2026-08-22T20:39:26+0000"
     },
     "serie": [
       {

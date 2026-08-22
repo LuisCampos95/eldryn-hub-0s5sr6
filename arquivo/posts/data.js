@@ -6,6 +6,42 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "rc182",
+    "rodada": "2026-08-22 17:44",
+    "emoji": "⛵",
+    "titulo": "[COMUNIDADE] O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27",
+    "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
+    "fonteData": "2026-08-22",
+    "confiabilidade": "comunidade",
+    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 75, engajamento 78) e QC de estilo.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
+      "nota": "Gerado pela Redacao. Fonte twitter.",
+      "video": "midia/twitter/rc182.mp4"
+    },
+    "twitter": "⛵ O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27\n\nA cena mostra um barco cortando a água no pôr do sol, sem mostrar o que vem a seguir. O Update 6, que libera o mod de navegação, chega nesse dia.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⛵ O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27\n\nA cena mostra um barco cortando a água no pôr do sol, sem mostrar o que vem a seguir. O Update 6, que libera o mod de navegação, chega nesse dia.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+    "id": "rc181",
+    "rodada": "2026-08-22 17:44",
+    "emoji": "⚔",
+    "titulo": "[COMUNIDADE] RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF ",
+    "fonte": "https://x.com/WoWTaleTeam/status/2091232311824019931",
+    "fonteData": "2026-08-22",
+    "confiabilidade": "comunidade",
+    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 84, engajamento 82) e QC de estilo.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://x.com/WoWTaleTeam/status/2091232311824019931",
+      "nota": "Gerado pela Redacao. Fonte twitter.",
+      "video": "midia/twitter/rc181.mp4"
+    },
+    "twitter": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "rc178",
     "rodada": "2026-08-22 11:39",
     "emoji": "☠",
