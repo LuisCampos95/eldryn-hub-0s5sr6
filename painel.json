@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T14:34:05.792Z",
+  "geradoEm": "2026-08-22T14:34:32.460Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -86,12 +86,12 @@
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 67,
+      "n": 68,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 60,
+      "n": 61,
       "quem": "código"
     },
     {
@@ -116,7 +116,6 @@
     }
   ],
   "motivosCorte": {
-    "engajamento baixo": 1,
     "link ja virou post": 7,
     "midia fresca fraca": 3,
     "sem midia e sem discussao": 17,
@@ -179,6 +178,18 @@
       "titulo": "Our Engineers have finally released the plans for additional steel scaffolding parts and attachments.",
       "autor": "AncientWolfAWI",
       "status": "PARECIDO",
+      "coletado_em": "2026-08-22 14:34:05",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 179,
+      "fonte": "twitter",
+      "titulo": "I add new things to my #hytale mod every day!",
+      "autor": "lunaronin777",
+      "status": "CANDIDATO",
       "coletado_em": "2026-08-22 14:34:05",
       "categoria": null,
       "q": null,
@@ -520,18 +531,6 @@
       "q": 80,
       "e": 85,
       "motivo": "duplicata do 130 (mesmo video do GaiaScript, repostado pelo HytaleAlerts); regra da rodada manda preferir o autor original mesmo com mais curtidas no repost"
-    },
-    {
-      "id": 130,
-      "fonte": "twitter",
-      "titulo": "Developing immersion in timber logging of trees #hytale #hytalemodding",
-      "autor": "GaiaScript",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-19 17:54:04",
-      "categoria": "MOD",
-      "q": 85,
-      "e": 82,
-      "motivo": "163 curtidas em 32h do criador original; sistema de derrubada de arvore com fisica realista e o tipo de sistema visual grande que funciona na pagina, preferido sobre o repost do 131"
     }
   ],
   "grade": [
@@ -1946,7 +1945,7 @@
     "coletadosTotal": 180,
     "aprovados": 27,
     "rejeitados": 31,
-    "rejeitadosFiltro": 113,
+    "rejeitadosFiltro": 112,
     "rejeitadosMemoria": 7,
     "escritos": 27,
     "agendados": 17,
@@ -2000,7 +1999,7 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-22T14:34:05.709Z",
+  "ultimaColeta": "2026-08-22T14:34:32.374Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
