@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T14:29:49.228Z",
+  "geradoEm": "2026-08-22T14:34:05.792Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 177,
+      "n": 180,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 65,
+      "n": 67,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 58,
+      "n": 60,
       "quem": "código"
     },
     {
@@ -116,6 +116,7 @@
     }
   ],
   "motivosCorte": {
+    "engajamento baixo": 1,
     "link ja virou post": 7,
     "midia fresca fraca": 3,
     "sem midia e sem discussao": 17,
@@ -172,6 +173,30 @@
     }
   },
   "recentes": [
+    {
+      "id": 180,
+      "fonte": "twitter",
+      "titulo": "Our Engineers have finally released the plans for additional steel scaffolding parts and attachments.",
+      "autor": "AncientWolfAWI",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-22 14:34:05",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 178,
+      "fonte": "twitter",
+      "titulo": "The first update to the RuneSwordsMod out on CurseForge now!",
+      "autor": "Pilipchen1",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-22 14:34:05",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
     {
       "id": 176,
       "fonte": "curseforge",
@@ -507,30 +532,6 @@
       "q": 85,
       "e": 82,
       "motivo": "163 curtidas em 32h do criador original; sistema de derrubada de arvore com fisica realista e o tipo de sistema visual grande que funciona na pagina, preferido sobre o repost do 131"
-    },
-    {
-      "id": 129,
-      "fonte": "twitter",
-      "titulo": "Dragon Rider - A Hytale Cinematic.",
-      "autor": "gamevid4",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-19 17:54:04",
-      "categoria": "COMUNIDADE",
-      "q": 80,
-      "e": 75,
-      "motivo": "cinematic fa-feita com lore propria e dragao montavel enfrentando uma Hydra domada, exatamente o tipo de criatura montavel que comprovadamente funciona aqui; video com boa narrativa visual"
-    },
-    {
-      "id": 127,
-      "fonte": "reddit",
-      "titulo": "After building this mock-up fast food joint for a skit yesterday, I've come to the conclusion that Hytale isn't totally cut out for \"modern\" builds...",
-      "autor": "NoWin2652",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-19 17:50:57",
-      "categoria": "BUILD",
-      "q": 55,
-      "e": 70,
-      "motivo": "autor conclui que Hytale nao e cortado pra builds modernas, isso e discussao negativa sobre o jogo; regra exclui esse tipo de conteudo mesmo com engajamento alto (54 upvotes e 13 comentarios)"
     }
   ],
   "grade": [
@@ -1942,10 +1943,10 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 177,
+    "coletadosTotal": 180,
     "aprovados": 27,
     "rejeitados": 31,
-    "rejeitadosFiltro": 112,
+    "rejeitadosFiltro": 113,
     "rejeitadosMemoria": 7,
     "escritos": 27,
     "agendados": 17,
@@ -1999,7 +2000,7 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-22T06:51:40.623Z",
+  "ultimaColeta": "2026-08-22T14:34:05.709Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
