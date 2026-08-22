@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:26:26.491Z",
+  "geradoEm": "2026-08-22T06:37:08.279Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -106,7 +106,7 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 21,
+      "n": 25,
       "quem": "IA + código"
     },
     {
@@ -1829,7 +1829,7 @@
     "rejeitados": 31,
     "rejeitadosFiltro": 111,
     "rejeitadosMemoria": 7,
-    "escritos": 21,
+    "escritos": 25,
     "agendados": 15,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
