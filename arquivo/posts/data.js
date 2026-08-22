@@ -9,7 +9,7 @@ window.ELDRYN_POSTS = [
     "id": "rc182",
     "rodada": "2026-08-22 17:44",
     "emoji": "⛵",
-    "titulo": "[COMUNIDADE] O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27",
+    "titulo": "[COMUNIDADE] O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ",
     "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
     "fonteData": "2026-08-22",
     "confiabilidade": "comunidade",
@@ -20,8 +20,8 @@ window.ELDRYN_POSTS = [
       "nota": "Gerado pela Redacao. Fonte twitter.",
       "video": "midia/twitter/rc182.mp4"
     },
-    "twitter": "⛵ O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27\n\nA cena mostra um barco cortando a água no pôr do sol, sem mostrar o que vem a seguir. O Update 6, que libera o mod de navegação, chega nesse dia.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "⛵ O MOD MARITIME LIFE SOLTOU UM TEASER PRA DIA 27\n\nA cena mostra um barco cortando a água no pôr do sol, sem mostrar o que vem a seguir. O Update 6, que libera o mod de navegação, chega nesse dia.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "⛵ O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ESTRAGAR A SURPRESA\n\nSó soltou essa cena de um barco cruzando a água no pôr do sol, sem contar o que vem a seguir. O Update 6, que libera o mod, chega nesse dia.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⛵ O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ESTRAGAR A SURPRESA\n\nSó soltou essa cena de um barco cruzando a água no pôr do sol, sem contar o que vem a seguir. O Update 6, que libera o mod, chega nesse dia.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "rc181",
