@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:51:40.774Z",
+  "geradoEm": "2026-08-22T06:53:32.551Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -96,12 +96,12 @@
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 56,
+      "n": 58,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 25,
+      "n": 27,
       "quem": "IA"
     },
     {
@@ -124,11 +124,11 @@
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1
   },
-  "taxaAprovacao": 45,
+  "taxaAprovacao": 47,
   "qualidade": {
-    "q": 63.1,
-    "e": 64.7,
-    "qAprov": 83.2,
+    "q": 63.8,
+    "e": 65.4,
+    "qAprov": 83.3,
     "qRej": 46.9
   },
   "porCategoria": [
@@ -139,8 +139,8 @@
     },
     {
       "categoria": "MOD",
-      "n": 18,
-      "ok": 12
+      "n": 20,
+      "ok": 14
     },
     {
       "categoria": "BUILD",
@@ -177,24 +177,24 @@
       "fonte": "curseforge",
       "titulo": "Zephyr",
       "autor": "narwhals",
-      "status": "PARECIDO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-22 06:50:54",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 84,
+      "e": 85,
+      "motivo": "atualização legítima, não repetição: os posts antigos (274 e 272 dias atrás) eram sobre a CONFIRMAÇÃO OFICIAL de grappling hooks como feature futura, este é um mod já lançado com resultado pronto (112 mil downloads) entregando um overhaul de movimento inteiro, muito além do que foi coberto antes"
     },
     {
       "id": 175,
       "fonte": "curseforge",
       "titulo": "Wan's Wonder Weapons",
       "autor": "WanMine",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-22 06:50:54",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 85,
+      "e": 86,
+      "motivo": "mod com 611 mil downloads no CurseForge, tema livre (sem post anterior), armas únicas com crossover reconhecível (Mjollnir) e galeria de imagens pronta pra carrossel"
     },
     {
       "id": 174,
@@ -1805,7 +1805,7 @@
   },
   "contagem": {
     "coletadosTotal": 177,
-    "aprovados": 25,
+    "aprovados": 27,
     "rejeitados": 31,
     "rejeitadosFiltro": 112,
     "rejeitadosMemoria": 7,
