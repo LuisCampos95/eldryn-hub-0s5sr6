@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:50:55.721Z",
+  "geradoEm": "2026-08-22T06:51:40.774Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -86,12 +86,12 @@
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 63,
+      "n": 65,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 56,
+      "n": 58,
       "quem": "código"
     },
     {
@@ -116,7 +116,6 @@
     }
   ],
   "motivosCorte": {
-    "famoso demais": 2,
     "link ja virou post": 7,
     "midia fresca fraca": 3,
     "sem midia e sem discussao": 17,
@@ -173,6 +172,30 @@
     }
   },
   "recentes": [
+    {
+      "id": 176,
+      "fonte": "curseforge",
+      "titulo": "Zephyr",
+      "autor": "narwhals",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-22 06:50:54",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 175,
+      "fonte": "curseforge",
+      "titulo": "Wan's Wonder Weapons",
+      "autor": "WanMine",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-22 06:50:54",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
     {
       "id": 174,
       "fonte": "twitter",
@@ -508,30 +531,6 @@
       "q": 55,
       "e": 70,
       "motivo": "autor conclui que Hytale nao e cortado pra builds modernas, isso e discussao negativa sobre o jogo; regra exclui esse tipo de conteudo mesmo com engajamento alto (54 upvotes e 13 comentarios)"
-    },
-    {
-      "id": 124,
-      "fonte": "reddit",
-      "titulo": "Mytale_ Caldren Village",
-      "autor": "GreenMatias370",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-19 17:50:57",
-      "categoria": "BUILD",
-      "q": 80,
-      "e": 85,
-      "motivo": "87 upvotes, o maior engajamento do lote reddit; vilarejo detalhado com forte apelo visual de escala"
-    },
-    {
-      "id": 123,
-      "fonte": "reddit",
-      "titulo": "I recreated Kamado Tanjiro from Demon Slayer!",
-      "autor": "Netherzapdos",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-19 17:50:57",
-      "categoria": "BUILD",
-      "q": 85,
-      "e": 82,
-      "motivo": "recriacao do Tanjiro (Demon Slayer) em Hytale, crossover de anime reconhecivel e o que comprovadamente funciona na pagina; 64 upvotes em so 8h"
     }
   ],
   "grade": [
@@ -1808,7 +1807,7 @@
     "coletadosTotal": 177,
     "aprovados": 25,
     "rejeitados": 31,
-    "rejeitadosFiltro": 114,
+    "rejeitadosFiltro": 112,
     "rejeitadosMemoria": 7,
     "escritos": 25,
     "agendados": 15,
@@ -1861,7 +1860,7 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-22T06:50:54.761Z",
+  "ultimaColeta": "2026-08-22T06:51:40.623Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
