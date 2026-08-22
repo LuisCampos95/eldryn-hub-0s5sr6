@@ -6,61 +6,6 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
-    "id": "rc172",
-    "rodada": "2026-08-22 03:37",
-    "emoji": "\ud83c",
-    "titulo": "[MOD] SISTEMA DE PESCA MOSTRA A SOMBRA DO PEIXE NA ÁGUA AN",
-    "fonte": "https://x.com/hytalemods/status/2090941623182020753",
-    "fonteData": "2026-08-22",
-    "confiabilidade": "comunidade",
-    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 85, engajamento 80) e QC de estilo.",
-    "midia": {
-      "tipo": "carrossel",
-      "url": "https://x.com/hytalemods/status/2090941623182020753",
-      "nota": "Gerado pela Redacao. Fonte twitter.",
-      "arquivos": [
-        "midia/twitter/rc172/1.png",
-        "midia/twitter/rc172/2.png"
-      ]
-    },
-    "twitter": "🎣 SISTEMA DE PESCA MOSTRA A SOMBRA DO PEIXE NA ÁGUA ANTES DA FISGADA\n\nAs varas vêm em níveis diferentes, a boia dá pra customizar e o que você pescar pode ir parar em um aquário. Tem também as ferramentas de pesca.\n\n📷 @hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🎣 SISTEMA DE PESCA MOSTRA A SOMBRA DO PEIXE NA ÁGUA ANTES DA FISGADA\n\nAs varas vêm em níveis diferentes, a boia dá pra customizar e o que você pescar pode ir parar em um aquário. Tem também as ferramentas de pesca.\n\n📷 hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
-    "id": "rc173",
-    "rodada": "2026-08-22 03:37",
-    "emoji": "\ud83c",
-    "titulo": "[MOD] COLOCARAM CAÇA-NÍQUEL E MÁQUINA DE PELÚCIA PRA FUNCI",
-    "fonte": "https://x.com/hytalemods/status/2090941018279428432",
-    "fonteData": "2026-08-22",
-    "confiabilidade": "comunidade",
-    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 78, engajamento 76) e QC de estilo.",
-    "midia": {
-      "tipo": "imagem",
-      "url": "https://x.com/hytalemods/status/2090941018279428432",
-      "nota": "Gerado pela Redacao. Fonte twitter."
-    },
-    "twitter": "🎰 COLOCARAM CAÇA-NÍQUEL E MÁQUINA DE PELÚCIA PRA FUNCIONAR DE VERDADE\n\nAs máquinas de cassino funcionam dentro do jogo e o prêmio que sai delas é configurável.\n\n📷 @hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🎰 COLOCARAM CAÇA-NÍQUEL E MÁQUINA DE PELÚCIA PRA FUNCIONAR DE VERDADE\n\nAs máquinas de cassino funcionam dentro do jogo e o prêmio que sai delas é configurável.\n\n📷 hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
-    "id": "rc174",
-    "rodada": "2026-08-22 03:37",
-    "emoji": "\ud83c",
-    "titulo": "[MOD] SÃO 16 TIPOS DE CARNE E COMER CRU PODE SAIR CARO",
-    "fonte": "https://x.com/hytalemods/status/2090943424719462670",
-    "fonteData": "2026-08-22",
-    "confiabilidade": "comunidade",
-    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 80, engajamento 78) e QC de estilo.",
-    "midia": {
-      "tipo": "imagem",
-      "url": "https://x.com/hytalemods/status/2090943424719462670",
-      "nota": "Gerado pela Redacao. Fonte twitter."
-    },
-    "twitter": "🍖 SÃO 16 TIPOS DE CARNE E COMER CRU PODE SAIR CARO\n\nO mod refaz a caça e a culinária. Carne crua faz mal, a fogueira tem níveis de melhoria e cada comida entrega um buff diferente, de vida, stamina, mana, velocidade ou resistência.\n\n📷 @hytalemods\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🍖 SÃO 16 TIPOS DE CARNE E COMER CRU PODE SAIR CARO\n\nO mod refaz a caça e a culinária. Carne crua faz mal, a fogueira tem níveis de melhoria e cada comida entrega um buff diferente, de vida, stamina, mana, velocidade ou resistência.\n\n📷 hytalemods\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
     "id": "rc163",
     "rodada": "2026-08-21 10:57",
     "emoji": "⛵",

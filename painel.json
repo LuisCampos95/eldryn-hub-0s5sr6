@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:38:42.898Z",
+  "geradoEm": "2026-08-22T06:42:15.577Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -111,7 +111,7 @@
     },
     {
       "etapa": "Agendados",
-      "n": 18,
+      "n": 15,
       "quem": "código"
     }
   ],
@@ -177,7 +177,7 @@
       "fonte": "twitter",
       "titulo": "Overhaul Hytale's hunting and cooking with 16 new meat types, dangerous raw meat, tiered campfires, and stronger food bu",
       "autor": "hytalemods",
-      "status": "AGENDADO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-22 06:25:22",
       "categoria": "MOD",
       "q": 80,
@@ -189,7 +189,7 @@
       "fonte": "twitter",
       "titulo": "Functional casino machines for Hytale, including slot machines and claw machines with configurable rewards.",
       "autor": "hytalemods",
-      "status": "AGENDADO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-22 06:18:55",
       "categoria": "MOD",
       "q": 78,
@@ -201,7 +201,7 @@
       "fonte": "twitter",
       "titulo": "A cozy fishing system for Hytale with fish shadows, multiple rod tiers, customizable bobbers, fishing tools, aquariums, ",
       "autor": "hytalemods",
-      "status": "AGENDADO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-22 06:18:55",
       "categoria": "MOD",
       "q": 85,
@@ -534,83 +534,6 @@
     }
   ],
   "grade": [
-    {
-      "hora": "17:30",
-      "data": "2026-08-22",
-      "id": "rc174",
-      "rede": "facebook",
-      "titulo": "🍖 SÃO 16 TIPOS DE CARNE E COMER CRU PODE SAIR CARO",
-      "textoMeta": "🍖 SÃO 16 TIPOS DE CARNE E COMER CRU PODE SAIR CARO\n\nO mod refaz a caça e a culinária. Carne crua faz mal, a fogueira tem níveis de melhoria e cada comida entrega um buff diferente, de vida, stamina, mana, velocidade ou resistência.\n\n📷 hytalemods\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🍖 SÃO 16 TIPOS DE CARNE E COMER CRU PODE SAIR CARO\n\nO mod refaz a caça e a culinária. Carne crua faz mal, a fogueira tem níveis de melhoria e cada comida entrega um buff diferente, de vida, stamina, mana, velocidade ou resistência.\n\n📷 @hytalemods\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/hytalemods/status/2090943424719462670",
-      "arquivos": [
-        "midia/twitter/rc174/1.png"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc174.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
-      "status": "agendado",
-      "qualidade": 80,
-      "engajamento": 78,
-      "categoria": "MOD",
-      "motivo": "mod overhaul grande e visual de caça/culinária, galeria de 4 fotos, 56 curtidas em 7h, tema inédito na página e sem post parecido na memória editorial",
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683335043795086"
-    },
-    {
-      "hora": "15:00",
-      "data": "2026-08-22",
-      "id": "rc173",
-      "rede": "facebook",
-      "titulo": "🎰 COLOCARAM CAÇA-NÍQUEL E MÁQUINA DE PELÚCIA PRA FUNCIONAR DE VERDADE",
-      "textoMeta": "🎰 COLOCARAM CAÇA-NÍQUEL E MÁQUINA DE PELÚCIA PRA FUNCIONAR DE VERDADE\n\nAs máquinas de cassino funcionam dentro do jogo e o prêmio que sai delas é configurável.\n\n📷 hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🎰 COLOCARAM CAÇA-NÍQUEL E MÁQUINA DE PELÚCIA PRA FUNCIONAR DE VERDADE\n\nAs máquinas de cassino funcionam dentro do jogo e o prêmio que sai delas é configurável.\n\n📷 @hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/hytalemods/status/2090941018279428432",
-      "arquivos": [
-        "midia/twitter/rc173/1.png"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc173.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
-      "status": "agendado",
-      "qualidade": 78,
-      "engajamento": 76,
-      "categoria": "MOD",
-      "motivo": "sistema visual e original (cassino funcional com caca-niquel e maquina de pelucia configuraveis), conceito inusitado que chama atencao mesmo em imagem unica, assunto novo sem cobertura recente",
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683334963795094"
-    },
-    {
-      "hora": "12:30",
-      "data": "2026-08-22",
-      "id": "rc172",
-      "rede": "facebook",
-      "titulo": "🎣 SISTEMA DE PESCA MOSTRA A SOMBRA DO PEIXE NA ÁGUA ANTES DA FISGADA",
-      "textoMeta": "🎣 SISTEMA DE PESCA MOSTRA A SOMBRA DO PEIXE NA ÁGUA ANTES DA FISGADA\n\nAs varas vêm em níveis diferentes, a boia dá pra customizar e o que você pescar pode ir parar em um aquário. Tem também as ferramentas de pesca.\n\n📷 hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🎣 SISTEMA DE PESCA MOSTRA A SOMBRA DO PEIXE NA ÁGUA ANTES DA FISGADA\n\nAs varas vêm em níveis diferentes, a boia dá pra customizar e o que você pescar pode ir parar em um aquário. Tem também as ferramentas de pesca.\n\n📷 @hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/hytalemods/status/2090941623182020753",
-      "arquivos": [
-        "midia/twitter/rc172/1.png",
-        "midia/twitter/rc172/2.png"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc172_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc172_2.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
-      "status": "agendado",
-      "qualidade": 85,
-      "engajamento": 80,
-      "categoria": "MOD",
-      "motivo": "sistema grande e visual (o que comprovadamente funciona na pagina), galeria com multiplas imagens de mecanicas concretas - sombra de peixe, tiers de vara, aquario -, assunto sem cobertura recente na memoria editorial",
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683334910461766"
-    },
     {
       "hora": "17:30",
       "data": "2026-08-21",
@@ -1203,89 +1126,6 @@
     }
   ],
   "diasGrade": [
-    {
-      "dia": "2026-08-22",
-      "posts": [
-        {
-          "hora": "12:30",
-          "data": "2026-08-22",
-          "id": "rc172",
-          "rede": "facebook",
-          "titulo": "🎣 SISTEMA DE PESCA MOSTRA A SOMBRA DO PEIXE NA ÁGUA ANTES DA FISGADA",
-          "textoMeta": "🎣 SISTEMA DE PESCA MOSTRA A SOMBRA DO PEIXE NA ÁGUA ANTES DA FISGADA\n\nAs varas vêm em níveis diferentes, a boia dá pra customizar e o que você pescar pode ir parar em um aquário. Tem também as ferramentas de pesca.\n\n📷 hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🎣 SISTEMA DE PESCA MOSTRA A SOMBRA DO PEIXE NA ÁGUA ANTES DA FISGADA\n\nAs varas vêm em níveis diferentes, a boia dá pra customizar e o que você pescar pode ir parar em um aquário. Tem também as ferramentas de pesca.\n\n📷 @hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/hytalemods/status/2090941623182020753",
-          "arquivos": [
-            "midia/twitter/rc172/1.png",
-            "midia/twitter/rc172/2.png"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc172_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc172_2.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
-          "status": "agendado",
-          "qualidade": 85,
-          "engajamento": 80,
-          "categoria": "MOD",
-          "motivo": "sistema grande e visual (o que comprovadamente funciona na pagina), galeria com multiplas imagens de mecanicas concretas - sombra de peixe, tiers de vara, aquario -, assunto sem cobertura recente na memoria editorial",
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683334910461766"
-        },
-        {
-          "hora": "15:00",
-          "data": "2026-08-22",
-          "id": "rc173",
-          "rede": "facebook",
-          "titulo": "🎰 COLOCARAM CAÇA-NÍQUEL E MÁQUINA DE PELÚCIA PRA FUNCIONAR DE VERDADE",
-          "textoMeta": "🎰 COLOCARAM CAÇA-NÍQUEL E MÁQUINA DE PELÚCIA PRA FUNCIONAR DE VERDADE\n\nAs máquinas de cassino funcionam dentro do jogo e o prêmio que sai delas é configurável.\n\n📷 hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🎰 COLOCARAM CAÇA-NÍQUEL E MÁQUINA DE PELÚCIA PRA FUNCIONAR DE VERDADE\n\nAs máquinas de cassino funcionam dentro do jogo e o prêmio que sai delas é configurável.\n\n📷 @hytalemods\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/hytalemods/status/2090941018279428432",
-          "arquivos": [
-            "midia/twitter/rc173/1.png"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc173.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
-          "status": "agendado",
-          "qualidade": 78,
-          "engajamento": 76,
-          "categoria": "MOD",
-          "motivo": "sistema visual e original (cassino funcional com caca-niquel e maquina de pelucia configuraveis), conceito inusitado que chama atencao mesmo em imagem unica, assunto novo sem cobertura recente",
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683334963795094"
-        },
-        {
-          "hora": "17:30",
-          "data": "2026-08-22",
-          "id": "rc174",
-          "rede": "facebook",
-          "titulo": "🍖 SÃO 16 TIPOS DE CARNE E COMER CRU PODE SAIR CARO",
-          "textoMeta": "🍖 SÃO 16 TIPOS DE CARNE E COMER CRU PODE SAIR CARO\n\nO mod refaz a caça e a culinária. Carne crua faz mal, a fogueira tem níveis de melhoria e cada comida entrega um buff diferente, de vida, stamina, mana, velocidade ou resistência.\n\n📷 hytalemods\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🍖 SÃO 16 TIPOS DE CARNE E COMER CRU PODE SAIR CARO\n\nO mod refaz a caça e a culinária. Carne crua faz mal, a fogueira tem níveis de melhoria e cada comida entrega um buff diferente, de vida, stamina, mana, velocidade ou resistência.\n\n📷 @hytalemods\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/hytalemods/status/2090943424719462670",
-          "arquivos": [
-            "midia/twitter/rc174/1.png"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc174.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
-          "status": "agendado",
-          "qualidade": 80,
-          "engajamento": 78,
-          "categoria": "MOD",
-          "motivo": "mod overhaul grande e visual de caça/culinária, galeria de 4 fotos, 56 curtidas em 7h, tema inédito na página e sem post parecido na memória editorial",
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683335043795086"
-        }
-      ],
-      "total": 3
-    },
     {
       "dia": "2026-08-21",
       "posts": [
@@ -1970,7 +1810,7 @@
     "rejeitadosFiltro": 111,
     "rejeitadosMemoria": 7,
     "escritos": 25,
-    "agendados": 18,
+    "agendados": 15,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
