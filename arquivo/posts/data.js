@@ -6,6 +6,24 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+    "id": "rc178",
+    "rodada": "2026-08-22 11:39",
+    "emoji": "☠",
+    "titulo": "[MOD] RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ES",
+    "fonte": "https://x.com/Pilipchen1/status/2090899444417827001",
+    "fonteData": "2026-08-23",
+    "confiabilidade": "comunidade",
+    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 78, engajamento 76) e QC de estilo.",
+    "midia": {
+      "tipo": "video",
+      "url": "https://x.com/Pilipchen1/status/2090899444417827001",
+      "nota": "Gerado pela Redacao. Fonte twitter.",
+      "video": "midia/twitter/rc178.mp4"
+    },
+    "twitter": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 @Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "rc175",
     "rodada": "2026-08-22 03:57",
     "emoji": "⚡",

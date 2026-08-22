@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T14:38:43.809Z",
+  "geradoEm": "2026-08-22T14:39:23.817Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -111,7 +111,7 @@
     },
     {
       "etapa": "Agendados",
-      "n": 17,
+      "n": 18,
       "quem": "código"
     }
   ],
@@ -177,7 +177,7 @@
       "fonte": "twitter",
       "titulo": "Our Engineers have finally released the plans for additional steel scaffolding parts and attachments.",
       "autor": "AncientWolfAWI",
-      "status": "APROVADO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-22 14:34:05",
       "categoria": "BUILD",
       "q": 85,
@@ -201,7 +201,7 @@
       "fonte": "twitter",
       "titulo": "The first update to the RuneSwordsMod out on CurseForge now!",
       "autor": "Pilipchen1",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-22 14:34:05",
       "categoria": "MOD",
       "q": 78,
@@ -543,11 +543,7 @@
       "textoMeta": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
-      "arquivos": [
-        "midia/curseforge/zephyr/1.jpg",
-        "midia/curseforge/zephyr/2.jpg",
-        "midia/curseforge/zephyr/3.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc176_2.jpg",
@@ -576,11 +572,7 @@
       "textoMeta": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
-      "arquivos": [
-        "midia/curseforge/wonderweapons/1.png",
-        "midia/curseforge/wonderweapons/2.png",
-        "midia/curseforge/wonderweapons/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc175_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc175_2.jpg",
@@ -1204,11 +1196,7 @@
           "textoMeta": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
-          "arquivos": [
-            "midia/curseforge/wonderweapons/1.png",
-            "midia/curseforge/wonderweapons/2.png",
-            "midia/curseforge/wonderweapons/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc175_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc175_2.jpg",
@@ -1237,11 +1225,7 @@
           "textoMeta": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
-          "arquivos": [
-            "midia/curseforge/zephyr/1.jpg",
-            "midia/curseforge/zephyr/2.jpg",
-            "midia/curseforge/zephyr/3.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc176_2.jpg",
@@ -1948,7 +1932,7 @@
     "rejeitadosFiltro": 112,
     "rejeitadosMemoria": 7,
     "escritos": 28,
-    "agendados": 17,
+    "agendados": 18,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
