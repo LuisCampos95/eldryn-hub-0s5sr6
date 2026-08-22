@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-21T19:50:23.389Z",
+  "geradoEm": "2026-08-22T06:13:52.550Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -553,7 +553,7 @@
         "03-1730-rc160.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 80,
       "engajamento": 82,
       "categoria": "MOD",
@@ -1266,7 +1266,7 @@
             "03-1730-rc160.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 80,
           "engajamento": 82,
           "categoria": "MOD",
@@ -1840,9 +1840,8 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 5,
-    "feitos": 0,
-    "data": "2026-08-21"
+    "total": 0,
+    "feitos": 0
   },
   "custos": {
     "infraMensal": 0,
@@ -1880,12 +1879,12 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-21T04:21:51.798Z",
+  "ultimaColeta": "2026-08-22T06:13:52.334Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5926,
+      "seguidores": 5924,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -1894,10 +1893,10 @@
     "instagram": {
       "nome": "@brasilhytale",
       "seguidores": 6031,
-      "totalPosts": 253,
+      "totalPosts": 254,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 125,
+      "mediaCurtidas": 126,
       "amostra": 100
     },
     "twitter": {
@@ -1958,7 +1957,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 372,
+        "curtidas": 373,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
@@ -1968,8 +1967,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-06-24T14:15:25+0000",
-      "ate": "2026-08-21T18:43:55+0000"
+      "de": "2026-06-25T16:36:14+0000",
+      "ate": "2026-08-21T20:39:36+0000"
     },
     "serie": [
       {
