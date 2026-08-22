@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:21:12.813Z",
+  "geradoEm": "2026-08-22T06:25:22.514Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 173,
+      "n": 174,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 62,
+      "n": 63,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 55,
+      "n": 56,
       "quem": "código"
     },
     {
@@ -172,6 +172,18 @@
     }
   },
   "recentes": [
+    {
+      "id": 174,
+      "fonte": "twitter",
+      "titulo": "Overhaul Hytale's hunting and cooking with 16 new meat types, dangerous raw meat, tiered campfires, and stronger food bu",
+      "autor": "hytalemods",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-22 06:25:22",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
     {
       "id": 173,
       "fonte": "twitter",
@@ -519,18 +531,6 @@
       "q": 85,
       "e": 82,
       "motivo": "recriacao do Tanjiro (Demon Slayer) em Hytale, crossover de anime reconhecivel e o que comprovadamente funciona na pagina; 64 upvotes em so 8h"
-    },
-    {
-      "id": 121,
-      "fonte": "reddit",
-      "titulo": "Giant Axe among the Trees",
-      "autor": "Shydass",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-19 17:50:57",
-      "categoria": "BUILD",
-      "q": 82,
-      "e": 85,
-      "motivo": "55 upvotes em apenas 4h, a velocidade de engajamento mais rapida de toda a fila; imagem simples mas de forte impacto visual"
     }
   ],
   "grade": [
@@ -1824,7 +1824,7 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 173,
+    "coletadosTotal": 174,
     "aprovados": 24,
     "rejeitados": 31,
     "rejeitadosFiltro": 111,
@@ -1880,7 +1880,7 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-22T06:18:55.774Z",
+  "ultimaColeta": "2026-08-22T06:25:22.325Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
