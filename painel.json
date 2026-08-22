@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:57:51.038Z",
+  "geradoEm": "2026-08-22T14:28:27.929Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -544,20 +544,24 @@
       "textoTwitter": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
       "arquivos": [
-        "midia/curseforge/zephyr/1.jpg"
+        "midia/curseforge/zephyr/1.jpg",
+        "midia/curseforge/zephyr/2.jpg",
+        "midia/curseforge/zephyr/3.jpg"
       ],
       "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc176.jpg"
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "02-1500-rc176.jpg"
+      ],
       "tipo": "imagem",
       "status": "agendado",
       "qualidade": 84,
       "engajamento": 85,
       "categoria": "MOD",
       "motivo": "atualização legítima, não repetição: os posts antigos (274 e 272 dias atrás) eram sobre a CONFIRMAÇÃO OFICIAL de grappling hooks como feature futura, este é um mod já lançado com resultado pronto (112 mil downloads) entregando um overhaul de movimento inteiro, muito além do que foi coberto antes",
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683347260460531"
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683647463763844"
     },
     {
       "hora": "12:30",
@@ -579,8 +583,12 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc175_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "01-1230-rc175-1.png",
+        "01-1230-rc175-2.png",
+        "01-1230-rc175-3.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": 85,
       "engajamento": 86,
@@ -1203,8 +1211,12 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc175_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "01-1230-rc175-1.png",
+            "01-1230-rc175-2.png",
+            "01-1230-rc175-3.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": 85,
           "engajamento": 86,
@@ -1222,20 +1234,24 @@
           "textoTwitter": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
           "arquivos": [
-            "midia/curseforge/zephyr/1.jpg"
+            "midia/curseforge/zephyr/1.jpg",
+            "midia/curseforge/zephyr/2.jpg",
+            "midia/curseforge/zephyr/3.jpg"
           ],
           "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc176.jpg"
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "02-1500-rc176.jpg"
+          ],
           "tipo": "imagem",
           "status": "agendado",
           "qualidade": 84,
           "engajamento": 85,
           "categoria": "MOD",
           "motivo": "atualização legítima, não repetição: os posts antigos (274 e 272 dias atrás) eram sobre a CONFIRMAÇÃO OFICIAL de grappling hooks como feature futura, este é um mod já lançado com resultado pronto (112 mil downloads) entregando um overhaul de movimento inteiro, muito além do que foi coberto antes",
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683347260460531"
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683647463763844"
         }
       ],
       "total": 2
@@ -1935,8 +1951,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 0,
-    "feitos": 0
+    "total": 2,
+    "feitos": 0,
+    "data": "2026-08-22"
   },
   "custos": {
     "infraMensal": 0,
@@ -1979,7 +1996,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5924,
+      "seguidores": 5925,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -1987,7 +2004,7 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6031,
+      "seguidores": 6033,
       "totalPosts": 254,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
@@ -2052,7 +2069,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 373,
+        "curtidas": 374,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
