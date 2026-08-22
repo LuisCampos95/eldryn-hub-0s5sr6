@@ -6,24 +6,6 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
-    "id": "rc182",
-    "rodada": "2026-08-22 17:44",
-    "emoji": "⛵",
-    "titulo": "[COMUNIDADE] O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ",
-    "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
-    "fonteData": "2026-08-22",
-    "confiabilidade": "comunidade",
-    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 75, engajamento 78) e QC de estilo.",
-    "midia": {
-      "tipo": "video",
-      "url": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
-      "nota": "Gerado pela Redacao. Fonte twitter.",
-      "video": "midia/twitter/rc182.mp4"
-    },
-    "twitter": "⛵ O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ESTRAGAR A SURPRESA\n\nSó soltou essa cena de um barco cruzando a água no pôr do sol, sem contar o que vem a seguir. O Update 6, que libera o mod, chega nesse dia.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "⛵ O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ESTRAGAR A SURPRESA\n\nSó soltou essa cena de um barco cruzando a água no pôr do sol, sem contar o que vem a seguir. O Update 6, que libera o mod, chega nesse dia.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
     "id": "rc181",
     "rodada": "2026-08-22 17:44",
     "emoji": "⚔",

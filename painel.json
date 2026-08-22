@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T20:49:59.343Z",
+  "geradoEm": "2026-08-22T21:30:30.865Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -111,7 +111,7 @@
     },
     {
       "etapa": "Agendados",
-      "n": 20,
+      "n": 19,
       "quem": "código"
     }
   ],
@@ -576,7 +576,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
       "arquivosTwitter": [
-        "04-2100-rc181.mp4"
+        "03-2100-rc181.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -585,33 +585,6 @@
       "categoria": "COMUNIDADE",
       "motivo": "pedido direto do Luis",
       "urlPublicada": "https://www.facebook.com/reel/1856206239087531/"
-    },
-    {
-      "hora": "19:00",
-      "data": "2026-08-22",
-      "id": "rc182",
-      "rede": "facebook",
-      "titulo": "⛵ O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ESTRAGAR A SURPRESA",
-      "textoMeta": "⛵ O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ESTRAGAR A SURPRESA\n\nSó soltou essa cena de um barco cruzando a água no pôr do sol, sem contar o que vem a seguir. O Update 6, que libera o mod, chega nesse dia.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "⛵ O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ESTRAGAR A SURPRESA\n\nSó soltou essa cena de um barco cruzando a água no pôr do sol, sem contar o que vem a seguir. O Update 6, que libera o mod, chega nesse dia.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
-      "arquivos": [
-        "midia/twitter/rc182.mp4"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc182.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-      "arquivosTwitter": [
-        "03-1900-rc182.mp4"
-      ],
-      "tipo": "video",
-      "status": "agendado",
-      "qualidade": 75,
-      "engajamento": 78,
-      "categoria": "COMUNIDADE",
-      "motivo": "pedido direto do Luis",
-      "urlPublicada": "https://www.facebook.com/reel/2114792689464597/"
     },
     {
       "hora": "15:00",
@@ -1372,33 +1345,6 @@
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683647463763844"
         },
         {
-          "hora": "19:00",
-          "data": "2026-08-22",
-          "id": "rc182",
-          "rede": "facebook",
-          "titulo": "⛵ O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ESTRAGAR A SURPRESA",
-          "textoMeta": "⛵ O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ESTRAGAR A SURPRESA\n\nSó soltou essa cena de um barco cruzando a água no pôr do sol, sem contar o que vem a seguir. O Update 6, que libera o mod, chega nesse dia.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "⛵ O MARITIME LIFE PROMETE ALGO NOVO PRO DIA 27 E NÃO QUIS ESTRAGAR A SURPRESA\n\nSó soltou essa cena de um barco cruzando a água no pôr do sol, sem contar o que vem a seguir. O Update 6, que libera o mod, chega nesse dia.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
-          "arquivos": [
-            "midia/twitter/rc182.mp4"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc182.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-          "arquivosTwitter": [
-            "03-1900-rc182.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": 75,
-          "engajamento": 78,
-          "categoria": "COMUNIDADE",
-          "motivo": "pedido direto do Luis",
-          "urlPublicada": "https://www.facebook.com/reel/2114792689464597/"
-        },
-        {
           "hora": "21:00",
           "data": "2026-08-22",
           "id": "rc181",
@@ -1415,7 +1361,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
           "arquivosTwitter": [
-            "04-2100-rc181.mp4"
+            "03-2100-rc181.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -1426,7 +1372,7 @@
           "urlPublicada": "https://www.facebook.com/reel/1856206239087531/"
         }
       ],
-      "total": 4
+      "total": 3
     },
     {
       "dia": "2026-08-21",
@@ -2112,7 +2058,7 @@
     "rejeitadosFiltro": 112,
     "rejeitadosMemoria": 7,
     "escritos": 30,
-    "agendados": 20,
+    "agendados": 19,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -2123,7 +2069,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 4,
+    "total": 3,
     "feitos": 0,
     "data": "2026-08-22"
   },
