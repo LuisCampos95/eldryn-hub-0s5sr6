@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:56:26.947Z",
+  "geradoEm": "2026-08-22T06:57:07.547Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -111,7 +111,7 @@
     },
     {
       "etapa": "Agendados",
-      "n": 15,
+      "n": 17,
       "quem": "código"
     }
   ],
@@ -177,7 +177,7 @@
       "fonte": "curseforge",
       "titulo": "Zephyr",
       "autor": "narwhals",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-22 06:50:54",
       "categoria": "MOD",
       "q": 84,
@@ -189,7 +189,7 @@
       "fonte": "curseforge",
       "titulo": "Wan's Wonder Weapons",
       "autor": "WanMine",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-22 06:50:54",
       "categoria": "MOD",
       "q": 85,
@@ -1810,7 +1810,7 @@
     "rejeitadosFiltro": 112,
     "rejeitadosMemoria": 7,
     "escritos": 27,
-    "agendados": 15,
+    "agendados": 17,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
