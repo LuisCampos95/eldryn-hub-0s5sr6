@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:25:22.514Z",
+  "geradoEm": "2026-08-22T06:26:26.491Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -96,12 +96,12 @@
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 55,
+      "n": 56,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 24,
+      "n": 25,
       "quem": "IA"
     },
     {
@@ -124,11 +124,11 @@
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1
   },
-  "taxaAprovacao": 44,
+  "taxaAprovacao": 45,
   "qualidade": {
-    "q": 62.8,
-    "e": 64.5,
-    "qAprov": 83.3,
+    "q": 63.1,
+    "e": 64.7,
+    "qAprov": 83.2,
     "qRej": 46.9
   },
   "porCategoria": [
@@ -139,8 +139,8 @@
     },
     {
       "categoria": "MOD",
-      "n": 17,
-      "ok": 11
+      "n": 18,
+      "ok": 12
     },
     {
       "categoria": "BUILD",
@@ -177,12 +177,12 @@
       "fonte": "twitter",
       "titulo": "Overhaul Hytale's hunting and cooking with 16 new meat types, dangerous raw meat, tiered campfires, and stronger food bu",
       "autor": "hytalemods",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-22 06:25:22",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 80,
+      "e": 78,
+      "motivo": "mod overhaul grande e visual de caça/culinária, galeria de 4 fotos, 56 curtidas em 7h, tema inédito na página e sem post parecido na memória editorial"
     },
     {
       "id": 173,
@@ -1825,7 +1825,7 @@
   },
   "contagem": {
     "coletadosTotal": 174,
-    "aprovados": 24,
+    "aprovados": 25,
     "rejeitados": 31,
     "rejeitadosFiltro": 111,
     "rejeitadosMemoria": 7,
