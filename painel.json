@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:37:08.279Z",
+  "geradoEm": "2026-08-22T06:37:46.428Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -111,7 +111,7 @@
     },
     {
       "etapa": "Agendados",
-      "n": 15,
+      "n": 18,
       "quem": "código"
     }
   ],
@@ -177,7 +177,7 @@
       "fonte": "twitter",
       "titulo": "Overhaul Hytale's hunting and cooking with 16 new meat types, dangerous raw meat, tiered campfires, and stronger food bu",
       "autor": "hytalemods",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-22 06:25:22",
       "categoria": "MOD",
       "q": 80,
@@ -189,7 +189,7 @@
       "fonte": "twitter",
       "titulo": "Functional casino machines for Hytale, including slot machines and claw machines with configurable rewards.",
       "autor": "hytalemods",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-22 06:18:55",
       "categoria": "MOD",
       "q": 78,
@@ -201,7 +201,7 @@
       "fonte": "twitter",
       "titulo": "A cozy fishing system for Hytale with fish shadows, multiple rod tiers, customizable bobbers, fishing tools, aquariums, ",
       "autor": "hytalemods",
-      "status": "APROVADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-22 06:18:55",
       "categoria": "MOD",
       "q": 85,
@@ -543,9 +543,7 @@
       "textoMeta": "⚔️ DÁ PRA APARAR OU ESQUIVAR CONFORME O GOLPE NESSE MOD DE COMBATE\n\nO sistema Perfect Parries and Perfect Dodges deixa o jogador escolher a reação conforme o tipo de ataque que vem. A luta é em primeira pessoa, com machado e escudo, em uma arena de deserto do servidor GuildWarsSMP na Season 1.\n\n🎥 sharkeatcats\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⚔️ DÁ PRA APARAR OU ESQUIVAR CONFORME O GOLPE NESSE MOD DE COMBATE\n\nO sistema Perfect Parries and Perfect Dodges deixa o jogador escolher a reação conforme o tipo de ataque que vem. A luta é em primeira pessoa, com machado e escudo, em uma arena de deserto do servidor GuildWarsSMP na Season 1.\n\n🎥 @sharkeatcats\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/GuildWarsSMP/status/2090417313464074700",
-      "arquivos": [
-        "midia/twitter/rc160.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc160.mp4"
       ],
@@ -570,9 +568,7 @@
       "textoMeta": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR E CAIR INTEIRA NO CHÃO\n\nDepois do último golpe de machado a árvore não some, ela tomba e fica deitada no chão. O tronco caído ainda pode ser cortado em toras ali mesmo. O sistema está em desenvolvimento.\n\n🎥 GaiaScript\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR E CAIR INTEIRA NO CHÃO\n\nDepois do último golpe de machado a árvore não some, ela tomba e fica deitada no chão. O tronco caído ainda pode ser cortado em toras ali mesmo. O sistema está em desenvolvimento.\n\n🎥 @GaiaScript\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/GaiaScript/status/2089653621935722590",
-      "arquivos": [
-        "midia/twitter/rc130.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc130.mp4"
       ],
@@ -597,9 +593,7 @@
       "textoMeta": "🎬 ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 gamevid4\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎬 ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 @gamevid4\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/gamevid4/status/2089810333527429238",
-      "arquivos": [
-        "midia/twitter/rc129.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc129.mp4"
       ],
@@ -624,9 +618,7 @@
       "textoMeta": "🐍 COLOCARAM O JOGO DA COBRINHA DO NOKIA PRA FUNCIONAR DE VERDADE\n\nO celular tijolão aparece gigante flutuando no céu, com a tela verde rodando a cobrinha de verdade, comendo item e crescendo. Depois o personagem aparece segurando o aparelho na mão.\n\nO mod funciona com Trigger Volumes e já está no CurseForge.\n\n🎥 foxy_cca\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🐍 COLOCARAM O JOGO DA COBRINHA DO NOKIA PRA FUNCIONAR DE VERDADE\n\nO celular tijolão aparece gigante flutuando no céu, com a tela verde rodando a cobrinha de verdade, comendo item e crescendo. Depois o personagem aparece segurando o aparelho na mão.\n\nO mod funciona com Trigger Volumes e já está no CurseForge.\n\n🎥 @foxy_cca\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/foxy_cca/status/2089422365486719399",
-      "arquivos": [
-        "midia/twitter/rc161.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc161.mp4"
       ],
@@ -651,9 +643,7 @@
       "textoMeta": "⛵ ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 MaritimeLifeDev\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⛵ ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
-      "arquivos": [
-        "midia/twitter/rc163.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc163.mp4"
       ],
@@ -1148,9 +1138,7 @@
           "textoMeta": "⛵ ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 MaritimeLifeDev\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⛵ ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
-          "arquivos": [
-            "midia/twitter/rc163.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc163.mp4"
           ],
@@ -1175,9 +1163,7 @@
           "textoMeta": "🐍 COLOCARAM O JOGO DA COBRINHA DO NOKIA PRA FUNCIONAR DE VERDADE\n\nO celular tijolão aparece gigante flutuando no céu, com a tela verde rodando a cobrinha de verdade, comendo item e crescendo. Depois o personagem aparece segurando o aparelho na mão.\n\nO mod funciona com Trigger Volumes e já está no CurseForge.\n\n🎥 foxy_cca\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🐍 COLOCARAM O JOGO DA COBRINHA DO NOKIA PRA FUNCIONAR DE VERDADE\n\nO celular tijolão aparece gigante flutuando no céu, com a tela verde rodando a cobrinha de verdade, comendo item e crescendo. Depois o personagem aparece segurando o aparelho na mão.\n\nO mod funciona com Trigger Volumes e já está no CurseForge.\n\n🎥 @foxy_cca\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/foxy_cca/status/2089422365486719399",
-          "arquivos": [
-            "midia/twitter/rc161.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc161.mp4"
           ],
@@ -1202,9 +1188,7 @@
           "textoMeta": "🎬 ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 gamevid4\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎬 ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 @gamevid4\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/gamevid4/status/2089810333527429238",
-          "arquivos": [
-            "midia/twitter/rc129.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc129.mp4"
           ],
@@ -1229,9 +1213,7 @@
           "textoMeta": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR E CAIR INTEIRA NO CHÃO\n\nDepois do último golpe de machado a árvore não some, ela tomba e fica deitada no chão. O tronco caído ainda pode ser cortado em toras ali mesmo. O sistema está em desenvolvimento.\n\n🎥 GaiaScript\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR E CAIR INTEIRA NO CHÃO\n\nDepois do último golpe de machado a árvore não some, ela tomba e fica deitada no chão. O tronco caído ainda pode ser cortado em toras ali mesmo. O sistema está em desenvolvimento.\n\n🎥 @GaiaScript\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/GaiaScript/status/2089653621935722590",
-          "arquivos": [
-            "midia/twitter/rc130.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc130.mp4"
           ],
@@ -1256,9 +1238,7 @@
           "textoMeta": "⚔️ DÁ PRA APARAR OU ESQUIVAR CONFORME O GOLPE NESSE MOD DE COMBATE\n\nO sistema Perfect Parries and Perfect Dodges deixa o jogador escolher a reação conforme o tipo de ataque que vem. A luta é em primeira pessoa, com machado e escudo, em uma arena de deserto do servidor GuildWarsSMP na Season 1.\n\n🎥 sharkeatcats\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⚔️ DÁ PRA APARAR OU ESQUIVAR CONFORME O GOLPE NESSE MOD DE COMBATE\n\nO sistema Perfect Parries and Perfect Dodges deixa o jogador escolher a reação conforme o tipo de ataque que vem. A luta é em primeira pessoa, com machado e escudo, em uma arena de deserto do servidor GuildWarsSMP na Season 1.\n\n🎥 @sharkeatcats\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/GuildWarsSMP/status/2090417313464074700",
-          "arquivos": [
-            "midia/twitter/rc160.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc160.mp4"
           ],
@@ -1830,7 +1810,7 @@
     "rejeitadosFiltro": 111,
     "rejeitadosMemoria": 7,
     "escritos": 25,
-    "agendados": 15,
+    "agendados": 18,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
