@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T21:30:30.865Z",
+  "geradoEm": "2026-08-22T21:35:45.753Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -111,7 +111,7 @@
     },
     {
       "etapa": "Agendados",
-      "n": 19,
+      "n": 20,
       "quem": "código"
     }
   ],
@@ -576,7 +576,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
       "arquivosTwitter": [
-        "03-2100-rc181.mp4"
+        "04-2100-rc181.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -585,6 +585,33 @@
       "categoria": "COMUNIDADE",
       "motivo": "pedido direto do Luis",
       "urlPublicada": "https://www.facebook.com/reel/1856206239087531/"
+    },
+    {
+      "hora": "19:00",
+      "data": "2026-08-22",
+      "id": "rc182",
+      "rede": "facebook",
+      "titulo": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE",
+      "textoMeta": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
+      "arquivos": [
+        "midia/twitter/rc182.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc182.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
+      "arquivosTwitter": [
+        "03-1900-rc182.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": 75,
+      "engajamento": 78,
+      "categoria": "COMUNIDADE",
+      "motivo": "pedido direto do Luis",
+      "urlPublicada": "https://www.facebook.com/reel/3448006718693504/"
     },
     {
       "hora": "15:00",
@@ -1345,6 +1372,33 @@
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1683647463763844"
         },
         {
+          "hora": "19:00",
+          "data": "2026-08-22",
+          "id": "rc182",
+          "rede": "facebook",
+          "titulo": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE",
+          "textoMeta": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
+          "arquivos": [
+            "midia/twitter/rc182.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc182.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
+          "arquivosTwitter": [
+            "03-1900-rc182.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": 75,
+          "engajamento": 78,
+          "categoria": "COMUNIDADE",
+          "motivo": "pedido direto do Luis",
+          "urlPublicada": "https://www.facebook.com/reel/3448006718693504/"
+        },
+        {
           "hora": "21:00",
           "data": "2026-08-22",
           "id": "rc181",
@@ -1361,7 +1415,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
           "arquivosTwitter": [
-            "03-2100-rc181.mp4"
+            "04-2100-rc181.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -1372,7 +1426,7 @@
           "urlPublicada": "https://www.facebook.com/reel/1856206239087531/"
         }
       ],
-      "total": 3
+      "total": 4
     },
     {
       "dia": "2026-08-21",
@@ -2058,7 +2112,7 @@
     "rejeitadosFiltro": 112,
     "rejeitadosMemoria": 7,
     "escritos": 30,
-    "agendados": 19,
+    "agendados": 20,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -2069,7 +2123,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 3,
+    "total": 4,
     "feitos": 0,
     "data": "2026-08-22"
   },
