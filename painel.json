@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T14:34:32.460Z",
+  "geradoEm": "2026-08-22T14:35:49.999Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -96,12 +96,12 @@
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 58,
+      "n": 61,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 27,
+      "n": 29,
       "quem": "IA"
     },
     {
@@ -124,28 +124,28 @@
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1
   },
-  "taxaAprovacao": 47,
+  "taxaAprovacao": 48,
   "qualidade": {
-    "q": 63.8,
+    "q": 64,
     "e": 65.4,
-    "qAprov": 83.3,
-    "qRej": 46.9
+    "qAprov": 83.2,
+    "qRej": 46.5
   },
   "porCategoria": [
+    {
+      "categoria": "MOD",
+      "n": 22,
+      "ok": 15
+    },
     {
       "categoria": "COMUNIDADE",
       "n": 21,
       "ok": 5
     },
     {
-      "categoria": "MOD",
-      "n": 20,
-      "ok": 14
-    },
-    {
       "categoria": "BUILD",
-      "n": 13,
-      "ok": 5
+      "n": 14,
+      "ok": 6
     },
     {
       "categoria": "NOTICIA",
@@ -177,36 +177,36 @@
       "fonte": "twitter",
       "titulo": "Our Engineers have finally released the plans for additional steel scaffolding parts and attachments.",
       "autor": "AncientWolfAWI",
-      "status": "PARECIDO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-22 14:34:05",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "BUILD",
+      "q": 85,
+      "e": 80,
+      "motivo": "galeria de 3 fotos com sistema visual forte (peças de andaime de aço, conectores, ponte sobre rio), memória só achou 33% de parecido com tweet de 2007 sobre assunto totalmente diferente, não é repetição"
     },
     {
       "id": 179,
       "fonte": "twitter",
       "titulo": "I add new things to my #hytale mod every day!",
       "autor": "lunaronin777",
-      "status": "CANDIDATO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-22 14:34:05",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 35,
+      "e": 40,
+      "motivo": "legenda genérica de série diária sem informar o que de fato foi adicionado no dia 193, conteúdo em andamento sem resultado concreto pra mostrar"
     },
     {
       "id": 178,
       "fonte": "twitter",
       "titulo": "The first update to the RuneSwordsMod out on CurseForge now!",
       "autor": "Pilipchen1",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-22 14:34:05",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 78,
+      "e": 76,
+      "motivo": "primeira atualização de mod publicado no CurseForge com sistema de habilidade nova (Q especial na PoisonRune) demonstrada em vídeo, achado cedo antes de viralizar"
     },
     {
       "id": 176,
@@ -1943,8 +1943,8 @@
   },
   "contagem": {
     "coletadosTotal": 180,
-    "aprovados": 27,
-    "rejeitados": 31,
+    "aprovados": 29,
+    "rejeitados": 32,
     "rejeitadosFiltro": 112,
     "rejeitadosMemoria": 7,
     "escritos": 27,
