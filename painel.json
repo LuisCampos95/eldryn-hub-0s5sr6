@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T14:39:23.817Z",
+  "geradoEm": "2026-08-22T14:40:02.844Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -534,6 +534,31 @@
     }
   ],
   "grade": [
+    {
+      "hora": "12:30",
+      "data": "2026-08-23",
+      "id": "rc178",
+      "rede": "facebook",
+      "titulo": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q",
+      "textoMeta": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 @Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/Pilipchen1/status/2090899444417827001",
+      "arquivos": [
+        "midia/twitter/rc178.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc178.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-23",
+      "arquivosTwitter": [],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": 78,
+      "engajamento": 76,
+      "categoria": "MOD",
+      "motivo": "primeira atualização de mod publicado no CurseForge com sistema de habilidade nova (Q especial na PoisonRune) demonstrada em vídeo, achado cedo antes de viralizar",
+      "urlPublicada": "https://www.facebook.com/reel/2578712255975609/"
+    },
     {
       "hora": "15:00",
       "data": "2026-08-22",
@@ -1184,6 +1209,37 @@
     }
   ],
   "diasGrade": [
+    {
+      "dia": "2026-08-23",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-08-23",
+          "id": "rc178",
+          "rede": "facebook",
+          "titulo": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q",
+          "textoMeta": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 @Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/Pilipchen1/status/2090899444417827001",
+          "arquivos": [
+            "midia/twitter/rc178.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc178.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-23",
+          "arquivosTwitter": [],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": 78,
+          "engajamento": 76,
+          "categoria": "MOD",
+          "motivo": "primeira atualização de mod publicado no CurseForge com sistema de habilidade nova (Q especial na PoisonRune) demonstrada em vídeo, achado cedo antes de viralizar",
+          "urlPublicada": "https://www.facebook.com/reel/2578712255975609/"
+        }
+      ],
+      "total": 1
+    },
     {
       "dia": "2026-08-22",
       "posts": [
