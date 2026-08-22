@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:18:55.958Z",
+  "geradoEm": "2026-08-22T06:21:12.813Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -96,12 +96,12 @@
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 51,
+      "n": 55,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 22,
+      "n": 24,
       "quem": "IA"
     },
     {
@@ -124,23 +124,23 @@
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1
   },
-  "taxaAprovacao": 43,
+  "taxaAprovacao": 44,
   "qualidade": {
-    "q": 63.3,
-    "e": 65.3,
-    "qAprov": 83.5,
-    "qRej": 47.9
+    "q": 62.8,
+    "e": 64.5,
+    "qAprov": 83.3,
+    "qRej": 46.9
   },
   "porCategoria": [
     {
       "categoria": "COMUNIDADE",
-      "n": 20,
+      "n": 21,
       "ok": 5
     },
     {
       "categoria": "MOD",
-      "n": 14,
-      "ok": 9
+      "n": 17,
+      "ok": 11
     },
     {
       "categoria": "BUILD",
@@ -177,48 +177,48 @@
       "fonte": "twitter",
       "titulo": "Functional casino machines for Hytale, including slot machines and claw machines with configurable rewards.",
       "autor": "hytalemods",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-22 06:18:55",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 78,
+      "e": 76,
+      "motivo": "sistema visual e original (cassino funcional com caca-niquel e maquina de pelucia configuraveis), conceito inusitado que chama atencao mesmo em imagem unica, assunto novo sem cobertura recente"
     },
     {
       "id": 172,
       "fonte": "twitter",
       "titulo": "A cozy fishing system for Hytale with fish shadows, multiple rod tiers, customizable bobbers, fishing tools, aquariums, ",
       "autor": "hytalemods",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-22 06:18:55",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 85,
+      "e": 80,
+      "motivo": "sistema grande e visual (o que comprovadamente funciona na pagina), galeria com multiplas imagens de mecanicas concretas - sombra de peixe, tiers de vara, aquario -, assunto sem cobertura recente na memoria editorial"
     },
     {
       "id": 171,
       "fonte": "twitter",
       "titulo": "ô sofrência #Hytale",
       "autor": "GabiYamaoka",
-      "status": "CANDIDATO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-22 06:18:55",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "COMUNIDADE",
+      "q": 25,
+      "e": 30,
+      "motivo": "video reacao/meme sem informacao nova ('ô sofrência'), 20 curtidas, nao mostra mod nem sistema nem crossover, sem contexto que justifique repassar"
     },
     {
       "id": 170,
       "fonte": "twitter",
       "titulo": "I turned HYTALE into a deck building card game (Left), and had its FIRST successful playtest!",
       "autor": "davidm_artz",
-      "status": "CANDIDATO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-22 06:18:55",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 40,
+      "e": 30,
+      "motivo": "fan game em card físico/digital 'inspirado em Hytale', so 11 curtidas/148 views, e o autor deixa claro que foi so o primeiro playtest bem-sucedido - projeto em andamento, sem resultado pronto pra mostrar"
     },
     {
       "id": 162,
@@ -1825,8 +1825,8 @@
   },
   "contagem": {
     "coletadosTotal": 173,
-    "aprovados": 22,
-    "rejeitados": 29,
+    "aprovados": 24,
+    "rejeitados": 31,
     "rejeitadosFiltro": 111,
     "rejeitadosMemoria": 7,
     "escritos": 21,
