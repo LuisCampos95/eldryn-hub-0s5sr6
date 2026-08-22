@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T06:42:15.577Z",
+  "geradoEm": "2026-08-22T06:50:55.721Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,7 +81,7 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 174,
+      "n": 177,
       "quem": "código"
     },
     {
@@ -116,10 +116,11 @@
     }
   ],
   "motivosCorte": {
+    "famoso demais": 2,
+    "link ja virou post": 7,
     "midia fresca fraca": 3,
     "sem midia e sem discussao": 17,
     "midia fraca": 2,
-    "link ja virou post": 6,
     "velho demais": 3,
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1
@@ -1804,10 +1805,10 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 174,
+    "coletadosTotal": 177,
     "aprovados": 25,
     "rejeitados": 31,
-    "rejeitadosFiltro": 111,
+    "rejeitadosFiltro": 114,
     "rejeitadosMemoria": 7,
     "escritos": 25,
     "agendados": 15,
@@ -1860,7 +1861,7 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-22T06:25:22.325Z",
+  "ultimaColeta": "2026-08-22T06:50:54.761Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
