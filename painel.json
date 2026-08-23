@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-23T23:07:46.810Z",
+  "geradoEm": "2026-08-23T23:10:56.093Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -552,8 +552,11 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc185_2.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "02-1700-rc185-1.jpg",
+        "02-1700-rc185-2.jpg"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -577,7 +580,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc184.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "01-1230-rc184.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": null,
@@ -1350,7 +1355,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc184.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "01-1230-rc184.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": null,
@@ -1377,8 +1384,11 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc185_2.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "02-1700-rc185-1.jpg",
+            "02-1700-rc185-2.jpg"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
