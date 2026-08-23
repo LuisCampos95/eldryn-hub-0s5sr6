@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-23T23:36:55.167Z",
+  "geradoEm": "2026-08-23T23:37:29.738Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -551,7 +551,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc187.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "01-1230-rc187.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": 80,
@@ -1376,7 +1378,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc187.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "01-1230-rc187.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": 80,
