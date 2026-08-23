@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-23T21:30:52.758Z",
+  "geradoEm": "2026-08-23T21:32:00.650Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -96,12 +96,12 @@
     },
     {
       "etapa": "Julgados pelo Analyst",
-      "n": 64,
+      "n": 66,
       "quem": "IA"
     },
     {
       "etapa": "Aprovados",
-      "n": 32,
+      "n": 33,
       "quem": "IA"
     },
     {
@@ -127,25 +127,25 @@
   },
   "taxaAprovacao": 50,
   "qualidade": {
-    "q": 64.8,
-    "e": 65.8,
-    "qAprov": 83,
-    "qRej": 46.5
+    "q": 64.7,
+    "e": 65.6,
+    "qAprov": 82.9,
+    "qRej": 46.4
   },
   "porCategoria": [
+    {
+      "categoria": "MOD",
+      "n": 23,
+      "ok": 16
+    },
     {
       "categoria": "COMUNIDADE",
       "n": 23,
       "ok": 7
     },
     {
-      "categoria": "MOD",
-      "n": 22,
-      "ok": 15
-    },
-    {
       "categoria": "BUILD",
-      "n": 14,
+      "n": 15,
       "ok": 6
     },
     {
@@ -178,24 +178,24 @@
       "fonte": "twitter",
       "titulo": "I finally implemented the first automations for NPCs in my mod.",
       "autor": "_Lexem_",
-      "status": "CANDIDATO",
+      "status": "APROVADO",
       "coletado_em": "2026-08-23 21:30:21",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "MOD",
+      "q": 80,
+      "e": 78,
+      "motivo": "vídeo do próprio dev mostrando sistema de automação de NPC (colher/regar/guardar) funcionando, 121 curtidas em 9h, sistema visual e fácil de entender, sem repetição recente na página"
     },
     {
       "id": 186,
       "fonte": "twitter",
       "titulo": "I genuinely struggled to make the classroom look authentic without adding the classic white ceiling tiles.",
       "autor": "RedGindew",
-      "status": "PARECIDO",
+      "status": "REJEITADO",
       "coletado_em": "2026-08-23 21:30:21",
-      "categoria": null,
-      "q": null,
-      "e": null,
-      "motivo": null
+      "categoria": "BUILD",
+      "q": 42,
+      "e": 38,
+      "motivo": "match de 32% com post de 2779 dias atrás é falso positivo (assunto de trilha sonora, nada a ver com sala de aula), mas o item em si é foto única de build sem gancho visual forte e só 42 curtidas em 7h, abaixo da barra"
     },
     {
       "id": 184,
@@ -2108,8 +2108,8 @@
   },
   "contagem": {
     "coletadosTotal": 189,
-    "aprovados": 32,
-    "rejeitados": 32,
+    "aprovados": 33,
+    "rejeitados": 33,
     "rejeitadosFiltro": 115,
     "rejeitadosMemoria": 8,
     "escritos": 31,
