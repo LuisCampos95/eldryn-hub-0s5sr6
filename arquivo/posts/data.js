@@ -6,22 +6,21 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
-    "id": "rc187",
-    "rodada": "2026-08-23 18:44",
-    "emoji": "\ud83c",
-    "titulo": "[MOD] DÁ PRA INVOCAR UM AJUDANTE QUE COLHE, REGA E GUARDA ",
-    "fonte": "https://x.com/_Lexem_/status/2091509828938072228",
-    "fonteData": "2026-08-24",
-    "confiabilidade": "comunidade",
-    "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 80, engajamento 78) e QC de estilo.",
+    "id": "rc183",
+    "rodada": "2026-08-22 23:20",
+    "emoji": "🔧",
+    "titulo": "[SITE] HOTFIX 1 DA PARTE 13 DO UPDATE 6 MELHORA A CONEXÃO ENTRE",
+    "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6#pre-release-u6p13-hotfix-1",
+    "fonteData": "2026-08-22",
+    "confiabilidade": "oficial",
+    "resumo": "Passou pela Redacao: escrito direto por pedido do Luis, so Twitter, sem passar pela grade normal. QC de estilo.",
     "midia": {
-      "tipo": "video",
-      "url": "https://x.com/_Lexem_/status/2091509828938072228",
-      "nota": "Gerado pela Redacao. Fonte twitter.",
-      "video": "midia/twitter/rc187.mp4"
+      "tipo": "texto",
+      "url": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6#pre-release-u6p13-hotfix-1",
+      "nota": "Post de patch notes oficial, sem midia."
     },
-    "twitter": "🌾 DÁ PRA INVOCAR UM AJUDANTE QUE COLHE, REGA E GUARDA A COLHEITA SOZINHO\n\nO boneco invocado, o Homunculus, percorre a fileira de cenoura colhendo e regando, e quando o inventário dele enche vai sozinho até o baú descarregar tudo.\n\nÉ a primeira leva de automação do mod. A criatura tem ficha de equipamento com mão esquerda, mão direita e cabeça, e um botão que passa item do seu inventário pro dela.\n\n🎥 @_Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "🌾 DÁ PRA INVOCAR UM AJUDANTE QUE COLHE, REGA E GUARDA A COLHEITA SOZINHO\n\nO boneco invocado, o Homunculus, percorre a fileira de cenoura colhendo e regando, e quando o inventário dele enche vai sozinho até o baú descarregar tudo.\n\nÉ a primeira leva de automação do mod. A criatura tem ficha de equipamento com mão esquerda, mão direita e cabeça, e um botão que passa item do seu inventário pro dela.\n\n🎥 _Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "🔧 HOTFIX 1 DA PARTE 13 DO UPDATE 6 MELHORA A CONEXÃO ENTRE JOGADORES\n\nO destaque é o sistema de conexão novo. Agora dá pra entrar no mundo de um amigo mesmo com tipos de NAT diferentes, usando ICE (RFC 8445) com STUN e TURN no lugar do método antigo de hole-punch. Quando a conexão direta falha, um servidor de retransmissão assume. Ainda não funciona com NAT duplo (Double NAT), isso fica pro Update 7.\n\n🔹 Corrigido o crash de quando o mundo roda vários mods de skin grandes ao mesmo tempo, textura grande demais agora é ignorada com aviso em vez de travar o jogo\n🔹 Desligar o servidor agora fecha a conexão na hora, sem esperar o tempo de espera de antes\n🔹 Trocar um mundo compartilhado pra privado agora tem efeito imediato\n\nPra quem cria mod, o ServerListener ganhou contadores opcionais de bytes de rede, sem precisar mudar nada que já existe.\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "🔧 HOTFIX 1 DA PARTE 13 DO UPDATE 6 MELHORA A CONEXÃO ENTRE JOGADORES\n\nO destaque é o sistema de conexão novo. Agora dá pra entrar no mundo de um amigo mesmo com tipos de NAT diferentes, usando ICE (RFC 8445) com STUN e TURN no lugar do método antigo de hole-punch. Quando a conexão direta falha, um servidor de retransmissão assume. Ainda não funciona com NAT duplo (Double NAT), isso fica pro Update 7.\n\n🔹 Corrigido o crash de quando o mundo roda vários mods de skin grandes ao mesmo tempo, textura grande demais agora é ignorada com aviso em vez de travar o jogo\n🔹 Desligar o servidor agora fecha a conexão na hora, sem esperar o tempo de espera de antes\n🔹 Trocar um mundo compartilhado pra privado agora tem efeito imediato\n\nPra quem cria mod, o ServerListener ganhou contadores opcionais de bytes de rede, sem precisar mudar nada que já existe.\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "rc182",
@@ -38,8 +37,8 @@ window.ELDRYN_POSTS = [
       "nota": "Gerado pela Redacao. Fonte twitter.",
       "video": "midia/twitter/rc182.mp4"
     },
-    "twitter": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 @MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 MaritimeLifeDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 @MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "rc181",
@@ -56,8 +55,8 @@ window.ELDRYN_POSTS = [
       "nota": "Gerado pela Redacao. Fonte twitter.",
       "video": "midia/twitter/rc181.mp4"
     },
-    "twitter": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 @WoWTaleTeam\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 WoWTaleTeam\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "rc178",
@@ -74,8 +73,8 @@ window.ELDRYN_POSTS = [
       "nota": "Gerado pela Redacao. Fonte twitter.",
       "video": "midia/twitter/rc178.mp4"
     },
-    "twitter": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 @Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 Pilipchen1\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 @Pilipchen1\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "☠️ RUNESWORDSMOD RECEBEU A POISONRUNE COM HABILIDADE ESPECIAL NA TECLA Q\n\nPrimeira atualização do mod já está no CurseForge. A runa de veneno tem uma habilidade especial ativada no Q, e a versão também traz várias correções de bug.\n\n🎥 Pilipchen1\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "rc175",
@@ -96,8 +95,8 @@ window.ELDRYN_POSTS = [
         "midia/curseforge/wonderweapons/3.png"
       ]
     },
-    "twitter": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-    "meta": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+    "twitter": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+    "meta": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
     "id": "rc176",
