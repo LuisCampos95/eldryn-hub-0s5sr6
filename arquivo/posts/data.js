@@ -6,6 +6,24 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc187",
+      "rodada": "2026-08-23 23:15",
+      "emoji": "🌾",
+      "titulo": "[MOD] NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO",
+      "fonte": "https://x.com/_Lexem_/status/2091509828938072228",
+      "fonteData": "2026-08-23",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: filtro deterministico, memoria de 1604 posts, analise (qualidade 80, engajamento 78) e QC de estilo.",
+      "midia": {
+          "tipo": "video",
+          "url": "https://x.com/_Lexem_/status/2091509828938072228",
+          "nota": "Gerado pela Redacao. Fonte twitter.",
+          "video": "midia/twitter/rc186.mp4"
+      },
+      "twitter": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 @_Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 _Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc185",
       "rodada": "2026-08-23 22:55",
       "emoji": "🎒",
