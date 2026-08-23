@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-23T21:32:00.650Z",
+  "geradoEm": "2026-08-23T21:39:31.200Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -106,7 +106,7 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 31,
+      "n": 16,
       "quem": "IA + código"
     },
     {
