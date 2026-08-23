@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-22T23:37:08.508Z",
+  "geradoEm": "2026-08-23T21:30:21.630Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 183,
+      "n": 189,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 71,
+      "n": 74,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 64,
+      "n": 66,
       "quem": "código"
     },
     {
@@ -116,11 +116,12 @@
     }
   ],
   "motivosCorte": {
-    "link ja virou post": 7,
+    "sem foto nem video": 1,
+    "link ja virou post": 8,
+    "velho demais": 4,
     "midia fresca fraca": 3,
     "sem midia e sem discussao": 17,
     "midia fraca": 2,
-    "velho demais": 3,
     "blog do arquivo, nao e novidade": 79,
     "fora de pauta": 1
   },
@@ -172,6 +173,42 @@
     }
   },
   "recentes": [
+    {
+      "id": 187,
+      "fonte": "twitter",
+      "titulo": "I finally implemented the first automations for NPCs in my mod.",
+      "autor": "_Lexem_",
+      "status": "CANDIDATO",
+      "coletado_em": "2026-08-23 21:30:21",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 186,
+      "fonte": "twitter",
+      "titulo": "I genuinely struggled to make the classroom look authentic without adding the classic white ceiling tiles.",
+      "autor": "RedGindew",
+      "status": "PARECIDO",
+      "coletado_em": "2026-08-23 21:30:21",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
+    {
+      "id": 184,
+      "fonte": "twitter",
+      "titulo": "Aetherhaven: Festivals of Orbis coming August 24th!",
+      "autor": "GibsonHougland",
+      "status": "REJEITADO",
+      "coletado_em": "2026-08-23 21:30:21",
+      "categoria": null,
+      "q": null,
+      "e": null,
+      "motivo": null
+    },
     {
       "id": 180,
       "fonte": "twitter",
@@ -495,42 +532,6 @@
       "q": 85,
       "e": 70,
       "motivo": "sistema de inventario para NPCs (equipar armadura, dar itens) contado pela fonte original; preferido sobre o repost 133 mesmo com menos curtidas brutas, por ser o autor original"
-    },
-    {
-      "id": 133,
-      "fonte": "twitter",
-      "titulo": "Wow, this is actually very intuitive!",
-      "autor": "_Lexem_",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-19 17:54:04",
-      "categoria": "MOD",
-      "q": 82,
-      "e": 80,
-      "motivo": "duplicata do 134 (mesmo sistema de equipar NPC do _Lexem_, repostado pelo HytaleAlerts); regra da rodada manda preferir o autor original"
-    },
-    {
-      "id": 132,
-      "fonte": "twitter",
-      "titulo": "This is AWESOME! If you want guns in Hytale, check out the Hyguns mod by TheScar_3.",
-      "autor": "HytaleAlerts",
-      "status": "AGENDADO",
-      "coletado_em": "2026-08-19 17:54:04",
-      "categoria": "MOD",
-      "q": 78,
-      "e": 78,
-      "motivo": "175 curtidas, terceiro maior engajamento do lote; mod inedito de armas de fogo quebra o padrao do jogo e gera curiosidade imediata"
-    },
-    {
-      "id": 131,
-      "fonte": "twitter",
-      "titulo": "Wow, this adds so much realism to the game!",
-      "autor": "GaiaScript",
-      "status": "REJEITADO",
-      "coletado_em": "2026-08-19 17:54:04",
-      "categoria": "MOD",
-      "q": 80,
-      "e": 85,
-      "motivo": "duplicata do 130 (mesmo video do GaiaScript, repostado pelo HytaleAlerts); regra da rodada manda preferir o autor original mesmo com mais curtidas no repost"
     }
   ],
   "grade": [
@@ -552,7 +553,7 @@
         "01-1230-rc178.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 78,
       "engajamento": 76,
       "categoria": "MOD",
@@ -579,7 +580,7 @@
         "04-2100-rc181.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 84,
       "engajamento": 82,
       "categoria": "COMUNIDADE",
@@ -1292,7 +1293,7 @@
             "01-1230-rc178.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 78,
           "engajamento": 76,
           "categoria": "MOD",
@@ -1418,7 +1419,7 @@
             "04-2100-rc181.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 84,
           "engajamento": 82,
           "categoria": "COMUNIDADE",
@@ -2106,11 +2107,11 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 183,
+    "coletadosTotal": 189,
     "aprovados": 32,
     "rejeitados": 32,
-    "rejeitadosFiltro": 112,
-    "rejeitadosMemoria": 7,
+    "rejeitadosFiltro": 115,
+    "rejeitadosMemoria": 8,
     "escritos": 31,
     "agendados": 21,
     "publicadosTotal": 1604,
@@ -2123,9 +2124,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 4,
+    "total": 1,
     "feitos": 0,
-    "data": "2026-08-22"
+    "data": "2026-08-23"
   },
   "custos": {
     "infraMensal": 0,
@@ -2163,12 +2164,12 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-22T14:34:32.374Z",
+  "ultimaColeta": "2026-08-23T21:30:21.421Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5925,
+      "seguidores": 5930,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -2176,11 +2177,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6031,
-      "totalPosts": 258,
+      "seguidores": 6034,
+      "totalPosts": 260,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 123,
+      "mediaCurtidas": 121,
       "amostra": 100
     },
     "twitter": {
@@ -2241,7 +2242,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 375,
+        "curtidas": 382,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
@@ -2251,8 +2252,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-09T16:45:39+0000",
-      "ate": "2026-08-22T22:11:58+0000"
+      "de": "2026-07-15T20:34:02+0000",
+      "ate": "2026-08-23T15:31:55+0000"
     },
     "serie": [
       {
