@@ -6,6 +6,45 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc185",
+      "rodada": "2026-08-23 22:55",
+      "emoji": "🎒",
+      "titulo": "[MOD] MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE",
+      "fonte": "https://x.com/RedGindew/status/2091619293901275147",
+      "fonteData": "2026-08-23",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: achado no despejo do Twitter, escrito direto por pedido do Luis. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://x.com/RedGindew/status/2091619293901275147",
+          "nota": "Gerado pela Redacao. Fonte twitter.",
+          "arquivos": [
+              "midia/twitter/rc185-1.jpg",
+              "midia/twitter/rc185-2.jpg"
+          ]
+      },
+      "twitter": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc184",
+      "rodada": "2026-08-23 22:55",
+      "emoji": "🎪",
+      "titulo": "[COMUNIDADE] DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE",
+      "fonte": "https://x.com/GibsonHougland/status/2091611054086488557",
+      "fonteData": "2026-08-23",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: achado no despejo do Twitter, escrito direto por pedido do Luis. QC de estilo.",
+      "midia": {
+          "tipo": "video",
+          "url": "https://x.com/GibsonHougland/status/2091611054086488557",
+          "nota": "Gerado pela Redacao. Fonte twitter.",
+          "video": "midia/twitter/rc184.mp4"
+      },
+      "twitter": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
     "id": "rc183",
     "rodada": "2026-08-22 23:20",
     "emoji": "🔧",

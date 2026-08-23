@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-23T22:55:03.917Z",
+  "geradoEm": "2026-08-23T23:07:46.810Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -86,12 +86,12 @@
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 74,
+      "n": 75,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 66,
+      "n": 68,
       "quem": "código"
     },
     {
@@ -106,17 +106,16 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 16,
+      "n": 18,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 21,
+      "n": 23,
       "quem": "código"
     }
   ],
   "motivosCorte": {
-    "sem foto nem video": 1,
     "link ja virou post": 8,
     "velho demais": 4,
     "midia fresca fraca": 3,
@@ -202,7 +201,7 @@
       "fonte": "twitter",
       "titulo": "Aetherhaven: Festivals of Orbis coming August 24th!",
       "autor": "GibsonHougland",
-      "status": "REJEITADO",
+      "status": "AGENDADO",
       "coletado_em": "2026-08-23 21:30:21",
       "categoria": null,
       "q": null,
@@ -536,6 +535,58 @@
   ],
   "grade": [
     {
+      "hora": "17:00",
+      "data": "2026-08-24",
+      "id": "rc185",
+      "rede": "facebook",
+      "titulo": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA",
+      "textoMeta": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/RedGindew/status/2091619293901275147",
+      "arquivos": [
+        "midia/twitter/rc185-1.jpg",
+        "midia/twitter/rc185-2.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc185_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc185_2.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685075936954330"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-08-24",
+      "id": "rc184",
+      "rede": "facebook",
+      "titulo": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL",
+      "textoMeta": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/GibsonHougland/status/2091611054086488557",
+      "arquivos": [
+        "midia/twitter/rc184.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc184.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
+      "arquivosTwitter": [],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1056510247140130/"
+    },
+    {
       "hora": "23:00",
       "data": "2026-08-23",
       "id": "rc183",
@@ -589,9 +640,7 @@
       "textoMeta": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 WoWTaleTeam\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 @WoWTaleTeam\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/WoWTaleTeam/status/2091232311824019931",
-      "arquivos": [
-        "midia/twitter/rc181.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc181.mp4"
       ],
@@ -616,9 +665,7 @@
       "textoMeta": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 @MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
-      "arquivos": [
-        "midia/twitter/rc182.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc182.mp4"
       ],
@@ -643,11 +690,7 @@
       "textoMeta": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
-      "arquivos": [
-        "midia/curseforge/zephyr/1.jpg",
-        "midia/curseforge/zephyr/2.jpg",
-        "midia/curseforge/zephyr/3.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc176_2.jpg",
@@ -676,11 +719,7 @@
       "textoMeta": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
-      "arquivos": [
-        "midia/curseforge/wonderweapons/1.png",
-        "midia/curseforge/wonderweapons/2.png",
-        "midia/curseforge/wonderweapons/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc175_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc175_2.jpg",
@@ -1293,6 +1332,64 @@
   ],
   "diasGrade": [
     {
+      "dia": "2026-08-24",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-08-24",
+          "id": "rc184",
+          "rede": "facebook",
+          "titulo": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL",
+          "textoMeta": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/GibsonHougland/status/2091611054086488557",
+          "arquivos": [
+            "midia/twitter/rc184.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc184.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
+          "arquivosTwitter": [],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1056510247140130/"
+        },
+        {
+          "hora": "17:00",
+          "data": "2026-08-24",
+          "id": "rc185",
+          "rede": "facebook",
+          "titulo": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA",
+          "textoMeta": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/RedGindew/status/2091619293901275147",
+          "arquivos": [
+            "midia/twitter/rc185-1.jpg",
+            "midia/twitter/rc185-2.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc185_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc185_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685075936954330"
+        }
+      ],
+      "total": 2
+    },
+    {
       "dia": "2026-08-23",
       "posts": [
         {
@@ -1355,11 +1452,7 @@
           "textoMeta": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
-          "arquivos": [
-            "midia/curseforge/wonderweapons/1.png",
-            "midia/curseforge/wonderweapons/2.png",
-            "midia/curseforge/wonderweapons/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc175_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc175_2.jpg",
@@ -1388,11 +1481,7 @@
           "textoMeta": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
-          "arquivos": [
-            "midia/curseforge/zephyr/1.jpg",
-            "midia/curseforge/zephyr/2.jpg",
-            "midia/curseforge/zephyr/3.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc176_2.jpg",
@@ -1421,9 +1510,7 @@
           "textoMeta": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 @MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
-          "arquivos": [
-            "midia/twitter/rc182.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc182.mp4"
           ],
@@ -1448,9 +1535,7 @@
           "textoMeta": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 WoWTaleTeam\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 @WoWTaleTeam\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/WoWTaleTeam/status/2091232311824019931",
-          "arquivos": [
-            "midia/twitter/rc181.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc181.mp4"
           ],
@@ -2150,10 +2235,10 @@
     "coletadosTotal": 189,
     "aprovados": 33,
     "rejeitados": 33,
-    "rejeitadosFiltro": 115,
-    "rejeitadosMemoria": 8,
-    "escritos": 31,
-    "agendados": 21,
+    "rejeitadosFiltro": 114,
+    "rejeitadosMemoria": 7,
+    "escritos": 33,
+    "agendados": 23,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -2209,7 +2294,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5930,
+      "seguidores": 5931,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -2217,7 +2302,7 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6034,
+      "seguidores": 6033,
       "totalPosts": 260,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
