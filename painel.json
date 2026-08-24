@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-24T13:55:55.044Z",
+  "geradoEm": "2026-08-24T13:56:43.048Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -544,10 +544,16 @@
       "textoMeta": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/mimictale",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/curseforge/mimictale/1.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc191.jpg"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "01-1230-rc191.png"
+      ],
       "tipo": "imagem",
       "status": "agendado",
       "qualidade": null,
@@ -565,14 +571,14 @@
       "textoMeta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
-      "arquivos": [
-        "midia/curseforge/bluestone/u5.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc190.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "02-1700-rc190.jpg"
+      ],
       "tipo": "imagem",
       "status": "agendado",
       "qualidade": null,
@@ -590,9 +596,7 @@
       "textoMeta": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 _Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 @_Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/_Lexem_/status/2091509828938072228",
-      "arquivos": [
-        "midia/twitter/rc186.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc187.mp4"
       ],
@@ -1285,10 +1289,16 @@
           "textoMeta": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/mimictale",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/curseforge/mimictale/1.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc191.jpg"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "01-1230-rc191.png"
+          ],
           "tipo": "imagem",
           "status": "agendado",
           "qualidade": null,
@@ -1312,9 +1322,7 @@
           "textoMeta": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 _Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 @_Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/_Lexem_/status/2091509828938072228",
-          "arquivos": [
-            "midia/twitter/rc186.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc187.mp4"
           ],
@@ -1339,14 +1347,14 @@
           "textoMeta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
-          "arquivos": [
-            "midia/curseforge/bluestone/u5.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc190.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "02-1700-rc190.jpg"
+          ],
           "tipo": "imagem",
           "status": "agendado",
           "qualidade": null,
