@@ -6,6 +6,27 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc192",
+      "rodada": "2026-08-24 11:30",
+      "emoji": "🚀",
+      "titulo": "[MOD] JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E",
+      "fonte": "https://www.curseforge.com/hytale/mods/vandoria-jetpacks-custom-balanced-jetpacks-with",
+      "fonteData": "2026-08-24",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: achado na varredura do CurseForge (mods recem-atualizados), escrito direto por pedido do Luis. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/vandoria-jetpacks-custom-balanced-jetpacks-with",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/jetpacks/2.jpg",
+              "midia/curseforge/jetpacks/3.jpg"
+          ]
+      },
+      "twitter": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc191",
       "rodada": "2026-08-23 23:45",
       "emoji": "📦",

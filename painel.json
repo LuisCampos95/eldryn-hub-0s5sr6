@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-24T14:12:56.925Z",
+  "geradoEm": "2026-08-24T14:19:35.489Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 191,
+      "n": 192,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 76,
+      "n": 77,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 69,
+      "n": 70,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 21,
+      "n": 22,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 25,
+      "n": 26,
       "quem": "código"
     }
   ],
@@ -537,6 +537,33 @@
   "grade": [
     {
       "hora": "12:30",
+      "data": "2026-08-27",
+      "id": "rc192",
+      "rede": "facebook",
+      "titulo": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR",
+      "textoMeta": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/vandoria-jetpacks-custom-balanced-jetpacks-with",
+      "arquivos": [
+        "midia/curseforge/jetpacks/2.jpg",
+        "midia/curseforge/jetpacks/3.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc192_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc192_2.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685700740225183"
+    },
+    {
+      "hora": "12:30",
       "data": "2026-08-26",
       "id": "rc191",
       "rede": "facebook",
@@ -594,10 +621,7 @@
       "textoMeta": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/RedGindew/status/2091619293901275147",
-      "arquivos": [
-        "midia/twitter/rc185-1.jpg",
-        "midia/twitter/rc185-2.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc185_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc185_2.jpg"
@@ -624,11 +648,7 @@
       "textoMeta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
-      "arquivos": [
-        "midia/curseforge/bluestone/rc190-1.jpg",
-        "midia/curseforge/bluestone/rc190-2.jpg",
-        "midia/curseforge/bluestone/rc190-3.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc190_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc190_2.jpg",
@@ -657,9 +677,7 @@
       "textoMeta": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/GibsonHougland/status/2091611054086488557",
-      "arquivos": [
-        "midia/twitter/rc184.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc184.mp4"
       ],
@@ -1289,6 +1307,39 @@
   ],
   "diasGrade": [
     {
+      "dia": "2026-08-27",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-08-27",
+          "id": "rc192",
+          "rede": "facebook",
+          "titulo": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR",
+          "textoMeta": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/vandoria-jetpacks-custom-balanced-jetpacks-with",
+          "arquivos": [
+            "midia/curseforge/jetpacks/2.jpg",
+            "midia/curseforge/jetpacks/3.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc192_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc192_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685700740225183"
+        }
+      ],
+      "total": 1
+    },
+    {
       "dia": "2026-08-26",
       "posts": [
         {
@@ -1362,9 +1413,7 @@
           "textoMeta": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/GibsonHougland/status/2091611054086488557",
-          "arquivos": [
-            "midia/twitter/rc184.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc184.mp4"
           ],
@@ -1389,11 +1438,7 @@
           "textoMeta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
-          "arquivos": [
-            "midia/curseforge/bluestone/rc190-1.jpg",
-            "midia/curseforge/bluestone/rc190-2.jpg",
-            "midia/curseforge/bluestone/rc190-3.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc190_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc190_2.jpg",
@@ -1422,10 +1467,7 @@
           "textoMeta": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/RedGindew/status/2091619293901275147",
-          "arquivos": [
-            "midia/twitter/rc185-1.jpg",
-            "midia/twitter/rc185-2.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc185_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc185_2.jpg"
@@ -2157,13 +2199,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 191,
+    "coletadosTotal": 192,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 115,
     "rejeitadosMemoria": 7,
-    "escritos": 36,
-    "agendados": 25,
+    "escritos": 37,
+    "agendados": 26,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -2219,7 +2261,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5933,
+      "seguidores": 5934,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
