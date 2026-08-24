@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-24T14:10:07.344Z",
+  "geradoEm": "2026-08-24T14:12:56.925Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -604,8 +604,8 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
       "arquivosTwitter": [
-        "02-1700-rc185-1.jpg",
-        "02-1700-rc185-2.jpg"
+        "03-1700-rc185-1.jpg",
+        "03-1700-rc185-2.jpg"
       ],
       "tipo": "carrossel",
       "status": "agendado",
@@ -635,8 +635,12 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc190_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "02-1500-rc190-1.jpg",
+        "02-1500-rc190-2.jpg",
+        "02-1500-rc190-3.jpg"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -1396,8 +1400,12 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc190_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "02-1500-rc190-1.jpg",
+            "02-1500-rc190-2.jpg",
+            "02-1500-rc190-3.jpg"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -1424,8 +1432,8 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
           "arquivosTwitter": [
-            "02-1700-rc185-1.jpg",
-            "02-1700-rc185-2.jpg"
+            "03-1700-rc185-1.jpg",
+            "03-1700-rc185-2.jpg"
           ],
           "tipo": "carrossel",
           "status": "agendado",
@@ -2166,7 +2174,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 2,
+    "total": 3,
     "feitos": 0,
     "data": "2026-08-24"
   },
