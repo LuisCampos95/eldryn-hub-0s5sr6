@@ -6,6 +6,40 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc191",
+      "rodada": "2026-08-23 23:45",
+      "emoji": "📦",
+      "titulo": "[MOD] BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD",
+      "fonte": "https://www.curseforge.com/hytale/mods/mimictale",
+      "fonteData": "2026-08-23",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: achado na varredura do CurseForge (mods recem-atualizados), escrito direto por pedido do Luis. QC de estilo.",
+      "midia": {
+          "tipo": "imagem",
+          "url": "https://www.curseforge.com/hytale/mods/mimictale",
+          "nota": "Gerado pela Redacao. Fonte curseforge."
+      },
+      "twitter": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc190",
+      "rodada": "2026-08-23 23:45",
+      "emoji": "🔌",
+      "titulo": "[MOD] TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E",
+      "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
+      "fonteData": "2026-08-23",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: achado na varredura do CurseForge (mods recem-atualizados), escrito direto por pedido do Luis. QC de estilo.",
+      "midia": {
+          "tipo": "imagem",
+          "url": "https://www.curseforge.com/hytale/mods/glymerabluestone",
+          "nota": "Gerado pela Redacao. Fonte curseforge."
+      },
+      "twitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc187",
       "rodada": "2026-08-23 23:15",
       "emoji": "🌾",

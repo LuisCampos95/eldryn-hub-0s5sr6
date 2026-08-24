@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-23T23:37:29.738Z",
+  "geradoEm": "2026-08-24T13:54:57.522Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 189,
+      "n": 191,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 74,
+      "n": 76,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 67,
+      "n": 69,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 19,
+      "n": 21,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 23,
+      "n": 25,
       "quem": "código"
     }
   ],
@@ -537,6 +537,52 @@
   "grade": [
     {
       "hora": "12:30",
+      "data": "2026-08-26",
+      "id": "rc191",
+      "rede": "facebook",
+      "titulo": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD",
+      "textoMeta": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/mimictale",
+      "arquivos": [
+        "midia/curseforge/mimictale/1.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc191.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685678863560704"
+    },
+    {
+      "hora": "17:00",
+      "data": "2026-08-25",
+      "id": "rc190",
+      "rede": "facebook",
+      "titulo": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO",
+      "textoMeta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685678350227422"
+    },
+    {
+      "hora": "12:30",
       "data": "2026-08-25",
       "id": "rc187",
       "rede": "facebook",
@@ -544,9 +590,7 @@
       "textoMeta": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 _Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 @_Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/_Lexem_/status/2091509828938072228",
-      "arquivos": [
-        "midia/twitter/rc186.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc187.mp4"
       ],
@@ -669,14 +713,10 @@
       "textoTwitter": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 @WoWTaleTeam\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/WoWTaleTeam/status/2091232311824019931",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc181.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-      "arquivosTwitter": [
-        "04-2100-rc181.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 84,
       "engajamento": 82,
@@ -694,14 +734,10 @@
       "textoTwitter": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 @MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc182.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-      "arquivosTwitter": [
-        "03-1900-rc182.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 75,
       "engajamento": 78,
@@ -719,18 +755,10 @@
       "textoTwitter": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc176_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc176_3.jpg"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-      "arquivosTwitter": [
-        "02-1500-rc176-1.jpg",
-        "02-1500-rc176-2.jpg",
-        "02-1500-rc176-3.jpg"
-      ],
-      "tipo": "carrossel",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 84,
       "engajamento": 85,
@@ -748,18 +776,10 @@
       "textoTwitter": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc175_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc175_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc175_3.jpg"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-      "arquivosTwitter": [
-        "01-1230-rc175-1.png",
-        "01-1230-rc175-2.png",
-        "01-1230-rc175-3.png"
-      ],
-      "tipo": "carrossel",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 85,
       "engajamento": 86,
@@ -777,14 +797,10 @@
       "textoTwitter": "⚔️ DÁ PRA APARAR OU ESQUIVAR CONFORME O GOLPE NESSE MOD DE COMBATE\n\nO sistema Perfect Parries and Perfect Dodges deixa o jogador escolher a reação conforme o tipo de ataque que vem. A luta é em primeira pessoa, com machado e escudo, em uma arena de deserto do servidor GuildWarsSMP na Season 1.\n\n🎥 @sharkeatcats\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/GuildWarsSMP/status/2090417313464074700",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc160.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-      "arquivosTwitter": [
-        "03-1730-rc160.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 80,
       "engajamento": 82,
@@ -802,14 +818,10 @@
       "textoTwitter": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR E CAIR INTEIRA NO CHÃO\n\nDepois do último golpe de machado a árvore não some, ela tomba e fica deitada no chão. O tronco caído ainda pode ser cortado em toras ali mesmo. O sistema está em desenvolvimento.\n\n🎥 @GaiaScript\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/GaiaScript/status/2089653621935722590",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc130.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-      "arquivosTwitter": [
-        "02-1500-rc130.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 85,
       "engajamento": 82,
@@ -827,14 +839,10 @@
       "textoTwitter": "🎬 ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 @gamevid4\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/gamevid4/status/2089810333527429238",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc129.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-      "arquivosTwitter": [
-        "05-1330-rc129.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 80,
       "engajamento": 75,
@@ -852,14 +860,10 @@
       "textoTwitter": "🐍 COLOCARAM O JOGO DA COBRINHA DO NOKIA PRA FUNCIONAR DE VERDADE\n\nO celular tijolão aparece gigante flutuando no céu, com a tela verde rodando a cobrinha de verdade, comendo item e crescendo. Depois o personagem aparece segurando o aparelho na mão.\n\nO mod funciona com Trigger Volumes e já está no CurseForge.\n\n🎥 @foxy_cca\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/foxy_cca/status/2089422365486719399",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc161.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-      "arquivosTwitter": [
-        "01-1230-rc161.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 85,
       "engajamento": 90,
@@ -877,14 +881,10 @@
       "textoTwitter": "⛵ ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc163.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-      "arquivosTwitter": [
-        "04-1114-rc163.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 86,
       "engajamento": 84,
@@ -922,14 +922,10 @@
       "textoTwitter": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE\n\nAntes a criatura domada só servia de montaria pra voar. Com a atualização do Animal Husbandry / Tamework, ela entra na briga no seu lugar.\n\n🎥 @Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Alechilles/status/2088631532168589604",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc146.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-      "arquivosTwitter": [
-        "04-1730-rc146.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 85,
       "engajamento": 78,
@@ -947,14 +943,10 @@
       "textoTwitter": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 @TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/HytaleAlerts/status/2087562663316402601",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc132.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-      "arquivosTwitter": [
-        "03-1500-rc132.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 78,
       "engajamento": 78,
@@ -972,13 +964,9 @@
       "textoTwitter": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nA décima terceira parte da pre-release trouxe uma leva grande de correções. Segue tudo que interessa pra quem já tá jogando:\n\n🔹 ITENS E INTERAÇÃO\nBloco mole grande, tipo o casulo de aranha, agora pode ser derrubado com flecha. E quando um bloco tem mais de uma interação possível, o jogo mostra todas as opções na hora.\n\n🔹 DESEMPENHO\nMelhorou o uso de memória em distância de visão alta. Mundo com muito céu aberto acima agora guarda bem menos dado de luz.\n\n🔹 COMBATE E MOVIMENTO\nObjeto de vários blocos, tipo porta e estátua, agora é acertado exatamente onde você mirou. Ataque em área passou a acertar direito em coordenada negativa do mundo.\n\n🔹 MUNDO E BLOCOS\nO maior aqui é o portal. Antes ele fechava assim que você se afastava do dispositivo, agora o mundo continua aberto e o portal reconecta quando você volta. Trigger Volume colada no mundo não perde mais condição, efeito nem grupo. E o Baú Grande de Kweebec agora conta como bloco de madeira pra quebrar, machado é a ferramenta certa.\n\n🔹 GERAÇÃO DE MUNDO\nCorrigiram um defeito do WorldGen V2 que apagava entidade em prefab rotacionado, e outro que gerava prefab diferente dependendo da plataforma.\n\n🔹 ITENS E DUPLICAÇÃO\nCorrigiram o bug que deixava duplicar item em situações específicas. Flecha atirada através de célula com bloco de hitbox pequena agora interage com o bloco certo.\n\n🔹 NPCS E CRIATURAS\nCriatura invulnerável parou de sofrer empurrão de projétil. E abrir baú ou interagir com objeto volta a chamar atenção de criatura por perto, que tinha parado de acontecer.\n\n🔹 FERRAMENTAS CRIATIVAS\nPincel de construção segurado na mão usa o modelo certo agora. E ao copiar ou salvar uma seleção de blocos, só entra Trigger Volume que estiver de fato dentro da área selecionada.\n\n🔹 INTERFACE\nPegar item sem relação um do outro não junta mais as notificações numa coisa só confusa.\n\n🔹 MOD BROWSER\nInstalar um mod não cancela mais o download dos outros, agora entra numa fila. Melhorou bastante o uso com controle, botão de instalar mais fácil de alcançar, thumbstick chega em tudo (carrossel, caixa de seleção, botão, ladrilho), navegação entre abas não perde mais o foco.\n\n🔹 GRÁFICOS\nSuperfície transparente, tipo vidro e água, parou de perder nitidez. Partícula brilhante voltou a brilhar. E corrigiram uma escuridão infinita que acontecia quando efeito de clima era aplicado num mundo que já forçava o próprio clima.\n\n🔹 ÁUDIO\nMúsica e ambiente não ficam mais tão baixas quando sua vida tá no fim, então dá pra ouvir o jogo mesmo em perigo.\n\n🔹 ESTABILIDADE\nVários vazamentos de memória fechados de uma vez, isso deve deixar sessão longa mais estável. Corrigiram também um crash que acontecia em mundo muito grande depois de rodar por muito tempo, e o processo ficou mais rápido de quebra.\n\n🔧 PRA QUEM CRIA MOD\nSistema de trigger volume ganhou mais nós lógicos de comparação. NPC agora consegue girar no lugar numa velocidade controlada. Bloco pode rodar uma animação mais rápida ou mais devagar que o padrão. E marcador de mapa pode ser sobrescrito por código, útil pra quem cria evento customizado.\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc148.jpg"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-      "arquivosTwitter": [
-        "02-1240-rc148.png"
-      ],
+      "arquivosTwitter": [],
       "tipo": "imagem",
       "status": "publicado",
       "qualidade": 90,
@@ -997,22 +985,10 @@
       "textoTwitter": "🗡️ O TANJIRO, DE DEMON SLAYER, GANHOU VERSÃO DE PERSONAGEM NO HYTALE\n\nEstá tudo lá. O haori xadrez verde e preto, a katana na cintura e a caixa de madeira nas costas. Dá pra reconhecer de longe.\n\n📷 u/Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vshptb/i_recreated_kamado_tanjiro_from_demon_slayer/",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc123_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc123_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc123_3.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc123_4.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc123_5.jpg"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-      "arquivosTwitter": [
-        "01-1230-rc123-1.png",
-        "01-1230-rc123-2.png",
-        "01-1230-rc123-3.png",
-        "01-1230-rc123-4.png",
-        "01-1230-rc123-5.png"
-      ],
-      "tipo": "carrossel",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 85,
       "engajamento": 82,
@@ -1030,13 +1006,9 @@
       "textoTwitter": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE\n\nUma construção temática de mago de pedra, montada com material que combina com a função de quem mora nela.\n\n🔹 A rocha aparece trabalhada, não é bloco jogado pra encher parede.\n🔹 O interior foi decorado seguindo o mesmo tema, não só a fachada.\n\n📷 u/YLASRO\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vq7gfp/the_geomancers_home/",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc13.jpg"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-      "arquivosTwitter": [
-        "06-2130-rc13.png"
-      ],
+      "arquivosTwitter": [],
       "tipo": "imagem",
       "status": "publicado",
       "qualidade": 84,
@@ -1055,14 +1027,10 @@
       "textoTwitter": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE\n\nO Hyblend puxa modelo e animação do jogo direto pro Blender, o que facilita muito a vida de quem cria mod com criatura e personagem próprio.\n\n🔹 Serve tanto pra estudar como o jogo monta as coisas quanto pra criar em cima do que já existe.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vp9s8r/hyblend_import_any_hytale_model_and_animations/",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc22.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-      "arquivosTwitter": [
-        "05-2000-rc22.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 78,
       "engajamento": 74,
@@ -1080,13 +1048,9 @@
       "textoTwitter": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE\n\nA nova geração de mundo criou um mar congelado com torres de gelo saindo da água, altas o bastante pra sumir na neblina.\n\n🔹 A água aparece quebrada em placa de gelo solta, uma diferente da outra.\n🔹 Os picos nascem em grupo e cada um tem formato próprio, nada repetido.\n\nÉ o tipo de paisagem que o worldgen antigo não conseguia montar sozinho.\n\n📷 u/AnyEconomy8588\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vmgx4x/ice_spikes_world_gen_v2/",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc27.jpg"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-      "arquivosTwitter": [
-        "04-1730-rc27.jpg"
-      ],
+      "arquivosTwitter": [],
       "tipo": "imagem",
       "status": "publicado",
       "qualidade": 90,
@@ -1105,14 +1069,10 @@
       "textoTwitter": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE\n\nO desafio em andar do Genshin Impact virou mod, com sala de combate que você limpa pra descer pro próximo nível.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vmsz54/genshin_spiral_abyss_in_hytale/",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc35.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-      "arquivosTwitter": [
-        "03-1500-rc35.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 80,
       "engajamento": 88,
@@ -1130,22 +1090,10 @@
       "textoTwitter": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE\n\nUm quarteirão inteiro de rua japonesa, com prédio de vários andares, letreiro aceso e movimento de cidade grande.\n\n🔹 Ar-condicionado pendurado na janela, sacada com roupa e antena no telhado.\n🔹 Máquina de venda ligada na calçada, cone de obra e bueiro na rua.\n🔹 Placa vertical em japonês, faixa de pedestre e fiação passando por cima de tudo.\n\n📷 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vo9lxa/new_neon_city_blocks_and_props/",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc26_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc26_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc26_3.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc26_4.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc26_5.jpg"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-      "arquivosTwitter": [
-        "02-1230-rc26-1.png",
-        "02-1230-rc26-2.png",
-        "02-1230-rc26-3.png",
-        "02-1230-rc26-4.png",
-        "02-1230-rc26-5.png"
-      ],
-      "tipo": "carrossel",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 88,
       "engajamento": 92,
@@ -1163,14 +1111,10 @@
       "textoTwitter": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE\n\nUm jogador montou um parque de diversão no jogo, com aquela barraca de feira onde o bichinho sai do buraco e você tem que acertar de martelo antes dele voltar. No lugar do bichinho, goblin.\n\n🎥 u/Wakkaloon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vnp6p3/whos_up_for_a_game_of_whackagoblin_at_the_summer/",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc31.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-      "arquivosTwitter": [
-        "01-1000-rc31.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": 82,
       "engajamento": 86,
@@ -1188,14 +1132,10 @@
       "textoTwitter": "🛠️ FERRAMENTA NOVA DEIXA IMPORTAR MODELO E ANIMAÇÃO PRO HYTALE\n\nO Hyblend é uma ferramenta que importa qualquer modelo e animação do Hytale, facilitando bastante a vida de quem cria mod com personagem e criatura customizados.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vp9s8r/hyblend_import_any_hytale_model_and_animations/",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/reddit-hyblend-tool.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-      "arquivosTwitter": [
-        "06-2130-hyblend-tool.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": null,
       "engajamento": null,
@@ -1213,14 +1153,10 @@
       "textoTwitter": "🛩️ CONSTRUÍRAM UMA AERONAVE PRA USAR NUM MOD DE HYTALE\n\nUma aeronave feita pra entrar num mod que tá sendo desenvolvido, já dando um gostinho de como vai ficar.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/lunaronin777/status/2087940936584122852",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/x13-lunaronin-airship.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-      "arquivosTwitter": [
-        "05-2000-lunaronin-airship.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": null,
       "engajamento": null,
@@ -1238,22 +1174,10 @@
       "textoTwitter": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE\n\nO WildTale adiciona cerca de 200 espécies reais, de elefante africano e girafa a leão, tigre, gorila e camelo.\n\n🔹 Eles nascem sozinhos pelo mundo, cada um no bioma que combina com a espécie.\n🔹 No criativo dá pra posicionar na mão e montar zoológico ou santuário do jeito que quiser.\n\n🔧 Mod do Nicholas_LionRider\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/wildtale",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_3.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_4.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_5.jpg"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-      "arquivosTwitter": [
-        "04-1730-wildtale-carrossel-1.png",
-        "04-1730-wildtale-carrossel-2.png",
-        "04-1730-wildtale-carrossel-3.png",
-        "04-1730-wildtale-carrossel-4.png",
-        "04-1730-wildtale-carrossel-5.png"
-      ],
-      "tipo": "carrossel",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": null,
       "engajamento": null,
@@ -1271,14 +1195,10 @@
       "textoTwitter": "🏰 DESTRUIR OU MORAR NESSA FORTALEZA SOMBRIA DO HYTALE\n\nUma fortaleza imponente e sombria, do tipo que dá pra escolher entre invadir e destruir ou simplesmente tomar posse.\n\n🎥 u/Arketetor\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vec7c0/would_you_destroy_this_evil_fortress_or_claim_it/",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/reddit-evil-fortress.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-      "arquivosTwitter": [
-        "03-1500-evil-fortress.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": null,
       "engajamento": null,
@@ -1296,14 +1216,10 @@
       "textoTwitter": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE\n\nO Perfect Dodges deixa você rolar, dar dash, girar e dar flip, e se acerta o tempo da esquiva no golpe leva vantagem. Do mesmo criador do Perfect Parries.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/perfect-dodges",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/mod-perfect-dodges.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-      "arquivosTwitter": [
-        "02-1230-perfect-dodges.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": null,
       "engajamento": null,
@@ -1321,14 +1237,10 @@
       "textoTwitter": "🚂 UM MODDER TÁ CRIANDO TREM COM FÍSICA DE VERDADE NO HYTALE\n\nA ferramenta que está sendo desenvolvida é de trilho com curva que gera trem customizável e todo baseado em física de verdade.\n\nAs novas capacidades de física do Hytale abriram espaço pra esse tipo de mod, e essa mesma peça também funciona como plataforma móvel.\n\n🎥 @Blovienn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Blovienn/status/2086206842263294409",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/x08-blovienn-railway.mp4"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-      "arquivosTwitter": [
-        "01-1000-blovienn-railway.mp4"
-      ],
-      "tipo": "video",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "publicado",
       "qualidade": null,
       "engajamento": null,
@@ -1360,6 +1272,37 @@
   ],
   "diasGrade": [
     {
+      "dia": "2026-08-26",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-08-26",
+          "id": "rc191",
+          "rede": "facebook",
+          "titulo": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD",
+          "textoMeta": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/mimictale",
+          "arquivos": [
+            "midia/curseforge/mimictale/1.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc191.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685678863560704"
+        }
+      ],
+      "total": 1
+    },
+    {
       "dia": "2026-08-25",
       "posts": [
         {
@@ -1371,9 +1314,7 @@
           "textoMeta": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 _Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 @_Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/_Lexem_/status/2091509828938072228",
-          "arquivos": [
-            "midia/twitter/rc186.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc187.mp4"
           ],
@@ -1388,9 +1329,30 @@
           "categoria": "MOD",
           "motivo": "vídeo do próprio dev mostrando sistema de automação de NPC (colher/regar/guardar) funcionando, 121 curtidas em 9h, sistema visual e fácil de entender, sem repetição recente na página",
           "urlPublicada": "https://www.facebook.com/reel/1799665057689164/"
+        },
+        {
+          "hora": "17:00",
+          "data": "2026-08-25",
+          "id": "rc190",
+          "rede": "facebook",
+          "titulo": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO",
+          "textoMeta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685678350227422"
         }
       ],
-      "total": 1
+      "total": 2
     },
     {
       "dia": "2026-08-24",
@@ -1514,18 +1476,10 @@
           "textoTwitter": "⚡ O MARTELO DO THOR VIROU RELÍQUIA EM UM PACOTE DE ARMAS NOVAS\n\nWan's Wonder Weapons é uma coleção de armas que mistura poder elemental, magia negra e um tanto de zoeira. O Mjollnir sai brilhando em azul, o God Slayer é um espadão preto maior que o próprio personagem e o Chromatic Cleaver acende em várias cores.\n\n📷 WanMine\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/wans-wonder-weapons",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc175_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc175_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc175_3.jpg"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-          "arquivosTwitter": [
-            "01-1230-rc175-1.png",
-            "01-1230-rc175-2.png",
-            "01-1230-rc175-3.png"
-          ],
-          "tipo": "carrossel",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 85,
           "engajamento": 86,
@@ -1543,18 +1497,10 @@
           "textoTwitter": "🪂 PLANADOR, PULO NA PAREDE E TIROLESA EM UM MOD SÓ DE MOVIMENTO\n\nZephyr refaz a movimentação base do jogo inteira.\n\n🔹 Planador pra atravessar o mapa pelo ar\n🔹 Pulo na parede e pulo duplo\n🔹 Dash e esquiva\n🔹 Gancho que puxa você até onde mirar\n🔹 Tirolesa ligando dois pontos\n🔹 Dano que cresce conforme a velocidade do impacto\n\n📷 narwhals\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/zephyr",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc176_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc176_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc176_3.jpg"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-          "arquivosTwitter": [
-            "02-1500-rc176-1.jpg",
-            "02-1500-rc176-2.jpg",
-            "02-1500-rc176-3.jpg"
-          ],
-          "tipo": "carrossel",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 84,
           "engajamento": 85,
@@ -1572,14 +1518,10 @@
           "textoTwitter": "⛵ JET SKI CRUZA A ÁGUA ATÉ O VELEIRO NO PÔR DO SOL, NO MOD MARITIME LIFE\n\nOs dois veículos do mod aparecem juntos. O jet ski dispara espuma na frente, o veleiro fica ancorado ao fundo, tudo banhado pela luz do pôr do sol.\n\n🎥 @MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/MaritimeLifeDev/status/2090947235315945733",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc182.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-          "arquivosTwitter": [
-            "03-1900-rc182.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 75,
           "engajamento": 78,
@@ -1597,14 +1539,10 @@
           "textoTwitter": "⚔️ RECRIARAM A DEADMINES, DUNGEON CLÁSSICA DE WORLD OF WARCRAFT\n\nO projeto WoWTale está recriando a masmorra Deadmines, do WoW, usando as ferramentas do Hytale. Ainda em construção.\n\n🎥 @WoWTaleTeam\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/WoWTaleTeam/status/2091232311824019931",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc181.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-22",
-          "arquivosTwitter": [
-            "04-2100-rc181.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 84,
           "engajamento": 82,
@@ -1628,14 +1566,10 @@
           "textoTwitter": "⛵ ESSE MOD COLOCA VELEIRO E JET SKI PRA NAVEGAR DE VERDADE\n\nO Maritime Life adiciona física real de navegação, com duas embarcações novas. Um veleiro monocasco e um jet ski, gratuitos com o Update 6, dia 27 de agosto.\n\n🔧 @MaritimeLifeDev\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/MaritimeLifeDev/status/2090406665229054037",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc163.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-          "arquivosTwitter": [
-            "04-1114-rc163.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 86,
           "engajamento": 84,
@@ -1653,14 +1587,10 @@
           "textoTwitter": "🐍 COLOCARAM O JOGO DA COBRINHA DO NOKIA PRA FUNCIONAR DE VERDADE\n\nO celular tijolão aparece gigante flutuando no céu, com a tela verde rodando a cobrinha de verdade, comendo item e crescendo. Depois o personagem aparece segurando o aparelho na mão.\n\nO mod funciona com Trigger Volumes e já está no CurseForge.\n\n🎥 @foxy_cca\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/foxy_cca/status/2089422365486719399",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc161.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-          "arquivosTwitter": [
-            "01-1230-rc161.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 85,
           "engajamento": 90,
@@ -1678,14 +1608,10 @@
           "textoTwitter": "🎬 ISSO AQUI É ABSOLUTE CINEMA, CAVALEIRO ENFRENTA HIDRA GIGANTE MONTADO EM DRAGÃO\n\nUm posto outlander usa hidra domada pra causar terror na região. As vilas pedem ajuda do cavaleiro de dragão, que enfrenta a hidra em um duelo final. Curta feito com replay e mods de montaria e tameamento.\n\n🎥 @gamevid4\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/gamevid4/status/2089810333527429238",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc129.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-          "arquivosTwitter": [
-            "05-1330-rc129.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 80,
           "engajamento": 75,
@@ -1703,14 +1629,10 @@
           "textoTwitter": "🪓 ESSE MOD FAZ A ÁRVORE TOMBAR E CAIR INTEIRA NO CHÃO\n\nDepois do último golpe de machado a árvore não some, ela tomba e fica deitada no chão. O tronco caído ainda pode ser cortado em toras ali mesmo. O sistema está em desenvolvimento.\n\n🎥 @GaiaScript\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/GaiaScript/status/2089653621935722590",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc130.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-          "arquivosTwitter": [
-            "02-1500-rc130.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 85,
           "engajamento": 82,
@@ -1728,14 +1650,10 @@
           "textoTwitter": "⚔️ DÁ PRA APARAR OU ESQUIVAR CONFORME O GOLPE NESSE MOD DE COMBATE\n\nO sistema Perfect Parries and Perfect Dodges deixa o jogador escolher a reação conforme o tipo de ataque que vem. A luta é em primeira pessoa, com machado e escudo, em uma arena de deserto do servidor GuildWarsSMP na Season 1.\n\n🎥 @sharkeatcats\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/GuildWarsSMP/status/2090417313464074700",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc160.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-21",
-          "arquivosTwitter": [
-            "03-1730-rc160.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 80,
           "engajamento": 82,
@@ -1759,22 +1677,10 @@
           "textoTwitter": "🗡️ O TANJIRO, DE DEMON SLAYER, GANHOU VERSÃO DE PERSONAGEM NO HYTALE\n\nEstá tudo lá. O haori xadrez verde e preto, a katana na cintura e a caixa de madeira nas costas. Dá pra reconhecer de longe.\n\n📷 u/Netherzapdos\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vshptb/i_recreated_kamado_tanjiro_from_demon_slayer/",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc123_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc123_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc123_3.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc123_4.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc123_5.jpg"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-          "arquivosTwitter": [
-            "01-1230-rc123-1.png",
-            "01-1230-rc123-2.png",
-            "01-1230-rc123-3.png",
-            "01-1230-rc123-4.png",
-            "01-1230-rc123-5.png"
-          ],
-          "tipo": "carrossel",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 85,
           "engajamento": 82,
@@ -1792,13 +1698,9 @@
           "textoTwitter": "SAIU A PARTE 13 DA PRE-RELEASE DO UPDATE 6, E CORRIGIU VARIOS PROBLEMAS CHATOS DO HYTALE\n\nA décima terceira parte da pre-release trouxe uma leva grande de correções. Segue tudo que interessa pra quem já tá jogando:\n\n🔹 ITENS E INTERAÇÃO\nBloco mole grande, tipo o casulo de aranha, agora pode ser derrubado com flecha. E quando um bloco tem mais de uma interação possível, o jogo mostra todas as opções na hora.\n\n🔹 DESEMPENHO\nMelhorou o uso de memória em distância de visão alta. Mundo com muito céu aberto acima agora guarda bem menos dado de luz.\n\n🔹 COMBATE E MOVIMENTO\nObjeto de vários blocos, tipo porta e estátua, agora é acertado exatamente onde você mirou. Ataque em área passou a acertar direito em coordenada negativa do mundo.\n\n🔹 MUNDO E BLOCOS\nO maior aqui é o portal. Antes ele fechava assim que você se afastava do dispositivo, agora o mundo continua aberto e o portal reconecta quando você volta. Trigger Volume colada no mundo não perde mais condição, efeito nem grupo. E o Baú Grande de Kweebec agora conta como bloco de madeira pra quebrar, machado é a ferramenta certa.\n\n🔹 GERAÇÃO DE MUNDO\nCorrigiram um defeito do WorldGen V2 que apagava entidade em prefab rotacionado, e outro que gerava prefab diferente dependendo da plataforma.\n\n🔹 ITENS E DUPLICAÇÃO\nCorrigiram o bug que deixava duplicar item em situações específicas. Flecha atirada através de célula com bloco de hitbox pequena agora interage com o bloco certo.\n\n🔹 NPCS E CRIATURAS\nCriatura invulnerável parou de sofrer empurrão de projétil. E abrir baú ou interagir com objeto volta a chamar atenção de criatura por perto, que tinha parado de acontecer.\n\n🔹 FERRAMENTAS CRIATIVAS\nPincel de construção segurado na mão usa o modelo certo agora. E ao copiar ou salvar uma seleção de blocos, só entra Trigger Volume que estiver de fato dentro da área selecionada.\n\n🔹 INTERFACE\nPegar item sem relação um do outro não junta mais as notificações numa coisa só confusa.\n\n🔹 MOD BROWSER\nInstalar um mod não cancela mais o download dos outros, agora entra numa fila. Melhorou bastante o uso com controle, botão de instalar mais fácil de alcançar, thumbstick chega em tudo (carrossel, caixa de seleção, botão, ladrilho), navegação entre abas não perde mais o foco.\n\n🔹 GRÁFICOS\nSuperfície transparente, tipo vidro e água, parou de perder nitidez. Partícula brilhante voltou a brilhar. E corrigiram uma escuridão infinita que acontecia quando efeito de clima era aplicado num mundo que já forçava o próprio clima.\n\n🔹 ÁUDIO\nMúsica e ambiente não ficam mais tão baixas quando sua vida tá no fim, então dá pra ouvir o jogo mesmo em perigo.\n\n🔹 ESTABILIDADE\nVários vazamentos de memória fechados de uma vez, isso deve deixar sessão longa mais estável. Corrigiram também um crash que acontecia em mundo muito grande depois de rodar por muito tempo, e o processo ficou mais rápido de quebra.\n\n🔧 PRA QUEM CRIA MOD\nSistema de trigger volume ganhou mais nós lógicos de comparação. NPC agora consegue girar no lugar numa velocidade controlada. Bloco pode rodar uma animação mais rápida ou mais devagar que o padrão. E marcador de mapa pode ser sobrescrito por código, útil pra quem cria evento customizado.\n\n🔧 Hytale\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc148.jpg"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-          "arquivosTwitter": [
-            "02-1240-rc148.png"
-          ],
+          "arquivosTwitter": [],
           "tipo": "imagem",
           "status": "publicado",
           "qualidade": 90,
@@ -1817,14 +1719,10 @@
           "textoTwitter": "🔫 BOTARAM ARMA DE FOGO PRA FUNCIONAR DENTRO DO HYTALE\n\nO Hyguns tem bancada pra fabricar, mira com ponto vermelho e contador de munição na tela. São oito armas diferentes na barra de itens.\n\n🔹 E aí, arma de fogo combina com o Hytale ou estraga a ideia do jogo?\n\n🎥 @TheScar_3\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/HytaleAlerts/status/2087562663316402601",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc132.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-          "arquivosTwitter": [
-            "03-1500-rc132.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 78,
           "engajamento": 78,
@@ -1842,14 +1740,10 @@
           "textoTwitter": "🐉 DÁ PRA MANDAR SEU DRAGÃO DE GELO LUTAR POR VOCÊ NESSE MOD DE HYTALE\n\nAntes a criatura domada só servia de montaria pra voar. Com a atualização do Animal Husbandry / Tamework, ela entra na briga no seu lugar.\n\n🎥 @Alechilles\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Alechilles/status/2088631532168589604",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc146.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-20",
-          "arquivosTwitter": [
-            "04-1730-rc146.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 85,
           "engajamento": 78,
@@ -1893,14 +1787,10 @@
           "textoTwitter": "🔨 FIZERAM UM JOGO DE MARTELAR GOBLIN DENTRO DO HYTALE\n\nUm jogador montou um parque de diversão no jogo, com aquela barraca de feira onde o bichinho sai do buraco e você tem que acertar de martelo antes dele voltar. No lugar do bichinho, goblin.\n\n🎥 u/Wakkaloon\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vnp6p3/whos_up_for_a_game_of_whackagoblin_at_the_summer/",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc31.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-          "arquivosTwitter": [
-            "01-1000-rc31.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 82,
           "engajamento": 86,
@@ -1918,22 +1808,10 @@
           "textoTwitter": "🌃 UM CRIADOR MONTOU UM BAIRRO DE CIDADE NEON NO HYTALE\n\nUm quarteirão inteiro de rua japonesa, com prédio de vários andares, letreiro aceso e movimento de cidade grande.\n\n🔹 Ar-condicionado pendurado na janela, sacada com roupa e antena no telhado.\n🔹 Máquina de venda ligada na calçada, cone de obra e bueiro na rua.\n🔹 Placa vertical em japonês, faixa de pedestre e fiação passando por cima de tudo.\n\n📷 u/sora_sabi\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vo9lxa/new_neon_city_blocks_and_props/",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc26_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc26_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc26_3.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc26_4.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc26_5.jpg"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-          "arquivosTwitter": [
-            "02-1230-rc26-1.png",
-            "02-1230-rc26-2.png",
-            "02-1230-rc26-3.png",
-            "02-1230-rc26-4.png",
-            "02-1230-rc26-5.png"
-          ],
-          "tipo": "carrossel",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 88,
           "engajamento": 92,
@@ -1951,14 +1829,10 @@
           "textoTwitter": "⚔️ UM MOD TROUXE O ABISMO ESPIRAL DE GENSHIN PRO HYTALE\n\nO desafio em andar do Genshin Impact virou mod, com sala de combate que você limpa pra descer pro próximo nível.\n\n🎥 u/Airijko\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vmsz54/genshin_spiral_abyss_in_hytale/",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc35.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-          "arquivosTwitter": [
-            "03-1500-rc35.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 80,
           "engajamento": 88,
@@ -1976,13 +1850,9 @@
           "textoTwitter": "🧊 O WORLDGEN V2 TÁ GERANDO PICO DE GELO GIGANTE NO HYTALE\n\nA nova geração de mundo criou um mar congelado com torres de gelo saindo da água, altas o bastante pra sumir na neblina.\n\n🔹 A água aparece quebrada em placa de gelo solta, uma diferente da outra.\n🔹 Os picos nascem em grupo e cada um tem formato próprio, nada repetido.\n\nÉ o tipo de paisagem que o worldgen antigo não conseguia montar sozinho.\n\n📷 u/AnyEconomy8588\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vmgx4x/ice_spikes_world_gen_v2/",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc27.jpg"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-          "arquivosTwitter": [
-            "04-1730-rc27.jpg"
-          ],
+          "arquivosTwitter": [],
           "tipo": "imagem",
           "status": "publicado",
           "qualidade": 90,
@@ -2001,14 +1871,10 @@
           "textoTwitter": "🛠️ UMA FERRAMENTA NOVA IMPORTA QUALQUER MODELO E ANIMAÇÃO DO HYTALE\n\nO Hyblend puxa modelo e animação do jogo direto pro Blender, o que facilita muito a vida de quem cria mod com criatura e personagem próprio.\n\n🔹 Serve tanto pra estudar como o jogo monta as coisas quanto pra criar em cima do que já existe.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleMods #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vp9s8r/hyblend_import_any_hytale_model_and_animations/",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc22.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-          "arquivosTwitter": [
-            "05-2000-rc22.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": 78,
           "engajamento": 74,
@@ -2026,13 +1892,9 @@
           "textoTwitter": "🏛️ OLHA A CASA DO GEOMANTE CONSTRUÍDA NO HYTALE\n\nUma construção temática de mago de pedra, montada com material que combina com a função de quem mora nela.\n\n🔹 A rocha aparece trabalhada, não é bloco jogado pra encher parede.\n🔹 O interior foi decorado seguindo o mesmo tema, não só a fachada.\n\n📷 u/YLASRO\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleBuilds #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vq7gfp/the_geomancers_home/",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc13.jpg"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-19",
-          "arquivosTwitter": [
-            "06-2130-rc13.png"
-          ],
+          "arquivosTwitter": [],
           "tipo": "imagem",
           "status": "publicado",
           "qualidade": 84,
@@ -2057,14 +1919,10 @@
           "textoTwitter": "🚂 UM MODDER TÁ CRIANDO TREM COM FÍSICA DE VERDADE NO HYTALE\n\nA ferramenta que está sendo desenvolvida é de trilho com curva que gera trem customizável e todo baseado em física de verdade.\n\nAs novas capacidades de física do Hytale abriram espaço pra esse tipo de mod, e essa mesma peça também funciona como plataforma móvel.\n\n🎥 @Blovienn\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Blovienn/status/2086206842263294409",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/x08-blovienn-railway.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-          "arquivosTwitter": [
-            "01-1000-blovienn-railway.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": null,
           "engajamento": null,
@@ -2082,14 +1940,10 @@
           "textoTwitter": "🌀 UM MOD TRAZ ESQUIVA ESTILO SOULS PRO HYTALE\n\nO Perfect Dodges deixa você rolar, dar dash, girar e dar flip, e se acerta o tempo da esquiva no golpe leva vantagem. Do mesmo criador do Perfect Parries.\n\n🔧 Mod do narwhals\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/perfect-dodges",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/mod-perfect-dodges.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-          "arquivosTwitter": [
-            "02-1230-perfect-dodges.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": null,
           "engajamento": null,
@@ -2107,14 +1961,10 @@
           "textoTwitter": "🏰 DESTRUIR OU MORAR NESSA FORTALEZA SOMBRIA DO HYTALE\n\nUma fortaleza imponente e sombria, do tipo que dá pra escolher entre invadir e destruir ou simplesmente tomar posse.\n\n🎥 u/Arketetor\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vec7c0/would_you_destroy_this_evil_fortress_or_claim_it/",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/reddit-evil-fortress.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-          "arquivosTwitter": [
-            "03-1500-evil-fortress.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": null,
           "engajamento": null,
@@ -2132,22 +1982,10 @@
           "textoTwitter": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE\n\nO WildTale adiciona cerca de 200 espécies reais, de elefante africano e girafa a leão, tigre, gorila e camelo.\n\n🔹 Eles nascem sozinhos pelo mundo, cada um no bioma que combina com a espécie.\n🔹 No criativo dá pra posicionar na mão e montar zoológico ou santuário do jeito que quiser.\n\n🔧 Mod do Nicholas_LionRider\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/wildtale",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_3.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_4.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/mod-wildtale-carrossel_5.jpg"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-          "arquivosTwitter": [
-            "04-1730-wildtale-carrossel-1.png",
-            "04-1730-wildtale-carrossel-2.png",
-            "04-1730-wildtale-carrossel-3.png",
-            "04-1730-wildtale-carrossel-4.png",
-            "04-1730-wildtale-carrossel-5.png"
-          ],
-          "tipo": "carrossel",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": null,
           "engajamento": null,
@@ -2165,14 +2003,10 @@
           "textoTwitter": "🛩️ CONSTRUÍRAM UMA AERONAVE PRA USAR NUM MOD DE HYTALE\n\nUma aeronave feita pra entrar num mod que tá sendo desenvolvido, já dando um gostinho de como vai ficar.\n\n🎥 @lunaronin777\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/lunaronin777/status/2087940936584122852",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/x13-lunaronin-airship.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-          "arquivosTwitter": [
-            "05-2000-lunaronin-airship.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": null,
           "engajamento": null,
@@ -2190,14 +2024,10 @@
           "textoTwitter": "🛠️ FERRAMENTA NOVA DEIXA IMPORTAR MODELO E ANIMAÇÃO PRO HYTALE\n\nO Hyblend é uma ferramenta que importa qualquer modelo e animação do Hytale, facilitando bastante a vida de quem cria mod com personagem e criatura customizados.\n\n🎥 u/Kaayky_rpg\n\n⭐ Use nosso código de criador BRASIL ou HYBR ao comprar no site do Hytale\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vp9s8r/hyblend_import_any_hytale_model_and_animations/",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/reddit-hyblend-tool.mp4"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-18",
-          "arquivosTwitter": [
-            "06-2130-hyblend-tool.mp4"
-          ],
-          "tipo": "video",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "publicado",
           "qualidade": null,
           "engajamento": null,
@@ -2293,13 +2123,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 189,
+    "coletadosTotal": 191,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 115,
     "rejeitadosMemoria": 7,
-    "escritos": 34,
-    "agendados": 23,
+    "escritos": 36,
+    "agendados": 25,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -2312,7 +2142,7 @@
   "twitterHoje": {
     "total": 2,
     "feitos": 0,
-    "data": "2026-08-23"
+    "data": "2026-08-24"
   },
   "custos": {
     "infraMensal": 0,
@@ -2355,7 +2185,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5931,
+      "seguidores": 5933,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -2363,7 +2193,7 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6034,
+      "seguidores": 6036,
       "totalPosts": 260,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
@@ -2428,7 +2258,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 383,
+        "curtidas": 384,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
