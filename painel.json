@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-24T14:20:21.978Z",
+  "geradoEm": "2026-08-24T20:38:31.648Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 192,
+      "n": 198,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 77,
+      "n": 83,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 70,
+      "n": 76,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 22,
+      "n": 28,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 26,
+      "n": 32,
       "quem": "código"
     }
   ],
@@ -536,6 +536,62 @@
   ],
   "grade": [
     {
+      "hora": "19:00",
+      "data": "2026-08-27",
+      "id": "rc198",
+      "rede": "facebook",
+      "titulo": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA",
+      "textoMeta": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/skylight-gimmie-da-loot",
+      "arquivos": [
+        "midia/curseforge/skylight/1.png",
+        "midia/curseforge/skylight/2.png",
+        "midia/curseforge/skylight/3.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc198_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc198_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc198_3.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686033966858527"
+    },
+    {
+      "hora": "15:00",
+      "data": "2026-08-27",
+      "id": "rc197",
+      "rede": "facebook",
+      "titulo": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA",
+      "textoMeta": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/ncs88-workshop",
+      "arquivos": [
+        "midia/curseforge/ncs88/1.png",
+        "midia/curseforge/ncs88/2.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc197_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc197_2.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686033816858542"
+    },
+    {
       "hora": "12:30",
       "data": "2026-08-27",
       "id": "rc192",
@@ -563,6 +619,48 @@
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685700740225183"
     },
     {
+      "hora": "19:00",
+      "data": "2026-08-26",
+      "id": "rc196",
+      "rede": "facebook",
+      "titulo": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT",
+      "textoMeta": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/loot-crafting-overhaul",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686033046858619"
+    },
+    {
+      "hora": "15:00",
+      "data": "2026-08-26",
+      "id": "rc195",
+      "rede": "facebook",
+      "titulo": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL",
+      "textoMeta": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/awi-industrial",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686032883525302"
+    },
+    {
       "hora": "12:30",
       "data": "2026-08-26",
       "id": "rc191",
@@ -586,6 +684,48 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685678863560704"
+    },
+    {
+      "hora": "19:00",
+      "data": "2026-08-25",
+      "id": "rc194",
+      "rede": "facebook",
+      "titulo": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO",
+      "textoMeta": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/starblight",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686032053525385"
+    },
+    {
+      "hora": "15:00",
+      "data": "2026-08-25",
+      "id": "rc193",
+      "rede": "facebook",
+      "titulo": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA",
+      "textoMeta": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/curse-of-the-beast",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686031886858735"
     },
     {
       "hora": "12:30",
@@ -621,10 +761,7 @@
       "textoMeta": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/RedGindew/status/2091619293901275147",
-      "arquivos": [
-        "midia/twitter/rc185-1.jpg",
-        "midia/twitter/rc185-2.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc185_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc185_2.jpg"
@@ -635,7 +772,7 @@
         "03-1700-rc185-2.jpg"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -651,11 +788,7 @@
       "textoMeta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
-      "arquivos": [
-        "midia/curseforge/bluestone/rc190-1.jpg",
-        "midia/curseforge/bluestone/rc190-2.jpg",
-        "midia/curseforge/bluestone/rc190-3.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc190_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc190_2.jpg",
@@ -668,7 +801,7 @@
         "02-1500-rc190-3.jpg"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -684,9 +817,7 @@
       "textoMeta": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/GibsonHougland/status/2091611054086488557",
-      "arquivos": [
-        "midia/twitter/rc184.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc184.mp4"
       ],
@@ -695,7 +826,7 @@
         "01-1230-rc184.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -1344,9 +1475,65 @@
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685700740225183"
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-08-27",
+          "id": "rc197",
+          "rede": "facebook",
+          "titulo": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA",
+          "textoMeta": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/ncs88-workshop",
+          "arquivos": [
+            "midia/curseforge/ncs88/1.png",
+            "midia/curseforge/ncs88/2.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc197_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc197_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686033816858542"
+        },
+        {
+          "hora": "19:00",
+          "data": "2026-08-27",
+          "id": "rc198",
+          "rede": "facebook",
+          "titulo": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA",
+          "textoMeta": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/skylight-gimmie-da-loot",
+          "arquivos": [
+            "midia/curseforge/skylight/1.png",
+            "midia/curseforge/skylight/2.png",
+            "midia/curseforge/skylight/3.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc198_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc198_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc198_3.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686033966858527"
         }
       ],
-      "total": 1
+      "total": 3
     },
     {
       "dia": "2026-08-26",
@@ -1375,9 +1562,51 @@
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685678863560704"
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-08-26",
+          "id": "rc195",
+          "rede": "facebook",
+          "titulo": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL",
+          "textoMeta": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/awi-industrial",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686032883525302"
+        },
+        {
+          "hora": "19:00",
+          "data": "2026-08-26",
+          "id": "rc196",
+          "rede": "facebook",
+          "titulo": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT",
+          "textoMeta": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/loot-crafting-overhaul",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686033046858619"
         }
       ],
-      "total": 1
+      "total": 3
     },
     {
       "dia": "2026-08-25",
@@ -1406,9 +1635,51 @@
           "categoria": "MOD",
           "motivo": "vídeo do próprio dev mostrando sistema de automação de NPC (colher/regar/guardar) funcionando, 121 curtidas em 9h, sistema visual e fácil de entender, sem repetição recente na página",
           "urlPublicada": "https://www.facebook.com/reel/1799665057689164/"
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-08-25",
+          "id": "rc193",
+          "rede": "facebook",
+          "titulo": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA",
+          "textoMeta": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/curse-of-the-beast",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686031886858735"
+        },
+        {
+          "hora": "19:00",
+          "data": "2026-08-25",
+          "id": "rc194",
+          "rede": "facebook",
+          "titulo": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO",
+          "textoMeta": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/starblight",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686032053525385"
         }
       ],
-      "total": 1
+      "total": 3
     },
     {
       "dia": "2026-08-24",
@@ -1422,9 +1693,7 @@
           "textoMeta": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/GibsonHougland/status/2091611054086488557",
-          "arquivos": [
-            "midia/twitter/rc184.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc184.mp4"
           ],
@@ -1433,7 +1702,7 @@
             "01-1230-rc184.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -1449,11 +1718,7 @@
           "textoMeta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
-          "arquivos": [
-            "midia/curseforge/bluestone/rc190-1.jpg",
-            "midia/curseforge/bluestone/rc190-2.jpg",
-            "midia/curseforge/bluestone/rc190-3.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc190_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc190_2.jpg",
@@ -1466,7 +1731,7 @@
             "02-1500-rc190-3.jpg"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -1482,10 +1747,7 @@
           "textoMeta": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/RedGindew/status/2091619293901275147",
-          "arquivos": [
-            "midia/twitter/rc185-1.jpg",
-            "midia/twitter/rc185-2.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc185_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc185_2.jpg"
@@ -1496,7 +1758,7 @@
             "03-1700-rc185-2.jpg"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2217,13 +2479,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 192,
+    "coletadosTotal": 198,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 115,
     "rejeitadosMemoria": 7,
-    "escritos": 37,
-    "agendados": 26,
+    "escritos": 43,
+    "agendados": 32,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -2279,7 +2541,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5934,
+      "seguidores": 5935,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -2287,11 +2549,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6036,
-      "totalPosts": 260,
+      "seguidores": 6035,
+      "totalPosts": 263,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 122,
+      "mediaCurtidas": 117,
       "amostra": 100
     },
     "twitter": {
@@ -2343,27 +2605,27 @@
         "link": "https://www.instagram.com/p/Da5hPCBkqIz/"
       },
       {
-        "titulo": "⚙️ SAIU A PRIMEIRA BETA DE UM MOD DE JUJUTSU KAISEN NO HYTALE",
-        "curtidas": 393,
-        "comentarios": 7,
-        "tipo": "video",
-        "quando": "2026-07-15T20:34:02+0000",
-        "link": "https://www.instagram.com/reel/Da07xFhjWYc/"
-      },
-      {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
         "curtidas": 384,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
         "link": "https://www.instagram.com/reel/Db4CWbPjNy5/"
+      },
+      {
+        "titulo": "👻 A transparência nova do Hytale também vai valer pra NPCs e entidade",
+        "curtidas": 342,
+        "comentarios": 8,
+        "tipo": "video",
+        "quando": "2026-07-17T20:33:36+0000",
+        "link": "https://www.instagram.com/reel/Da6FTaGCcGC/"
       }
     ],
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-15T20:34:02+0000",
-      "ate": "2026-08-23T15:31:55+0000"
+      "de": "2026-07-17T14:40:25+0000",
+      "ate": "2026-08-24T20:36:36+0000"
     },
     "serie": [
       {

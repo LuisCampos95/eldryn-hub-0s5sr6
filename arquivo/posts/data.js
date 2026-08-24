@@ -6,6 +6,136 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc198",
+      "rodada": "2026-08-24 14:30",
+      "emoji": "🏴‍☠️",
+      "titulo": "[MOD] TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO",
+      "fonte": "https://www.curseforge.com/hytale/mods/skylight-gimmie-da-loot",
+      "fonteData": "2026-08-24",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge (mods recem-atualizados), checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/skylight-gimmie-da-loot",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/skylight/1.png",
+              "midia/curseforge/skylight/2.png",
+              "midia/curseforge/skylight/3.png"
+          ]
+      },
+      "twitter": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc197",
+      "rodada": "2026-08-24 14:30",
+      "emoji": "🔨",
+      "titulo": "[MOD] ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA",
+      "fonte": "https://www.curseforge.com/hytale/mods/ncs88-workshop",
+      "fonteData": "2026-08-24",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge (mods recem-atualizados), checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/ncs88-workshop",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/ncs88/1.png",
+              "midia/curseforge/ncs88/2.png"
+          ]
+      },
+      "twitter": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc196",
+      "rodada": "2026-08-24 14:30",
+      "emoji": "⚒️",
+      "titulo": "[MOD] AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE",
+      "fonte": "https://www.curseforge.com/hytale/mods/loot-crafting-overhaul",
+      "fonteData": "2026-08-24",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge (mods recem-atualizados), checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/loot-crafting-overhaul",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/lootcraft/1.png",
+              "midia/curseforge/lootcraft/2.png"
+          ]
+      },
+      "twitter": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc195",
+      "rodada": "2026-08-24 14:30",
+      "emoji": "🏭",
+      "titulo": "[MOD] DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE",
+      "fonte": "https://www.curseforge.com/hytale/mods/awi-industrial",
+      "fonteData": "2026-08-24",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge (mods recem-atualizados), checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/awi-industrial",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/awi/1.jpg",
+              "midia/curseforge/awi/2.jpg",
+              "midia/curseforge/awi/3.jpg"
+          ]
+      },
+      "twitter": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc194",
+      "rodada": "2026-08-24 14:30",
+      "emoji": "👾",
+      "titulo": "[MOD] SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER",
+      "fonte": "https://www.curseforge.com/hytale/mods/starblight",
+      "fonteData": "2026-08-24",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge (mods recem-atualizados), checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/starblight",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/starblight/1.png",
+              "midia/curseforge/starblight/4.png",
+              "midia/curseforge/starblight/3.png"
+          ]
+      },
+      "twitter": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc193",
+      "rodada": "2026-08-24 14:30",
+      "emoji": "🏔️",
+      "titulo": "[MOD] VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O",
+      "fonte": "https://www.curseforge.com/hytale/mods/curse-of-the-beast",
+      "fonteData": "2026-08-24",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge (mods recem-atualizados), checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/curse-of-the-beast",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/frostveil/2.png",
+              "midia/curseforge/frostveil/1.png",
+              "midia/curseforge/frostveil/3.png"
+          ]
+      },
+      "twitter": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc192",
       "rodada": "2026-08-24 11:30",
       "emoji": "🚀",
