@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-24T20:39:58.298Z",
+  "geradoEm": "2026-08-24T20:40:37.801Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -544,8 +544,16 @@
       "textoMeta": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/skylight-gimmie-da-loot",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/curseforge/skylight/1.png",
+        "midia/curseforge/skylight/2.png",
+        "midia/curseforge/skylight/3.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc198_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc198_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc198_3.jpg"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [],
       "tipo": "imagem",
@@ -565,8 +573,14 @@
       "textoMeta": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/ncs88-workshop",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/curseforge/ncs88/1.png",
+        "midia/curseforge/ncs88/2.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc197_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc197_2.jpg"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [],
       "tipo": "imagem",
@@ -586,7 +600,10 @@
       "textoMeta": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/vandoria-jetpacks-custom-balanced-jetpacks-with",
-      "arquivos": [],
+      "arquivos": [
+        "midia/curseforge/jetpacks/2.jpg",
+        "midia/curseforge/jetpacks/3.jpg"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc192_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc192_2.jpg"
@@ -613,17 +630,17 @@
       "textoMeta": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/loot-crafting-overhaul",
-      "arquivos": [
-        "midia/curseforge/lootcraft/1.png",
-        "midia/curseforge/lootcraft/2.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc196_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc196_2.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "03-1900-rc196-1.png",
+        "03-1900-rc196-2.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -640,19 +657,19 @@
       "textoMeta": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/awi-industrial",
-      "arquivos": [
-        "midia/curseforge/awi/1.jpg",
-        "midia/curseforge/awi/2.jpg",
-        "midia/curseforge/awi/3.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc195_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc195_2.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc195_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "02-1500-rc195-1.jpg",
+        "02-1500-rc195-2.jpg",
+        "02-1500-rc195-3.jpg"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -669,9 +686,7 @@
       "textoMeta": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/mimictale",
-      "arquivos": [
-        "midia/curseforge/mimictale/1.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc191.jpg"
       ],
@@ -1476,7 +1491,10 @@
           "textoMeta": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/vandoria-jetpacks-custom-balanced-jetpacks-with",
-          "arquivos": [],
+          "arquivos": [
+            "midia/curseforge/jetpacks/2.jpg",
+            "midia/curseforge/jetpacks/3.jpg"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc192_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc192_2.jpg"
@@ -1503,8 +1521,14 @@
           "textoMeta": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/ncs88-workshop",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/curseforge/ncs88/1.png",
+            "midia/curseforge/ncs88/2.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc197_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc197_2.jpg"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [],
           "tipo": "imagem",
@@ -1524,8 +1548,16 @@
           "textoMeta": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/skylight-gimmie-da-loot",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/curseforge/skylight/1.png",
+            "midia/curseforge/skylight/2.png",
+            "midia/curseforge/skylight/3.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc198_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc198_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc198_3.jpg"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [],
           "tipo": "imagem",
@@ -1551,9 +1583,7 @@
           "textoMeta": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/mimictale",
-          "arquivos": [
-            "midia/curseforge/mimictale/1.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc191.jpg"
           ],
@@ -1578,19 +1608,19 @@
           "textoMeta": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/awi-industrial",
-          "arquivos": [
-            "midia/curseforge/awi/1.jpg",
-            "midia/curseforge/awi/2.jpg",
-            "midia/curseforge/awi/3.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc195_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc195_2.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc195_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "02-1500-rc195-1.jpg",
+            "02-1500-rc195-2.jpg",
+            "02-1500-rc195-3.jpg"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -1607,17 +1637,17 @@
           "textoMeta": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/loot-crafting-overhaul",
-          "arquivos": [
-            "midia/curseforge/lootcraft/1.png",
-            "midia/curseforge/lootcraft/2.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc196_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc196_2.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "03-1900-rc196-1.png",
+            "03-1900-rc196-2.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
