@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-24T20:39:17.677Z",
+  "geradoEm": "2026-08-24T20:39:58.298Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -613,8 +613,14 @@
       "textoMeta": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/loot-crafting-overhaul",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/curseforge/lootcraft/1.png",
+        "midia/curseforge/lootcraft/2.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc196_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc196_2.jpg"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
       "arquivosTwitter": [],
       "tipo": "imagem",
@@ -634,8 +640,16 @@
       "textoMeta": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/awi-industrial",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/curseforge/awi/1.jpg",
+        "midia/curseforge/awi/2.jpg",
+        "midia/curseforge/awi/3.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc195_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc195_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc195_3.jpg"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
       "arquivosTwitter": [],
       "tipo": "imagem",
@@ -655,7 +669,9 @@
       "textoMeta": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/mimictale",
-      "arquivos": [],
+      "arquivos": [
+        "midia/curseforge/mimictale/1.png"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc191.jpg"
       ],
@@ -680,19 +696,19 @@
       "textoMeta": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/starblight",
-      "arquivos": [
-        "midia/curseforge/starblight/1.png",
-        "midia/curseforge/starblight/4.png",
-        "midia/curseforge/starblight/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc194_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc194_2.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc194_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "03-1900-rc194-1.png",
+        "03-1900-rc194-2.png",
+        "03-1900-rc194-3.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -709,19 +725,19 @@
       "textoMeta": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/curse-of-the-beast",
-      "arquivos": [
-        "midia/curseforge/frostveil/2.png",
-        "midia/curseforge/frostveil/1.png",
-        "midia/curseforge/frostveil/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc193_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc193_2.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc193_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "02-1500-rc193-1.png",
+        "02-1500-rc193-2.png",
+        "02-1500-rc193-3.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -738,9 +754,7 @@
       "textoMeta": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 _Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 @_Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/_Lexem_/status/2091509828938072228",
-      "arquivos": [
-        "midia/twitter/rc186.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc187.mp4"
       ],
@@ -1537,7 +1551,9 @@
           "textoMeta": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "📦 BAÚ DA SUA CASA PODE SER UM MONSTRO DISFARÇADO NESSE MOD\n\nO MimicTale adiciona bicho mímico ao Hytale, disfarçado de baú comum, que só ataca quando você não está olhando. Cada um solta moeda própria, que também serve como arma de arremesso contra outros inimigos. O mod ainda deixa domesticar slime pra colher o gel dele.\n\n🔹 Moeda de cobre a cobalto, quanto mais rara mais dano ela causa se jogada\n🔹 Mercador mímico itinerante troca moeda por item, com estoque que muda com o tempo\n🔹 Dá pra domesticar slime e colher o gel dele com tesoura\n\n🔧 ealdorprime\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/mimictale",
-          "arquivos": [],
+          "arquivos": [
+            "midia/curseforge/mimictale/1.png"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc191.jpg"
           ],
@@ -1562,8 +1578,16 @@
           "textoMeta": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🏭 DÁ PRA ERGUER UMA FÁBRICA STEAMPUNK INTEIRA COM ESSE PACOTE DE BLOCO INDUSTRIAL\n\nO AWI Industrial traz a estética da Revolução Industrial pro Hytale. Tijolo de fábrica, chaminé, viga de ferro, passarela suspensa e escada de gato, tudo texturizado à mão pra parecer prédio de 1800.\n\n🔹 Fiação antiga de porcelana completa, com isolador, caixa de junção e carretel de fio de cobre\n🔹 Mais de 80 peças de lambri de mogno pra montar escritório e sala de controle\n🔹 Mais de 20 portas industriais pesadas, além de grade de esgoto que abre igual porta\n🔹 Bancada de inventor, forja de martelo, moedor, forno e bancada elétrica, todos funcionais\n\n📷 AncientwolfAWI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/awi-industrial",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/curseforge/awi/1.jpg",
+            "midia/curseforge/awi/2.jpg",
+            "midia/curseforge/awi/3.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc195_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc195_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc195_3.jpg"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
           "arquivosTwitter": [],
           "tipo": "imagem",
@@ -1583,8 +1607,14 @@
           "textoMeta": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⚒️ AGORA DÁ PRA APROVEITAR TENDÃO E OSSO DO BICHO QUE VOCÊ ABATE NESSE MOD DE CRAFT\n\nO Loot & Crafting Overhaul mexe no sistema de craft e no que os bichos soltam. A carne de animal pode ser desmontada em tendão e osso, a árvore rende casca, e um tear novo transforma esses materiais em coisa útil de verdade.\n\n🔹 Seiva sai por derivação no tronco, sem precisar quebrar a árvore\n🔹 Tear funcional pra tecer os ingredientes novos\n🔹 Galinheiro tem chance de dar ovo fértil, então dá pra povoar a fazenda sozinho\n🔹 Receita nova de arma e armadura, tipo o mangual de cavaleiro antigo\n\n📷 Mitchy_Modding\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/loot-crafting-overhaul",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/curseforge/lootcraft/1.png",
+            "midia/curseforge/lootcraft/2.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc196_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc196_2.jpg"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-26",
           "arquivosTwitter": [],
           "tipo": "imagem",
@@ -1610,9 +1640,7 @@
           "textoMeta": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 _Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 @_Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/_Lexem_/status/2091509828938072228",
-          "arquivos": [
-            "midia/twitter/rc186.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc187.mp4"
           ],
@@ -1637,19 +1665,19 @@
           "textoMeta": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/curse-of-the-beast",
-          "arquivos": [
-            "midia/curseforge/frostveil/2.png",
-            "midia/curseforge/frostveil/1.png",
-            "midia/curseforge/frostveil/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc193_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc193_2.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc193_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "02-1500-rc193-1.png",
+            "02-1500-rc193-2.png",
+            "02-1500-rc193-3.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -1666,19 +1694,19 @@
           "textoMeta": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/starblight",
-          "arquivos": [
-            "midia/curseforge/starblight/1.png",
-            "midia/curseforge/starblight/4.png",
-            "midia/curseforge/starblight/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc194_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc194_2.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc194_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-25",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "03-1900-rc194-1.png",
+            "03-1900-rc194-2.png",
+            "03-1900-rc194-3.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
