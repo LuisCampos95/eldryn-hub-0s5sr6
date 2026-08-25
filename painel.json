@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-24T20:41:13.264Z",
+  "geradoEm": "2026-08-25T03:47:40.869Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 198,
+      "n": 199,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 83,
+      "n": 84,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 76,
+      "n": 77,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 28,
+      "n": 29,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 32,
+      "n": 33,
       "quem": "código"
     }
   ],
@@ -781,6 +781,26 @@
       "categoria": "MOD",
       "motivo": "vídeo do próprio dev mostrando sistema de automação de NPC (colher/regar/guardar) funcionando, 121 curtidas em 9h, sistema visual e fácil de entender, sem repetição recente na página",
       "urlPublicada": "https://www.facebook.com/reel/1799665057689164/"
+    },
+    {
+      "hora": "20:00",
+      "data": "2026-08-24",
+      "id": "rc199",
+      "rede": "twitter",
+      "titulo": "💬 O SIMON RESPONDEU A COMUNIDADE E CONFIRMOU 6 OU 7 CAPÍTULOS NO ACESSO ANTECIPADO",
+      "textoMeta": "💬 O SIMON RESPONDEU A COMUNIDADE E CONFIRMOU 6 OU 7 CAPÍTULOS NO ACESSO ANTECIPADO\n\nO Simon abriu uma caixa de perguntas no X e passou horas respondendo. Foram mais de 500 respostas na thread. Juntamos aqui tudo que ele confirmou.\n\n🔹 O jogo tem 6 ou 7 capítulos previstos pro acesso antecipado, e o conteúdo continua depois do 1.0\n🔹 Perguntaram de um Hytale 2 e ele respondeu que o que estão fazendo agora já é basicamente isso\n🔹 O combate vai ser revisado, ele concordou que hoje está solto demais e com animação dura\n🔹 Tem bastante trabalho acontecendo na renderização, vai demorar, mas o jogo vai ficar bem melhor de visual com o tempo\n🔹 Sistema de montaria novo e melhorado está confirmado\n🔹 Vão existir outras formas de transporte além de montaria, tipo um carrinho de mina melhor\n🔹 Void Spiders e krakens estão no radar do planejamento de chefes\n🔹 Reprodução de animais está confirmada\n🔹 Mais emotes já estão na lista de tarefas\n🔹 Minigames vão existir, ele respondeu que claro\n🔹 O rework do oceano não tem data, ele respondeu que faz quando bater a vontade\n🔹 As runas são voltadas pro combate, mas dá pra esperar coisa de magia no lado tranquilo do jogo também\n🔹 O foco pesado continua sendo a experiência vanilla, sem depender de mod\n🔹 Versões novas dos scaraks provavelmente entram em algum capítulo\n🔹 O planador que existe no criativo não vai ser reaproveitado, o novo é diferente\n🔹 A furadeira talvez fique melhorável mais pra frente, mas não tão cedo\n🔹 A loja do jogo ainda não foi muito pensada, a ideia é ser principalmente cosmético de avatar, com algumas peças por capítulo pra ajudar os criadores\n🔹 Produto oficial da marca sai quando acharem os parceiros certos\n🔹 Vão abrir mais vagas de desenvolvedor no futuro, só precisam de tempo pra ajustar antes de crescer mais\n🔹 Pra quem faz mod de combate, ele pediu que mandem o que precisam que ele tenta fazer acontecer\n🔹 Sobre o mod Aetherhaven, ele achou ótimo pelo que viu\n\n💬 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "💬 O SIMON RESPONDEU A COMUNIDADE E CONFIRMOU 6 OU 7 CAPÍTULOS NO ACESSO ANTECIPADO\n\nO Simon abriu uma caixa de perguntas no X e passou horas respondendo. Foram mais de 500 respostas na thread. Juntamos aqui tudo que ele confirmou.\n\n🔹 O jogo tem 6 ou 7 capítulos previstos pro acesso antecipado, e o conteúdo continua depois do 1.0\n🔹 Perguntaram de um Hytale 2 e ele respondeu que o que estão fazendo agora já é basicamente isso\n🔹 O combate vai ser revisado, ele concordou que hoje está solto demais e com animação dura\n🔹 Tem bastante trabalho acontecendo na renderização, vai demorar, mas o jogo vai ficar bem melhor de visual com o tempo\n🔹 Sistema de montaria novo e melhorado está confirmado\n🔹 Vão existir outras formas de transporte além de montaria, tipo um carrinho de mina melhor\n🔹 Void Spiders e krakens estão no radar do planejamento de chefes\n🔹 Reprodução de animais está confirmada\n🔹 Mais emotes já estão na lista de tarefas\n🔹 Minigames vão existir, ele respondeu que claro\n🔹 O rework do oceano não tem data, ele respondeu que faz quando bater a vontade\n🔹 As runas são voltadas pro combate, mas dá pra esperar coisa de magia no lado tranquilo do jogo também\n🔹 O foco pesado continua sendo a experiência vanilla, sem depender de mod\n🔹 Versões novas dos scaraks provavelmente entram em algum capítulo\n🔹 O planador que existe no criativo não vai ser reaproveitado, o novo é diferente\n🔹 A furadeira talvez fique melhorável mais pra frente, mas não tão cedo\n🔹 A loja do jogo ainda não foi muito pensada, a ideia é ser principalmente cosmético de avatar, com algumas peças por capítulo pra ajudar os criadores\n🔹 Produto oficial da marca sai quando acharem os parceiros certos\n🔹 Vão abrir mais vagas de desenvolvedor no futuro, só precisam de tempo pra ajustar antes de crescer mais\n🔹 Pra quem faz mod de combate, ele pediu que mandem o que precisam que ele tenta fazer acontecer\n🔹 Sobre o mod Aetherhaven, ele achou ótimo pelo que viu\n\n💬 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/Simon_Hypixel/status/2092028760404951142",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
     },
     {
       "hora": "17:00",
@@ -1842,9 +1862,29 @@
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685075936954330"
+        },
+        {
+          "hora": "20:00",
+          "data": "2026-08-24",
+          "id": "rc199",
+          "rede": "twitter",
+          "titulo": "💬 O SIMON RESPONDEU A COMUNIDADE E CONFIRMOU 6 OU 7 CAPÍTULOS NO ACESSO ANTECIPADO",
+          "textoMeta": "💬 O SIMON RESPONDEU A COMUNIDADE E CONFIRMOU 6 OU 7 CAPÍTULOS NO ACESSO ANTECIPADO\n\nO Simon abriu uma caixa de perguntas no X e passou horas respondendo. Foram mais de 500 respostas na thread. Juntamos aqui tudo que ele confirmou.\n\n🔹 O jogo tem 6 ou 7 capítulos previstos pro acesso antecipado, e o conteúdo continua depois do 1.0\n🔹 Perguntaram de um Hytale 2 e ele respondeu que o que estão fazendo agora já é basicamente isso\n🔹 O combate vai ser revisado, ele concordou que hoje está solto demais e com animação dura\n🔹 Tem bastante trabalho acontecendo na renderização, vai demorar, mas o jogo vai ficar bem melhor de visual com o tempo\n🔹 Sistema de montaria novo e melhorado está confirmado\n🔹 Vão existir outras formas de transporte além de montaria, tipo um carrinho de mina melhor\n🔹 Void Spiders e krakens estão no radar do planejamento de chefes\n🔹 Reprodução de animais está confirmada\n🔹 Mais emotes já estão na lista de tarefas\n🔹 Minigames vão existir, ele respondeu que claro\n🔹 O rework do oceano não tem data, ele respondeu que faz quando bater a vontade\n🔹 As runas são voltadas pro combate, mas dá pra esperar coisa de magia no lado tranquilo do jogo também\n🔹 O foco pesado continua sendo a experiência vanilla, sem depender de mod\n🔹 Versões novas dos scaraks provavelmente entram em algum capítulo\n🔹 O planador que existe no criativo não vai ser reaproveitado, o novo é diferente\n🔹 A furadeira talvez fique melhorável mais pra frente, mas não tão cedo\n🔹 A loja do jogo ainda não foi muito pensada, a ideia é ser principalmente cosmético de avatar, com algumas peças por capítulo pra ajudar os criadores\n🔹 Produto oficial da marca sai quando acharem os parceiros certos\n🔹 Vão abrir mais vagas de desenvolvedor no futuro, só precisam de tempo pra ajustar antes de crescer mais\n🔹 Pra quem faz mod de combate, ele pediu que mandem o que precisam que ele tenta fazer acontecer\n🔹 Sobre o mod Aetherhaven, ele achou ótimo pelo que viu\n\n💬 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "💬 O SIMON RESPONDEU A COMUNIDADE E CONFIRMOU 6 OU 7 CAPÍTULOS NO ACESSO ANTECIPADO\n\nO Simon abriu uma caixa de perguntas no X e passou horas respondendo. Foram mais de 500 respostas na thread. Juntamos aqui tudo que ele confirmou.\n\n🔹 O jogo tem 6 ou 7 capítulos previstos pro acesso antecipado, e o conteúdo continua depois do 1.0\n🔹 Perguntaram de um Hytale 2 e ele respondeu que o que estão fazendo agora já é basicamente isso\n🔹 O combate vai ser revisado, ele concordou que hoje está solto demais e com animação dura\n🔹 Tem bastante trabalho acontecendo na renderização, vai demorar, mas o jogo vai ficar bem melhor de visual com o tempo\n🔹 Sistema de montaria novo e melhorado está confirmado\n🔹 Vão existir outras formas de transporte além de montaria, tipo um carrinho de mina melhor\n🔹 Void Spiders e krakens estão no radar do planejamento de chefes\n🔹 Reprodução de animais está confirmada\n🔹 Mais emotes já estão na lista de tarefas\n🔹 Minigames vão existir, ele respondeu que claro\n🔹 O rework do oceano não tem data, ele respondeu que faz quando bater a vontade\n🔹 As runas são voltadas pro combate, mas dá pra esperar coisa de magia no lado tranquilo do jogo também\n🔹 O foco pesado continua sendo a experiência vanilla, sem depender de mod\n🔹 Versões novas dos scaraks provavelmente entram em algum capítulo\n🔹 O planador que existe no criativo não vai ser reaproveitado, o novo é diferente\n🔹 A furadeira talvez fique melhorável mais pra frente, mas não tão cedo\n🔹 A loja do jogo ainda não foi muito pensada, a ideia é ser principalmente cosmético de avatar, com algumas peças por capítulo pra ajudar os criadores\n🔹 Produto oficial da marca sai quando acharem os parceiros certos\n🔹 Vão abrir mais vagas de desenvolvedor no futuro, só precisam de tempo pra ajustar antes de crescer mais\n🔹 Pra quem faz mod de combate, ele pediu que mandem o que precisam que ele tenta fazer acontecer\n🔹 Sobre o mod Aetherhaven, ele achou ótimo pelo que viu\n\n💬 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/Simon_Hypixel/status/2092028760404951142",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-24",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
         }
       ],
-      "total": 3
+      "total": 4
     },
     {
       "dia": "2026-08-23",
@@ -2557,13 +2597,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 198,
+    "coletadosTotal": 199,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 115,
     "rejeitadosMemoria": 7,
-    "escritos": 43,
-    "agendados": 32,
+    "escritos": 44,
+    "agendados": 33,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -2576,7 +2616,7 @@
   "twitterHoje": {
     "total": 3,
     "feitos": 0,
-    "data": "2026-08-24"
+    "data": "2026-08-25"
   },
   "custos": {
     "infraMensal": 0,
@@ -2631,7 +2671,7 @@
       "totalPosts": 263,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 117,
+      "mediaCurtidas": 118,
       "amostra": 100
     },
     "twitter": {
