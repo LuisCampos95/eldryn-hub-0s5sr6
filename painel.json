@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T21:48:43.976Z",
+  "geradoEm": "2026-08-25T21:49:37.218Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -537,6 +537,87 @@
   "grade": [
     {
       "hora": "19:00",
+      "data": "2026-08-30",
+      "id": "rc206",
+      "rede": "facebook",
+      "titulo": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS",
+      "textoMeta": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS\n\nUm modder está soltando classe atrás de classe pro Endless Leveling, o mod de progressão de personagem mais usado do jogo. Cada uma vem com habilidade própria, árvore de caminho e passiva.\n\n🔹 Bruxo, que invoca companheiro do Void, rouba vida e escala dano com cajado\n🔹 Cavaleiro da Morte, com gelo, morte e mortos-vivos\n🔹 Xamã, focado em totem elemental, suporte e controle de área\n🔹 Caçador de Demônios, rápido e agressivo, com asa demoníaca e dano em área\n🔹 Paladino, com duas habilidades novas de classe\n🔹 Assassino, que ganhou furtividade\n\n📷 DerFriesn\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS\n\nUm modder está soltando classe atrás de classe pro Endless Leveling, o mod de progressão de personagem mais usado do jogo. Cada uma vem com habilidade própria, árvore de caminho e passiva.\n\n🔹 Bruxo, que invoca companheiro do Void, rouba vida e escala dano com cajado\n🔹 Cavaleiro da Morte, com gelo, morte e mortos-vivos\n🔹 Xamã, focado em totem elemental, suporte e controle de área\n🔹 Caçador de Demônios, rápido e agressivo, com asa demoníaca e dano em área\n🔹 Paladino, com duas habilidades novas de classe\n🔹 Assassino, que ganhou furtividade\n\n📷 DerFriesn\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/endless-warlock",
+      "arquivos": [
+        "midia/curseforge/warlock/2.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc206.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687112466750677"
+    },
+    {
+      "hora": "15:00",
+      "data": "2026-08-30",
+      "id": "rc209",
+      "rede": "facebook",
+      "titulo": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL",
+      "textoMeta": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL\n\nO ZetoGambling põe máquina de cassino no servidor, com a estética certa pro jogo. São feitas de madeira, ferro forjado, latão e runa decorativa, e mantêm animação própria de alavanca, rolo e garra.\n\n🔹 Caça-níquel e máquina de garra, as duas funcionais\n🔹 A recompensa é configurada dentro do jogo, sem mexer em arquivo\n🔹 Aceita item como prêmio e também comando de console\n🔹 Mudança vale na hora, sem precisar reiniciar o servidor\n🔹 Receita de craft opcional pra cada máquina\n\n📷 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL\n\nO ZetoGambling põe máquina de cassino no servidor, com a estética certa pro jogo. São feitas de madeira, ferro forjado, latão e runa decorativa, e mantêm animação própria de alavanca, rolo e garra.\n\n🔹 Caça-níquel e máquina de garra, as duas funcionais\n🔹 A recompensa é configurada dentro do jogo, sem mexer em arquivo\n🔹 Aceita item como prêmio e também comando de console\n🔹 Mudança vale na hora, sem precisar reiniciar o servidor\n🔹 Receita de craft opcional pra cada máquina\n\n📷 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/zeto-gambling",
+      "arquivos": [
+        "midia/curseforge/casino/1.png",
+        "midia/curseforge/casino/2.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc209_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc209_2.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687112390084018"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-08-30",
+      "id": "rc207",
+      "rede": "facebook",
+      "titulo": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA",
+      "textoMeta": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA\n\nQuem já jogou em servidor de construção conhece o formato. O GlymeraPlotWorld transforma um mundo plano em uma grade de lotes quadrados separados por rua, cada jogador pega o seu e ninguém mexe sem permissão.\n\n🔹 Cada lote reivindicado escreve o nome do dono em bloco de letra dourada na borda\n🔹 Dá pra juntar lotes em qualquer formato, linha, L, T e até anel\n🔹 Clima e horário próprios por lote, então dá pra ter noite no seu enquanto é dia no do vizinho\n🔹 Confiança, banimento e permissão de visitante controlados pelo dono\n🔹 Cerca contra criatura, contenção de líquido e rua indestrutível\n🔹 Você decora UMA peça de rua em um mundo de oficina e o desenho vale pra todas as ruas do mundo inteiro\n🔹 Borda desce até a bedrock, com cerca de 100 estilos pra escolher\n\n📷 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA\n\nQuem já jogou em servidor de construção conhece o formato. O GlymeraPlotWorld transforma um mundo plano em uma grade de lotes quadrados separados por rua, cada jogador pega o seu e ninguém mexe sem permissão.\n\n🔹 Cada lote reivindicado escreve o nome do dono em bloco de letra dourada na borda\n🔹 Dá pra juntar lotes em qualquer formato, linha, L, T e até anel\n🔹 Clima e horário próprios por lote, então dá pra ter noite no seu enquanto é dia no do vizinho\n🔹 Confiança, banimento e permissão de visitante controlados pelo dono\n🔹 Cerca contra criatura, contenção de líquido e rua indestrutível\n🔹 Você decora UMA peça de rua em um mundo de oficina e o desenho vale pra todas as ruas do mundo inteiro\n🔹 Borda desce até a bedrock, com cerca de 100 estilos pra escolher\n\n📷 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/glymeraplotworld",
+      "arquivos": [
+        "midia/curseforge/plotworld/1.jpg",
+        "midia/curseforge/plotworld/2.jpg",
+        "midia/curseforge/plotworld/3.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc207_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc207_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc207_3.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687112276750696"
+    },
+    {
+      "hora": "19:00",
       "data": "2026-08-29",
       "id": "rc202",
       "rede": "facebook",
@@ -544,11 +625,7 @@
       "textoMeta": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/alterverse-orbs",
-      "arquivos": [
-        "midia/curseforge/alterverse/1.png",
-        "midia/curseforge/alterverse/2.png",
-        "midia/curseforge/alterverse/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc202_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc202_2.jpg",
@@ -577,11 +654,7 @@
       "textoMeta": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE\n\nO QuestLines Denizens é um sistema completo de NPC que roda no motor nativo do jogo, sem precisar de plugin de terceiro. Você cria o personagem por um editor dentro do jogo e ele passa a viver na sua cidade.\n\n🔹 Mais de 340 modelos prontos de NPC pra escolher\n🔹 Controle de equipamento, arma na mão, escala, plaquinha de nome e aparência\n🔹 Skin de qualquer jogador, basta digitar o nome de usuário\n🔹 Animação e emote que dá pra tocar, deixar em repetição ou limpar quando quiser\n🔹 Abas separadas de comportamento, interação, profissão e horário, então o NPC patrulha, guarda, corta lenha ou entrega missão\n🔹 Varinha de posicionamento pra criar rápido e marcador no mapa do mundo\n\n📷 RedStoner\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE\n\nO QuestLines Denizens é um sistema completo de NPC que roda no motor nativo do jogo, sem precisar de plugin de terceiro. Você cria o personagem por um editor dentro do jogo e ele passa a viver na sua cidade.\n\n🔹 Mais de 340 modelos prontos de NPC pra escolher\n🔹 Controle de equipamento, arma na mão, escala, plaquinha de nome e aparência\n🔹 Skin de qualquer jogador, basta digitar o nome de usuário\n🔹 Animação e emote que dá pra tocar, deixar em repetição ou limpar quando quiser\n🔹 Abas separadas de comportamento, interação, profissão e horário, então o NPC patrulha, guarda, corta lenha ou entrega missão\n🔹 Varinha de posicionamento pra criar rápido e marcador no mapa do mundo\n\n📷 RedStoner\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/questlines-denizens",
-      "arquivos": [
-        "midia/curseforge/denizens/1.jpg",
-        "midia/curseforge/denizens/2.jpg",
-        "midia/curseforge/denizens/3.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc205_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc205_2.jpg",
@@ -610,9 +683,7 @@
       "textoMeta": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM\n\nQuem jogou MMO antigo vai reconhecer na hora. O MetinReforge põe um ferreiro no jogo que refina sua arma ou armadura de +0 até +9, cobrando dinheiro e material a cada tentativa.\n\n🔹 Quanto mais alto o refino, menor a chance de dar certo, então cada tentativa pesa mais\n🔹 Item de sorte aumenta a chance de sucesso da tentativa\n🔹 Talismã de proteção evita que o equipamento seja destruído quando o refino falha\n🔹 Feito pensando em servidor de RPG e economia, onde vale a pena farmar pra tentar de novo\n\n🔧 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM\n\nQuem jogou MMO antigo vai reconhecer na hora. O MetinReforge põe um ferreiro no jogo que refina sua arma ou armadura de +0 até +9, cobrando dinheiro e material a cada tentativa.\n\n🔹 Quanto mais alto o refino, menor a chance de dar certo, então cada tentativa pesa mais\n🔹 Item de sorte aumenta a chance de sucesso da tentativa\n🔹 Talismã de proteção evita que o equipamento seja destruído quando o refino falha\n🔹 Feito pensando em servidor de RPG e economia, onde vale a pena farmar pra tentar de novo\n\n🔧 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/metin-reforging",
-      "arquivos": [
-        "midia/curseforge/metin/1.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc203.jpg"
       ],
@@ -1677,6 +1748,93 @@
   ],
   "diasGrade": [
     {
+      "dia": "2026-08-30",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-08-30",
+          "id": "rc207",
+          "rede": "facebook",
+          "titulo": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA",
+          "textoMeta": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA\n\nQuem já jogou em servidor de construção conhece o formato. O GlymeraPlotWorld transforma um mundo plano em uma grade de lotes quadrados separados por rua, cada jogador pega o seu e ninguém mexe sem permissão.\n\n🔹 Cada lote reivindicado escreve o nome do dono em bloco de letra dourada na borda\n🔹 Dá pra juntar lotes em qualquer formato, linha, L, T e até anel\n🔹 Clima e horário próprios por lote, então dá pra ter noite no seu enquanto é dia no do vizinho\n🔹 Confiança, banimento e permissão de visitante controlados pelo dono\n🔹 Cerca contra criatura, contenção de líquido e rua indestrutível\n🔹 Você decora UMA peça de rua em um mundo de oficina e o desenho vale pra todas as ruas do mundo inteiro\n🔹 Borda desce até a bedrock, com cerca de 100 estilos pra escolher\n\n📷 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA\n\nQuem já jogou em servidor de construção conhece o formato. O GlymeraPlotWorld transforma um mundo plano em uma grade de lotes quadrados separados por rua, cada jogador pega o seu e ninguém mexe sem permissão.\n\n🔹 Cada lote reivindicado escreve o nome do dono em bloco de letra dourada na borda\n🔹 Dá pra juntar lotes em qualquer formato, linha, L, T e até anel\n🔹 Clima e horário próprios por lote, então dá pra ter noite no seu enquanto é dia no do vizinho\n🔹 Confiança, banimento e permissão de visitante controlados pelo dono\n🔹 Cerca contra criatura, contenção de líquido e rua indestrutível\n🔹 Você decora UMA peça de rua em um mundo de oficina e o desenho vale pra todas as ruas do mundo inteiro\n🔹 Borda desce até a bedrock, com cerca de 100 estilos pra escolher\n\n📷 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/glymeraplotworld",
+          "arquivos": [
+            "midia/curseforge/plotworld/1.jpg",
+            "midia/curseforge/plotworld/2.jpg",
+            "midia/curseforge/plotworld/3.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc207_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc207_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc207_3.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687112276750696"
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-08-30",
+          "id": "rc209",
+          "rede": "facebook",
+          "titulo": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL",
+          "textoMeta": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL\n\nO ZetoGambling põe máquina de cassino no servidor, com a estética certa pro jogo. São feitas de madeira, ferro forjado, latão e runa decorativa, e mantêm animação própria de alavanca, rolo e garra.\n\n🔹 Caça-níquel e máquina de garra, as duas funcionais\n🔹 A recompensa é configurada dentro do jogo, sem mexer em arquivo\n🔹 Aceita item como prêmio e também comando de console\n🔹 Mudança vale na hora, sem precisar reiniciar o servidor\n🔹 Receita de craft opcional pra cada máquina\n\n📷 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL\n\nO ZetoGambling põe máquina de cassino no servidor, com a estética certa pro jogo. São feitas de madeira, ferro forjado, latão e runa decorativa, e mantêm animação própria de alavanca, rolo e garra.\n\n🔹 Caça-níquel e máquina de garra, as duas funcionais\n🔹 A recompensa é configurada dentro do jogo, sem mexer em arquivo\n🔹 Aceita item como prêmio e também comando de console\n🔹 Mudança vale na hora, sem precisar reiniciar o servidor\n🔹 Receita de craft opcional pra cada máquina\n\n📷 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/zeto-gambling",
+          "arquivos": [
+            "midia/curseforge/casino/1.png",
+            "midia/curseforge/casino/2.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc209_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc209_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687112390084018"
+        },
+        {
+          "hora": "19:00",
+          "data": "2026-08-30",
+          "id": "rc206",
+          "rede": "facebook",
+          "titulo": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS",
+          "textoMeta": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS\n\nUm modder está soltando classe atrás de classe pro Endless Leveling, o mod de progressão de personagem mais usado do jogo. Cada uma vem com habilidade própria, árvore de caminho e passiva.\n\n🔹 Bruxo, que invoca companheiro do Void, rouba vida e escala dano com cajado\n🔹 Cavaleiro da Morte, com gelo, morte e mortos-vivos\n🔹 Xamã, focado em totem elemental, suporte e controle de área\n🔹 Caçador de Demônios, rápido e agressivo, com asa demoníaca e dano em área\n🔹 Paladino, com duas habilidades novas de classe\n🔹 Assassino, que ganhou furtividade\n\n📷 DerFriesn\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS\n\nUm modder está soltando classe atrás de classe pro Endless Leveling, o mod de progressão de personagem mais usado do jogo. Cada uma vem com habilidade própria, árvore de caminho e passiva.\n\n🔹 Bruxo, que invoca companheiro do Void, rouba vida e escala dano com cajado\n🔹 Cavaleiro da Morte, com gelo, morte e mortos-vivos\n🔹 Xamã, focado em totem elemental, suporte e controle de área\n🔹 Caçador de Demônios, rápido e agressivo, com asa demoníaca e dano em área\n🔹 Paladino, com duas habilidades novas de classe\n🔹 Assassino, que ganhou furtividade\n\n📷 DerFriesn\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/endless-warlock",
+          "arquivos": [
+            "midia/curseforge/warlock/2.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc206.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687112466750677"
+        }
+      ],
+      "total": 3
+    },
+    {
       "dia": "2026-08-29",
       "posts": [
         {
@@ -1688,9 +1846,7 @@
           "textoMeta": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM\n\nQuem jogou MMO antigo vai reconhecer na hora. O MetinReforge põe um ferreiro no jogo que refina sua arma ou armadura de +0 até +9, cobrando dinheiro e material a cada tentativa.\n\n🔹 Quanto mais alto o refino, menor a chance de dar certo, então cada tentativa pesa mais\n🔹 Item de sorte aumenta a chance de sucesso da tentativa\n🔹 Talismã de proteção evita que o equipamento seja destruído quando o refino falha\n🔹 Feito pensando em servidor de RPG e economia, onde vale a pena farmar pra tentar de novo\n\n🔧 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM\n\nQuem jogou MMO antigo vai reconhecer na hora. O MetinReforge põe um ferreiro no jogo que refina sua arma ou armadura de +0 até +9, cobrando dinheiro e material a cada tentativa.\n\n🔹 Quanto mais alto o refino, menor a chance de dar certo, então cada tentativa pesa mais\n🔹 Item de sorte aumenta a chance de sucesso da tentativa\n🔹 Talismã de proteção evita que o equipamento seja destruído quando o refino falha\n🔹 Feito pensando em servidor de RPG e economia, onde vale a pena farmar pra tentar de novo\n\n🔧 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/metin-reforging",
-          "arquivos": [
-            "midia/curseforge/metin/1.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc203.jpg"
           ],
@@ -1715,11 +1871,7 @@
           "textoMeta": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE\n\nO QuestLines Denizens é um sistema completo de NPC que roda no motor nativo do jogo, sem precisar de plugin de terceiro. Você cria o personagem por um editor dentro do jogo e ele passa a viver na sua cidade.\n\n🔹 Mais de 340 modelos prontos de NPC pra escolher\n🔹 Controle de equipamento, arma na mão, escala, plaquinha de nome e aparência\n🔹 Skin de qualquer jogador, basta digitar o nome de usuário\n🔹 Animação e emote que dá pra tocar, deixar em repetição ou limpar quando quiser\n🔹 Abas separadas de comportamento, interação, profissão e horário, então o NPC patrulha, guarda, corta lenha ou entrega missão\n🔹 Varinha de posicionamento pra criar rápido e marcador no mapa do mundo\n\n📷 RedStoner\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE\n\nO QuestLines Denizens é um sistema completo de NPC que roda no motor nativo do jogo, sem precisar de plugin de terceiro. Você cria o personagem por um editor dentro do jogo e ele passa a viver na sua cidade.\n\n🔹 Mais de 340 modelos prontos de NPC pra escolher\n🔹 Controle de equipamento, arma na mão, escala, plaquinha de nome e aparência\n🔹 Skin de qualquer jogador, basta digitar o nome de usuário\n🔹 Animação e emote que dá pra tocar, deixar em repetição ou limpar quando quiser\n🔹 Abas separadas de comportamento, interação, profissão e horário, então o NPC patrulha, guarda, corta lenha ou entrega missão\n🔹 Varinha de posicionamento pra criar rápido e marcador no mapa do mundo\n\n📷 RedStoner\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/questlines-denizens",
-          "arquivos": [
-            "midia/curseforge/denizens/1.jpg",
-            "midia/curseforge/denizens/2.jpg",
-            "midia/curseforge/denizens/3.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc205_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc205_2.jpg",
@@ -1748,11 +1900,7 @@
           "textoMeta": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/alterverse-orbs",
-          "arquivos": [
-            "midia/curseforge/alterverse/1.png",
-            "midia/curseforge/alterverse/2.png",
-            "midia/curseforge/alterverse/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc202_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc202_2.jpg",
