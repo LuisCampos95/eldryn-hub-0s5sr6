@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T21:51:11.071Z",
+  "geradoEm": "2026-08-25T21:52:06.565Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -564,14 +564,14 @@
       "textoMeta": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD\n\nO Taji's Crystal Lamps aproveita os cacos de cristal que caem de bicho e de mineração pra criar blocos de luminária. Cada cor de cristal que existe no jogo vira uma lâmpada própria.\n\n🔹 A receita é simples, só giz e caco, tudo na bancada de móveis\n🔹 Dá pra fazer no modo sobrevivência, sem depender do criativo\n🔹 O mod ainda adiciona um recurso intermediário pra facilitar montar lâmpada de qualquer cor de caco\n🔹 Serve tanto pra iluminar quanto pra decorar parede e teto\n\n🔧 tajiri_yabi\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD\n\nO Taji's Crystal Lamps aproveita os cacos de cristal que caem de bicho e de mineração pra criar blocos de luminária. Cada cor de cristal que existe no jogo vira uma lâmpada própria.\n\n🔹 A receita é simples, só giz e caco, tudo na bancada de móveis\n🔹 Dá pra fazer no modo sobrevivência, sem depender do criativo\n🔹 O mod ainda adiciona um recurso intermediário pra facilitar montar lâmpada de qualquer cor de caco\n🔹 Serve tanto pra iluminar quanto pra decorar parede e teto\n\n🔧 tajiri_yabi\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/tajis-crystal-lamps",
-      "arquivos": [
-        "midia/curseforge/lamps/1.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc204.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "02-1500-rc204.png"
+      ],
       "tipo": "imagem",
       "status": "agendado",
       "qualidade": null,
@@ -589,19 +589,19 @@
       "textoMeta": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA\n\nO Machine Blocks traz progressão de tecnologia por descoberta em níveis. Cada máquina ocupa um bloco só nos modos normal e fácil, então dá pra empilhar dezenas delas em painel.\n\n🔹 Fornalha, triturador, plantador, minerador, liga metálica e gerador de energia\n🔹 Tanque de gás e turbina em multibloco nos níveis mais altos\n🔹 Gerenciador de fábrica com página de automação e de tendências, mostrando ganho e perda de cada item\n🔹 O nível 3 de combustível já sustenta todas as máquinas e qualquer plantação ao mesmo tempo\n\n📷 Aipoc76\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA\n\nO Machine Blocks traz progressão de tecnologia por descoberta em níveis. Cada máquina ocupa um bloco só nos modos normal e fácil, então dá pra empilhar dezenas delas em painel.\n\n🔹 Fornalha, triturador, plantador, minerador, liga metálica e gerador de energia\n🔹 Tanque de gás e turbina em multibloco nos níveis mais altos\n🔹 Gerenciador de fábrica com página de automação e de tendências, mostrando ganho e perda de cada item\n🔹 O nível 3 de combustível já sustenta todas as máquinas e qualquer plantação ao mesmo tempo\n\n📷 Aipoc76\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/machine-blocks",
-      "arquivos": [
-        "midia/curseforge/factory/2.png",
-        "midia/curseforge/factory/1.png",
-        "midia/curseforge/factory/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc210_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc210_2.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc210_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "01-1230-rc210-1.png",
+        "01-1230-rc210-2.png",
+        "01-1230-rc210-3.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -1033,7 +1033,11 @@
       "textoMeta": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/starblight",
-      "arquivos": [],
+      "arquivos": [
+        "midia/curseforge/starblight/1.png",
+        "midia/curseforge/starblight/4.png",
+        "midia/curseforge/starblight/3.png"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc194_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc194_2.jpg",
@@ -1062,7 +1066,11 @@
       "textoMeta": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/curse-of-the-beast",
-      "arquivos": [],
+      "arquivos": [
+        "midia/curseforge/frostveil/2.png",
+        "midia/curseforge/frostveil/1.png",
+        "midia/curseforge/frostveil/3.png"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc193_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc193_2.jpg",
@@ -1091,7 +1099,9 @@
       "textoMeta": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 _Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 @_Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/_Lexem_/status/2091509828938072228",
-      "arquivos": [],
+      "arquivos": [
+        "midia/twitter/rc186.mp4"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc187.mp4"
       ],
@@ -1833,19 +1843,19 @@
           "textoMeta": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA\n\nO Machine Blocks traz progressão de tecnologia por descoberta em níveis. Cada máquina ocupa um bloco só nos modos normal e fácil, então dá pra empilhar dezenas delas em painel.\n\n🔹 Fornalha, triturador, plantador, minerador, liga metálica e gerador de energia\n🔹 Tanque de gás e turbina em multibloco nos níveis mais altos\n🔹 Gerenciador de fábrica com página de automação e de tendências, mostrando ganho e perda de cada item\n🔹 O nível 3 de combustível já sustenta todas as máquinas e qualquer plantação ao mesmo tempo\n\n📷 Aipoc76\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA\n\nO Machine Blocks traz progressão de tecnologia por descoberta em níveis. Cada máquina ocupa um bloco só nos modos normal e fácil, então dá pra empilhar dezenas delas em painel.\n\n🔹 Fornalha, triturador, plantador, minerador, liga metálica e gerador de energia\n🔹 Tanque de gás e turbina em multibloco nos níveis mais altos\n🔹 Gerenciador de fábrica com página de automação e de tendências, mostrando ganho e perda de cada item\n🔹 O nível 3 de combustível já sustenta todas as máquinas e qualquer plantação ao mesmo tempo\n\n📷 Aipoc76\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/machine-blocks",
-          "arquivos": [
-            "midia/curseforge/factory/2.png",
-            "midia/curseforge/factory/1.png",
-            "midia/curseforge/factory/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc210_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc210_2.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc210_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "01-1230-rc210-1.png",
+            "01-1230-rc210-2.png",
+            "01-1230-rc210-3.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -1862,14 +1872,14 @@
           "textoMeta": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD\n\nO Taji's Crystal Lamps aproveita os cacos de cristal que caem de bicho e de mineração pra criar blocos de luminária. Cada cor de cristal que existe no jogo vira uma lâmpada própria.\n\n🔹 A receita é simples, só giz e caco, tudo na bancada de móveis\n🔹 Dá pra fazer no modo sobrevivência, sem depender do criativo\n🔹 O mod ainda adiciona um recurso intermediário pra facilitar montar lâmpada de qualquer cor de caco\n🔹 Serve tanto pra iluminar quanto pra decorar parede e teto\n\n🔧 tajiri_yabi\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD\n\nO Taji's Crystal Lamps aproveita os cacos de cristal que caem de bicho e de mineração pra criar blocos de luminária. Cada cor de cristal que existe no jogo vira uma lâmpada própria.\n\n🔹 A receita é simples, só giz e caco, tudo na bancada de móveis\n🔹 Dá pra fazer no modo sobrevivência, sem depender do criativo\n🔹 O mod ainda adiciona um recurso intermediário pra facilitar montar lâmpada de qualquer cor de caco\n🔹 Serve tanto pra iluminar quanto pra decorar parede e teto\n\n🔧 tajiri_yabi\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/tajis-crystal-lamps",
-          "arquivos": [
-            "midia/curseforge/lamps/1.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc204.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "02-1500-rc204.png"
+          ],
           "tipo": "imagem",
           "status": "agendado",
           "qualidade": null,
@@ -2378,7 +2388,9 @@
           "textoMeta": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 _Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD\n\nLexem, desenvolvedor brasileiro, colocou as primeiras automações de NPC no mod Hexcode Evoke. O boneco que ganha vida sozinho agora colhe a plantação, rega o canteiro e guarda item no baú quando o inventário enche.\n\n🎥 @_Lexem_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/_Lexem_/status/2091509828938072228",
-          "arquivos": [],
+          "arquivos": [
+            "midia/twitter/rc186.mp4"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc187.mp4"
           ],
@@ -2403,7 +2415,11 @@
           "textoMeta": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🏔️ VOCÊ ACHA UM MAPA VELHO E ELE TE LEVA PRA UMA MONTANHA ONDE O FRIO MATA\n\nO Curse of the Beast é um mod de aventura com história. Você chega exausto em uma serra congelada, se abriga em uma cabana abandonada e acha um mapa apontando pra um vilarejo. A partir daí é seguir pista por pista até descobrir o que amaldiçoou a região.\n\n🔹 O frio mata, então precisa cozinhar comida e montar equipamento pra aguentar\n🔹 Três pontos principais até agora, vilarejo, a cidade de Valeria e uma torre do relógio\n🔹 Cada ponto tem chefe próprio, pedaço da história e recompensa\n\n📷 Bananaph0ne\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/curse-of-the-beast",
-          "arquivos": [],
+          "arquivos": [
+            "midia/curseforge/frostveil/2.png",
+            "midia/curseforge/frostveil/1.png",
+            "midia/curseforge/frostveil/3.png"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc193_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc193_2.jpg",
@@ -2432,7 +2448,11 @@
           "textoMeta": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "👾 SE VOCÊ MATAR O GUARDIÃO, UMA INVASÃO ALIENÍGENA COMEÇA A COMER O MAPA BLOCO A BLOCO\n\nO Starblight adiciona um bioma feito das raízes de uma Árvore do Mundo, cheio de parede de raiz, ruína antiga e planta que ataca. No fundo dele mora um guardião corrompido, e derrubar ele é justamente o que dá início à parte pesada do mod.\n\n🔹 Depois que o guardião cai, obeliscos cósmicos aparecem e vão convertendo bloco natural em bloco corrompido\n🔹 Das áreas corrompidas nascem inimigos novos, e se você não destruir os obeliscos o bioma inteiro é consumido\n🔹 Tem também o Deserto Pintado, com areia roxa, índigo, rosa e menta formando cânion\n🔹 Armadura e arma próprias, e criaturinha de broto que só quer brincar\n\n📷 SamusHytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/starblight",
-          "arquivos": [],
+          "arquivos": [
+            "midia/curseforge/starblight/1.png",
+            "midia/curseforge/starblight/4.png",
+            "midia/curseforge/starblight/3.png"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc194_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc194_2.jpg",
