@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T21:46:24.838Z",
+  "geradoEm": "2026-08-25T21:47:17.830Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -537,6 +537,60 @@
   "grade": [
     {
       "hora": "19:00",
+      "data": "2026-08-29",
+      "id": "rc202",
+      "rede": "facebook",
+      "titulo": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO",
+      "textoMeta": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/alterverse-orbs",
+      "arquivos": [
+        "midia/curseforge/alterverse/1.png",
+        "midia/curseforge/alterverse/2.png",
+        "midia/curseforge/alterverse/3.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc202_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc202_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc202_3.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-29",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687110570084200"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-08-29",
+      "id": "rc203",
+      "rede": "facebook",
+      "titulo": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM",
+      "textoMeta": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM\n\nQuem jogou MMO antigo vai reconhecer na hora. O MetinReforge põe um ferreiro no jogo que refina sua arma ou armadura de +0 até +9, cobrando dinheiro e material a cada tentativa.\n\n🔹 Quanto mais alto o refino, menor a chance de dar certo, então cada tentativa pesa mais\n🔹 Item de sorte aumenta a chance de sucesso da tentativa\n🔹 Talismã de proteção evita que o equipamento seja destruído quando o refino falha\n🔹 Feito pensando em servidor de RPG e economia, onde vale a pena farmar pra tentar de novo\n\n🔧 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM\n\nQuem jogou MMO antigo vai reconhecer na hora. O MetinReforge põe um ferreiro no jogo que refina sua arma ou armadura de +0 até +9, cobrando dinheiro e material a cada tentativa.\n\n🔹 Quanto mais alto o refino, menor a chance de dar certo, então cada tentativa pesa mais\n🔹 Item de sorte aumenta a chance de sucesso da tentativa\n🔹 Talismã de proteção evita que o equipamento seja destruído quando o refino falha\n🔹 Feito pensando em servidor de RPG e economia, onde vale a pena farmar pra tentar de novo\n\n🔧 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/metin-reforging",
+      "arquivos": [
+        "midia/curseforge/metin/1.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc203.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-29",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687110443417546"
+    },
+    {
+      "hora": "19:00",
       "data": "2026-08-28",
       "id": "rc208",
       "rede": "facebook",
@@ -544,19 +598,19 @@
       "textoMeta": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/hyphone",
-      "arquivos": [
-        "midia/curseforge/hyphone/1.png",
-        "midia/curseforge/hyphone/2.png",
-        "midia/curseforge/hyphone/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc208_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc208_2.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc208_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "03-1900-rc208-1.png",
+        "03-1900-rc208-2.png",
+        "03-1900-rc208-3.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -573,19 +627,19 @@
       "textoMeta": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/kweebec-origins",
-      "arquivos": [
-        "midia/curseforge/kweebec/1.png",
-        "midia/curseforge/kweebec/2.jpg",
-        "midia/curseforge/kweebec/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc201_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc201_2.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc201_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "02-1500-rc201-1.png",
+        "02-1500-rc201-2.jpg",
+        "02-1500-rc201-3.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -602,19 +656,19 @@
       "textoMeta": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO\n\nO Tales of Shinobi é feito por um dev brasileiro e traz ninjutsu pro jogo. Você carrega chakra segurando CTRL e executa o jutsu fazendo a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Bola de Fogo sai na sequência esquerdo, esquerdo, F, e explode no impacto\n🔹 Clone das Sombras sai em esquerdo, F, esquerdo, e cria cópias pra confundir o inimigo\n🔹 Painel de status com Vitalidade, Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar nos quatro espaços de combo\n🔹 Tem sistema de clã e de elemento por personagem\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO\n\nO Tales of Shinobi é feito por um dev brasileiro e traz ninjutsu pro jogo. Você carrega chakra segurando CTRL e executa o jutsu fazendo a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Bola de Fogo sai na sequência esquerdo, esquerdo, F, e explode no impacto\n🔹 Clone das Sombras sai em esquerdo, F, esquerdo, e cria cópias pra confundir o inimigo\n🔹 Painel de status com Vitalidade, Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar nos quatro espaços de combo\n🔹 Tem sistema de clã e de elemento por personagem\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/tales-of-shinobi",
-      "arquivos": [
-        "midia/curseforge/shinobi/2.png",
-        "midia/curseforge/shinobi/1.png",
-        "midia/curseforge/shinobi/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc200_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc200_2.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc200_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "01-1230-rc200-1.png",
+        "01-1230-rc200-2.png",
+        "01-1230-rc200-3.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -1584,6 +1638,66 @@
   ],
   "diasGrade": [
     {
+      "dia": "2026-08-29",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-08-29",
+          "id": "rc203",
+          "rede": "facebook",
+          "titulo": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM",
+          "textoMeta": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM\n\nQuem jogou MMO antigo vai reconhecer na hora. O MetinReforge põe um ferreiro no jogo que refina sua arma ou armadura de +0 até +9, cobrando dinheiro e material a cada tentativa.\n\n🔹 Quanto mais alto o refino, menor a chance de dar certo, então cada tentativa pesa mais\n🔹 Item de sorte aumenta a chance de sucesso da tentativa\n🔹 Talismã de proteção evita que o equipamento seja destruído quando o refino falha\n🔹 Feito pensando em servidor de RPG e economia, onde vale a pena farmar pra tentar de novo\n\n🔧 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM\n\nQuem jogou MMO antigo vai reconhecer na hora. O MetinReforge põe um ferreiro no jogo que refina sua arma ou armadura de +0 até +9, cobrando dinheiro e material a cada tentativa.\n\n🔹 Quanto mais alto o refino, menor a chance de dar certo, então cada tentativa pesa mais\n🔹 Item de sorte aumenta a chance de sucesso da tentativa\n🔹 Talismã de proteção evita que o equipamento seja destruído quando o refino falha\n🔹 Feito pensando em servidor de RPG e economia, onde vale a pena farmar pra tentar de novo\n\n🔧 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/metin-reforging",
+          "arquivos": [
+            "midia/curseforge/metin/1.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc203.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-29",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687110443417546"
+        },
+        {
+          "hora": "19:00",
+          "data": "2026-08-29",
+          "id": "rc202",
+          "rede": "facebook",
+          "titulo": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO",
+          "textoMeta": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/alterverse-orbs",
+          "arquivos": [
+            "midia/curseforge/alterverse/1.png",
+            "midia/curseforge/alterverse/2.png",
+            "midia/curseforge/alterverse/3.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc202_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc202_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc202_3.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-29",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687110570084200"
+        }
+      ],
+      "total": 2
+    },
+    {
       "dia": "2026-08-28",
       "posts": [
         {
@@ -1595,19 +1709,19 @@
           "textoMeta": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO\n\nO Tales of Shinobi é feito por um dev brasileiro e traz ninjutsu pro jogo. Você carrega chakra segurando CTRL e executa o jutsu fazendo a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Bola de Fogo sai na sequência esquerdo, esquerdo, F, e explode no impacto\n🔹 Clone das Sombras sai em esquerdo, F, esquerdo, e cria cópias pra confundir o inimigo\n🔹 Painel de status com Vitalidade, Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar nos quatro espaços de combo\n🔹 Tem sistema de clã e de elemento por personagem\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO\n\nO Tales of Shinobi é feito por um dev brasileiro e traz ninjutsu pro jogo. Você carrega chakra segurando CTRL e executa o jutsu fazendo a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Bola de Fogo sai na sequência esquerdo, esquerdo, F, e explode no impacto\n🔹 Clone das Sombras sai em esquerdo, F, esquerdo, e cria cópias pra confundir o inimigo\n🔹 Painel de status com Vitalidade, Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar nos quatro espaços de combo\n🔹 Tem sistema de clã e de elemento por personagem\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/tales-of-shinobi",
-          "arquivos": [
-            "midia/curseforge/shinobi/2.png",
-            "midia/curseforge/shinobi/1.png",
-            "midia/curseforge/shinobi/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc200_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc200_2.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc200_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "01-1230-rc200-1.png",
+            "01-1230-rc200-2.png",
+            "01-1230-rc200-3.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -1624,19 +1738,19 @@
           "textoMeta": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/kweebec-origins",
-          "arquivos": [
-            "midia/curseforge/kweebec/1.png",
-            "midia/curseforge/kweebec/2.jpg",
-            "midia/curseforge/kweebec/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc201_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc201_2.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc201_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "02-1500-rc201-1.png",
+            "02-1500-rc201-2.jpg",
+            "02-1500-rc201-3.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -1653,19 +1767,19 @@
           "textoMeta": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/hyphone",
-          "arquivos": [
-            "midia/curseforge/hyphone/1.png",
-            "midia/curseforge/hyphone/2.png",
-            "midia/curseforge/hyphone/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc208_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc208_2.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc208_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "03-1900-rc208-1.png",
+            "03-1900-rc208-2.png",
+            "03-1900-rc208-3.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
