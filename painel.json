@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T21:49:37.218Z",
+  "geradoEm": "2026-08-25T21:50:28.957Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -536,6 +536,60 @@
   ],
   "grade": [
     {
+      "hora": "15:00",
+      "data": "2026-08-31",
+      "id": "rc204",
+      "rede": "facebook",
+      "titulo": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD",
+      "textoMeta": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD\n\nO Taji's Crystal Lamps aproveita os cacos de cristal que caem de bicho e de mineração pra criar blocos de luminária. Cada cor de cristal que existe no jogo vira uma lâmpada própria.\n\n🔹 A receita é simples, só giz e caco, tudo na bancada de móveis\n🔹 Dá pra fazer no modo sobrevivência, sem depender do criativo\n🔹 O mod ainda adiciona um recurso intermediário pra facilitar montar lâmpada de qualquer cor de caco\n🔹 Serve tanto pra iluminar quanto pra decorar parede e teto\n\n🔧 tajiri_yabi\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD\n\nO Taji's Crystal Lamps aproveita os cacos de cristal que caem de bicho e de mineração pra criar blocos de luminária. Cada cor de cristal que existe no jogo vira uma lâmpada própria.\n\n🔹 A receita é simples, só giz e caco, tudo na bancada de móveis\n🔹 Dá pra fazer no modo sobrevivência, sem depender do criativo\n🔹 O mod ainda adiciona um recurso intermediário pra facilitar montar lâmpada de qualquer cor de caco\n🔹 Serve tanto pra iluminar quanto pra decorar parede e teto\n\n🔧 tajiri_yabi\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/tajis-crystal-lamps",
+      "arquivos": [
+        "midia/curseforge/lamps/1.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc204.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687113296750594"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-08-31",
+      "id": "rc210",
+      "rede": "facebook",
+      "titulo": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA",
+      "textoMeta": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA\n\nO Machine Blocks traz progressão de tecnologia por descoberta em níveis. Cada máquina ocupa um bloco só nos modos normal e fácil, então dá pra empilhar dezenas delas em painel.\n\n🔹 Fornalha, triturador, plantador, minerador, liga metálica e gerador de energia\n🔹 Tanque de gás e turbina em multibloco nos níveis mais altos\n🔹 Gerenciador de fábrica com página de automação e de tendências, mostrando ganho e perda de cada item\n🔹 O nível 3 de combustível já sustenta todas as máquinas e qualquer plantação ao mesmo tempo\n\n📷 Aipoc76\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA\n\nO Machine Blocks traz progressão de tecnologia por descoberta em níveis. Cada máquina ocupa um bloco só nos modos normal e fácil, então dá pra empilhar dezenas delas em painel.\n\n🔹 Fornalha, triturador, plantador, minerador, liga metálica e gerador de energia\n🔹 Tanque de gás e turbina em multibloco nos níveis mais altos\n🔹 Gerenciador de fábrica com página de automação e de tendências, mostrando ganho e perda de cada item\n🔹 O nível 3 de combustível já sustenta todas as máquinas e qualquer plantação ao mesmo tempo\n\n📷 Aipoc76\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/machine-blocks",
+      "arquivos": [
+        "midia/curseforge/factory/2.png",
+        "midia/curseforge/factory/1.png",
+        "midia/curseforge/factory/3.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc210_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc210_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc210_3.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687113200083937"
+    },
+    {
       "hora": "19:00",
       "data": "2026-08-30",
       "id": "rc206",
@@ -544,14 +598,14 @@
       "textoMeta": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS\n\nUm modder está soltando classe atrás de classe pro Endless Leveling, o mod de progressão de personagem mais usado do jogo. Cada uma vem com habilidade própria, árvore de caminho e passiva.\n\n🔹 Bruxo, que invoca companheiro do Void, rouba vida e escala dano com cajado\n🔹 Cavaleiro da Morte, com gelo, morte e mortos-vivos\n🔹 Xamã, focado em totem elemental, suporte e controle de área\n🔹 Caçador de Demônios, rápido e agressivo, com asa demoníaca e dano em área\n🔹 Paladino, com duas habilidades novas de classe\n🔹 Assassino, que ganhou furtividade\n\n📷 DerFriesn\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS\n\nUm modder está soltando classe atrás de classe pro Endless Leveling, o mod de progressão de personagem mais usado do jogo. Cada uma vem com habilidade própria, árvore de caminho e passiva.\n\n🔹 Bruxo, que invoca companheiro do Void, rouba vida e escala dano com cajado\n🔹 Cavaleiro da Morte, com gelo, morte e mortos-vivos\n🔹 Xamã, focado em totem elemental, suporte e controle de área\n🔹 Caçador de Demônios, rápido e agressivo, com asa demoníaca e dano em área\n🔹 Paladino, com duas habilidades novas de classe\n🔹 Assassino, que ganhou furtividade\n\n📷 DerFriesn\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/endless-warlock",
-      "arquivos": [
-        "midia/curseforge/warlock/2.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc206.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "03-1900-rc206.png"
+      ],
       "tipo": "imagem",
       "status": "agendado",
       "qualidade": null,
@@ -569,17 +623,17 @@
       "textoMeta": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL\n\nO ZetoGambling põe máquina de cassino no servidor, com a estética certa pro jogo. São feitas de madeira, ferro forjado, latão e runa decorativa, e mantêm animação própria de alavanca, rolo e garra.\n\n🔹 Caça-níquel e máquina de garra, as duas funcionais\n🔹 A recompensa é configurada dentro do jogo, sem mexer em arquivo\n🔹 Aceita item como prêmio e também comando de console\n🔹 Mudança vale na hora, sem precisar reiniciar o servidor\n🔹 Receita de craft opcional pra cada máquina\n\n📷 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL\n\nO ZetoGambling põe máquina de cassino no servidor, com a estética certa pro jogo. São feitas de madeira, ferro forjado, latão e runa decorativa, e mantêm animação própria de alavanca, rolo e garra.\n\n🔹 Caça-níquel e máquina de garra, as duas funcionais\n🔹 A recompensa é configurada dentro do jogo, sem mexer em arquivo\n🔹 Aceita item como prêmio e também comando de console\n🔹 Mudança vale na hora, sem precisar reiniciar o servidor\n🔹 Receita de craft opcional pra cada máquina\n\n📷 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/zeto-gambling",
-      "arquivos": [
-        "midia/curseforge/casino/1.png",
-        "midia/curseforge/casino/2.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc209_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc209_2.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "02-1500-rc209-1.png",
+        "02-1500-rc209-2.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -596,19 +650,19 @@
       "textoMeta": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA\n\nQuem já jogou em servidor de construção conhece o formato. O GlymeraPlotWorld transforma um mundo plano em uma grade de lotes quadrados separados por rua, cada jogador pega o seu e ninguém mexe sem permissão.\n\n🔹 Cada lote reivindicado escreve o nome do dono em bloco de letra dourada na borda\n🔹 Dá pra juntar lotes em qualquer formato, linha, L, T e até anel\n🔹 Clima e horário próprios por lote, então dá pra ter noite no seu enquanto é dia no do vizinho\n🔹 Confiança, banimento e permissão de visitante controlados pelo dono\n🔹 Cerca contra criatura, contenção de líquido e rua indestrutível\n🔹 Você decora UMA peça de rua em um mundo de oficina e o desenho vale pra todas as ruas do mundo inteiro\n🔹 Borda desce até a bedrock, com cerca de 100 estilos pra escolher\n\n📷 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA\n\nQuem já jogou em servidor de construção conhece o formato. O GlymeraPlotWorld transforma um mundo plano em uma grade de lotes quadrados separados por rua, cada jogador pega o seu e ninguém mexe sem permissão.\n\n🔹 Cada lote reivindicado escreve o nome do dono em bloco de letra dourada na borda\n🔹 Dá pra juntar lotes em qualquer formato, linha, L, T e até anel\n🔹 Clima e horário próprios por lote, então dá pra ter noite no seu enquanto é dia no do vizinho\n🔹 Confiança, banimento e permissão de visitante controlados pelo dono\n🔹 Cerca contra criatura, contenção de líquido e rua indestrutível\n🔹 Você decora UMA peça de rua em um mundo de oficina e o desenho vale pra todas as ruas do mundo inteiro\n🔹 Borda desce até a bedrock, com cerca de 100 estilos pra escolher\n\n📷 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/glymeraplotworld",
-      "arquivos": [
-        "midia/curseforge/plotworld/1.jpg",
-        "midia/curseforge/plotworld/2.jpg",
-        "midia/curseforge/plotworld/3.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc207_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc207_2.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc207_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "01-1230-rc207-1.jpg",
+        "01-1230-rc207-2.jpg",
+        "01-1230-rc207-3.jpg"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -1748,6 +1802,66 @@
   ],
   "diasGrade": [
     {
+      "dia": "2026-08-31",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-08-31",
+          "id": "rc210",
+          "rede": "facebook",
+          "titulo": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA",
+          "textoMeta": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA\n\nO Machine Blocks traz progressão de tecnologia por descoberta em níveis. Cada máquina ocupa um bloco só nos modos normal e fácil, então dá pra empilhar dezenas delas em painel.\n\n🔹 Fornalha, triturador, plantador, minerador, liga metálica e gerador de energia\n🔹 Tanque de gás e turbina em multibloco nos níveis mais altos\n🔹 Gerenciador de fábrica com página de automação e de tendências, mostrando ganho e perda de cada item\n🔹 O nível 3 de combustível já sustenta todas as máquinas e qualquer plantação ao mesmo tempo\n\n📷 Aipoc76\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA\n\nO Machine Blocks traz progressão de tecnologia por descoberta em níveis. Cada máquina ocupa um bloco só nos modos normal e fácil, então dá pra empilhar dezenas delas em painel.\n\n🔹 Fornalha, triturador, plantador, minerador, liga metálica e gerador de energia\n🔹 Tanque de gás e turbina em multibloco nos níveis mais altos\n🔹 Gerenciador de fábrica com página de automação e de tendências, mostrando ganho e perda de cada item\n🔹 O nível 3 de combustível já sustenta todas as máquinas e qualquer plantação ao mesmo tempo\n\n📷 Aipoc76\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/machine-blocks",
+          "arquivos": [
+            "midia/curseforge/factory/2.png",
+            "midia/curseforge/factory/1.png",
+            "midia/curseforge/factory/3.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc210_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc210_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc210_3.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687113200083937"
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-08-31",
+          "id": "rc204",
+          "rede": "facebook",
+          "titulo": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD",
+          "textoMeta": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD\n\nO Taji's Crystal Lamps aproveita os cacos de cristal que caem de bicho e de mineração pra criar blocos de luminária. Cada cor de cristal que existe no jogo vira uma lâmpada própria.\n\n🔹 A receita é simples, só giz e caco, tudo na bancada de móveis\n🔹 Dá pra fazer no modo sobrevivência, sem depender do criativo\n🔹 O mod ainda adiciona um recurso intermediário pra facilitar montar lâmpada de qualquer cor de caco\n🔹 Serve tanto pra iluminar quanto pra decorar parede e teto\n\n🔧 tajiri_yabi\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD\n\nO Taji's Crystal Lamps aproveita os cacos de cristal que caem de bicho e de mineração pra criar blocos de luminária. Cada cor de cristal que existe no jogo vira uma lâmpada própria.\n\n🔹 A receita é simples, só giz e caco, tudo na bancada de móveis\n🔹 Dá pra fazer no modo sobrevivência, sem depender do criativo\n🔹 O mod ainda adiciona um recurso intermediário pra facilitar montar lâmpada de qualquer cor de caco\n🔹 Serve tanto pra iluminar quanto pra decorar parede e teto\n\n🔧 tajiri_yabi\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/tajis-crystal-lamps",
+          "arquivos": [
+            "midia/curseforge/lamps/1.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc204.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687113296750594"
+        }
+      ],
+      "total": 2
+    },
+    {
       "dia": "2026-08-30",
       "posts": [
         {
@@ -1759,19 +1873,19 @@
           "textoMeta": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA\n\nQuem já jogou em servidor de construção conhece o formato. O GlymeraPlotWorld transforma um mundo plano em uma grade de lotes quadrados separados por rua, cada jogador pega o seu e ninguém mexe sem permissão.\n\n🔹 Cada lote reivindicado escreve o nome do dono em bloco de letra dourada na borda\n🔹 Dá pra juntar lotes em qualquer formato, linha, L, T e até anel\n🔹 Clima e horário próprios por lote, então dá pra ter noite no seu enquanto é dia no do vizinho\n🔹 Confiança, banimento e permissão de visitante controlados pelo dono\n🔹 Cerca contra criatura, contenção de líquido e rua indestrutível\n🔹 Você decora UMA peça de rua em um mundo de oficina e o desenho vale pra todas as ruas do mundo inteiro\n🔹 Borda desce até a bedrock, com cerca de 100 estilos pra escolher\n\n📷 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA\n\nQuem já jogou em servidor de construção conhece o formato. O GlymeraPlotWorld transforma um mundo plano em uma grade de lotes quadrados separados por rua, cada jogador pega o seu e ninguém mexe sem permissão.\n\n🔹 Cada lote reivindicado escreve o nome do dono em bloco de letra dourada na borda\n🔹 Dá pra juntar lotes em qualquer formato, linha, L, T e até anel\n🔹 Clima e horário próprios por lote, então dá pra ter noite no seu enquanto é dia no do vizinho\n🔹 Confiança, banimento e permissão de visitante controlados pelo dono\n🔹 Cerca contra criatura, contenção de líquido e rua indestrutível\n🔹 Você decora UMA peça de rua em um mundo de oficina e o desenho vale pra todas as ruas do mundo inteiro\n🔹 Borda desce até a bedrock, com cerca de 100 estilos pra escolher\n\n📷 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/glymeraplotworld",
-          "arquivos": [
-            "midia/curseforge/plotworld/1.jpg",
-            "midia/curseforge/plotworld/2.jpg",
-            "midia/curseforge/plotworld/3.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc207_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc207_2.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc207_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "01-1230-rc207-1.jpg",
+            "01-1230-rc207-2.jpg",
+            "01-1230-rc207-3.jpg"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -1788,17 +1902,17 @@
           "textoMeta": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL\n\nO ZetoGambling põe máquina de cassino no servidor, com a estética certa pro jogo. São feitas de madeira, ferro forjado, latão e runa decorativa, e mantêm animação própria de alavanca, rolo e garra.\n\n🔹 Caça-níquel e máquina de garra, as duas funcionais\n🔹 A recompensa é configurada dentro do jogo, sem mexer em arquivo\n🔹 Aceita item como prêmio e também comando de console\n🔹 Mudança vale na hora, sem precisar reiniciar o servidor\n🔹 Receita de craft opcional pra cada máquina\n\n📷 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL\n\nO ZetoGambling põe máquina de cassino no servidor, com a estética certa pro jogo. São feitas de madeira, ferro forjado, latão e runa decorativa, e mantêm animação própria de alavanca, rolo e garra.\n\n🔹 Caça-níquel e máquina de garra, as duas funcionais\n🔹 A recompensa é configurada dentro do jogo, sem mexer em arquivo\n🔹 Aceita item como prêmio e também comando de console\n🔹 Mudança vale na hora, sem precisar reiniciar o servidor\n🔹 Receita de craft opcional pra cada máquina\n\n📷 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/zeto-gambling",
-          "arquivos": [
-            "midia/curseforge/casino/1.png",
-            "midia/curseforge/casino/2.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc209_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc209_2.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "02-1500-rc209-1.png",
+            "02-1500-rc209-2.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -1815,14 +1929,14 @@
           "textoMeta": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS\n\nUm modder está soltando classe atrás de classe pro Endless Leveling, o mod de progressão de personagem mais usado do jogo. Cada uma vem com habilidade própria, árvore de caminho e passiva.\n\n🔹 Bruxo, que invoca companheiro do Void, rouba vida e escala dano com cajado\n🔹 Cavaleiro da Morte, com gelo, morte e mortos-vivos\n🔹 Xamã, focado em totem elemental, suporte e controle de área\n🔹 Caçador de Demônios, rápido e agressivo, com asa demoníaca e dano em área\n🔹 Paladino, com duas habilidades novas de classe\n🔹 Assassino, que ganhou furtividade\n\n📷 DerFriesn\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS\n\nUm modder está soltando classe atrás de classe pro Endless Leveling, o mod de progressão de personagem mais usado do jogo. Cada uma vem com habilidade própria, árvore de caminho e passiva.\n\n🔹 Bruxo, que invoca companheiro do Void, rouba vida e escala dano com cajado\n🔹 Cavaleiro da Morte, com gelo, morte e mortos-vivos\n🔹 Xamã, focado em totem elemental, suporte e controle de área\n🔹 Caçador de Demônios, rápido e agressivo, com asa demoníaca e dano em área\n🔹 Paladino, com duas habilidades novas de classe\n🔹 Assassino, que ganhou furtividade\n\n📷 DerFriesn\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/endless-warlock",
-          "arquivos": [
-            "midia/curseforge/warlock/2.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc206.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "03-1900-rc206.png"
+          ],
           "tipo": "imagem",
           "status": "agendado",
           "qualidade": null,
