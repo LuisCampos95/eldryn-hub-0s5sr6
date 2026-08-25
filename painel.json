@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T21:47:17.830Z",
+  "geradoEm": "2026-08-25T21:48:43.976Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -555,14 +555,51 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc202_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-29",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "03-1900-rc202-1.png",
+        "03-1900-rc202-2.png",
+        "03-1900-rc202-3.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687110570084200"
+    },
+    {
+      "hora": "15:00",
+      "data": "2026-08-29",
+      "id": "rc205",
+      "rede": "facebook",
+      "titulo": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE",
+      "textoMeta": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE\n\nO QuestLines Denizens é um sistema completo de NPC que roda no motor nativo do jogo, sem precisar de plugin de terceiro. Você cria o personagem por um editor dentro do jogo e ele passa a viver na sua cidade.\n\n🔹 Mais de 340 modelos prontos de NPC pra escolher\n🔹 Controle de equipamento, arma na mão, escala, plaquinha de nome e aparência\n🔹 Skin de qualquer jogador, basta digitar o nome de usuário\n🔹 Animação e emote que dá pra tocar, deixar em repetição ou limpar quando quiser\n🔹 Abas separadas de comportamento, interação, profissão e horário, então o NPC patrulha, guarda, corta lenha ou entrega missão\n🔹 Varinha de posicionamento pra criar rápido e marcador no mapa do mundo\n\n📷 RedStoner\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE\n\nO QuestLines Denizens é um sistema completo de NPC que roda no motor nativo do jogo, sem precisar de plugin de terceiro. Você cria o personagem por um editor dentro do jogo e ele passa a viver na sua cidade.\n\n🔹 Mais de 340 modelos prontos de NPC pra escolher\n🔹 Controle de equipamento, arma na mão, escala, plaquinha de nome e aparência\n🔹 Skin de qualquer jogador, basta digitar o nome de usuário\n🔹 Animação e emote que dá pra tocar, deixar em repetição ou limpar quando quiser\n🔹 Abas separadas de comportamento, interação, profissão e horário, então o NPC patrulha, guarda, corta lenha ou entrega missão\n🔹 Varinha de posicionamento pra criar rápido e marcador no mapa do mundo\n\n📷 RedStoner\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/questlines-denizens",
+      "arquivos": [
+        "midia/curseforge/denizens/1.jpg",
+        "midia/curseforge/denizens/2.jpg",
+        "midia/curseforge/denizens/3.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc205_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc205_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc205_3.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-29",
+      "arquivosTwitter": [
+        "02-1500-rc205-1.jpg",
+        "02-1500-rc205-2.jpg",
+        "02-1500-rc205-3.jpg"
+      ],
+      "tipo": "carrossel",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687111483417442"
     },
     {
       "hora": "12:30",
@@ -580,7 +617,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc203.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-29",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "01-1230-rc203.png"
+      ],
       "tipo": "imagem",
       "status": "agendado",
       "qualidade": null,
@@ -1656,7 +1695,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc203.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-29",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "01-1230-rc203.png"
+          ],
           "tipo": "imagem",
           "status": "agendado",
           "qualidade": null,
@@ -1664,6 +1705,39 @@
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687110443417546"
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-08-29",
+          "id": "rc205",
+          "rede": "facebook",
+          "titulo": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE",
+          "textoMeta": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE\n\nO QuestLines Denizens é um sistema completo de NPC que roda no motor nativo do jogo, sem precisar de plugin de terceiro. Você cria o personagem por um editor dentro do jogo e ele passa a viver na sua cidade.\n\n🔹 Mais de 340 modelos prontos de NPC pra escolher\n🔹 Controle de equipamento, arma na mão, escala, plaquinha de nome e aparência\n🔹 Skin de qualquer jogador, basta digitar o nome de usuário\n🔹 Animação e emote que dá pra tocar, deixar em repetição ou limpar quando quiser\n🔹 Abas separadas de comportamento, interação, profissão e horário, então o NPC patrulha, guarda, corta lenha ou entrega missão\n🔹 Varinha de posicionamento pra criar rápido e marcador no mapa do mundo\n\n📷 RedStoner\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE\n\nO QuestLines Denizens é um sistema completo de NPC que roda no motor nativo do jogo, sem precisar de plugin de terceiro. Você cria o personagem por um editor dentro do jogo e ele passa a viver na sua cidade.\n\n🔹 Mais de 340 modelos prontos de NPC pra escolher\n🔹 Controle de equipamento, arma na mão, escala, plaquinha de nome e aparência\n🔹 Skin de qualquer jogador, basta digitar o nome de usuário\n🔹 Animação e emote que dá pra tocar, deixar em repetição ou limpar quando quiser\n🔹 Abas separadas de comportamento, interação, profissão e horário, então o NPC patrulha, guarda, corta lenha ou entrega missão\n🔹 Varinha de posicionamento pra criar rápido e marcador no mapa do mundo\n\n📷 RedStoner\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/questlines-denizens",
+          "arquivos": [
+            "midia/curseforge/denizens/1.jpg",
+            "midia/curseforge/denizens/2.jpg",
+            "midia/curseforge/denizens/3.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc205_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc205_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc205_3.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-29",
+          "arquivosTwitter": [
+            "02-1500-rc205-1.jpg",
+            "02-1500-rc205-2.jpg",
+            "02-1500-rc205-3.jpg"
+          ],
+          "tipo": "carrossel",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687111483417442"
         },
         {
           "hora": "19:00",
@@ -1685,8 +1759,12 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc202_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-29",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "03-1900-rc202-1.png",
+            "03-1900-rc202-2.png",
+            "03-1900-rc202-3.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -1695,7 +1773,7 @@
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687110570084200"
         }
       ],
-      "total": 2
+      "total": 3
     },
     {
       "dia": "2026-08-28",
