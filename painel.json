@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T03:59:37.259Z",
+  "geradoEm": "2026-08-25T21:46:24.838Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 199,
+      "n": 211,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 84,
+      "n": 96,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 77,
+      "n": 89,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 29,
+      "n": 41,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 33,
+      "n": 45,
       "quem": "código"
     }
   ],
@@ -537,6 +537,93 @@
   "grade": [
     {
       "hora": "19:00",
+      "data": "2026-08-28",
+      "id": "rc208",
+      "rede": "facebook",
+      "titulo": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE",
+      "textoMeta": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/hyphone",
+      "arquivos": [
+        "midia/curseforge/hyphone/1.png",
+        "midia/curseforge/hyphone/2.png",
+        "midia/curseforge/hyphone/3.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc208_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc208_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc208_3.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687109566750967"
+    },
+    {
+      "hora": "15:00",
+      "data": "2026-08-28",
+      "id": "rc201",
+      "rede": "facebook",
+      "titulo": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO",
+      "textoMeta": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/kweebec-origins",
+      "arquivos": [
+        "midia/curseforge/kweebec/1.png",
+        "midia/curseforge/kweebec/2.jpg",
+        "midia/curseforge/kweebec/3.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc201_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc201_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc201_3.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687109456750978"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-08-28",
+      "id": "rc200",
+      "rede": "facebook",
+      "titulo": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO",
+      "textoMeta": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO\n\nO Tales of Shinobi é feito por um dev brasileiro e traz ninjutsu pro jogo. Você carrega chakra segurando CTRL e executa o jutsu fazendo a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Bola de Fogo sai na sequência esquerdo, esquerdo, F, e explode no impacto\n🔹 Clone das Sombras sai em esquerdo, F, esquerdo, e cria cópias pra confundir o inimigo\n🔹 Painel de status com Vitalidade, Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar nos quatro espaços de combo\n🔹 Tem sistema de clã e de elemento por personagem\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO\n\nO Tales of Shinobi é feito por um dev brasileiro e traz ninjutsu pro jogo. Você carrega chakra segurando CTRL e executa o jutsu fazendo a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Bola de Fogo sai na sequência esquerdo, esquerdo, F, e explode no impacto\n🔹 Clone das Sombras sai em esquerdo, F, esquerdo, e cria cópias pra confundir o inimigo\n🔹 Painel de status com Vitalidade, Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar nos quatro espaços de combo\n🔹 Tem sistema de clã e de elemento por personagem\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.curseforge.com/hytale/mods/tales-of-shinobi",
+      "arquivos": [
+        "midia/curseforge/shinobi/2.png",
+        "midia/curseforge/shinobi/1.png",
+        "midia/curseforge/shinobi/3.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc200_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc200_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc200_3.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687109330084324"
+    },
+    {
+      "hora": "19:00",
       "data": "2026-08-27",
       "id": "rc198",
       "rede": "facebook",
@@ -750,7 +837,7 @@
         "02-1500-rc193-3.png"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -775,7 +862,7 @@
         "01-1230-rc187.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": 80,
       "engajamento": 78,
       "categoria": "MOD",
@@ -811,10 +898,7 @@
       "textoMeta": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/RedGindew/status/2091619293901275147",
-      "arquivos": [
-        "midia/twitter/rc185-1.jpg",
-        "midia/twitter/rc185-2.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc185_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc185_2.jpg"
@@ -841,11 +925,7 @@
       "textoMeta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
-      "arquivos": [
-        "midia/curseforge/bluestone/rc190-1.jpg",
-        "midia/curseforge/bluestone/rc190-2.jpg",
-        "midia/curseforge/bluestone/rc190-3.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc190_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc190_2.jpg",
@@ -874,9 +954,7 @@
       "textoMeta": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/GibsonHougland/status/2091611054086488557",
-      "arquivos": [
-        "midia/twitter/rc184.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc184.mp4"
       ],
@@ -1506,6 +1584,99 @@
   ],
   "diasGrade": [
     {
+      "dia": "2026-08-28",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-08-28",
+          "id": "rc200",
+          "rede": "facebook",
+          "titulo": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO",
+          "textoMeta": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO\n\nO Tales of Shinobi é feito por um dev brasileiro e traz ninjutsu pro jogo. Você carrega chakra segurando CTRL e executa o jutsu fazendo a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Bola de Fogo sai na sequência esquerdo, esquerdo, F, e explode no impacto\n🔹 Clone das Sombras sai em esquerdo, F, esquerdo, e cria cópias pra confundir o inimigo\n🔹 Painel de status com Vitalidade, Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar nos quatro espaços de combo\n🔹 Tem sistema de clã e de elemento por personagem\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO\n\nO Tales of Shinobi é feito por um dev brasileiro e traz ninjutsu pro jogo. Você carrega chakra segurando CTRL e executa o jutsu fazendo a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Bola de Fogo sai na sequência esquerdo, esquerdo, F, e explode no impacto\n🔹 Clone das Sombras sai em esquerdo, F, esquerdo, e cria cópias pra confundir o inimigo\n🔹 Painel de status com Vitalidade, Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar nos quatro espaços de combo\n🔹 Tem sistema de clã e de elemento por personagem\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/tales-of-shinobi",
+          "arquivos": [
+            "midia/curseforge/shinobi/2.png",
+            "midia/curseforge/shinobi/1.png",
+            "midia/curseforge/shinobi/3.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc200_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc200_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc200_3.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687109330084324"
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-08-28",
+          "id": "rc201",
+          "rede": "facebook",
+          "titulo": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO",
+          "textoMeta": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/kweebec-origins",
+          "arquivos": [
+            "midia/curseforge/kweebec/1.png",
+            "midia/curseforge/kweebec/2.jpg",
+            "midia/curseforge/kweebec/3.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc201_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc201_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc201_3.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687109456750978"
+        },
+        {
+          "hora": "19:00",
+          "data": "2026-08-28",
+          "id": "rc208",
+          "rede": "facebook",
+          "titulo": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE",
+          "textoMeta": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.curseforge.com/hytale/mods/hyphone",
+          "arquivos": [
+            "midia/curseforge/hyphone/1.png",
+            "midia/curseforge/hyphone/2.png",
+            "midia/curseforge/hyphone/3.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc208_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc208_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc208_3.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687109566750967"
+        }
+      ],
+      "total": 3
+    },
+    {
       "dia": "2026-08-27",
       "posts": [
         {
@@ -1722,7 +1893,7 @@
             "01-1230-rc187.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": 80,
           "engajamento": 78,
           "categoria": "MOD",
@@ -1751,7 +1922,7 @@
             "02-1500-rc193-3.png"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -1802,9 +1973,7 @@
           "textoMeta": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎪 DÁ PRA APOSTAR EM CORRIDA DE PORCO E ENCARAR UM GOBLIN GIGANTE NESSE MOD DE FESTIVAL\n\nO mod Aetherhaven, chamado Festivals of Orbis, chega dia 24 de agosto. É um mod de festival completo, com decoração própria e minigames pra jogar dentro do evento.\n\n🔹 Corrida de porco com aposta em ficha, quem ganha troca por ingresso do festival de primavera\n🔹 Minigame de bater no goblin que salta pra fora da barraca\n🔹 Arcos de planta, tendas e outros props só pra decorar o evento\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/GibsonHougland/status/2091611054086488557",
-          "arquivos": [
-            "midia/twitter/rc184.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc184.mp4"
           ],
@@ -1829,11 +1998,7 @@
           "textoMeta": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔌 TEM REDSTONE DE VERDADE NO HYTALE AGORA, COM FIO, PISTÃO E CARRINHO AUTOMÁTICO\n\nUm mod recria o sistema de redstone inteiro dentro do Hytale. Tem fio que carrega sinal, alavanca, botão, sensor de pressão, pistão, observador, contador de pulso e até trilho com carrinho automático que anda sozinho.\n\n🔹 Fio de sinal com até 15 blocos de alcance, e dá pra levar o sinal através de parede sólida\n🔹 Pistão, pistão grudento, porta e lâmpada ligados por sinal, igual redstone de verdade\n🔹 Trilho com carrinho que roda sozinho, sem precisar de ninguém dentro\n\n🔧 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/glymerabluestone",
-          "arquivos": [
-            "midia/curseforge/bluestone/rc190-1.jpg",
-            "midia/curseforge/bluestone/rc190-2.jpg",
-            "midia/curseforge/bluestone/rc190-3.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc190_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc190_2.jpg",
@@ -1862,10 +2027,7 @@
           "textoMeta": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎒 MOCHILA, ARMÁRIO E PORTA COM JANELA CHEGAM EM UM PACOTE DE ITENS DE ESCOLA\n\nO modder Gindew, parceiro oficial do Hytale, lançou o School Life Set. É um pacote de itens de decoração com tema de escola, cada um com descrição bem-humorada, tipo o bebedouro que brinca com o próprio nome do jogo.\n\n🔹 Armário, mochila e porta de sala com janela, pra pensar duas vezes antes de entrar\n🔹 Mesa, cadeiras, quadro-negro, caderno e bebedouro\n\n🔧 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/RedGindew/status/2091619293901275147",
-          "arquivos": [
-            "midia/twitter/rc185-1.jpg",
-            "midia/twitter/rc185-2.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc185_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc185_2.jpg"
@@ -2597,13 +2759,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 199,
+    "coletadosTotal": 211,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 115,
     "rejeitadosMemoria": 7,
-    "escritos": 44,
-    "agendados": 33,
+    "escritos": 56,
+    "agendados": 45,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -2659,7 +2821,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5935,
+      "seguidores": 5937,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -2667,8 +2829,8 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6035,
-      "totalPosts": 263,
+      "seguidores": 6032,
+      "totalPosts": 265,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
       "mediaCurtidas": 118,
@@ -2700,7 +2862,7 @@
       },
       {
         "titulo": "🔴 SAIU UM MOD DE POKÉMON PRO HYTALE",
-        "curtidas": 574,
+        "curtidas": 573,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-07-25T18:04:12+0000",
@@ -2724,7 +2886,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 384,
+        "curtidas": 385,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
@@ -2742,8 +2904,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-17T14:40:25+0000",
-      "ate": "2026-08-24T20:36:36+0000"
+      "de": "2026-07-17T15:13:31+0000",
+      "ate": "2026-08-25T18:52:03+0000"
     },
     "serie": [
       {

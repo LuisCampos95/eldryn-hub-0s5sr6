@@ -6,6 +6,259 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc211",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "🍈",
+      "titulo": "[MOD] AS AKUMA NO MI CHEGARAM AO JOGO, E QUEM COME NUNCA MAIS NADA",
+      "fonte": "https://www.curseforge.com/hytale/mods/one-piece-devil-fruits",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "texto",
+          "url": "https://www.curseforge.com/hytale/mods/one-piece-devil-fruits",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": []
+      },
+      "twitter": "🍈 AS AKUMA NO MI CHEGARAM AO JOGO, E QUEM COME NUNCA MAIS CONSEGUE NADAR\n\nUm mod colocou as frutas do diabo de One Piece no Hytale. Elas aparecem em baú com cerca de 2% de chance, você segura e usa pra comer, e o poder fica com aquele personagem pra sempre.\n\n🔹 Gomu Gomu, do Luffy, faz bala quicar em você e estica o soco e a picareta pra longe\n🔹 Tori Tori modelo Falcão, do Pell, deixa voar, pulando pra subir e agachando pra descer\n🔹 Bara Bara, do Buggy, faz espada atravessar você e deixa o pulo planar mais\n🔹 Yami Yami, do Barba Negra, abre um buraco negro ao agachar e anula o poder de quem você encosta\n🔹 Gura Gura, do Barba Branca, solta onda de choque no soco\n🔹 Água é fatal pra todo usuário de fruta, você afunda igual pedra\n🔹 Tem o Flame Striker, barco a jato de fogo craftável que só usuário da Mera Mera consegue pilotar\n\nO mod é feito por fã e não tem ligação com a obra oficial.\n\n🔧 Noperjr\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🍈 AS AKUMA NO MI CHEGARAM AO JOGO, E QUEM COME NUNCA MAIS CONSEGUE NADAR\n\nUm mod colocou as frutas do diabo de One Piece no Hytale. Elas aparecem em baú com cerca de 2% de chance, você segura e usa pra comer, e o poder fica com aquele personagem pra sempre.\n\n🔹 Gomu Gomu, do Luffy, faz bala quicar em você e estica o soco e a picareta pra longe\n🔹 Tori Tori modelo Falcão, do Pell, deixa voar, pulando pra subir e agachando pra descer\n🔹 Bara Bara, do Buggy, faz espada atravessar você e deixa o pulo planar mais\n🔹 Yami Yami, do Barba Negra, abre um buraco negro ao agachar e anula o poder de quem você encosta\n🔹 Gura Gura, do Barba Branca, solta onda de choque no soco\n🔹 Água é fatal pra todo usuário de fruta, você afunda igual pedra\n🔹 Tem o Flame Striker, barco a jato de fogo craftável que só usuário da Mera Mera consegue pilotar\n\nO mod é feito por fã e não tem ligação com a obra oficial.\n\n🔧 Noperjr\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc210",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "🏗️",
+      "titulo": "[MOD] TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD",
+      "fonte": "https://www.curseforge.com/hytale/mods/machine-blocks",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/machine-blocks",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/factory/2.png",
+              "midia/curseforge/factory/1.png",
+              "midia/curseforge/factory/3.png"
+          ]
+      },
+      "twitter": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA\n\nO Machine Blocks traz progressão de tecnologia por descoberta em níveis. Cada máquina ocupa um bloco só nos modos normal e fácil, então dá pra empilhar dezenas delas em painel.\n\n🔹 Fornalha, triturador, plantador, minerador, liga metálica e gerador de energia\n🔹 Tanque de gás e turbina em multibloco nos níveis mais altos\n🔹 Gerenciador de fábrica com página de automação e de tendências, mostrando ganho e perda de cada item\n🔹 O nível 3 de combustível já sustenta todas as máquinas e qualquer plantação ao mesmo tempo\n\n📷 Aipoc76\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🏗️ TEM GENTE MONTANDO FÁBRICA DE PAREDE INTEIRA DE MÁQUINA NESSE MOD DE TECNOLOGIA\n\nO Machine Blocks traz progressão de tecnologia por descoberta em níveis. Cada máquina ocupa um bloco só nos modos normal e fácil, então dá pra empilhar dezenas delas em painel.\n\n🔹 Fornalha, triturador, plantador, minerador, liga metálica e gerador de energia\n🔹 Tanque de gás e turbina em multibloco nos níveis mais altos\n🔹 Gerenciador de fábrica com página de automação e de tendências, mostrando ganho e perda de cada item\n🔹 O nível 3 de combustível já sustenta todas as máquinas e qualquer plantação ao mesmo tempo\n\n📷 Aipoc76\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc209",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "🎰",
+      "titulo": "[MOD] CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO, COM MODELO MEDIEVAL",
+      "fonte": "https://www.curseforge.com/hytale/mods/zeto-gambling",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/zeto-gambling",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/casino/1.png",
+              "midia/curseforge/casino/2.png"
+          ]
+      },
+      "twitter": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL\n\nO ZetoGambling põe máquina de cassino no servidor, com a estética certa pro jogo. São feitas de madeira, ferro forjado, latão e runa decorativa, e mantêm animação própria de alavanca, rolo e garra.\n\n🔹 Caça-níquel e máquina de garra, as duas funcionais\n🔹 A recompensa é configurada dentro do jogo, sem mexer em arquivo\n🔹 Aceita item como prêmio e também comando de console\n🔹 Mudança vale na hora, sem precisar reiniciar o servidor\n🔹 Receita de craft opcional pra cada máquina\n\n📷 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🎰 CAÇA-NÍQUEL E MÁQUINA DE GARRA FUNCIONANDO DE VERDADE, COM MODELO MEDIEVAL\n\nO ZetoGambling põe máquina de cassino no servidor, com a estética certa pro jogo. São feitas de madeira, ferro forjado, latão e runa decorativa, e mantêm animação própria de alavanca, rolo e garra.\n\n🔹 Caça-níquel e máquina de garra, as duas funcionais\n🔹 A recompensa é configurada dentro do jogo, sem mexer em arquivo\n🔹 Aceita item como prêmio e também comando de console\n🔹 Mudança vale na hora, sem precisar reiniciar o servidor\n🔹 Receita de craft opcional pra cada máquina\n\n📷 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc208",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "📱",
+      "titulo": "[MOD] AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO E LIGAÇÃO POR VOZ",
+      "fonte": "https://www.curseforge.com/hytale/mods/hyphone",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/hyphone",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/hyphone/1.png",
+              "midia/curseforge/hyphone/2.png",
+              "midia/curseforge/hyphone/3.png"
+          ]
+      },
+      "twitter": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc207",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "🏘️",
+      "titulo": "[MOD] MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME EM LETRA DOURADA NA BORDA",
+      "fonte": "https://www.curseforge.com/hytale/mods/glymeraplotworld",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/glymeraplotworld",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/plotworld/1.jpg",
+              "midia/curseforge/plotworld/2.jpg",
+              "midia/curseforge/plotworld/3.jpg"
+          ]
+      },
+      "twitter": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA\n\nQuem já jogou em servidor de construção conhece o formato. O GlymeraPlotWorld transforma um mundo plano em uma grade de lotes quadrados separados por rua, cada jogador pega o seu e ninguém mexe sem permissão.\n\n🔹 Cada lote reivindicado escreve o nome do dono em bloco de letra dourada na borda\n🔹 Dá pra juntar lotes em qualquer formato, linha, L, T e até anel\n🔹 Clima e horário próprios por lote, então dá pra ter noite no seu enquanto é dia no do vizinho\n🔹 Confiança, banimento e permissão de visitante controlados pelo dono\n🔹 Cerca contra criatura, contenção de líquido e rua indestrutível\n🔹 Você decora UMA peça de rua em um mundo de oficina e o desenho vale pra todas as ruas do mundo inteiro\n🔹 Borda desce até a bedrock, com cerca de 100 estilos pra escolher\n\n📷 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🏘️ MUNDO DE LOTES CHEGOU AO JOGO, COM SEU NOME ESCRITO EM LETRA DOURADA NA BORDA\n\nQuem já jogou em servidor de construção conhece o formato. O GlymeraPlotWorld transforma um mundo plano em uma grade de lotes quadrados separados por rua, cada jogador pega o seu e ninguém mexe sem permissão.\n\n🔹 Cada lote reivindicado escreve o nome do dono em bloco de letra dourada na borda\n🔹 Dá pra juntar lotes em qualquer formato, linha, L, T e até anel\n🔹 Clima e horário próprios por lote, então dá pra ter noite no seu enquanto é dia no do vizinho\n🔹 Confiança, banimento e permissão de visitante controlados pelo dono\n🔹 Cerca contra criatura, contenção de líquido e rua indestrutível\n🔹 Você decora UMA peça de rua em um mundo de oficina e o desenho vale pra todas as ruas do mundo inteiro\n🔹 Borda desce até a bedrock, com cerca de 100 estilos pra escolher\n\n📷 GlymeraCraft\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc206",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "🔮",
+      "titulo": "[MOD] O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS",
+      "fonte": "https://www.curseforge.com/hytale/mods/endless-warlock",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "imagem",
+          "url": "https://www.curseforge.com/hytale/mods/endless-warlock",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/warlock/2.png"
+          ]
+      },
+      "twitter": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS\n\nUm modder está soltando classe atrás de classe pro Endless Leveling, o mod de progressão de personagem mais usado do jogo. Cada uma vem com habilidade própria, árvore de caminho e passiva.\n\n🔹 Bruxo, que invoca companheiro do Void, rouba vida e escala dano com cajado\n🔹 Cavaleiro da Morte, com gelo, morte e mortos-vivos\n🔹 Xamã, focado em totem elemental, suporte e controle de área\n🔹 Caçador de Demônios, rápido e agressivo, com asa demoníaca e dano em área\n🔹 Paladino, com duas habilidades novas de classe\n🔹 Assassino, que ganhou furtividade\n\n📷 DerFriesn\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔮 O ENDLESS LEVELING GANHOU SEIS CLASSES NOVAS EM POUCAS SEMANAS\n\nUm modder está soltando classe atrás de classe pro Endless Leveling, o mod de progressão de personagem mais usado do jogo. Cada uma vem com habilidade própria, árvore de caminho e passiva.\n\n🔹 Bruxo, que invoca companheiro do Void, rouba vida e escala dano com cajado\n🔹 Cavaleiro da Morte, com gelo, morte e mortos-vivos\n🔹 Xamã, focado em totem elemental, suporte e controle de área\n🔹 Caçador de Demônios, rápido e agressivo, com asa demoníaca e dano em área\n🔹 Paladino, com duas habilidades novas de classe\n🔹 Assassino, que ganhou furtividade\n\n📷 DerFriesn\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc205",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "🧑‍🌾",
+      "titulo": "[MOD] DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO",
+      "fonte": "https://www.curseforge.com/hytale/mods/questlines-denizens",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/questlines-denizens",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/denizens/1.jpg",
+              "midia/curseforge/denizens/2.jpg",
+              "midia/curseforge/denizens/3.jpg"
+          ]
+      },
+      "twitter": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE\n\nO QuestLines Denizens é um sistema completo de NPC que roda no motor nativo do jogo, sem precisar de plugin de terceiro. Você cria o personagem por um editor dentro do jogo e ele passa a viver na sua cidade.\n\n🔹 Mais de 340 modelos prontos de NPC pra escolher\n🔹 Controle de equipamento, arma na mão, escala, plaquinha de nome e aparência\n🔹 Skin de qualquer jogador, basta digitar o nome de usuário\n🔹 Animação e emote que dá pra tocar, deixar em repetição ou limpar quando quiser\n🔹 Abas separadas de comportamento, interação, profissão e horário, então o NPC patrulha, guarda, corta lenha ou entrega missão\n🔹 Varinha de posicionamento pra criar rápido e marcador no mapa do mundo\n\n📷 RedStoner\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🧑‍🌾 DÁ PRA COLOCAR UM NPC COM A SKIN DE QUALQUER JOGADOR SÓ DIGITANDO O NICK DELE\n\nO QuestLines Denizens é um sistema completo de NPC que roda no motor nativo do jogo, sem precisar de plugin de terceiro. Você cria o personagem por um editor dentro do jogo e ele passa a viver na sua cidade.\n\n🔹 Mais de 340 modelos prontos de NPC pra escolher\n🔹 Controle de equipamento, arma na mão, escala, plaquinha de nome e aparência\n🔹 Skin de qualquer jogador, basta digitar o nome de usuário\n🔹 Animação e emote que dá pra tocar, deixar em repetição ou limpar quando quiser\n🔹 Abas separadas de comportamento, interação, profissão e horário, então o NPC patrulha, guarda, corta lenha ou entrega missão\n🔹 Varinha de posicionamento pra criar rápido e marcador no mapa do mundo\n\n📷 RedStoner\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc204",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "💎",
+      "titulo": "[MOD] AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA",
+      "fonte": "https://www.curseforge.com/hytale/mods/tajis-crystal-lamps",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "imagem",
+          "url": "https://www.curseforge.com/hytale/mods/tajis-crystal-lamps",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/lamps/1.png"
+          ]
+      },
+      "twitter": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD\n\nO Taji's Crystal Lamps aproveita os cacos de cristal que caem de bicho e de mineração pra criar blocos de luminária. Cada cor de cristal que existe no jogo vira uma lâmpada própria.\n\n🔹 A receita é simples, só giz e caco, tudo na bancada de móveis\n🔹 Dá pra fazer no modo sobrevivência, sem depender do criativo\n🔹 O mod ainda adiciona um recurso intermediário pra facilitar montar lâmpada de qualquer cor de caco\n🔹 Serve tanto pra iluminar quanto pra decorar parede e teto\n\n🔧 tajiri_yabi\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "💎 AQUELE CACO DE CRISTAL QUE SOBRA NO BAÚ VIRA LUMINÁRIA COLORIDA NESSE MOD\n\nO Taji's Crystal Lamps aproveita os cacos de cristal que caem de bicho e de mineração pra criar blocos de luminária. Cada cor de cristal que existe no jogo vira uma lâmpada própria.\n\n🔹 A receita é simples, só giz e caco, tudo na bancada de móveis\n🔹 Dá pra fazer no modo sobrevivência, sem depender do criativo\n🔹 O mod ainda adiciona um recurso intermediário pra facilitar montar lâmpada de qualquer cor de caco\n🔹 Serve tanto pra iluminar quanto pra decorar parede e teto\n\n🔧 tajiri_yabi\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc203",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "⚡",
+      "titulo": "[MOD] CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR",
+      "fonte": "https://www.curseforge.com/hytale/mods/metin-reforging",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "imagem",
+          "url": "https://www.curseforge.com/hytale/mods/metin-reforging",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/metin/1.png"
+          ]
+      },
+      "twitter": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM\n\nQuem jogou MMO antigo vai reconhecer na hora. O MetinReforge põe um ferreiro no jogo que refina sua arma ou armadura de +0 até +9, cobrando dinheiro e material a cada tentativa.\n\n🔹 Quanto mais alto o refino, menor a chance de dar certo, então cada tentativa pesa mais\n🔹 Item de sorte aumenta a chance de sucesso da tentativa\n🔹 Talismã de proteção evita que o equipamento seja destruído quando o refino falha\n🔹 Feito pensando em servidor de RPG e economia, onde vale a pena farmar pra tentar de novo\n\n🔧 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "⚡ CHEGOU O REFINO DE +0 A +9, COM PEDRA DE UPGRADE E RISCO DE QUEBRAR O ITEM\n\nQuem jogou MMO antigo vai reconhecer na hora. O MetinReforge põe um ferreiro no jogo que refina sua arma ou armadura de +0 até +9, cobrando dinheiro e material a cada tentativa.\n\n🔹 Quanto mais alto o refino, menor a chance de dar certo, então cada tentativa pesa mais\n🔹 Item de sorte aumenta a chance de sucesso da tentativa\n🔹 Talismã de proteção evita que o equipamento seja destruído quando o refino falha\n🔹 Feito pensando em servidor de RPG e economia, onde vale a pena farmar pra tentar de novo\n\n🔧 Zeto_Glitch\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc202",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "🪐",
+      "titulo": "[MOD] OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO",
+      "fonte": "https://www.curseforge.com/hytale/mods/alterverse-orbs",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/alterverse-orbs",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/alterverse/1.png",
+              "midia/curseforge/alterverse/2.png",
+              "midia/curseforge/alterverse/3.png"
+          ]
+      },
+      "twitter": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc201",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "🌳",
+      "titulo": "[MOD] RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO",
+      "fonte": "https://www.curseforge.com/hytale/mods/kweebec-origins",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/kweebec-origins",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/kweebec/1.png",
+              "midia/curseforge/kweebec/2.jpg",
+              "midia/curseforge/kweebec/3.png"
+          ]
+      },
+      "twitter": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc200",
+      "rodada": "2026-08-25 04:30",
+      "emoji": "🍥",
+      "titulo": "[MOD] BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE",
+      "fonte": "https://www.curseforge.com/hytale/mods/tales-of-shinobi",
+      "fonteData": "2026-08-25",
+      "confiabilidade": "comunidade",
+      "resumo": "Passou pela Redacao: varredura do CurseForge, checado contra fontes_publicadas. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/tales-of-shinobi",
+          "nota": "Gerado pela Redacao. Fonte curseforge.",
+          "arquivos": [
+              "midia/curseforge/shinobi/2.png",
+              "midia/curseforge/shinobi/1.png",
+              "midia/curseforge/shinobi/3.png"
+          ]
+      },
+      "twitter": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO\n\nO Tales of Shinobi é feito por um dev brasileiro e traz ninjutsu pro jogo. Você carrega chakra segurando CTRL e executa o jutsu fazendo a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Bola de Fogo sai na sequência esquerdo, esquerdo, F, e explode no impacto\n🔹 Clone das Sombras sai em esquerdo, F, esquerdo, e cria cópias pra confundir o inimigo\n🔹 Painel de status com Vitalidade, Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar nos quatro espaços de combo\n🔹 Tem sistema de clã e de elemento por personagem\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🍥 BRASILEIRO ESTÁ FAZENDO UM MOD DE NINJA COM SELO DE MÃO E BOLA DE FOGO\n\nO Tales of Shinobi é feito por um dev brasileiro e traz ninjutsu pro jogo. Você carrega chakra segurando CTRL e executa o jutsu fazendo a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Bola de Fogo sai na sequência esquerdo, esquerdo, F, e explode no impacto\n🔹 Clone das Sombras sai em esquerdo, F, esquerdo, e cria cópias pra confundir o inimigo\n🔹 Painel de status com Vitalidade, Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar nos quatro espaços de combo\n🔹 Tem sistema de clã e de elemento por personagem\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc199",
       "rodada": "2026-08-24 18:15",
       "emoji": "💬",
