@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T21:52:06.565Z",
+  "geradoEm": "2026-08-26T22:15:58.356Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 211,
+      "n": 212,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 96,
+      "n": 97,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 89,
+      "n": 90,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 41,
+      "n": 42,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 45,
+      "n": 46,
       "quem": "código"
     }
   ],
@@ -944,6 +944,26 @@
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1685700740225183"
     },
     {
+      "hora": "12:00",
+      "data": "2026-08-27",
+      "id": "rc212",
+      "rede": "twitter",
+      "titulo": "🚀 O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA",
+      "textoMeta": "🚀 O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA\n\nDepois de três meses saindo aos pedaços no pre-release, o Update 6 chegou completo pra todo mundo. É só abrir o launcher e atualizar.\n\n🔹 Navegador de mods dentro do próprio jogo, no menu principal, com busca, filtro por categoria, print e instalação sem sair do Hytale\n🔹 Modo Hardcore com cinco variações, incluindo o Nine Lives, onde o grupo divide nove vidas e a nona morte encerra a run de todo mundo\n🔹 Modo Espectador oficial, com comando pra assistir, mirar ou ficar livre\n🔹 Conexão nova por servidor de retransmissão, então quem não conseguia entrar no mundo do amigo por causa do tipo de NAT agora entra sem depender de programa externo\n🔹 Ferramenta de construção aguentando seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Colisão sólida em entidade, dá pra subir em cima e usar como plataforma ou obstáculo de verdade\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha, sem precisar de operador pra arrumar na mão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🚀 O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA\n\nDepois de três meses saindo aos pedaços no pre-release, o Update 6 chegou completo pra todo mundo. É só abrir o launcher e atualizar.\n\n🔹 Navegador de mods dentro do próprio jogo, no menu principal, com busca, filtro por categoria, print e instalação sem sair do Hytale\n🔹 Modo Hardcore com cinco variações, incluindo o Nine Lives, onde o grupo divide nove vidas e a nona morte encerra a run de todo mundo\n🔹 Modo Espectador oficial, com comando pra assistir, mirar ou ficar livre\n🔹 Conexão nova por servidor de retransmissão, então quem não conseguia entrar no mundo do amigo por causa do tipo de NAT agora entra sem depender de programa externo\n🔹 Ferramenta de construção aguentando seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Colisão sólida em entidade, dá pra subir em cima e usar como plataforma ou obstáculo de verdade\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha, sem precisar de operador pra arrumar na mão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6#update-6-lancamento",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
       "hora": "19:00",
       "data": "2026-08-26",
       "id": "rc196",
@@ -963,7 +983,7 @@
         "03-1900-rc196-2.png"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -992,7 +1012,7 @@
         "02-1500-rc195-3.jpg"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -1017,7 +1037,7 @@
         "01-1230-rc191.png"
       ],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -1050,7 +1070,7 @@
         "03-1900-rc194-3.png"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -2184,6 +2204,26 @@
       "dia": "2026-08-27",
       "posts": [
         {
+          "hora": "12:00",
+          "data": "2026-08-27",
+          "id": "rc212",
+          "rede": "twitter",
+          "titulo": "🚀 O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA",
+          "textoMeta": "🚀 O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA\n\nDepois de três meses saindo aos pedaços no pre-release, o Update 6 chegou completo pra todo mundo. É só abrir o launcher e atualizar.\n\n🔹 Navegador de mods dentro do próprio jogo, no menu principal, com busca, filtro por categoria, print e instalação sem sair do Hytale\n🔹 Modo Hardcore com cinco variações, incluindo o Nine Lives, onde o grupo divide nove vidas e a nona morte encerra a run de todo mundo\n🔹 Modo Espectador oficial, com comando pra assistir, mirar ou ficar livre\n🔹 Conexão nova por servidor de retransmissão, então quem não conseguia entrar no mundo do amigo por causa do tipo de NAT agora entra sem depender de programa externo\n🔹 Ferramenta de construção aguentando seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Colisão sólida em entidade, dá pra subir em cima e usar como plataforma ou obstáculo de verdade\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha, sem precisar de operador pra arrumar na mão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🚀 O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA\n\nDepois de três meses saindo aos pedaços no pre-release, o Update 6 chegou completo pra todo mundo. É só abrir o launcher e atualizar.\n\n🔹 Navegador de mods dentro do próprio jogo, no menu principal, com busca, filtro por categoria, print e instalação sem sair do Hytale\n🔹 Modo Hardcore com cinco variações, incluindo o Nine Lives, onde o grupo divide nove vidas e a nona morte encerra a run de todo mundo\n🔹 Modo Espectador oficial, com comando pra assistir, mirar ou ficar livre\n🔹 Conexão nova por servidor de retransmissão, então quem não conseguia entrar no mundo do amigo por causa do tipo de NAT agora entra sem depender de programa externo\n🔹 Ferramenta de construção aguentando seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Colisão sólida em entidade, dá pra subir em cima e usar como plataforma ou obstáculo de verdade\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha, sem precisar de operador pra arrumar na mão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6#update-6-lancamento",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
           "hora": "12:30",
           "data": "2026-08-27",
           "id": "rc192",
@@ -2267,7 +2307,7 @@
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1686033966858527"
         }
       ],
-      "total": 3
+      "total": 4
     },
     {
       "dia": "2026-08-26",
@@ -2290,7 +2330,7 @@
             "01-1230-rc191.png"
           ],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2319,7 +2359,7 @@
             "02-1500-rc195-3.jpg"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2346,7 +2386,7 @@
             "03-1900-rc196-2.png"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2465,7 +2505,7 @@
             "03-1900-rc194-3.png"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -3273,13 +3313,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 211,
+    "coletadosTotal": 212,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 115,
     "rejeitadosMemoria": 7,
-    "escritos": 56,
-    "agendados": 45,
+    "escritos": 57,
+    "agendados": 46,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -3292,7 +3332,7 @@
   "twitterHoje": {
     "total": 3,
     "feitos": 0,
-    "data": "2026-08-25"
+    "data": "2026-08-26"
   },
   "custos": {
     "infraMensal": 0,
@@ -3335,7 +3375,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5937,
+      "seguidores": 5935,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -3343,11 +3383,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6032,
-      "totalPosts": 265,
+      "seguidores": 6034,
+      "totalPosts": 268,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 118,
+      "mediaCurtidas": 116,
       "amostra": 100
     },
     "twitter": {
@@ -3376,7 +3416,7 @@
       },
       {
         "titulo": "🔴 SAIU UM MOD DE POKÉMON PRO HYTALE",
-        "curtidas": 573,
+        "curtidas": 574,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-07-25T18:04:12+0000",
@@ -3400,26 +3440,26 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 385,
+        "curtidas": 387,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
         "link": "https://www.instagram.com/reel/Db4CWbPjNy5/"
       },
       {
-        "titulo": "👻 A transparência nova do Hytale também vai valer pra NPCs e entidade",
-        "curtidas": 342,
-        "comentarios": 8,
-        "tipo": "video",
-        "quando": "2026-07-17T20:33:36+0000",
-        "link": "https://www.instagram.com/reel/Da6FTaGCcGC/"
+        "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
+        "curtidas": 374,
+        "comentarios": 3,
+        "tipo": "carousel_album",
+        "quando": "2026-08-18T20:32:50+0000",
+        "link": "https://www.instagram.com/p/DcMerMem80F/"
       }
     ],
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-17T15:13:31+0000",
-      "ate": "2026-08-25T18:52:03+0000"
+      "de": "2026-07-17T15:17:07+0000",
+      "ate": "2026-08-26T18:24:15+0000"
     },
     "serie": [
       {

@@ -6,6 +6,23 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc212",
+      "rodada": "2026-08-26 22:20",
+      "emoji": "🚀",
+      "titulo": "[SITE] O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA",
+      "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6#update-6-lancamento",
+      "fonteData": "2026-08-27",
+      "confiabilidade": "oficial",
+      "resumo": "Post de lancamento do Update 6, so Twitter, sem midia. Escrito na vespera pra postar depois do lancamento confirmado.",
+      "midia": {
+          "tipo": "texto",
+          "url": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6#update-6-lancamento",
+          "nota": "Sem midia."
+      },
+      "twitter": "🚀 O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA\n\nDepois de três meses saindo aos pedaços no pre-release, o Update 6 chegou completo pra todo mundo. É só abrir o launcher e atualizar.\n\n🔹 Navegador de mods dentro do próprio jogo, no menu principal, com busca, filtro por categoria, print e instalação sem sair do Hytale\n🔹 Modo Hardcore com cinco variações, incluindo o Nine Lives, onde o grupo divide nove vidas e a nona morte encerra a run de todo mundo\n🔹 Modo Espectador oficial, com comando pra assistir, mirar ou ficar livre\n🔹 Conexão nova por servidor de retransmissão, então quem não conseguia entrar no mundo do amigo por causa do tipo de NAT agora entra sem depender de programa externo\n🔹 Ferramenta de construção aguentando seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Colisão sólida em entidade, dá pra subir em cima e usar como plataforma ou obstáculo de verdade\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha, sem precisar de operador pra arrumar na mão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🚀 O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA\n\nDepois de três meses saindo aos pedaços no pre-release, o Update 6 chegou completo pra todo mundo. É só abrir o launcher e atualizar.\n\n🔹 Navegador de mods dentro do próprio jogo, no menu principal, com busca, filtro por categoria, print e instalação sem sair do Hytale\n🔹 Modo Hardcore com cinco variações, incluindo o Nine Lives, onde o grupo divide nove vidas e a nona morte encerra a run de todo mundo\n🔹 Modo Espectador oficial, com comando pra assistir, mirar ou ficar livre\n🔹 Conexão nova por servidor de retransmissão, então quem não conseguia entrar no mundo do amigo por causa do tipo de NAT agora entra sem depender de programa externo\n🔹 Ferramenta de construção aguentando seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Colisão sólida em entidade, dá pra subir em cima e usar como plataforma ou obstáculo de verdade\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha, sem precisar de operador pra arrumar na mão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc211",
       "rodada": "2026-08-25 04:30",
       "emoji": "🍈",
