@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-27T20:34:15.423Z",
+  "geradoEm": "2026-08-27T20:35:18.605Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -862,6 +862,26 @@
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687109330084324"
     },
     {
+      "hora": "23:30",
+      "data": "2026-08-27",
+      "id": "rc216",
+      "rede": "twitter",
+      "titulo": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1",
+      "textoMeta": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+      "arquivos": [],
+      "midiaWeb": [],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
       "hora": "23:00",
       "data": "2026-08-27",
       "id": "rc219",
@@ -878,7 +898,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [
-        "06-2300-rc219.mp4"
+        "09-2300-rc219.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -905,7 +925,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [
-        "05-2200-rc218.mp4"
+        "08-2200-rc218.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -914,30 +934,6 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/2767076727021377/"
-    },
-    {
-      "hora": "21:00",
-      "data": "2026-08-27",
-      "id": "rc216",
-      "rede": "twitter",
-      "titulo": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1",
-      "textoMeta": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc216.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [
-        "04-2100-rc217.mp4"
-      ],
-      "tipo": "video",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null
     },
     {
       "hora": "21:00",
@@ -956,7 +952,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [
-        "04-2100-rc217.mp4"
+        "07-2100-rc217.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -983,7 +979,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [
-        "03-2000-rc215.mp4"
+        "06-2000-rc215.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -1002,11 +998,23 @@
       "textoMeta": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/skylight-gimmie-da-loot",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/curseforge/skylight/1.png",
+        "midia/curseforge/skylight/2.png",
+        "midia/curseforge/skylight/3.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc198_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc198_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc198_3.jpg"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "05-1900-rc198-1.png",
+        "05-1900-rc198-2.png",
+        "05-1900-rc198-3.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -1031,7 +1039,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [
-        "02-1800-rc214.mp4"
+        "04-1800-rc214.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -1064,10 +1072,10 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [
-        "01-1600-rc212-1.png",
-        "01-1600-rc212-2.png",
-        "01-1600-rc212-3.png",
-        "01-1600-rc212-4.png"
+        "03-1600-rc212-1.png",
+        "03-1600-rc212-2.png",
+        "03-1600-rc212-3.png",
+        "03-1600-rc212-4.png"
       ],
       "tipo": "carrossel",
       "status": "publicado",
@@ -1086,11 +1094,20 @@
       "textoMeta": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/ncs88-workshop",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/curseforge/ncs88/1.png",
+        "midia/curseforge/ncs88/2.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc197_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc197_2.jpg"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "02-1500-rc197-1.png",
+        "02-1500-rc197-2.png"
+      ],
+      "tipo": "carrossel",
       "status": "publicado",
       "qualidade": null,
       "engajamento": null,
@@ -1107,11 +1124,20 @@
       "textoMeta": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/vandoria-jetpacks-custom-balanced-jetpacks-with",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/curseforge/jetpacks/2.jpg",
+        "midia/curseforge/jetpacks/3.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc192_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc192_2.jpg"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "01-1230-rc192-1.jpg",
+        "01-1230-rc192-2.jpg"
+      ],
+      "tipo": "carrossel",
       "status": "publicado",
       "qualidade": null,
       "engajamento": null,
@@ -2358,11 +2384,20 @@
           "textoMeta": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🚀 JETPACK CRAFTÁVEL DEIXA VOAR DE VERDADE NESSE MOD, COM SOM E CHAMA DE PROPULSOR\n\nO Vandoria Jetpacks adiciona quatro jetpacks craftáveis ao Hytale, cada um com desempenho de voo diferente. Modelo próprio, som de motor e chama do propulsor animada, tudo puxando da stamina do jogo pra controlar o voo.\n\n🔹 Quatro modelos, cada um melhora velocidade e duração do voo em relação ao anterior\n🔹 Efeito visual e sonoro próprio pra cada motor\n🔹 Voo consome stamina, então dá pra dosar o quanto usa\n\n🔧 Vandoria\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/vandoria-jetpacks-custom-balanced-jetpacks-with",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/curseforge/jetpacks/2.jpg",
+            "midia/curseforge/jetpacks/3.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc192_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc192_2.jpg"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "01-1230-rc192-1.jpg",
+            "01-1230-rc192-2.jpg"
+          ],
+          "tipo": "carrossel",
           "status": "publicado",
           "qualidade": null,
           "engajamento": null,
@@ -2379,11 +2414,20 @@
           "textoMeta": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔨 ESPADA GASTA PASSA A DAR MENOS DANO NESSE MOD, E DÁ PRA CONSERTAR PEÇA POR PEÇA\n\nO NCS88 Workshop cria uma bancada de manutenção onde você inspeciona o equipamento, vê qual parte está danificada e conserta só aquela. Ferramenta desgastada perde eficiência e arma danificada perde dano, então cuidar do material vira parte do jogo.\n\n🔹 Cada componente pede material próprio pra ser restaurado\n🔹 Bancada craftável com tronco, pedra, lingote de ferro e couro leve\n🔹 Condição do equipamento deixa de ser só um número na tela\n\n📷 N_CS88\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/ncs88-workshop",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/curseforge/ncs88/1.png",
+            "midia/curseforge/ncs88/2.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc197_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc197_2.jpg"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "02-1500-rc197-1.png",
+            "02-1500-rc197-2.png"
+          ],
+          "tipo": "carrossel",
           "status": "publicado",
           "qualidade": null,
           "engajamento": null,
@@ -2414,10 +2458,10 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [
-            "01-1600-rc212-1.png",
-            "01-1600-rc212-2.png",
-            "01-1600-rc212-3.png",
-            "01-1600-rc212-4.png"
+            "03-1600-rc212-1.png",
+            "03-1600-rc212-2.png",
+            "03-1600-rc212-3.png",
+            "03-1600-rc212-4.png"
           ],
           "tipo": "carrossel",
           "status": "publicado",
@@ -2444,7 +2488,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [
-            "02-1800-rc214.mp4"
+            "04-1800-rc214.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -2463,11 +2507,23 @@
           "textoMeta": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🏴‍☠️ TRIPULAÇÃO PIRATA INTEIRA CHEGOU AO JOGO, INCLUINDO A VERSÃO ESQUELETO DELA\n\nO Skylight Gimme Da' Loot adiciona 14 personagens novos e um sistema de saco de tesouro. Entre eles vem o capitão pirata de chapéu e sabre, o marujo, e a tripulação toda de novo em forma de esqueleto com olho azul brilhando.\n\n🔹 Três tipos de saco de tesouro, cada um com chance própria de recompensa\n🔹 Drop novo de arma, arco curto e flecha vindo dos inimigos\n🔹 Funciona como complemento de lista de drop, então soma com o que você já usa\n\n📷 Sky_Rayzor\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/skylight-gimmie-da-loot",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/curseforge/skylight/1.png",
+            "midia/curseforge/skylight/2.png",
+            "midia/curseforge/skylight/3.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc198_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc198_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc198_3.jpg"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "05-1900-rc198-1.png",
+            "05-1900-rc198-2.png",
+            "05-1900-rc198-3.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -2492,7 +2548,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [
-            "03-2000-rc215.mp4"
+            "06-2000-rc215.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -2501,30 +2557,6 @@
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/reel/2079660262675138/"
-        },
-        {
-          "hora": "21:00",
-          "data": "2026-08-27",
-          "id": "rc216",
-          "rede": "twitter",
-          "titulo": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1",
-          "textoMeta": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc216.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [
-            "04-2100-rc217.mp4"
-          ],
-          "tipo": "video",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null
         },
         {
           "hora": "21:00",
@@ -2543,7 +2575,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [
-            "04-2100-rc217.mp4"
+            "07-2100-rc217.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -2570,7 +2602,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [
-            "05-2200-rc218.mp4"
+            "08-2200-rc218.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -2597,7 +2629,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [
-            "06-2300-rc219.mp4"
+            "09-2300-rc219.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -2606,6 +2638,26 @@
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/reel/1426137626045775/"
+        },
+        {
+          "hora": "23:30",
+          "data": "2026-08-27",
+          "id": "rc216",
+          "rede": "twitter",
+          "titulo": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1",
+          "textoMeta": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+          "arquivos": [],
+          "midiaWeb": [],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
         }
       ],
       "total": 10
@@ -3621,7 +3673,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 7,
+    "total": 10,
     "feitos": 0,
     "data": "2026-08-27"
   },
