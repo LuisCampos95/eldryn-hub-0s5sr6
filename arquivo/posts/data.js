@@ -6,6 +6,24 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc220",
+      "rodada": "2026-08-27 18:10",
+      "emoji": "🟢",
+      "titulo": "[SITE] QUEM TEM GEFORCE ANTIGA E NÃO CONSEGUIA NEM ABRIR O JOGO, JÁ DÁ PRA VOLTAR",
+      "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#update-6-hotfixes",
+      "fonteData": "2026-08-27",
+      "confiabilidade": "oficial",
+      "resumo": "Primeira leva de hotfix do Update 6, so Twitter, sem midia. QC de estilo.",
+      "midia": {
+          "tipo": "texto",
+          "url": "https://hytale.com/news/2026/8/hotfixes-update-6#update-6-hotfixes",
+          "nota": "Sem midia.",
+          "arquivos": []
+      },
+      "twitter": "🟢 QUEM TEM GEFORCE ANTIGA E NÃO CONSEGUIA NEM ABRIR O JOGO, JÁ DÁ PRA VOLTAR\n\nSaiu a primeira leva de correções do Update 6, no mesmo dia do lançamento. A principal conserta justamente o crash que fechava o jogo antes de abrir.\n\n🔹 Corrigido o crash na abertura em placa GeForce das séries 400 até 700, incluindo as versões de notebook\n🔹 Se você tem Hamachi, Radmin ou Teredo instalado, o jogo estava passando por eles sem precisar. Agora ele pega o caminho direto e o ping cai\n🔹 Entrar no mundo de quem tem roteador que troca de porta a cada conexão passou a funcionar bem mais, e com ping menor\n🔹 A tela de jogo online agora diz com todas as letras se seus amigos conseguem entrar, e o que fazer quando não conseguem\n🔹 Apareceu um botão pra copiar um relatório da sua conexão, pra mandar pra quem for te ajudar\n\nE no navegador de mods, agora dá pra instalar um mundo por ele. Você aperta CRIAR MUNDO e ele aparece na sua lista. Um mod de mundo faz quantos mundos você quiser, cada um é uma cópia separada, e se você remover o mod os mundos que já criou continuam lá.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🟢 QUEM TEM GEFORCE ANTIGA E NÃO CONSEGUIA NEM ABRIR O JOGO, JÁ DÁ PRA VOLTAR\n\nSaiu a primeira leva de correções do Update 6, no mesmo dia do lançamento. A principal conserta justamente o crash que fechava o jogo antes de abrir.\n\n🔹 Corrigido o crash na abertura em placa GeForce das séries 400 até 700, incluindo as versões de notebook\n🔹 Se você tem Hamachi, Radmin ou Teredo instalado, o jogo estava passando por eles sem precisar. Agora ele pega o caminho direto e o ping cai\n🔹 Entrar no mundo de quem tem roteador que troca de porta a cada conexão passou a funcionar bem mais, e com ping menor\n🔹 A tela de jogo online agora diz com todas as letras se seus amigos conseguem entrar, e o que fazer quando não conseguem\n🔹 Apareceu um botão pra copiar um relatório da sua conexão, pra mandar pra quem for te ajudar\n\nE no navegador de mods, agora dá pra instalar um mundo por ele. Você aperta CRIAR MUNDO e ele aparece na sua lista. Um mod de mundo faz quantos mundos você quiser, cada um é uma cópia separada, e se você remover o mod os mundos que já criou continuam lá.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc218",
       "rodada": "2026-08-27 15:20",
       "emoji": "🧍",
