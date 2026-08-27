@@ -68,26 +68,6 @@ window.ELDRYN_POSTS = [
       "meta": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER\n\nO Update 6 trouxe o Hardcore oficial, escolhido na hora de criar o mundo. São cinco configurações, da mais leve à mais cruel.\n\n🔹 Desligado, o jogo normal de sempre\n🔹 Permadeath, uma vida só e acabou\n🔹 Three Strikes, três vidas pra cada jogador\n🔹 Nine Lives, onde o grupo inteiro divide um bolo de nove vidas\n🔹 Soulbound, que encerra a run pra todo mundo se qualquer um morrer\n\nE quem morre não fica olhando pra tela preta. Chegou junto o Modo Espectador, que deixa você invisível e intangível, com os NPCs ignorando sua presença por completo.\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-      "id": "rc213",
-      "rodada": "2026-08-27 14:45",
-      "emoji": "🧩",
-      "titulo": "[SITE] O NAVEGADOR DE MODS CHEGOU DENTRO DO JOGO, E NÃO VAI TER MOD PAGO",
-      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
-      "fonteData": "2026-08-27",
-      "confiabilidade": "oficial",
-      "resumo": "Lancamento do Update 6, notas oficiais do dia 27/08. QC de estilo.",
-      "midia": {
-          "tipo": "imagem",
-          "url": "https://hytale.com/news/2026/8/update-6-patch-notes",
-          "nota": "Imagem oficial do post de patch notes.",
-          "arquivos": [
-              "midia/site/update6/5.png"
-          ]
-      },
-      "twitter": "🧩 O NAVEGADOR DE MODS CHEGOU DENTRO DO JOGO, E NÃO VAI TER MOD PAGO\n\nUma das maiores mudanças do Update 6. Agora dá pra achar, instalar e gerenciar mod direto do menu principal, sem abrir navegador nem mexer em pasta.\n\n🔹 Busca por nome e por descrição, mais filtro por categoria\n🔹 Cada mod mostra descrição, print, quantidade de downloads e as versões suportadas\n🔹 Tem uma aba própria pra gerenciar o que você já instalou\n🔹 O estúdio deixou claro que não vai existir mod pago no navegador\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "meta": "🧩 O NAVEGADOR DE MODS CHEGOU DENTRO DO JOGO, E NÃO VAI TER MOD PAGO\n\nUma das maiores mudanças do Update 6. Agora dá pra achar, instalar e gerenciar mod direto do menu principal, sem abrir navegador nem mexer em pasta.\n\n🔹 Busca por nome e por descrição, mais filtro por categoria\n🔹 Cada mod mostra descrição, print, quantidade de downloads e as versões suportadas\n🔹 Tem uma aba própria pra gerenciar o que você já instalou\n🔹 O estúdio deixou claro que não vai existir mod pago no navegador\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
       "id": "rc212",
       "rodada": "2026-08-27 14:45",
       "emoji": "🚀",
