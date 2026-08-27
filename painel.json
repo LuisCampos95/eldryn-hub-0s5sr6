@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-27T14:52:58.230Z",
+  "geradoEm": "2026-08-27T15:20:20.412Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 216,
+      "n": 219,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 100,
+      "n": 103,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 93,
+      "n": 96,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 46,
+      "n": 49,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 47,
+      "n": 51,
       "quem": "código"
     }
   ],
@@ -862,6 +862,56 @@
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1687109330084324"
     },
     {
+      "hora": "23:00",
+      "data": "2026-08-27",
+      "id": "rc219",
+      "rede": "facebook",
+      "titulo": "🎯 O JOGO GANHOU MIRA POR GIROSCÓPIO, IGUAL A DO NINTENDO SWITCH",
+      "textoMeta": "🎯 O JOGO GANHOU MIRA POR GIROSCÓPIO, IGUAL A DO NINTENDO SWITCH\n\nPassou despercebido no meio do Update 6, mas chegou suporte a giroscópio no controle. Quem tem controle compatível pode ligar o controle por movimento e mirar inclinando o próprio controle.\n\n🔹 Liga nas configurações de controle, na seção do controle\n🔹 Funciona em qualquer controle com giroscópio\n🔹 Serve pra ajuste fino da mira, junto do analógico\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🎯 O JOGO GANHOU MIRA POR GIROSCÓPIO, IGUAL A DO NINTENDO SWITCH\n\nPassou despercebido no meio do Update 6, mas chegou suporte a giroscópio no controle. Quem tem controle compatível pode ligar o controle por movimento e mirar inclinando o próprio controle.\n\n🔹 Liga nas configurações de controle, na seção do controle\n🔹 Funciona em qualquer controle com giroscópio\n🔹 Serve pra ajuste fino da mira, junto do analógico\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+      "arquivos": [
+        "midia/site/u6vid/giro.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc219.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+      "arquivosTwitter": [],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1426137626045775/"
+    },
+    {
+      "hora": "22:00",
+      "data": "2026-08-27",
+      "id": "rc218",
+      "rede": "facebook",
+      "titulo": "🧍 AGORA DÁ PRA SUBIR EM CIMA DE UMA CRIATURA E SER CARREGADO POR ELA",
+      "textoMeta": "🧍 AGORA DÁ PRA SUBIR EM CIMA DE UMA CRIATURA E SER CARREGADO POR ELA\n\nO Update 6 trouxe colisão sólida em entidade, e com rotação. Na prática, bicho e objeto viraram chão de verdade. Você fica em pé em cima e é empurrado junto de forma suave, sem travar nem atravessar.\n\n🔹 Serve pra montar plataforma móvel e obstáculo que se mexe\n🔹 A colisão acompanha a rotação da entidade, então funciona mesmo com ela girando\n🔹 Era um dos quatro recursos que o estúdio prometeu em julho, e chegou junto com Hardcore, Espectador e navegador de mods\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🧍 AGORA DÁ PRA SUBIR EM CIMA DE UMA CRIATURA E SER CARREGADO POR ELA\n\nO Update 6 trouxe colisão sólida em entidade, e com rotação. Na prática, bicho e objeto viraram chão de verdade. Você fica em pé em cima e é empurrado junto de forma suave, sem travar nem atravessar.\n\n🔹 Serve pra montar plataforma móvel e obstáculo que se mexe\n🔹 A colisão acompanha a rotação da entidade, então funciona mesmo com ela girando\n🔹 Era um dos quatro recursos que o estúdio prometeu em julho, e chegou junto com Hardcore, Espectador e navegador de mods\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+      "arquivos": [
+        "midia/site/u6vid/colisao.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc218.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+      "arquivosTwitter": [],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/2767076727021377/"
+    },
+    {
       "hora": "21:00",
       "data": "2026-08-27",
       "id": "rc216",
@@ -882,6 +932,31 @@
       "motivo": null
     },
     {
+      "hora": "21:00",
+      "data": "2026-08-27",
+      "id": "rc217",
+      "rede": "facebook",
+      "titulo": "🎨 DÁ PRA SALVAR SUA PALETA DE BLOCOS E CARREGAR ELA DEPOIS EM QUALQUER CONSTRUÇÃO",
+      "textoMeta": "🎨 DÁ PRA SALVAR SUA PALETA DE BLOCOS E CARREGAR ELA DEPOIS EM QUALQUER CONSTRUÇÃO\n\nChegou junto com o Update 6 a paleta de blocos salvável. Você monta o conjunto de blocos que está usando, salva com nome e chama de volta quando quiser, em vez de garimpar bloco por bloco no inventário toda vez.\n\n🔹 Salva quantas paletas quiser, cada uma com o nome que você escolher\n🔹 Carrega a paleta pronta e já sai construindo\n🔹 Funciona junto com a Ferramenta de Cor, que chegou no mesmo update\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🎨 DÁ PRA SALVAR SUA PALETA DE BLOCOS E CARREGAR ELA DEPOIS EM QUALQUER CONSTRUÇÃO\n\nChegou junto com o Update 6 a paleta de blocos salvável. Você monta o conjunto de blocos que está usando, salva com nome e chama de volta quando quiser, em vez de garimpar bloco por bloco no inventário toda vez.\n\n🔹 Salva quantas paletas quiser, cada uma com o nome que você escolher\n🔹 Carrega a paleta pronta e já sai construindo\n🔹 Funciona junto com a Ferramenta de Cor, que chegou no mesmo update\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+      "arquivos": [
+        "midia/site/u6vid/paleta.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc217.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+      "arquivosTwitter": [],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1296291719105144/"
+    },
+    {
       "hora": "20:00",
       "data": "2026-08-27",
       "id": "rc215",
@@ -891,14 +966,14 @@
       "textoTwitter": "🎨 FERRAMENTA DE COR COM DEGRADÊ E SELEÇÃO DE 16 MILHÕES DE BLOCOS PRO CONSTRUTOR\n\nO Update 6 trouxe a maior leva de ferramenta de criativo desde o Update 5. Quem constrói ganhou bastante coisa de uma vez.\n\n🔹 Ferramenta de Cor, com modo de pintura, degradê e sombreamento\n🔹 Paleta de blocos que dá pra salvar e carregar depois, montando a sua própria\n🔹 A ferramenta de construção passou a aguentar seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Ferramenta de Ponto, que marca lugar com nome e etiqueta e teleporta você direto pra lá\n🔹 A ferramenta de volume de gatilho cresceu muito, com regra sempre ativa de voo, dano, sem construir e colocação criativa, mais evento novo de bloco usado, entidade morta e volume criado\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
       "arquivos": [
-        "midia/site/u6pre/a.png"
+        "midia/site/u6vid/cortool.mp4"
       ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc215.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [
-        "01-2000-rc215.png"
+        "03-2000-rc215.png"
       ],
       "tipo": "imagem",
       "status": "agendado",
@@ -906,7 +981,7 @@
       "engajamento": null,
       "categoria": null,
       "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1688867966575127"
+      "urlPublicada": "https://www.facebook.com/reel/2079660262675138/"
     },
     {
       "hora": "19:00",
@@ -933,21 +1008,26 @@
       "hora": "18:00",
       "data": "2026-08-27",
       "id": "rc214",
-      "rede": "twitter",
+      "rede": "facebook",
       "titulo": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER",
       "textoMeta": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER\n\nO Update 6 trouxe o Hardcore oficial, escolhido na hora de criar o mundo. São cinco configurações, da mais leve à mais cruel.\n\n🔹 Desligado, o jogo normal de sempre\n🔹 Permadeath, uma vida só e acabou\n🔹 Three Strikes, três vidas pra cada jogador\n🔹 Nine Lives, onde o grupo inteiro divide um bolo de nove vidas\n🔹 Soulbound, que encerra a run pra todo mundo se qualquer um morrer\n\nE quem morre não fica olhando pra tela preta. Chegou junto o Modo Espectador, que deixa você invisível e intangível, com os NPCs ignorando sua presença por completo.\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER\n\nO Update 6 trouxe o Hardcore oficial, escolhido na hora de criar o mundo. São cinco configurações, da mais leve à mais cruel.\n\n🔹 Desligado, o jogo normal de sempre\n🔹 Permadeath, uma vida só e acabou\n🔹 Three Strikes, três vidas pra cada jogador\n🔹 Nine Lives, onde o grupo inteiro divide um bolo de nove vidas\n🔹 Soulbound, que encerra a run pra todo mundo se qualquer um morrer\n\nE quem morre não fica olhando pra tela preta. Chegou junto o Modo Espectador, que deixa você invisível e intangível, com os NPCs ignorando sua presença por completo.\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/site/u6vid/hardcore.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc214.mp4"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [],
-      "tipo": "imagem",
-      "status": "aguardando manual",
+      "tipo": "video",
+      "status": "agendado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
-      "motivo": null
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/948993180796622/"
     },
     {
       "hora": "16:00",
@@ -971,8 +1051,13 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc212_4.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "01-1600-rc212-1.png",
+        "01-1600-rc212-2.png",
+        "01-1600-rc212-3.png",
+        "01-1600-rc212-4.png"
+      ],
+      "tipo": "carrossel",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -2316,8 +2401,13 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc212_4.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "01-1600-rc212-1.png",
+            "01-1600-rc212-2.png",
+            "01-1600-rc212-3.png",
+            "01-1600-rc212-4.png"
+          ],
+          "tipo": "carrossel",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -2329,21 +2419,26 @@
           "hora": "18:00",
           "data": "2026-08-27",
           "id": "rc214",
-          "rede": "twitter",
+          "rede": "facebook",
           "titulo": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER",
           "textoMeta": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER\n\nO Update 6 trouxe o Hardcore oficial, escolhido na hora de criar o mundo. São cinco configurações, da mais leve à mais cruel.\n\n🔹 Desligado, o jogo normal de sempre\n🔹 Permadeath, uma vida só e acabou\n🔹 Three Strikes, três vidas pra cada jogador\n🔹 Nine Lives, onde o grupo inteiro divide um bolo de nove vidas\n🔹 Soulbound, que encerra a run pra todo mundo se qualquer um morrer\n\nE quem morre não fica olhando pra tela preta. Chegou junto o Modo Espectador, que deixa você invisível e intangível, com os NPCs ignorando sua presença por completo.\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER\n\nO Update 6 trouxe o Hardcore oficial, escolhido na hora de criar o mundo. São cinco configurações, da mais leve à mais cruel.\n\n🔹 Desligado, o jogo normal de sempre\n🔹 Permadeath, uma vida só e acabou\n🔹 Three Strikes, três vidas pra cada jogador\n🔹 Nine Lives, onde o grupo inteiro divide um bolo de nove vidas\n🔹 Soulbound, que encerra a run pra todo mundo se qualquer um morrer\n\nE quem morre não fica olhando pra tela preta. Chegou junto o Modo Espectador, que deixa você invisível e intangível, com os NPCs ignorando sua presença por completo.\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/site/u6vid/hardcore.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc214.mp4"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [],
-          "tipo": "imagem",
-          "status": "aguardando manual",
+          "tipo": "video",
+          "status": "agendado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
-          "motivo": null
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/948993180796622/"
         },
         {
           "hora": "19:00",
@@ -2376,14 +2471,14 @@
           "textoTwitter": "🎨 FERRAMENTA DE COR COM DEGRADÊ E SELEÇÃO DE 16 MILHÕES DE BLOCOS PRO CONSTRUTOR\n\nO Update 6 trouxe a maior leva de ferramenta de criativo desde o Update 5. Quem constrói ganhou bastante coisa de uma vez.\n\n🔹 Ferramenta de Cor, com modo de pintura, degradê e sombreamento\n🔹 Paleta de blocos que dá pra salvar e carregar depois, montando a sua própria\n🔹 A ferramenta de construção passou a aguentar seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Ferramenta de Ponto, que marca lugar com nome e etiqueta e teleporta você direto pra lá\n🔹 A ferramenta de volume de gatilho cresceu muito, com regra sempre ativa de voo, dano, sem construir e colocação criativa, mais evento novo de bloco usado, entidade morta e volume criado\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
           "arquivos": [
-            "midia/site/u6pre/a.png"
+            "midia/site/u6vid/cortool.mp4"
           ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc215.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [
-            "01-2000-rc215.png"
+            "03-2000-rc215.png"
           ],
           "tipo": "imagem",
           "status": "agendado",
@@ -2391,7 +2486,7 @@
           "engajamento": null,
           "categoria": null,
           "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1688867966575127"
+          "urlPublicada": "https://www.facebook.com/reel/2079660262675138/"
         },
         {
           "hora": "21:00",
@@ -2412,9 +2507,84 @@
           "engajamento": null,
           "categoria": null,
           "motivo": null
+        },
+        {
+          "hora": "21:00",
+          "data": "2026-08-27",
+          "id": "rc217",
+          "rede": "facebook",
+          "titulo": "🎨 DÁ PRA SALVAR SUA PALETA DE BLOCOS E CARREGAR ELA DEPOIS EM QUALQUER CONSTRUÇÃO",
+          "textoMeta": "🎨 DÁ PRA SALVAR SUA PALETA DE BLOCOS E CARREGAR ELA DEPOIS EM QUALQUER CONSTRUÇÃO\n\nChegou junto com o Update 6 a paleta de blocos salvável. Você monta o conjunto de blocos que está usando, salva com nome e chama de volta quando quiser, em vez de garimpar bloco por bloco no inventário toda vez.\n\n🔹 Salva quantas paletas quiser, cada uma com o nome que você escolher\n🔹 Carrega a paleta pronta e já sai construindo\n🔹 Funciona junto com a Ferramenta de Cor, que chegou no mesmo update\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🎨 DÁ PRA SALVAR SUA PALETA DE BLOCOS E CARREGAR ELA DEPOIS EM QUALQUER CONSTRUÇÃO\n\nChegou junto com o Update 6 a paleta de blocos salvável. Você monta o conjunto de blocos que está usando, salva com nome e chama de volta quando quiser, em vez de garimpar bloco por bloco no inventário toda vez.\n\n🔹 Salva quantas paletas quiser, cada uma com o nome que você escolher\n🔹 Carrega a paleta pronta e já sai construindo\n🔹 Funciona junto com a Ferramenta de Cor, que chegou no mesmo update\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+          "arquivos": [
+            "midia/site/u6vid/paleta.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc217.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+          "arquivosTwitter": [],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1296291719105144/"
+        },
+        {
+          "hora": "22:00",
+          "data": "2026-08-27",
+          "id": "rc218",
+          "rede": "facebook",
+          "titulo": "🧍 AGORA DÁ PRA SUBIR EM CIMA DE UMA CRIATURA E SER CARREGADO POR ELA",
+          "textoMeta": "🧍 AGORA DÁ PRA SUBIR EM CIMA DE UMA CRIATURA E SER CARREGADO POR ELA\n\nO Update 6 trouxe colisão sólida em entidade, e com rotação. Na prática, bicho e objeto viraram chão de verdade. Você fica em pé em cima e é empurrado junto de forma suave, sem travar nem atravessar.\n\n🔹 Serve pra montar plataforma móvel e obstáculo que se mexe\n🔹 A colisão acompanha a rotação da entidade, então funciona mesmo com ela girando\n🔹 Era um dos quatro recursos que o estúdio prometeu em julho, e chegou junto com Hardcore, Espectador e navegador de mods\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🧍 AGORA DÁ PRA SUBIR EM CIMA DE UMA CRIATURA E SER CARREGADO POR ELA\n\nO Update 6 trouxe colisão sólida em entidade, e com rotação. Na prática, bicho e objeto viraram chão de verdade. Você fica em pé em cima e é empurrado junto de forma suave, sem travar nem atravessar.\n\n🔹 Serve pra montar plataforma móvel e obstáculo que se mexe\n🔹 A colisão acompanha a rotação da entidade, então funciona mesmo com ela girando\n🔹 Era um dos quatro recursos que o estúdio prometeu em julho, e chegou junto com Hardcore, Espectador e navegador de mods\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+          "arquivos": [
+            "midia/site/u6vid/colisao.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc218.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+          "arquivosTwitter": [],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/2767076727021377/"
+        },
+        {
+          "hora": "23:00",
+          "data": "2026-08-27",
+          "id": "rc219",
+          "rede": "facebook",
+          "titulo": "🎯 O JOGO GANHOU MIRA POR GIROSCÓPIO, IGUAL A DO NINTENDO SWITCH",
+          "textoMeta": "🎯 O JOGO GANHOU MIRA POR GIROSCÓPIO, IGUAL A DO NINTENDO SWITCH\n\nPassou despercebido no meio do Update 6, mas chegou suporte a giroscópio no controle. Quem tem controle compatível pode ligar o controle por movimento e mirar inclinando o próprio controle.\n\n🔹 Liga nas configurações de controle, na seção do controle\n🔹 Funciona em qualquer controle com giroscópio\n🔹 Serve pra ajuste fino da mira, junto do analógico\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🎯 O JOGO GANHOU MIRA POR GIROSCÓPIO, IGUAL A DO NINTENDO SWITCH\n\nPassou despercebido no meio do Update 6, mas chegou suporte a giroscópio no controle. Quem tem controle compatível pode ligar o controle por movimento e mirar inclinando o próprio controle.\n\n🔹 Liga nas configurações de controle, na seção do controle\n🔹 Funciona em qualquer controle com giroscópio\n🔹 Serve pra ajuste fino da mira, junto do analógico\n\n🎥 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+          "arquivos": [
+            "midia/site/u6vid/giro.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc219.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
+          "arquivosTwitter": [],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1426137626045775/"
         }
       ],
-      "total": 7
+      "total": 10
     },
     {
       "dia": "2026-08-26",
@@ -3410,13 +3580,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 216,
+    "coletadosTotal": 219,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 116,
     "rejeitadosMemoria": 7,
-    "escritos": 61,
-    "agendados": 47,
+    "escritos": 64,
+    "agendados": 51,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -3427,7 +3597,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 1,
+    "total": 4,
     "feitos": 0,
     "data": "2026-08-27"
   },
@@ -3537,7 +3707,7 @@
       },
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 390,
+        "curtidas": 392,
         "comentarios": 3,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
