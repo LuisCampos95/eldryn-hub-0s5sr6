@@ -6,21 +6,109 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
-      "id": "rc212",
-      "rodada": "2026-08-26 22:20",
-      "emoji": "🚀",
-      "titulo": "[SITE] O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA",
-      "fonte": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6#update-6-lancamento",
+      "id": "rc216",
+      "rodada": "2026-08-27 14:45",
+      "emoji": "⚠️",
+      "titulo": "[SITE] ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL",
+      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
       "fonteData": "2026-08-27",
       "confiabilidade": "oficial",
-      "resumo": "Post de lancamento do Update 6, so Twitter, sem midia. Escrito na vespera pra postar depois do lancamento confirmado.",
+      "resumo": "Lancamento do Update 6, notas oficiais do dia 27/08. QC de estilo.",
       "midia": {
-          "tipo": "texto",
-          "url": "https://hytale.com/news/2026/5/pre-release-patch-notes-update-6#update-6-lancamento",
-          "nota": "Sem midia."
+          "tipo": "imagem",
+          "url": "https://hytale.com/news/2026/8/update-6-patch-notes",
+          "nota": "Imagem oficial do post de patch notes.",
+          "arquivos": [
+              "midia/site/update6/5.png"
+          ]
       },
-      "twitter": "🚀 O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA\n\nDepois de três meses saindo aos pedaços no pre-release, o Update 6 chegou completo pra todo mundo. É só abrir o launcher e atualizar.\n\n🔹 Navegador de mods dentro do próprio jogo, no menu principal, com busca, filtro por categoria, print e instalação sem sair do Hytale\n🔹 Modo Hardcore com cinco variações, incluindo o Nine Lives, onde o grupo divide nove vidas e a nona morte encerra a run de todo mundo\n🔹 Modo Espectador oficial, com comando pra assistir, mirar ou ficar livre\n🔹 Conexão nova por servidor de retransmissão, então quem não conseguia entrar no mundo do amigo por causa do tipo de NAT agora entra sem depender de programa externo\n🔹 Ferramenta de construção aguentando seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Colisão sólida em entidade, dá pra subir em cima e usar como plataforma ou obstáculo de verdade\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha, sem precisar de operador pra arrumar na mão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "meta": "🚀 O UPDATE 6 SAIU, JÁ DÁ PRA BAIXAR E JOGAR AGORA\n\nDepois de três meses saindo aos pedaços no pre-release, o Update 6 chegou completo pra todo mundo. É só abrir o launcher e atualizar.\n\n🔹 Navegador de mods dentro do próprio jogo, no menu principal, com busca, filtro por categoria, print e instalação sem sair do Hytale\n🔹 Modo Hardcore com cinco variações, incluindo o Nine Lives, onde o grupo divide nove vidas e a nona morte encerra a run de todo mundo\n🔹 Modo Espectador oficial, com comando pra assistir, mirar ou ficar livre\n🔹 Conexão nova por servidor de retransmissão, então quem não conseguia entrar no mundo do amigo por causa do tipo de NAT agora entra sem depender de programa externo\n🔹 Ferramenta de construção aguentando seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Colisão sólida em entidade, dá pra subir em cima e usar como plataforma ou obstáculo de verdade\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha, sem precisar de operador pra arrumar na mão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+      "twitter": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc215",
+      "rodada": "2026-08-27 14:45",
+      "emoji": "🎨",
+      "titulo": "[SITE] FERRAMENTA DE COR COM DEGRADÊ E SELEÇÃO DE 16 MILHÕES DE BLOCOS",
+      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+      "fonteData": "2026-08-27",
+      "confiabilidade": "oficial",
+      "resumo": "Lancamento do Update 6, notas oficiais do dia 27/08. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://hytale.com/news/2026/8/update-6-patch-notes",
+          "nota": "Imagem oficial do post de patch notes.",
+          "arquivos": [
+              "midia/site/update6/1.png",
+              "midia/site/update6/4.png"
+          ]
+      },
+      "twitter": "🎨 FERRAMENTA DE COR COM DEGRADÊ E SELEÇÃO DE 16 MILHÕES DE BLOCOS PRO CONSTRUTOR\n\nO Update 6 trouxe a maior leva de ferramenta de criativo desde o Update 5. Quem constrói ganhou bastante coisa de uma vez.\n\n🔹 Ferramenta de Cor, com modo de pintura, degradê e sombreamento\n🔹 Paleta de blocos que dá pra salvar e carregar depois, montando a sua própria\n🔹 A ferramenta de construção passou a aguentar seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Ferramenta de Ponto, que marca lugar com nome e etiqueta e teleporta você direto pra lá\n🔹 A ferramenta de volume de gatilho cresceu muito, com regra sempre ativa de voo, dano, sem construir e colocação criativa, mais evento novo de bloco usado, entidade morta e volume criado\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🎨 FERRAMENTA DE COR COM DEGRADÊ E SELEÇÃO DE 16 MILHÕES DE BLOCOS PRO CONSTRUTOR\n\nO Update 6 trouxe a maior leva de ferramenta de criativo desde o Update 5. Quem constrói ganhou bastante coisa de uma vez.\n\n🔹 Ferramenta de Cor, com modo de pintura, degradê e sombreamento\n🔹 Paleta de blocos que dá pra salvar e carregar depois, montando a sua própria\n🔹 A ferramenta de construção passou a aguentar seleção de até 16 milhões de blocos, com salvamento compacto e cópia mais rápida\n🔹 Ferramenta de Ponto, que marca lugar com nome e etiqueta e teleporta você direto pra lá\n🔹 A ferramenta de volume de gatilho cresceu muito, com regra sempre ativa de voo, dano, sem construir e colocação criativa, mais evento novo de bloco usado, entidade morta e volume criado\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc214",
+      "rodada": "2026-08-27 14:45",
+      "emoji": "💀",
+      "titulo": "[SITE] O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM ACABA A RUN SE UM AMIGO MORRER",
+      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+      "fonteData": "2026-08-27",
+      "confiabilidade": "oficial",
+      "resumo": "Lancamento do Update 6, notas oficiais do dia 27/08. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://hytale.com/news/2026/8/update-6-patch-notes",
+          "nota": "Imagem oficial do post de patch notes.",
+          "arquivos": [
+              "midia/site/update6/3.png",
+              "midia/site/update6/1.png"
+          ]
+      },
+      "twitter": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER\n\nO Update 6 trouxe o Hardcore oficial, escolhido na hora de criar o mundo. São cinco configurações, da mais leve à mais cruel.\n\n🔹 Desligado, o jogo normal de sempre\n🔹 Permadeath, uma vida só e acabou\n🔹 Three Strikes, três vidas pra cada jogador\n🔹 Nine Lives, onde o grupo inteiro divide um bolo de nove vidas\n🔹 Soulbound, que encerra a run pra todo mundo se qualquer um morrer\n\nE quem morre não fica olhando pra tela preta. Chegou junto o Modo Espectador, que deixa você invisível e intangível, com os NPCs ignorando sua presença por completo.\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER\n\nO Update 6 trouxe o Hardcore oficial, escolhido na hora de criar o mundo. São cinco configurações, da mais leve à mais cruel.\n\n🔹 Desligado, o jogo normal de sempre\n🔹 Permadeath, uma vida só e acabou\n🔹 Three Strikes, três vidas pra cada jogador\n🔹 Nine Lives, onde o grupo inteiro divide um bolo de nove vidas\n🔹 Soulbound, que encerra a run pra todo mundo se qualquer um morrer\n\nE quem morre não fica olhando pra tela preta. Chegou junto o Modo Espectador, que deixa você invisível e intangível, com os NPCs ignorando sua presença por completo.\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc213",
+      "rodada": "2026-08-27 14:45",
+      "emoji": "🧩",
+      "titulo": "[SITE] O NAVEGADOR DE MODS CHEGOU DENTRO DO JOGO, E NÃO VAI TER MOD PAGO",
+      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+      "fonteData": "2026-08-27",
+      "confiabilidade": "oficial",
+      "resumo": "Lancamento do Update 6, notas oficiais do dia 27/08. QC de estilo.",
+      "midia": {
+          "tipo": "imagem",
+          "url": "https://hytale.com/news/2026/8/update-6-patch-notes",
+          "nota": "Imagem oficial do post de patch notes.",
+          "arquivos": [
+              "midia/site/update6/5.png"
+          ]
+      },
+      "twitter": "🧩 O NAVEGADOR DE MODS CHEGOU DENTRO DO JOGO, E NÃO VAI TER MOD PAGO\n\nUma das maiores mudanças do Update 6. Agora dá pra achar, instalar e gerenciar mod direto do menu principal, sem abrir navegador nem mexer em pasta.\n\n🔹 Busca por nome e por descrição, mais filtro por categoria\n🔹 Cada mod mostra descrição, print, quantidade de downloads e as versões suportadas\n🔹 Tem uma aba própria pra gerenciar o que você já instalou\n🔹 O estúdio deixou claro que não vai existir mod pago no navegador\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🧩 O NAVEGADOR DE MODS CHEGOU DENTRO DO JOGO, E NÃO VAI TER MOD PAGO\n\nUma das maiores mudanças do Update 6. Agora dá pra achar, instalar e gerenciar mod direto do menu principal, sem abrir navegador nem mexer em pasta.\n\n🔹 Busca por nome e por descrição, mais filtro por categoria\n🔹 Cada mod mostra descrição, print, quantidade de downloads e as versões suportadas\n🔹 Tem uma aba própria pra gerenciar o que você já instalou\n🔹 O estúdio deixou claro que não vai existir mod pago no navegador\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc212",
+      "rodada": "2026-08-27 14:45",
+      "emoji": "🚀",
+      "titulo": "[SITE] O UPDATE 6 SAIU E JÁ DÁ PRA BAIXAR, COM NAVEGADOR DE MODS DENTRO DO JOGO",
+      "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
+      "fonteData": "2026-08-27",
+      "confiabilidade": "oficial",
+      "resumo": "Lancamento do Update 6, notas oficiais do dia 27/08. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://hytale.com/news/2026/8/update-6-patch-notes",
+          "nota": "Imagem oficial do post de patch notes.",
+          "arquivos": [
+              "midia/site/update6/5.png",
+              "midia/site/update6/1.png",
+              "midia/site/update6/3.png",
+              "midia/site/update6/2.png"
+          ]
+      },
+      "twitter": "🚀 O UPDATE 6 SAIU E JÁ DÁ PRA BAIXAR, COM NAVEGADOR DE MODS DENTRO DO JOGO\n\nSaiu hoje, dia 27 de agosto. Em julho o estúdio disse que Espectador, Hardcore, navegador de mods e colisão em entidade estavam a umas três semanas de distância. Os quatro chegaram juntos nessa versão.\n\n🔹 NAVEGADOR DE MODS\nDá pra descobrir, instalar e gerenciar mod direto do menu principal, sem sair do jogo. Tem filtro por categoria, busca por nome e descrição, print, contagem de downloads e as versões suportadas. O estúdio avisou que não vai existir mod pago ali dentro.\n\n🔹 MODO HARDCORE\nCinco opções na hora de criar o mundo. Desligado, Permadeath com uma vida só, Three Strikes com três vidas por jogador, Nine Lives onde o grupo divide um bolo de nove, e Soulbound, que encerra a run se qualquer um morrer.\n\n🔹 MODO ESPECTADOR\nQuem morre no Hardcore vira espectador, invisível e intangível. Os NPCs ignoram você por completo.\n\n🔹 FERRAMENTAS DE CRIATIVO\nA maior leva desde o Update 5. Chegou a Ferramenta de Cor, com modo de pintura, degradê e sombreamento. Dá pra salvar e carregar paleta de blocos própria. A ferramenta de construção passou a aguentar seleção de até 16 milhões de blocos. E a Ferramenta de Ponto marca lugar com nome e etiqueta, e teleporta pra ele.\n\n🔹 COLISÃO EM ENTIDADE\nDá pra ficar em pé em cima de entidade com colisão sólida e ser empurrado por ela de forma suave.\n\n🔹 CONTROLE POR GIROSCÓPIO\nQuem tem controle com giroscópio pode ligar o controle por movimento nas configurações de controle.\n\n🔹 CONEXÃO ENTRE JOGADORES\nEntraram os protocolos STUN e TURN pra furar bloqueio de NAT, então dá pra entrar no mundo do amigo sem programa externo. NAT duplo ainda não funciona.\n\n🔹 MUNDO E VISUAL\nRastreamento de região dizendo se você está perto de casa ou em área selvagem, transição suave de cor entre bioma, torres de mago novas nos biomas de arenito, xisto e vulcânico, transparência refeita e água com renderização melhor.\n\n🔹 ITEM E CRAFT\nTodo tipo de cascalho virou craftável na bancada de fazenda, terra vira meia laje na bancada do construtor, e corrigiram falhas de duplicação de item.\n\n🔹 SERVIDOR\nServidor dedicado se recupera sozinho quando o mundo crasha. Geração de mundo ficou bem mais rápida e a lista de amigos aguenta mais de 500.\n\n⚠️ ATENÇÃO\nO jogo agora exige OpenGL 4.1 ou mais novo e fecha na hora se o seu computador não tiver. O protocolo de rede mudou de hytale/2 pra hytale/3, então servidor e plugin precisam ser recompilados.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🚀 O UPDATE 6 SAIU E JÁ DÁ PRA BAIXAR, COM NAVEGADOR DE MODS DENTRO DO JOGO\n\nSaiu hoje, dia 27 de agosto. Em julho o estúdio disse que Espectador, Hardcore, navegador de mods e colisão em entidade estavam a umas três semanas de distância. Os quatro chegaram juntos.\n\n🔹 Navegador de mods no menu principal, com busca, filtro por categoria, print e contagem de downloads. Instala e gerencia sem sair do jogo, e o estúdio avisou que não vai ter mod pago ali\n🔹 Modo Hardcore com cinco opções, incluindo Nine Lives, onde o grupo divide um bolo de nove vidas, e Soulbound, que encerra a run se qualquer um morrer\n🔹 Modo Espectador pra quem morre no Hardcore, invisível e intangível, com os NPCs ignorando você\n🔹 Ferramenta de Cor com pintura, degradê e sombreamento, paleta de blocos salvável e seleção de até 16 milhões de blocos\n🔹 Dá pra ficar em pé em cima de entidade com colisão sólida e ser empurrado por ela\n🔹 Controle por giroscópio pra quem tem controle compatível\n🔹 STUN e TURN pra furar bloqueio de NAT, então dá pra entrar no mundo do amigo sem programa externo\n🔹 Torres de mago novas em arenito, xisto e vulcânico, e transição suave de cor entre bioma\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha\n\n⚠️ O jogo agora exige OpenGL 4.1 ou mais novo e fecha na hora se o seu computador não tiver.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
       "id": "rc211",
