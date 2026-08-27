@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-27T15:20:20.412Z",
+  "geradoEm": "2026-08-27T20:34:15.423Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -877,7 +877,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc219.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "06-2300-rc219.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": null,
@@ -902,7 +904,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc218.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "05-2200-rc218.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": null,
@@ -921,10 +925,14 @@
       "textoTwitter": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
       "arquivos": [],
-      "midiaWeb": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc216.mp4"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "04-2100-rc217.mp4"
+      ],
+      "tipo": "video",
       "status": "aguardando manual",
       "qualidade": null,
       "engajamento": null,
@@ -947,7 +955,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc217.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "04-2100-rc217.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": null,
@@ -969,13 +979,13 @@
         "midia/site/u6vid/cortool.mp4"
       ],
       "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc215.jpg"
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc215.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [
-        "03-2000-rc215.png"
+        "03-2000-rc215.mp4"
       ],
-      "tipo": "imagem",
+      "tipo": "video",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -1020,7 +1030,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc214.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "02-1800-rc214.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": null,
@@ -1058,7 +1070,7 @@
         "01-1600-rc212-4.png"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -1079,7 +1091,7 @@
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -1100,7 +1112,7 @@
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -2351,7 +2363,7 @@
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2372,7 +2384,7 @@
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2408,7 +2420,7 @@
             "01-1600-rc212-4.png"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2431,7 +2443,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc214.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "02-1800-rc214.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": null,
@@ -2474,13 +2488,13 @@
             "midia/site/u6vid/cortool.mp4"
           ],
           "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc215.jpg"
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc215.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [
-            "03-2000-rc215.png"
+            "03-2000-rc215.mp4"
           ],
-          "tipo": "imagem",
+          "tipo": "video",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -2498,10 +2512,14 @@
           "textoTwitter": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
           "arquivos": [],
-          "midiaWeb": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc216.mp4"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "04-2100-rc217.mp4"
+          ],
+          "tipo": "video",
           "status": "aguardando manual",
           "qualidade": null,
           "engajamento": null,
@@ -2524,7 +2542,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc217.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "04-2100-rc217.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": null,
@@ -2549,7 +2569,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc218.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "05-2200-rc218.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": null,
@@ -2574,7 +2596,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc219.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "06-2300-rc219.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": null,
@@ -3597,7 +3621,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 4,
+    "total": 7,
     "feitos": 0,
     "data": "2026-08-27"
   },
@@ -3650,11 +3674,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6035,
-      "totalPosts": 269,
+      "seguidores": 6040,
+      "totalPosts": 272,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 114,
+      "mediaCurtidas": 108,
       "amostra": 100
     },
     "twitter": {
@@ -3698,16 +3722,8 @@
         "link": "https://www.instagram.com/reel/Da53YJhAZrS/"
       },
       {
-        "titulo": "🔮 O combate do Hytale vai mudar com runas, e dá até pra criar tornado",
-        "curtidas": 470,
-        "comentarios": 6,
-        "tipo": "image",
-        "quando": "2026-07-17T15:18:04+0000",
-        "link": "https://www.instagram.com/p/Da5hPCBkqIz/"
-      },
-      {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 392,
+        "curtidas": 398,
         "comentarios": 3,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
@@ -3715,18 +3731,26 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 389,
+        "curtidas": 390,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
         "link": "https://www.instagram.com/reel/Db4CWbPjNy5/"
+      },
+      {
+        "titulo": "👻 A transparência nova do Hytale também vai valer pra NPCs e entidade",
+        "curtidas": 342,
+        "comentarios": 8,
+        "tipo": "video",
+        "quando": "2026-07-17T20:33:36+0000",
+        "link": "https://www.instagram.com/reel/Da6FTaGCcGC/"
       }
     ],
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-17T15:17:52+0000",
-      "ate": "2026-08-27T00:16:51+0000"
+      "de": "2026-07-17T15:20:01+0000",
+      "ate": "2026-08-27T20:29:14+0000"
     },
     "serie": [
       {
