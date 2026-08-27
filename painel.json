@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-27T14:52:10.464Z",
+  "geradoEm": "2026-08-27T14:52:58.230Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -871,13 +871,9 @@
       "textoTwitter": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc216.jpg"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [
-        "04-2100-rc216.png"
-      ],
+      "arquivosTwitter": [],
       "tipo": "imagem",
       "status": "aguardando manual",
       "qualidade": null,
@@ -898,15 +894,13 @@
         "midia/site/u6pre/a.png"
       ],
       "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc215_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc215_2.jpg"
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc215.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
       "arquivosTwitter": [
-        "03-2000-rc215-1.png",
-        "03-2000-rc215-2.png"
+        "01-2000-rc215.png"
       ],
-      "tipo": "carrossel",
+      "tipo": "imagem",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -945,16 +939,10 @@
       "textoTwitter": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER\n\nO Update 6 trouxe o Hardcore oficial, escolhido na hora de criar o mundo. São cinco configurações, da mais leve à mais cruel.\n\n🔹 Desligado, o jogo normal de sempre\n🔹 Permadeath, uma vida só e acabou\n🔹 Three Strikes, três vidas pra cada jogador\n🔹 Nine Lives, onde o grupo inteiro divide um bolo de nove vidas\n🔹 Soulbound, que encerra a run pra todo mundo se qualquer um morrer\n\nE quem morre não fica olhando pra tela preta. Chegou junto o Modo Espectador, que deixa você invisível e intangível, com os NPCs ignorando sua presença por completo.\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
       "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc214_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc214_2.jpg"
-      ],
+      "midiaWeb": [],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [
-        "02-1800-rc214-1.png",
-        "02-1800-rc214-2.png"
-      ],
-      "tipo": "carrossel",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "aguardando manual",
       "qualidade": null,
       "engajamento": null,
@@ -970,7 +958,12 @@
       "textoMeta": "🚀 O UPDATE 6 SAIU E JÁ DÁ PRA BAIXAR, COM NAVEGADOR DE MODS DENTRO DO JOGO\n\nSaiu hoje, dia 27 de agosto. Em julho o estúdio disse que Espectador, Hardcore, navegador de mods e colisão em entidade estavam a umas três semanas de distância. Os quatro chegaram juntos.\n\n🔹 Navegador de mods no menu principal, com busca, filtro por categoria, print e contagem de downloads. Instala e gerencia sem sair do jogo, e o estúdio avisou que não vai ter mod pago ali\n🔹 Modo Hardcore com cinco opções, incluindo Nine Lives, onde o grupo divide um bolo de nove vidas, e Soulbound, que encerra a run se qualquer um morrer\n🔹 Modo Espectador pra quem morre no Hardcore, invisível e intangível, com os NPCs ignorando você\n🔹 Ferramenta de Cor com pintura, degradê e sombreamento, paleta de blocos salvável e seleção de até 16 milhões de blocos\n🔹 Dá pra ficar em pé em cima de entidade com colisão sólida e ser empurrado por ela\n🔹 Controle por giroscópio pra quem tem controle compatível\n🔹 STUN e TURN pra furar bloqueio de NAT, então dá pra entrar no mundo do amigo sem programa externo\n🔹 Torres de mago novas em arenito, xisto e vulcânico, e transição suave de cor entre bioma\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha\n\n⚠️ O jogo agora exige OpenGL 4.1 ou mais novo e fecha na hora se o seu computador não tiver.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🚀 O UPDATE 6 SAIU E JÁ DÁ PRA BAIXAR, COM NAVEGADOR DE MODS DENTRO DO JOGO\n\nSaiu hoje, dia 27 de agosto. Em julho o estúdio disse que Espectador, Hardcore, navegador de mods e colisão em entidade estavam a umas três semanas de distância. Os quatro chegaram juntos nessa versão.\n\n🔹 NAVEGADOR DE MODS\nDá pra descobrir, instalar e gerenciar mod direto do menu principal, sem sair do jogo. Tem filtro por categoria, busca por nome e descrição, print, contagem de downloads e as versões suportadas. O estúdio avisou que não vai existir mod pago ali dentro.\n\n🔹 MODO HARDCORE\nCinco opções na hora de criar o mundo. Desligado, Permadeath com uma vida só, Three Strikes com três vidas por jogador, Nine Lives onde o grupo divide um bolo de nove, e Soulbound, que encerra a run se qualquer um morrer.\n\n🔹 MODO ESPECTADOR\nQuem morre no Hardcore vira espectador, invisível e intangível. Os NPCs ignoram você por completo.\n\n🔹 FERRAMENTAS DE CRIATIVO\nA maior leva desde o Update 5. Chegou a Ferramenta de Cor, com modo de pintura, degradê e sombreamento. Dá pra salvar e carregar paleta de blocos própria. A ferramenta de construção passou a aguentar seleção de até 16 milhões de blocos. E a Ferramenta de Ponto marca lugar com nome e etiqueta, e teleporta pra ele.\n\n🔹 COLISÃO EM ENTIDADE\nDá pra ficar em pé em cima de entidade com colisão sólida e ser empurrado por ela de forma suave.\n\n🔹 CONTROLE POR GIROSCÓPIO\nQuem tem controle com giroscópio pode ligar o controle por movimento nas configurações de controle.\n\n🔹 CONEXÃO ENTRE JOGADORES\nEntraram os protocolos STUN e TURN pra furar bloqueio de NAT, então dá pra entrar no mundo do amigo sem programa externo. NAT duplo ainda não funciona.\n\n🔹 MUNDO E VISUAL\nRastreamento de região dizendo se você está perto de casa ou em área selvagem, transição suave de cor entre bioma, torres de mago novas nos biomas de arenito, xisto e vulcânico, transparência refeita e água com renderização melhor.\n\n🔹 ITEM E CRAFT\nTodo tipo de cascalho virou craftável na bancada de fazenda, terra vira meia laje na bancada do construtor, e corrigiram falhas de duplicação de item.\n\n🔹 SERVIDOR\nServidor dedicado se recupera sozinho quando o mundo crasha. Geração de mundo ficou bem mais rápida e a lista de amigos aguenta mais de 500.\n\n⚠️ ATENÇÃO\nO jogo agora exige OpenGL 4.1 ou mais novo e fecha na hora se o seu computador não tiver. O protocolo de rede mudou de hytale/2 pra hytale/3, então servidor e plugin precisam ser recompilados.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
-      "arquivos": [],
+      "arquivos": [
+        "midia/site/update6/5.png",
+        "midia/site/update6/1.png",
+        "midia/site/update6/3.png",
+        "midia/site/update6/2.png"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc212_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc212_2.jpg",
@@ -978,13 +971,8 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc212_4.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-      "arquivosTwitter": [
-        "01-1600-rc212-1.png",
-        "01-1600-rc212-2.png",
-        "01-1600-rc212-3.png",
-        "01-1600-rc212-4.png"
-      ],
-      "tipo": "carrossel",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -2315,7 +2303,12 @@
           "textoMeta": "🚀 O UPDATE 6 SAIU E JÁ DÁ PRA BAIXAR, COM NAVEGADOR DE MODS DENTRO DO JOGO\n\nSaiu hoje, dia 27 de agosto. Em julho o estúdio disse que Espectador, Hardcore, navegador de mods e colisão em entidade estavam a umas três semanas de distância. Os quatro chegaram juntos.\n\n🔹 Navegador de mods no menu principal, com busca, filtro por categoria, print e contagem de downloads. Instala e gerencia sem sair do jogo, e o estúdio avisou que não vai ter mod pago ali\n🔹 Modo Hardcore com cinco opções, incluindo Nine Lives, onde o grupo divide um bolo de nove vidas, e Soulbound, que encerra a run se qualquer um morrer\n🔹 Modo Espectador pra quem morre no Hardcore, invisível e intangível, com os NPCs ignorando você\n🔹 Ferramenta de Cor com pintura, degradê e sombreamento, paleta de blocos salvável e seleção de até 16 milhões de blocos\n🔹 Dá pra ficar em pé em cima de entidade com colisão sólida e ser empurrado por ela\n🔹 Controle por giroscópio pra quem tem controle compatível\n🔹 STUN e TURN pra furar bloqueio de NAT, então dá pra entrar no mundo do amigo sem programa externo\n🔹 Torres de mago novas em arenito, xisto e vulcânico, e transição suave de cor entre bioma\n🔹 Servidor dedicado se recupera sozinho quando o mundo crasha\n\n⚠️ O jogo agora exige OpenGL 4.1 ou mais novo e fecha na hora se o seu computador não tiver.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🚀 O UPDATE 6 SAIU E JÁ DÁ PRA BAIXAR, COM NAVEGADOR DE MODS DENTRO DO JOGO\n\nSaiu hoje, dia 27 de agosto. Em julho o estúdio disse que Espectador, Hardcore, navegador de mods e colisão em entidade estavam a umas três semanas de distância. Os quatro chegaram juntos nessa versão.\n\n🔹 NAVEGADOR DE MODS\nDá pra descobrir, instalar e gerenciar mod direto do menu principal, sem sair do jogo. Tem filtro por categoria, busca por nome e descrição, print, contagem de downloads e as versões suportadas. O estúdio avisou que não vai existir mod pago ali dentro.\n\n🔹 MODO HARDCORE\nCinco opções na hora de criar o mundo. Desligado, Permadeath com uma vida só, Three Strikes com três vidas por jogador, Nine Lives onde o grupo divide um bolo de nove, e Soulbound, que encerra a run se qualquer um morrer.\n\n🔹 MODO ESPECTADOR\nQuem morre no Hardcore vira espectador, invisível e intangível. Os NPCs ignoram você por completo.\n\n🔹 FERRAMENTAS DE CRIATIVO\nA maior leva desde o Update 5. Chegou a Ferramenta de Cor, com modo de pintura, degradê e sombreamento. Dá pra salvar e carregar paleta de blocos própria. A ferramenta de construção passou a aguentar seleção de até 16 milhões de blocos. E a Ferramenta de Ponto marca lugar com nome e etiqueta, e teleporta pra ele.\n\n🔹 COLISÃO EM ENTIDADE\nDá pra ficar em pé em cima de entidade com colisão sólida e ser empurrado por ela de forma suave.\n\n🔹 CONTROLE POR GIROSCÓPIO\nQuem tem controle com giroscópio pode ligar o controle por movimento nas configurações de controle.\n\n🔹 CONEXÃO ENTRE JOGADORES\nEntraram os protocolos STUN e TURN pra furar bloqueio de NAT, então dá pra entrar no mundo do amigo sem programa externo. NAT duplo ainda não funciona.\n\n🔹 MUNDO E VISUAL\nRastreamento de região dizendo se você está perto de casa ou em área selvagem, transição suave de cor entre bioma, torres de mago novas nos biomas de arenito, xisto e vulcânico, transparência refeita e água com renderização melhor.\n\n🔹 ITEM E CRAFT\nTodo tipo de cascalho virou craftável na bancada de fazenda, terra vira meia laje na bancada do construtor, e corrigiram falhas de duplicação de item.\n\n🔹 SERVIDOR\nServidor dedicado se recupera sozinho quando o mundo crasha. Geração de mundo ficou bem mais rápida e a lista de amigos aguenta mais de 500.\n\n⚠️ ATENÇÃO\nO jogo agora exige OpenGL 4.1 ou mais novo e fecha na hora se o seu computador não tiver. O protocolo de rede mudou de hytale/2 pra hytale/3, então servidor e plugin precisam ser recompilados.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
-          "arquivos": [],
+          "arquivos": [
+            "midia/site/update6/5.png",
+            "midia/site/update6/1.png",
+            "midia/site/update6/3.png",
+            "midia/site/update6/2.png"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc212_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc212_2.jpg",
@@ -2323,13 +2316,8 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc212_4.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [
-            "01-1600-rc212-1.png",
-            "01-1600-rc212-2.png",
-            "01-1600-rc212-3.png",
-            "01-1600-rc212-4.png"
-          ],
-          "tipo": "carrossel",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -2347,16 +2335,10 @@
           "textoTwitter": "💀 O MODO HARDCORE CHEGOU COM CINCO NÍVEIS, E UM DELES ACABA A RUN SE UM AMIGO MORRER\n\nO Update 6 trouxe o Hardcore oficial, escolhido na hora de criar o mundo. São cinco configurações, da mais leve à mais cruel.\n\n🔹 Desligado, o jogo normal de sempre\n🔹 Permadeath, uma vida só e acabou\n🔹 Three Strikes, três vidas pra cada jogador\n🔹 Nine Lives, onde o grupo inteiro divide um bolo de nove vidas\n🔹 Soulbound, que encerra a run pra todo mundo se qualquer um morrer\n\nE quem morre não fica olhando pra tela preta. Chegou junto o Modo Espectador, que deixa você invisível e intangível, com os NPCs ignorando sua presença por completo.\n\n📷 Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc214_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc214_2.jpg"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [
-            "02-1800-rc214-1.png",
-            "02-1800-rc214-2.png"
-          ],
-          "tipo": "carrossel",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "aguardando manual",
           "qualidade": null,
           "engajamento": null,
@@ -2397,15 +2379,13 @@
             "midia/site/u6pre/a.png"
           ],
           "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc215_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc215_2.jpg"
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc215.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
           "arquivosTwitter": [
-            "03-2000-rc215-1.png",
-            "03-2000-rc215-2.png"
+            "01-2000-rc215.png"
           ],
-          "tipo": "carrossel",
+          "tipo": "imagem",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -2423,13 +2403,9 @@
           "textoTwitter": "⚠️ ATENÇÃO, O JOGO AGORA FECHA SOZINHO SE O SEU PC NÃO TIVER OPENGL 4.1\n\nAntes de atualizar, vale saber de duas mudanças do Update 6 que quebram coisa.\n\n🔹 O Hytale passou a exigir OpenGL 4.1 ou mais novo, e o jogo fecha na hora se o seu computador não tiver. Placa de vídeo antiga é o caso de risco, então vale conferir o driver antes\n🔹 O protocolo de rede mudou de hytale/2 pra hytale/3. Todo servidor e todo plugin precisam ser recompilados pra funcionar\n\nQuem joga em servidor, calma se ele estiver fora do ar hoje. Os donos precisam recompilar tudo por causa da troca de protocolo.\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/8/update-6-patch-notes",
           "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc216.jpg"
-          ],
+          "midiaWeb": [],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-27",
-          "arquivosTwitter": [
-            "04-2100-rc216.png"
-          ],
+          "arquivosTwitter": [],
           "tipo": "imagem",
           "status": "aguardando manual",
           "qualidade": null,
@@ -3451,7 +3427,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 4,
+    "total": 1,
     "feitos": 0,
     "data": "2026-08-27"
   },
