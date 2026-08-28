@@ -6,6 +6,26 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc221",
+      "rodada": "2026-08-28 09:50",
+      "emoji": "🧠",
+      "titulo": "[SITE] AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO",
+      "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-2",
+      "fonteData": "2026-08-28",
+      "confiabilidade": "oficial",
+      "resumo": "Hotfix 0.6.2 do Update 6, so Twitter, uma imagem oficial. QC de estilo.",
+      "midia": {
+          "tipo": "imagem",
+          "url": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-2",
+          "nota": "Arte oficial do Update 6 (versao 16:9).",
+          "arquivos": [
+              "midia/site/u62/rc221.png"
+          ]
+      },
+      "twitter": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO\n\nSaiu a 0.6.2, segunda leva de correções do Update 6 no mesmo dia. A mais importante conserta perda de progresso.\n\n🔹 Memória coletada na última sessão parava de existir quando você saía do jogo ou desligava o servidor. Agora fica salva\n🔹 Mundo com mod demais estourava o limite de textura e derrubava o jogo na hora de entrar. Agora o NPC afetado só aparece sem textura, e você entra normal\n🔹 Corrigido o crash de soltar o último item de uma pilha depois de ir colocando um por um\n🔹 Quem tinha distância de visão acima de 32 no config não conseguia mais abrir o mundo. Volta a abrir, com o limite travado em 32\n🔹 Quem tem lista de amigos grande via foto padrão no lugar do avatar. Agora carrega direito\n🔹 No navegador de mods, instalar funciona mesmo se você já tinha jogado o arquivo na pasta na mão. E quando algo bloqueia, ele diz qual arquivo é, em vez de mandar checar a conexão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO\n\nSaiu a 0.6.2, segunda leva de correções do Update 6 no mesmo dia. A mais importante conserta perda de progresso.\n\n🔹 Memória coletada na última sessão parava de existir quando você saía do jogo ou desligava o servidor. Agora fica salva\n🔹 Mundo com mod demais estourava o limite de textura e derrubava o jogo na hora de entrar. Agora o NPC afetado só aparece sem textura, e você entra normal\n🔹 Corrigido o crash de soltar o último item de uma pilha depois de ir colocando um por um\n🔹 Quem tinha distância de visão acima de 32 no config não conseguia mais abrir o mundo. Volta a abrir, com o limite travado em 32\n🔹 Quem tem lista de amigos grande via foto padrão no lugar do avatar. Agora carrega direito\n🔹 No navegador de mods, instalar funciona mesmo se você já tinha jogado o arquivo na pasta na mão. E quando algo bloqueia, ele diz qual arquivo é, em vez de mandar checar a conexão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc220",
       "rodada": "2026-08-27 18:10",
       "emoji": "🟢",

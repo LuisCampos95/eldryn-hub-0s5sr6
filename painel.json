@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-28T12:29:32.393Z",
+  "geradoEm": "2026-08-28T17:27:45.182Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 220,
+      "n": 221,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 104,
+      "n": 105,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 97,
+      "n": 98,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 50,
+      "n": 51,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 40,
+      "n": 41,
       "quem": "código"
     }
   ],
@@ -557,9 +557,9 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
       "arquivosTwitter": [
-        "02-1600-rc201-1.png",
-        "02-1600-rc201-2.jpg",
-        "02-1600-rc201-3.png"
+        "03-1600-rc201-1.png",
+        "03-1600-rc201-2.jpg",
+        "03-1600-rc201-3.png"
       ],
       "tipo": "carrossel",
       "status": "agendado",
@@ -568,6 +568,32 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1689777436484180"
+    },
+    {
+      "hora": "14:00",
+      "data": "2026-08-28",
+      "id": "rc221",
+      "rede": "twitter",
+      "titulo": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO",
+      "textoMeta": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO\n\nSaiu a 0.6.2, segunda leva de correções do Update 6 no mesmo dia. A mais importante conserta perda de progresso.\n\n🔹 Memória coletada na última sessão parava de existir quando você saía do jogo ou desligava o servidor. Agora fica salva\n🔹 Mundo com mod demais estourava o limite de textura e derrubava o jogo na hora de entrar. Agora o NPC afetado só aparece sem textura, e você entra normal\n🔹 Corrigido o crash de soltar o último item de uma pilha depois de ir colocando um por um\n🔹 Quem tinha distância de visão acima de 32 no config não conseguia mais abrir o mundo. Volta a abrir, com o limite travado em 32\n🔹 Quem tem lista de amigos grande via foto padrão no lugar do avatar. Agora carrega direito\n🔹 No navegador de mods, instalar funciona mesmo se você já tinha jogado o arquivo na pasta na mão. E quando algo bloqueia, ele diz qual arquivo é, em vez de mandar checar a conexão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO\n\nSaiu a 0.6.2, segunda leva de correções do Update 6 no mesmo dia. A mais importante conserta perda de progresso.\n\n🔹 Memória coletada na última sessão parava de existir quando você saía do jogo ou desligava o servidor. Agora fica salva\n🔹 Mundo com mod demais estourava o limite de textura e derrubava o jogo na hora de entrar. Agora o NPC afetado só aparece sem textura, e você entra normal\n🔹 Corrigido o crash de soltar o último item de uma pilha depois de ir colocando um por um\n🔹 Quem tinha distância de visão acima de 32 no config não conseguia mais abrir o mundo. Volta a abrir, com o limite travado em 32\n🔹 Quem tem lista de amigos grande via foto padrão no lugar do avatar. Agora carrega direito\n🔹 No navegador de mods, instalar funciona mesmo se você já tinha jogado o arquivo na pasta na mão. E quando algo bloqueia, ele diz qual arquivo é, em vez de mandar checar a conexão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-2",
+      "arquivos": [
+        "midia/site/u62/rc221.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc221.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
+      "arquivosTwitter": [
+        "02-1400-rc221.png"
+      ],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
     },
     {
       "hora": "12:30",
@@ -595,7 +621,7 @@
         "01-1230-rc200-3.png"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -1738,12 +1764,38 @@
             "01-1230-rc200-3.png"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1689777249817532"
+        },
+        {
+          "hora": "14:00",
+          "data": "2026-08-28",
+          "id": "rc221",
+          "rede": "twitter",
+          "titulo": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO",
+          "textoMeta": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO\n\nSaiu a 0.6.2, segunda leva de correções do Update 6 no mesmo dia. A mais importante conserta perda de progresso.\n\n🔹 Memória coletada na última sessão parava de existir quando você saía do jogo ou desligava o servidor. Agora fica salva\n🔹 Mundo com mod demais estourava o limite de textura e derrubava o jogo na hora de entrar. Agora o NPC afetado só aparece sem textura, e você entra normal\n🔹 Corrigido o crash de soltar o último item de uma pilha depois de ir colocando um por um\n🔹 Quem tinha distância de visão acima de 32 no config não conseguia mais abrir o mundo. Volta a abrir, com o limite travado em 32\n🔹 Quem tem lista de amigos grande via foto padrão no lugar do avatar. Agora carrega direito\n🔹 No navegador de mods, instalar funciona mesmo se você já tinha jogado o arquivo na pasta na mão. E quando algo bloqueia, ele diz qual arquivo é, em vez de mandar checar a conexão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO\n\nSaiu a 0.6.2, segunda leva de correções do Update 6 no mesmo dia. A mais importante conserta perda de progresso.\n\n🔹 Memória coletada na última sessão parava de existir quando você saía do jogo ou desligava o servidor. Agora fica salva\n🔹 Mundo com mod demais estourava o limite de textura e derrubava o jogo na hora de entrar. Agora o NPC afetado só aparece sem textura, e você entra normal\n🔹 Corrigido o crash de soltar o último item de uma pilha depois de ir colocando um por um\n🔹 Quem tinha distância de visão acima de 32 no config não conseguia mais abrir o mundo. Volta a abrir, com o limite travado em 32\n🔹 Quem tem lista de amigos grande via foto padrão no lugar do avatar. Agora carrega direito\n🔹 No navegador de mods, instalar funciona mesmo se você já tinha jogado o arquivo na pasta na mão. E quando algo bloqueia, ele diz qual arquivo é, em vez de mandar checar a conexão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-2",
+          "arquivos": [
+            "midia/site/u62/rc221.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc221.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
+          "arquivosTwitter": [
+            "02-1400-rc221.png"
+          ],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
         },
         {
           "hora": "16:00",
@@ -1766,9 +1818,9 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-28",
           "arquivosTwitter": [
-            "02-1600-rc201-1.png",
-            "02-1600-rc201-2.jpg",
-            "02-1600-rc201-3.png"
+            "03-1600-rc201-1.png",
+            "03-1600-rc201-2.jpg",
+            "03-1600-rc201-3.png"
           ],
           "tipo": "carrossel",
           "status": "agendado",
@@ -1779,7 +1831,7 @@
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1689777436484180"
         }
       ],
-      "total": 2
+      "total": 3
     },
     {
       "dia": "2026-08-27",
@@ -3010,13 +3062,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 220,
+    "coletadosTotal": 221,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 116,
     "rejeitadosMemoria": 7,
-    "escritos": 65,
-    "agendados": 40,
+    "escritos": 66,
+    "agendados": 41,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -3027,7 +3079,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 2,
+    "total": 3,
     "feitos": 0,
     "data": "2026-08-28"
   },
@@ -3080,11 +3132,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6041,
-      "totalPosts": 279,
+      "seguidores": 6042,
+      "totalPosts": 280,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 105,
+      "mediaCurtidas": 104,
       "amostra": 100
     },
     "twitter": {
@@ -3129,7 +3181,7 @@
       },
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 419,
+        "curtidas": 425,
         "comentarios": 3,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
@@ -3155,8 +3207,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-17T15:28:48+0000",
-      "ate": "2026-08-28T04:29:55+0000"
+      "de": "2026-07-17T18:31:58+0000",
+      "ate": "2026-08-28T16:52:47+0000"
     },
     "serie": [
       {
