@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-28T17:27:45.182Z",
+  "geradoEm": "2026-08-29T19:21:30.488Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 221,
+      "n": 222,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 105,
+      "n": 106,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 98,
+      "n": 99,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 51,
+      "n": 52,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 41,
+      "n": 42,
       "quem": "código"
     }
   ],
@@ -545,11 +545,7 @@
       "textoMeta": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/kweebec-origins",
-      "arquivos": [
-        "midia/curseforge/kweebec/1.png",
-        "midia/curseforge/kweebec/2.jpg",
-        "midia/curseforge/kweebec/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc201_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc201_2.jpg",
@@ -562,7 +558,7 @@
         "03-1600-rc201-3.png"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -578,9 +574,7 @@
       "textoMeta": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO\n\nSaiu a 0.6.2, segunda leva de correções do Update 6 no mesmo dia. A mais importante conserta perda de progresso.\n\n🔹 Memória coletada na última sessão parava de existir quando você saía do jogo ou desligava o servidor. Agora fica salva\n🔹 Mundo com mod demais estourava o limite de textura e derrubava o jogo na hora de entrar. Agora o NPC afetado só aparece sem textura, e você entra normal\n🔹 Corrigido o crash de soltar o último item de uma pilha depois de ir colocando um por um\n🔹 Quem tinha distância de visão acima de 32 no config não conseguia mais abrir o mundo. Volta a abrir, com o limite travado em 32\n🔹 Quem tem lista de amigos grande via foto padrão no lugar do avatar. Agora carrega direito\n🔹 No navegador de mods, instalar funciona mesmo se você já tinha jogado o arquivo na pasta na mão. E quando algo bloqueia, ele diz qual arquivo é, em vez de mandar checar a conexão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO\n\nSaiu a 0.6.2, segunda leva de correções do Update 6 no mesmo dia. A mais importante conserta perda de progresso.\n\n🔹 Memória coletada na última sessão parava de existir quando você saía do jogo ou desligava o servidor. Agora fica salva\n🔹 Mundo com mod demais estourava o limite de textura e derrubava o jogo na hora de entrar. Agora o NPC afetado só aparece sem textura, e você entra normal\n🔹 Corrigido o crash de soltar o último item de uma pilha depois de ir colocando um por um\n🔹 Quem tinha distância de visão acima de 32 no config não conseguia mais abrir o mundo. Volta a abrir, com o limite travado em 32\n🔹 Quem tem lista de amigos grande via foto padrão no lugar do avatar. Agora carrega direito\n🔹 No navegador de mods, instalar funciona mesmo se você já tinha jogado o arquivo na pasta na mão. E quando algo bloqueia, ele diz qual arquivo é, em vez de mandar checar a conexão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-2",
-      "arquivos": [
-        "midia/site/u62/rc221.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc221.jpg"
       ],
@@ -604,11 +598,7 @@
       "textoMeta": "🍥 DÁ PRA FAZER O SELO DE MÃO E SOLTAR BOLA DE FOGO IGUAL NO NARUTO, EM MOD DE BRASILEIRO\n\nO Tales of Shinobi é feito por um dev brasileiro e usa os jutsus que todo mundo reconhece. Você segura CTRL pra carregar chakra e monta a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Clique, clique, F solta a Bola de Fogo, que explode no impacto\n🔹 Clique, F, clique invoca o Clone das Sombras pra confundir o inimigo\n🔹 Painel de status com Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar em quatro espaços de combo\n🔹 Tem clã e elemento por personagem, e mais dois combos já reservados pros próximos jutsus\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🍥 DÁ PRA FAZER O SELO DE MÃO E SOLTAR BOLA DE FOGO IGUAL NO NARUTO, EM MOD DE BRASILEIRO\n\nO Tales of Shinobi é feito por um dev brasileiro e usa os jutsus que todo mundo reconhece. Você segura CTRL pra carregar chakra e monta a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Clique, clique, F solta a Bola de Fogo, que explode no impacto\n🔹 Clique, F, clique invoca o Clone das Sombras pra confundir o inimigo\n🔹 Painel de status com Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar em quatro espaços de combo\n🔹 Tem clã e elemento por personagem, e mais dois combos já reservados pros próximos jutsus\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/tales-of-shinobi",
-      "arquivos": [
-        "midia/curseforge/shinobi/2.png",
-        "midia/curseforge/shinobi/1.png",
-        "midia/curseforge/shinobi/3.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc200_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc200_2.jpg",
@@ -1747,11 +1737,7 @@
           "textoMeta": "🍥 DÁ PRA FAZER O SELO DE MÃO E SOLTAR BOLA DE FOGO IGUAL NO NARUTO, EM MOD DE BRASILEIRO\n\nO Tales of Shinobi é feito por um dev brasileiro e usa os jutsus que todo mundo reconhece. Você segura CTRL pra carregar chakra e monta a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Clique, clique, F solta a Bola de Fogo, que explode no impacto\n🔹 Clique, F, clique invoca o Clone das Sombras pra confundir o inimigo\n🔹 Painel de status com Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar em quatro espaços de combo\n🔹 Tem clã e elemento por personagem, e mais dois combos já reservados pros próximos jutsus\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🍥 DÁ PRA FAZER O SELO DE MÃO E SOLTAR BOLA DE FOGO IGUAL NO NARUTO, EM MOD DE BRASILEIRO\n\nO Tales of Shinobi é feito por um dev brasileiro e usa os jutsus que todo mundo reconhece. Você segura CTRL pra carregar chakra e monta a sequência de selos com o clique e a tecla F, sempre de mão vazia.\n\n🔹 Clique, clique, F solta a Bola de Fogo, que explode no impacto\n🔹 Clique, F, clique invoca o Clone das Sombras pra confundir o inimigo\n🔹 Painel de status com Chakra, Ninjutsu, Taijutsu, Genjutsu e Controle de Chakra\n🔹 Árvore de habilidade pra desbloquear jutsu novo e equipar em quatro espaços de combo\n🔹 Tem clã e elemento por personagem, e mais dois combos já reservados pros próximos jutsus\n\n🔧 Kurokoch001\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/tales-of-shinobi",
-          "arquivos": [
-            "midia/curseforge/shinobi/2.png",
-            "midia/curseforge/shinobi/1.png",
-            "midia/curseforge/shinobi/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc200_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc200_2.jpg",
@@ -1780,9 +1766,7 @@
           "textoMeta": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO\n\nSaiu a 0.6.2, segunda leva de correções do Update 6 no mesmo dia. A mais importante conserta perda de progresso.\n\n🔹 Memória coletada na última sessão parava de existir quando você saía do jogo ou desligava o servidor. Agora fica salva\n🔹 Mundo com mod demais estourava o limite de textura e derrubava o jogo na hora de entrar. Agora o NPC afetado só aparece sem textura, e você entra normal\n🔹 Corrigido o crash de soltar o último item de uma pilha depois de ir colocando um por um\n🔹 Quem tinha distância de visão acima de 32 no config não conseguia mais abrir o mundo. Volta a abrir, com o limite travado em 32\n🔹 Quem tem lista de amigos grande via foto padrão no lugar do avatar. Agora carrega direito\n🔹 No navegador de mods, instalar funciona mesmo se você já tinha jogado o arquivo na pasta na mão. E quando algo bloqueia, ele diz qual arquivo é, em vez de mandar checar a conexão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🧠 AS MEMÓRIAS QUE VOCÊ JUNTOU NÃO SOMEM MAIS QUANDO VOCÊ FECHA O JOGO\n\nSaiu a 0.6.2, segunda leva de correções do Update 6 no mesmo dia. A mais importante conserta perda de progresso.\n\n🔹 Memória coletada na última sessão parava de existir quando você saía do jogo ou desligava o servidor. Agora fica salva\n🔹 Mundo com mod demais estourava o limite de textura e derrubava o jogo na hora de entrar. Agora o NPC afetado só aparece sem textura, e você entra normal\n🔹 Corrigido o crash de soltar o último item de uma pilha depois de ir colocando um por um\n🔹 Quem tinha distância de visão acima de 32 no config não conseguia mais abrir o mundo. Volta a abrir, com o limite travado em 32\n🔹 Quem tem lista de amigos grande via foto padrão no lugar do avatar. Agora carrega direito\n🔹 No navegador de mods, instalar funciona mesmo se você já tinha jogado o arquivo na pasta na mão. E quando algo bloqueia, ele diz qual arquivo é, em vez de mandar checar a conexão\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-2",
-          "arquivos": [
-            "midia/site/u62/rc221.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc221.jpg"
           ],
@@ -1806,11 +1790,7 @@
           "textoMeta": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🌳 RESGATARAM KWEEBECS QUE O ESTÚDIO DESENHOU E NUNCA COLOCOU NO JOGO\n\nO Kweebec Origins pega conceitos de kweebec criados pela própria equipe do Hytale que nunca chegaram a sair e traz eles pro jogo, junto com um vilarejo novo pra encontrar no mundo.\n\n🔹 O vilarejo aparece na Zona 1, longe do spawn, mais ou menos entre as coordenadas 1000 e 2500\n🔹 Tem o Kweebec Ancião em uma das casas, e um baú guardando o cajado dele\n🔹 Entre os tipos novos estão o Ritualista, o Kweebec Ancião, o filhote e o Cantor, que anda com um coelho branco\n🔹 O vilarejo tem música própria e mensagem de boas-vindas quando você chega\n🔹 Dá pra testar a estrutura na hora com o comando de carregar prefab\n\n🔧 Pecsitonic\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/kweebec-origins",
-          "arquivos": [
-            "midia/curseforge/kweebec/1.png",
-            "midia/curseforge/kweebec/2.jpg",
-            "midia/curseforge/kweebec/3.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc201_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc201_2.jpg",
@@ -1823,7 +1803,7 @@
             "03-1600-rc201-3.png"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -3062,13 +3042,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 221,
+    "coletadosTotal": 222,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 116,
     "rejeitadosMemoria": 7,
-    "escritos": 66,
-    "agendados": 41,
+    "escritos": 67,
+    "agendados": 42,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -3079,9 +3059,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 3,
+    "total": 2,
     "feitos": 0,
-    "data": "2026-08-28"
+    "data": "2026-08-29"
   },
   "custos": {
     "infraMensal": 0,
@@ -3132,11 +3112,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6042,
-      "totalPosts": 280,
+      "seguidores": 6043,
+      "totalPosts": 283,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 104,
+      "mediaCurtidas": 99,
       "amostra": 100
     },
     "twitter": {
@@ -3172,16 +3152,8 @@
         "link": "https://www.instagram.com/reel/DbOai4nFUVP/"
       },
       {
-        "titulo": "🎛️ Esse é o sistema que vai montar todas as boss fights do Hytale",
-        "curtidas": 501,
-        "comentarios": 10,
-        "tipo": "video",
-        "quando": "2026-07-17T18:31:58+0000",
-        "link": "https://www.instagram.com/reel/Da53YJhAZrS/"
-      },
-      {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 425,
+        "curtidas": 462,
         "comentarios": 3,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
@@ -3189,7 +3161,7 @@
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
-        "curtidas": 393,
+        "curtidas": 395,
         "comentarios": 9,
         "tipo": "video",
         "quando": "2026-08-10T22:00:59+0000",
@@ -3202,13 +3174,21 @@
         "tipo": "video",
         "quando": "2026-07-17T20:33:36+0000",
         "link": "https://www.instagram.com/reel/Da6FTaGCcGC/"
+      },
+      {
+        "titulo": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD",
+        "curtidas": 285,
+        "comentarios": 3,
+        "tipo": "video",
+        "quando": "2026-08-25T15:58:47+0000",
+        "link": "https://www.instagram.com/reel/DceA2FjjAwh/"
       }
     ],
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-17T18:31:58+0000",
-      "ate": "2026-08-28T16:52:47+0000"
+      "de": "2026-07-17T20:33:36+0000",
+      "ate": "2026-08-29T17:20:03+0000"
     },
     "serie": [
       {

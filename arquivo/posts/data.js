@@ -6,6 +6,28 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc222",
+      "rodada": "2026-08-28 10:20",
+      "emoji": "🐉",
+      "titulo": "[MOD] TEM UM DRAGÃO DE GELO VOADOR COM LUTA EM FASES NO FUNDO DESSA MASMORRA",
+      "fonte": "https://www.curseforge.com/hytale/mods/endgame-qol",
+      "fonteData": "2026-08-28",
+      "confiabilidade": "comunidade",
+      "resumo": "Maior mod de endgame do jogo (450 mil downloads), acabou de ficar compativel com o Update 6. QC de estilo.",
+      "midia": {
+          "tipo": "carrossel",
+          "url": "https://www.curseforge.com/hytale/mods/endgame-qol",
+          "nota": "Imagens da galeria do mod.",
+          "arquivos": [
+              "midia/curseforge/endgame/1.png",
+              "midia/curseforge/endgame/3.png",
+              "midia/curseforge/endgame/4.png"
+          ]
+      },
+      "twitter": "🐉 TEM UM DRAGÃO DE GELO VOADOR COM LUTA EM FASES ESPERANDO NO FUNDO DESSA MASMORRA\n\nO Endgame & QoL é o maior mod de conteúdo de fim de jogo do Hytale, com mais de 450 mil downloads, e acabou de ficar compatível com o Update 6.\n\n🔹 Três chefes em fases, cada um com barra própria que muda conforme a luta anda\n🔹 O Dragão de Gelo mora na Masmorra Congelada e luta voando pela caverna\n🔹 Seis instâncias no total, três masmorras fixas e três portais temporais\n🔹 Uma dimensão inteira à parte, o Void Realm, onde o Golem do Vazio só aparece depois de você segurar três ondas\n🔹 Matando o Golem tem 10% de chance de cair a versão bichinho dele, que te acompanha\n🔹 Armadura Onyxium como melhor equipamento, mais bestiário e diário próprios\n\n📷 Lewaii\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🐉 TEM UM DRAGÃO DE GELO VOADOR COM LUTA EM FASES ESPERANDO NO FUNDO DESSA MASMORRA\n\nO Endgame & QoL é o maior mod de conteúdo de fim de jogo do Hytale, com mais de 450 mil downloads, e acabou de ficar compatível com o Update 6.\n\n🔹 Três chefes em fases, cada um com barra própria que muda conforme a luta anda\n🔹 O Dragão de Gelo mora na Masmorra Congelada e luta voando pela caverna\n🔹 Seis instâncias no total, três masmorras fixas e três portais temporais\n🔹 Uma dimensão inteira à parte, o Void Realm, onde o Golem do Vazio só aparece depois de você segurar três ondas\n🔹 Matando o Golem tem 10% de chance de cair a versão bichinho dele, que te acompanha\n🔹 Armadura Onyxium como melhor equipamento, mais bestiário e diário próprios\n\n📷 Lewaii\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc221",
       "rodada": "2026-08-28 09:50",
       "emoji": "🧠",
