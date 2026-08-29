@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-29T19:24:48.984Z",
+  "geradoEm": "2026-08-29T20:57:36.692Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 222,
+      "n": 224,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 106,
+      "n": 108,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 99,
+      "n": 101,
       "quem": "código"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 52,
+      "n": 54,
       "quem": "IA + código"
     },
     {
@@ -539,21 +539,19 @@
     {
       "hora": "16:00",
       "data": "2026-08-30",
-      "id": "rc202",
+      "id": "rc224",
       "rede": "facebook",
-      "titulo": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO",
-      "textoMeta": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://www.curseforge.com/hytale/mods/alterverse-orbs",
+      "titulo": "🎮 SAIU UM PACOTE DE MINIGAME FEITO SÓ COM AS FERRAMENTAS QUE VÊM NO PRÓPRIO JOGO",
+      "textoMeta": "🎮 SAIU UM PACOTE DE MINIGAME FEITO SÓ COM AS FERRAMENTAS QUE VÊM NO PRÓPRIO JOGO\n\nO Foxy Trigger Minigames usa os volumes de gatilho, aquela ferramenta de criativo que o Update 6 ampliou, pra montar minigame de verdade dentro do Hytale. Sem código, só com o que já vem na caixa.\n\n🔹 Arena com aviso de vento chegando, e uma parede que pisca mostrando de onde ele vem\n🔹 Chão em xadrez que serve de área de disputa\n🔹 Tudo montado com volume de gatilho, então dá pra qualquer um copiar a ideia no próprio mundo\n\n🎥 foxy_cca\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🎮 SAIU UM PACOTE DE MINIGAME FEITO SÓ COM AS FERRAMENTAS QUE VÊM NO PRÓPRIO JOGO\n\nO Foxy Trigger Minigames usa os volumes de gatilho, aquela ferramenta de criativo que o Update 6 ampliou, pra montar minigame de verdade dentro do Hytale. Sem código, só com o que já vem na caixa.\n\n🔹 Arena com aviso de vento chegando, e uma parede que pisca mostrando de onde ele vem\n🔹 Chão em xadrez que serve de área de disputa\n🔹 Tudo montado com volume de gatilho, então dá pra qualquer um copiar a ideia no próprio mundo\n\n🎥 @foxy_cca\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/foxy_cca/status/2093425874963939778",
       "arquivos": [
-        "midia/curseforge/alterverse/1.png",
-        "midia/curseforge/alterverse/2.png",
-        "midia/curseforge/alterverse/3.png"
+        "midia/twitter/rc_foxy_corte.mp4"
       ],
       "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc202_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc202_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc202_3.jpg"
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc224_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc224_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc224_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
       "arquivosTwitter": [
@@ -567,26 +565,24 @@
       "engajamento": null,
       "categoria": null,
       "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1691076896354234"
+      "urlPublicada": "https://www.facebook.com/reel/941125201694693/"
     },
     {
       "hora": "12:30",
       "data": "2026-08-30",
-      "id": "rc208",
+      "id": "rc223",
       "rede": "facebook",
-      "titulo": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE",
-      "textoMeta": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://www.curseforge.com/hytale/mods/hyphone",
+      "titulo": "🌪️ ABRIU UM PORTAL PRA UM VILAREJO KWEEBEC AMALDIÇOADO, E VOCÊ TEM 15 MINUTOS LÁ DENTRO",
+      "textoMeta": "🌪️ ABRIU UM PORTAL PRA UM VILAREJO KWEEBEC AMALDIÇOADO, E VOCÊ TEM 15 MINUTOS LÁ DENTRO\n\nUm modder pegou as ferramentas novas de encontro que vieram no Update 6 e está refazendo as lutas de chefe dele com elas. O resultado é um evento com portal, tempo contado e chefe com nome próprio.\n\n🔹 O lugar se chama Vilarejo Kweebec Abandonado, um fragmento de Orbis à parte\n🔹 O relógio marca 15 minutos até o portal fechar, então a luta tem pressa\n🔹 O chefe é o Bramblekin Enfurecido, com barra de vida no topo da tela\n🔹 As ferramentas de encontro chegaram no Update 6 e servem pra montar briga de vários NPCs com roteiro\n\n🎥 69bananaphone\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🌪️ ABRIU UM PORTAL PRA UM VILAREJO KWEEBEC AMALDIÇOADO, E VOCÊ TEM 15 MINUTOS LÁ DENTRO\n\nUm modder pegou as ferramentas novas de encontro que vieram no Update 6 e está refazendo as lutas de chefe dele com elas. O resultado é um evento com portal, tempo contado e chefe com nome próprio.\n\n🔹 O lugar se chama Vilarejo Kweebec Abandonado, um fragmento de Orbis à parte\n🔹 O relógio marca 15 minutos até o portal fechar, então a luta tem pressa\n🔹 O chefe é o Bramblekin Enfurecido, com barra de vida no topo da tela\n🔹 As ferramentas de encontro chegaram no Update 6 e servem pra montar briga de vários NPCs com roteiro\n\n🎥 @69bananaphone\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/69bananaphone/status/2093698055262343404",
       "arquivos": [
-        "midia/curseforge/hyphone/1.png",
-        "midia/curseforge/hyphone/2.png",
-        "midia/curseforge/hyphone/3.png"
+        "midia/twitter/rc_banana.mp4"
       ],
       "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc208_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc208_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc208_3.jpg"
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc223_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc223_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc223_3.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
       "arquivosTwitter": [
@@ -600,7 +596,7 @@
       "engajamento": null,
       "categoria": null,
       "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1691076679687589"
+      "urlPublicada": "https://www.facebook.com/reel/1542591073842119/"
     },
     {
       "hora": "17:30",
@@ -624,7 +620,7 @@
         "01-1730-rc222-3.png"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -1826,21 +1822,19 @@
         {
           "hora": "12:30",
           "data": "2026-08-30",
-          "id": "rc208",
+          "id": "rc223",
           "rede": "facebook",
-          "titulo": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE",
-          "textoMeta": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "📱 AGORA CADA JOGADOR TEM CELULAR COM NÚMERO PRÓPRIO, E DÁ PRA LIGAR POR VOZ DE VERDADE\n\nO HyPhone coloca um celular funcional na tela. Cada jogador ganha uma linha com número, agenda de contatos e caixa de entrada. Tem mensagem, grupo, chamada de voz e até uma rede social interna chamada HySocial.\n\n🔹 São dois aparelhos, o smartphone completo com oito aplicativos, 12 papéis de parede e 6 temas\n🔹 E o telefone de teclinha, com aquela telinha verde monocromática e menu de teclado\n🔹 Os dois compartilham a mesma linha, então número e conversa continuam se você trocar de aparelho\n🔹 Notificação aparece no canto da tela enquanto você joga\n🔹 Os dois são craftáveis, o básico sai bem mais barato que o moderno\n🔹 O mod já vem traduzido pro português\n\n📷 Karma1968\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://www.curseforge.com/hytale/mods/hyphone",
+          "titulo": "🌪️ ABRIU UM PORTAL PRA UM VILAREJO KWEEBEC AMALDIÇOADO, E VOCÊ TEM 15 MINUTOS LÁ DENTRO",
+          "textoMeta": "🌪️ ABRIU UM PORTAL PRA UM VILAREJO KWEEBEC AMALDIÇOADO, E VOCÊ TEM 15 MINUTOS LÁ DENTRO\n\nUm modder pegou as ferramentas novas de encontro que vieram no Update 6 e está refazendo as lutas de chefe dele com elas. O resultado é um evento com portal, tempo contado e chefe com nome próprio.\n\n🔹 O lugar se chama Vilarejo Kweebec Abandonado, um fragmento de Orbis à parte\n🔹 O relógio marca 15 minutos até o portal fechar, então a luta tem pressa\n🔹 O chefe é o Bramblekin Enfurecido, com barra de vida no topo da tela\n🔹 As ferramentas de encontro chegaram no Update 6 e servem pra montar briga de vários NPCs com roteiro\n\n🎥 69bananaphone\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🌪️ ABRIU UM PORTAL PRA UM VILAREJO KWEEBEC AMALDIÇOADO, E VOCÊ TEM 15 MINUTOS LÁ DENTRO\n\nUm modder pegou as ferramentas novas de encontro que vieram no Update 6 e está refazendo as lutas de chefe dele com elas. O resultado é um evento com portal, tempo contado e chefe com nome próprio.\n\n🔹 O lugar se chama Vilarejo Kweebec Abandonado, um fragmento de Orbis à parte\n🔹 O relógio marca 15 minutos até o portal fechar, então a luta tem pressa\n🔹 O chefe é o Bramblekin Enfurecido, com barra de vida no topo da tela\n🔹 As ferramentas de encontro chegaram no Update 6 e servem pra montar briga de vários NPCs com roteiro\n\n🎥 @69bananaphone\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/69bananaphone/status/2093698055262343404",
           "arquivos": [
-            "midia/curseforge/hyphone/1.png",
-            "midia/curseforge/hyphone/2.png",
-            "midia/curseforge/hyphone/3.png"
+            "midia/twitter/rc_banana.mp4"
           ],
           "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc208_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc208_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc208_3.jpg"
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc223_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc223_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc223_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
           "arquivosTwitter": [
@@ -1854,26 +1848,24 @@
           "engajamento": null,
           "categoria": null,
           "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1691076679687589"
+          "urlPublicada": "https://www.facebook.com/reel/1542591073842119/"
         },
         {
           "hora": "16:00",
           "data": "2026-08-30",
-          "id": "rc202",
+          "id": "rc224",
           "rede": "facebook",
-          "titulo": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO",
-          "textoMeta": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ PODE COLOCAR NO MUNDO\n\nExiste uma arte conceitual antiga do Hytale chamada Alterverse, que mostra os planetas do universo do jogo ligados por correntes de energia. O Alterverse Orbs transformou cada um deles em um bloco esférico gigante.\n\n🔹 Orbis, o planeta onde o jogo acontece, com o oceano e os continentes desenhados\n🔹 Numdrassl, Nexus, Tor'Balyn e Karpak, cada um com a textura da arte original\n🔹 No modo aventura eles saem na bancada de móveis, categoria diversos\n🔹 Precisa ter restaurado 50 memórias no Coração de Orbis pra liberar a receita\n\n🔧 Lordimass\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://www.curseforge.com/hytale/mods/alterverse-orbs",
+          "titulo": "🎮 SAIU UM PACOTE DE MINIGAME FEITO SÓ COM AS FERRAMENTAS QUE VÊM NO PRÓPRIO JOGO",
+          "textoMeta": "🎮 SAIU UM PACOTE DE MINIGAME FEITO SÓ COM AS FERRAMENTAS QUE VÊM NO PRÓPRIO JOGO\n\nO Foxy Trigger Minigames usa os volumes de gatilho, aquela ferramenta de criativo que o Update 6 ampliou, pra montar minigame de verdade dentro do Hytale. Sem código, só com o que já vem na caixa.\n\n🔹 Arena com aviso de vento chegando, e uma parede que pisca mostrando de onde ele vem\n🔹 Chão em xadrez que serve de área de disputa\n🔹 Tudo montado com volume de gatilho, então dá pra qualquer um copiar a ideia no próprio mundo\n\n🎥 foxy_cca\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🎮 SAIU UM PACOTE DE MINIGAME FEITO SÓ COM AS FERRAMENTAS QUE VÊM NO PRÓPRIO JOGO\n\nO Foxy Trigger Minigames usa os volumes de gatilho, aquela ferramenta de criativo que o Update 6 ampliou, pra montar minigame de verdade dentro do Hytale. Sem código, só com o que já vem na caixa.\n\n🔹 Arena com aviso de vento chegando, e uma parede que pisca mostrando de onde ele vem\n🔹 Chão em xadrez que serve de área de disputa\n🔹 Tudo montado com volume de gatilho, então dá pra qualquer um copiar a ideia no próprio mundo\n\n🎥 @foxy_cca\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/foxy_cca/status/2093425874963939778",
           "arquivos": [
-            "midia/curseforge/alterverse/1.png",
-            "midia/curseforge/alterverse/2.png",
-            "midia/curseforge/alterverse/3.png"
+            "midia/twitter/rc_foxy_corte.mp4"
           ],
           "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc202_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc202_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc202_3.jpg"
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc224_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc224_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc224_3.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
           "arquivosTwitter": [
@@ -1887,7 +1879,7 @@
           "engajamento": null,
           "categoria": null,
           "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1691076896354234"
+          "urlPublicada": "https://www.facebook.com/reel/941125201694693/"
         }
       ],
       "total": 2
@@ -1917,7 +1909,7 @@
             "01-1730-rc222-3.png"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -3244,12 +3236,12 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 222,
+    "coletadosTotal": 224,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 116,
     "rejeitadosMemoria": 7,
-    "escritos": 67,
+    "escritos": 69,
     "agendados": 44,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
@@ -3355,7 +3347,7 @@
       },
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 462,
+        "curtidas": 466,
         "comentarios": 3,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",

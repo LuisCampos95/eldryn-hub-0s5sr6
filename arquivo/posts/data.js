@@ -6,6 +6,48 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc224",
+      "rodada": "2026-08-29 17:45",
+      "emoji": "🎮",
+      "titulo": "[COMUNIDADE] SAIU UM PACOTE DE MINIGAME FEITO SÓ COM AS FERRAMENTAS DO PRÓPRIO JOGO",
+      "fonte": "https://x.com/foxy_cca/status/2093425874963939778",
+      "fonteData": "2026-08-29",
+      "confiabilidade": "comunidade",
+      "resumo": "Achado no X (#HytaleModding) com a extensao reconectada. Video do proprio criador. QC de estilo.",
+      "midia": {
+          "tipo": "video",
+          "url": "https://x.com/foxy_cca/status/2093425874963939778",
+          "nota": "Video do tweet original.",
+          "arquivos": [
+              "midia/twitter/rc_foxy_corte.mp4"
+          ],
+          "video": "midia/twitter/rc_foxy_corte.mp4"
+      },
+      "twitter": "🎮 SAIU UM PACOTE DE MINIGAME FEITO SÓ COM AS FERRAMENTAS QUE VÊM NO PRÓPRIO JOGO\n\nO Foxy Trigger Minigames usa os volumes de gatilho, aquela ferramenta de criativo que o Update 6 ampliou, pra montar minigame de verdade dentro do Hytale. Sem código, só com o que já vem na caixa.\n\n🔹 Arena com aviso de vento chegando, e uma parede que pisca mostrando de onde ele vem\n🔹 Chão em xadrez que serve de área de disputa\n🔹 Tudo montado com volume de gatilho, então dá pra qualquer um copiar a ideia no próprio mundo\n\n🎥 @foxy_cca\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🎮 SAIU UM PACOTE DE MINIGAME FEITO SÓ COM AS FERRAMENTAS QUE VÊM NO PRÓPRIO JOGO\n\nO Foxy Trigger Minigames usa os volumes de gatilho, aquela ferramenta de criativo que o Update 6 ampliou, pra montar minigame de verdade dentro do Hytale. Sem código, só com o que já vem na caixa.\n\n🔹 Arena com aviso de vento chegando, e uma parede que pisca mostrando de onde ele vem\n🔹 Chão em xadrez que serve de área de disputa\n🔹 Tudo montado com volume de gatilho, então dá pra qualquer um copiar a ideia no próprio mundo\n\n🎥 foxy_cca\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc223",
+      "rodada": "2026-08-29 17:45",
+      "emoji": "🌪️",
+      "titulo": "[COMUNIDADE] ABRIU UM PORTAL PRA UM VILAREJO KWEEBEC AMALDIÇOADO, E VOCÊ TEM 15 MINUTOS",
+      "fonte": "https://x.com/69bananaphone/status/2093698055262343404",
+      "fonteData": "2026-08-29",
+      "confiabilidade": "comunidade",
+      "resumo": "Achado no X (#HytaleModding) com a extensao reconectada. Video do proprio criador. QC de estilo.",
+      "midia": {
+          "tipo": "video",
+          "url": "https://x.com/69bananaphone/status/2093698055262343404",
+          "nota": "Video do tweet original.",
+          "arquivos": [
+              "midia/twitter/rc_banana.mp4"
+          ],
+          "video": "midia/twitter/rc_banana.mp4"
+      },
+      "twitter": "🌪️ ABRIU UM PORTAL PRA UM VILAREJO KWEEBEC AMALDIÇOADO, E VOCÊ TEM 15 MINUTOS LÁ DENTRO\n\nUm modder pegou as ferramentas novas de encontro que vieram no Update 6 e está refazendo as lutas de chefe dele com elas. O resultado é um evento com portal, tempo contado e chefe com nome próprio.\n\n🔹 O lugar se chama Vilarejo Kweebec Abandonado, um fragmento de Orbis à parte\n🔹 O relógio marca 15 minutos até o portal fechar, então a luta tem pressa\n🔹 O chefe é o Bramblekin Enfurecido, com barra de vida no topo da tela\n🔹 As ferramentas de encontro chegaram no Update 6 e servem pra montar briga de vários NPCs com roteiro\n\n🎥 @69bananaphone\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🌪️ ABRIU UM PORTAL PRA UM VILAREJO KWEEBEC AMALDIÇOADO, E VOCÊ TEM 15 MINUTOS LÁ DENTRO\n\nUm modder pegou as ferramentas novas de encontro que vieram no Update 6 e está refazendo as lutas de chefe dele com elas. O resultado é um evento com portal, tempo contado e chefe com nome próprio.\n\n🔹 O lugar se chama Vilarejo Kweebec Abandonado, um fragmento de Orbis à parte\n🔹 O relógio marca 15 minutos até o portal fechar, então a luta tem pressa\n🔹 O chefe é o Bramblekin Enfurecido, com barra de vida no topo da tela\n🔹 As ferramentas de encontro chegaram no Update 6 e servem pra montar briga de vários NPCs com roteiro\n\n🎥 69bananaphone\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc222",
       "rodada": "2026-08-28 10:20",
       "emoji": "🐉",
