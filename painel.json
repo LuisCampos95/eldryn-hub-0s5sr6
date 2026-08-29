@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-29T20:57:36.692Z",
+  "geradoEm": "2026-08-29T20:58:06.637Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -549,17 +549,13 @@
         "midia/twitter/rc_foxy_corte.mp4"
       ],
       "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc224_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc224_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc224_3.jpg"
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc224.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
       "arquivosTwitter": [
-        "02-1600-rc202-1.png",
-        "02-1600-rc202-2.png",
-        "02-1600-rc202-3.png"
+        "02-1600-rc224.mp4"
       ],
-      "tipo": "carrossel",
+      "tipo": "video",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -580,17 +576,13 @@
         "midia/twitter/rc_banana.mp4"
       ],
       "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc223_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc223_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc223_3.jpg"
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc223.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
       "arquivosTwitter": [
-        "01-1230-rc208-1.png",
-        "01-1230-rc208-2.png",
-        "01-1230-rc208-3.png"
+        "01-1230-rc223.mp4"
       ],
-      "tipo": "carrossel",
+      "tipo": "video",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -1832,17 +1824,13 @@
             "midia/twitter/rc_banana.mp4"
           ],
           "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc223_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc223_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc223_3.jpg"
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc223.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
           "arquivosTwitter": [
-            "01-1230-rc208-1.png",
-            "01-1230-rc208-2.png",
-            "01-1230-rc208-3.png"
+            "01-1230-rc223.mp4"
           ],
-          "tipo": "carrossel",
+          "tipo": "video",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -1863,17 +1851,13 @@
             "midia/twitter/rc_foxy_corte.mp4"
           ],
           "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc224_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc224_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc224_3.jpg"
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc224.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
           "arquivosTwitter": [
-            "02-1600-rc202-1.png",
-            "02-1600-rc202-2.png",
-            "02-1600-rc202-3.png"
+            "02-1600-rc224.mp4"
           ],
-          "tipo": "carrossel",
+          "tipo": "video",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
