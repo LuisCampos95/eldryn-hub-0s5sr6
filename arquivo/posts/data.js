@@ -6,6 +6,70 @@
 // Todo post termina com o código de criador (⭐ ... BRASIL ou HYBR ...).
 window.ELDRYN_POSTS = [
   {
+      "id": "rc227",
+      "rodada": "2026-08-30 17:55",
+      "emoji": "🐝",
+      "titulo": "[COMUNIDADE] ESSE CURTA MOSTRA O DIA DE UMA JOGADORA COM O BEEDIO GRUDADO NELA",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1vui5ob/hytale_with_the_bestie/",
+      "fonteData": "2026-08-30",
+      "confiabilidade": "comunidade",
+      "resumo": "Indicado pelo Luis. QC de estilo.",
+      "midia": {
+          "url": "https://www.reddit.com/r/hytale/comments/1vui5ob/hytale_with_the_bestie/",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/reddit/rc_beedio.mp4"
+          ],
+          "video": "midia/reddit/rc_beedio.mp4"
+      },
+      "twitter": "🐝 ESSE CURTA MOSTRA O DIA DE UMA JOGADORA COM O BEEDIO GRUDADO NELA\n\nUm clipe curto e bem feito rodando na feira de um vilarejo à beira-mar. A graça está no Beedio, aquele bichinho do jogo, que segue a personagem por toda a cena.\n\n🔹 O cenário é uma feira com barraca listrada, carrinho de fruta e mesa na areia\n🔹 O autor está atrás de gente pra fazer mais curta e história dentro do jogo\n🔹 Passou de 200 votos no Reddit em poucos dias\n\n🎥 u/Few_Mention3392\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🐝 ESSE CURTA MOSTRA O DIA DE UMA JOGADORA COM O BEEDIO GRUDADO NELA\n\nUm clipe curto e bem feito rodando na feira de um vilarejo à beira-mar. A graça está no Beedio, aquele bichinho do jogo, que segue a personagem por toda a cena.\n\n🔹 O cenário é uma feira com barraca listrada, carrinho de fruta e mesa na areia\n🔹 O autor está atrás de gente pra fazer mais curta e história dentro do jogo\n🔹 Passou de 200 votos no Reddit em poucos dias\n\n🎥 Few_Mention3392\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc226",
+      "rodada": "2026-08-30 17:55",
+      "emoji": "🐈",
+      "titulo": "[MOD] TEM MAIS DE MIL COMBINAÇÕES DE GATO POSSÍVEIS, E DÁ PRA CRIAR NINHADA",
+      "fonte": "https://www.curseforge.com/hytale/mods/alecs-cats",
+      "fonteData": "2026-08-30",
+      "confiabilidade": "comunidade",
+      "resumo": "Indicado pelo Luis. QC de estilo.",
+      "midia": {
+          "url": "https://www.curseforge.com/hytale/mods/alecs-cats",
+          "nota": "Midia da fonte original.",
+          "tipo": "carrossel",
+          "arquivos": [
+              "midia/curseforge/cats/1.jpg",
+              "midia/curseforge/cats/2.jpg",
+              "midia/curseforge/cats/3.jpg"
+          ]
+      },
+      "twitter": "🐈 TEM MAIS DE MIL COMBINAÇÕES DE GATO POSSÍVEIS NESSE MOD, E DÁ PRA CRIAR NINHADA\n\nO Alec's Cats passou de 81 mil downloads e foi atualizado essa semana pro Update 6. Você doma, cria, cuida e ainda leva o gato junto como companheiro.\n\n🔹 Mais de mil variações possíveis, entre pelagem malhada, siamês, smoking, preto e branco\n🔹 Dá pra acasalar e a ninhada herda característica dos pais\n🔹 Saco de petisco abre um menu em roda pra dar ordem e ver seus companheiros ligados\n🔹 Boa parte das pelagens é arte da Celly, que desenhou skin por skin\n\n🔧 alechilles\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🐈 TEM MAIS DE MIL COMBINAÇÕES DE GATO POSSÍVEIS NESSE MOD, E DÁ PRA CRIAR NINHADA\n\nO Alec's Cats passou de 81 mil downloads e foi atualizado essa semana pro Update 6. Você doma, cria, cuida e ainda leva o gato junto como companheiro.\n\n🔹 Mais de mil variações possíveis, entre pelagem malhada, siamês, smoking, preto e branco\n🔹 Dá pra acasalar e a ninhada herda característica dos pais\n🔹 Saco de petisco abre um menu em roda pra dar ordem e ver seus companheiros ligados\n🔹 Boa parte das pelagens é arte da Celly, que desenhou skin por skin\n\n🔧 alechilles\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc225",
+      "rodada": "2026-08-30 17:55",
+      "emoji": "🗿",
+      "titulo": "[COMUNIDADE] INVOCOU UM GOLEM DE PEDRA DE 199 PEÇAS COM MINÉRIO, E DÁ PRA SUBIR NELE",
+      "fonte": "https://x.com/GibsonHougland/status/2093843438471184489",
+      "fonteData": "2026-08-30",
+      "confiabilidade": "comunidade",
+      "resumo": "Indicado pelo Luis. QC de estilo.",
+      "midia": {
+          "url": "https://x.com/GibsonHougland/status/2093843438471184489",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/rc_hexvane.mp4"
+          ],
+          "video": "midia/twitter/rc_hexvane.mp4"
+      },
+      "twitter": "🗿 ELE INVOCOU UM GOLEM DE PEDRA DE 199 PEÇAS COM MINÉRIO NAS COSTAS, E DÁ PRA SUBIR NELE\n\nO criador do Aetherhaven está brincando com o que o Update 6 destravou. No vídeo ele invoca um Stone Talus gigante, e a mensagem do jogo entrega o tamanho da coisa.\n\n🔹 199 partes em um bicho só, com 3 veios de minério cravados no corpo e colisão gerada sozinha\n🔹 Como o Update 6 deixou entidade virar chão de verdade, dá pra andar em cima dele enquanto ele se move\n🔹 Na prática vira montanha viva, ou plataforma que anda pelo mapa\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🗿 ELE INVOCOU UM GOLEM DE PEDRA DE 199 PEÇAS COM MINÉRIO NAS COSTAS, E DÁ PRA SUBIR NELE\n\nO criador do Aetherhaven está brincando com o que o Update 6 destravou. No vídeo ele invoca um Stone Talus gigante, e a mensagem do jogo entrega o tamanho da coisa.\n\n🔹 199 partes em um bicho só, com 3 veios de minério cravados no corpo e colisão gerada sozinha\n🔹 Como o Update 6 deixou entidade virar chão de verdade, dá pra andar em cima dele enquanto ele se move\n🔹 Na prática vira montanha viva, ou plataforma que anda pelo mapa\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
       "id": "rc224",
       "rodada": "2026-08-29 17:45",
       "emoji": "🎮",
