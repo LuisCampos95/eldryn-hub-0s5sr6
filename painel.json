@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-30T20:53:23.855Z",
+  "geradoEm": "2026-08-30T20:54:03.394Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -552,7 +552,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc227.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "02-1600-rc227.mp4"
+      ],
       "tipo": "video",
       "status": "agendado",
       "qualidade": null,
@@ -582,9 +584,9 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
       "arquivosTwitter": [
-        "01-1230-rc210-1.png",
-        "01-1230-rc210-2.png",
-        "01-1230-rc210-3.png"
+        "01-1230-rc226-1.jpg",
+        "01-1230-rc226-2.jpg",
+        "01-1230-rc226-3.jpg"
       ],
       "tipo": "carrossel",
       "status": "agendado",
@@ -604,10 +606,14 @@
       "textoTwitter": "🗿 ELE INVOCOU UM GOLEM DE PEDRA DE 199 PEÇAS COM MINÉRIO NAS COSTAS, E DÁ PRA SUBIR NELE\n\nO criador do Aetherhaven está brincando com o que o Update 6 destravou. No vídeo ele invoca um Stone Talus gigante, e a mensagem do jogo entrega o tamanho da coisa.\n\n🔹 199 partes em um bicho só, com 3 veios de minério cravados no corpo e colisão gerada sozinha\n🔹 Como o Update 6 deixou entidade virar chão de verdade, dá pra andar em cima dele enquanto ele se move\n🔹 Na prática vira montanha viva, ou plataforma que anda pelo mapa\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/GibsonHougland/status/2093843438471184489",
       "arquivos": [],
-      "midiaWeb": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc225.mp4"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "03-1830-rc225.mp4"
+      ],
+      "tipo": "video",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
@@ -1907,9 +1913,9 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
           "arquivosTwitter": [
-            "01-1230-rc210-1.png",
-            "01-1230-rc210-2.png",
-            "01-1230-rc210-3.png"
+            "01-1230-rc226-1.jpg",
+            "01-1230-rc226-2.jpg",
+            "01-1230-rc226-3.jpg"
           ],
           "tipo": "carrossel",
           "status": "agendado",
@@ -1935,7 +1941,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc227.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-31",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "02-1600-rc227.mp4"
+          ],
           "tipo": "video",
           "status": "agendado",
           "qualidade": null,
@@ -2010,10 +2018,14 @@
           "textoTwitter": "🗿 ELE INVOCOU UM GOLEM DE PEDRA DE 199 PEÇAS COM MINÉRIO NAS COSTAS, E DÁ PRA SUBIR NELE\n\nO criador do Aetherhaven está brincando com o que o Update 6 destravou. No vídeo ele invoca um Stone Talus gigante, e a mensagem do jogo entrega o tamanho da coisa.\n\n🔹 199 partes em um bicho só, com 3 veios de minério cravados no corpo e colisão gerada sozinha\n🔹 Como o Update 6 deixou entidade virar chão de verdade, dá pra andar em cima dele enquanto ele se move\n🔹 Na prática vira montanha viva, ou plataforma que anda pelo mapa\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/GibsonHougland/status/2093843438471184489",
           "arquivos": [],
-          "midiaWeb": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc225.mp4"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-08-30",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "03-1830-rc225.mp4"
+          ],
+          "tipo": "video",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
@@ -3393,7 +3405,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 2,
+    "total": 3,
     "feitos": 0,
     "data": "2026-08-30"
   },
