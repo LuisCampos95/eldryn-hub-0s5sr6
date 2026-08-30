@@ -52,7 +52,7 @@ window.ELDRYN_POSTS = [
       "id": "rc225",
       "rodada": "2026-08-30 17:55",
       "emoji": "🗿",
-      "titulo": "[COMUNIDADE] INVOCOU UM GOLEM DE PEDRA DE 199 PEÇAS COM MINÉRIO, E DÁ PRA SUBIR NELE",
+      "titulo": "Colosso de pedra estilo Shadow of the Colossus",
       "fonte": "https://x.com/GibsonHougland/status/2093843438471184489",
       "fonteData": "2026-08-30",
       "confiabilidade": "comunidade",
@@ -66,8 +66,9 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/rc_hexvane.mp4"
       },
-      "twitter": "🗿 ELE INVOCOU UM GOLEM DE PEDRA DE 199 PEÇAS COM MINÉRIO NAS COSTAS, E DÁ PRA SUBIR NELE\n\nO criador do Aetherhaven está brincando com o que o Update 6 destravou. No vídeo ele invoca um Stone Talus gigante, e a mensagem do jogo entrega o tamanho da coisa.\n\n🔹 199 partes em um bicho só, com 3 veios de minério cravados no corpo e colisão gerada sozinha\n🔹 Como o Update 6 deixou entidade virar chão de verdade, dá pra andar em cima dele enquanto ele se move\n🔹 Na prática vira montanha viva, ou plataforma que anda pelo mapa\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "meta": "🗿 ELE INVOCOU UM GOLEM DE PEDRA DE 199 PEÇAS COM MINÉRIO NAS COSTAS, E DÁ PRA SUBIR NELE\n\nO criador do Aetherhaven está brincando com o que o Update 6 destravou. No vídeo ele invoca um Stone Talus gigante, e a mensagem do jogo entrega o tamanho da coisa.\n\n🔹 199 partes em um bicho só, com 3 veios de minério cravados no corpo e colisão gerada sozinha\n🔹 Como o Update 6 deixou entidade virar chão de verdade, dá pra andar em cima dele enquanto ele se move\n🔹 Na prática vira montanha viva, ou plataforma que anda pelo mapa\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+      "twitter": "🗿 ELE CRIOU UM COLOSSO QUE VOCÊ ESCALA E ATACA POR CIMA, IGUAL EM SHADOW OF THE COLOSSUS\n\nMonstro de pedra gigante feito com as ferramentas que vieram no Update 6. Você sobe no bicho enquanto ele anda e luta lá de cima.\n\n🔹 São 199 partes em uma criatura só, com veio de minério cravado no corpo\n🔹 Dá pra ficar em pé nele por causa da colisão de entidade, que chegou no Update 6\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🗿 ELE CRIOU UM COLOSSO QUE VOCÊ ESCALA E ATACA POR CIMA, IGUAL EM SHADOW OF THE COLOSSUS\n\nMonstro de pedra gigante feito com as ferramentas que vieram no Update 6. Você sobe no bicho enquanto ele anda e luta lá de cima.\n\n🔹 São 199 partes em uma criatura só, com veio de minério cravado no corpo\n🔹 Dá pra ficar em pé nele por causa da colisão de entidade, que chegou no Update 6\n\n🎥 GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🗿 ELE CRIOU UM COLOSSO QUE VOCÊ ESCALA E ATACA POR CIMA, IGUAL EM SHADOW OF THE COLOSSUS\n\nMonstro de pedra gigante feito com as ferramentas que vieram no Update 6. Você sobe no bicho enquanto ele anda e luta lá de cima.\n\n🔹 São 199 partes em uma criatura só, com veio de minério cravado no corpo\n🔹 Dá pra ficar em pé nele por causa da colisão de entidade, que chegou no Update 6\n\n🎥 @GibsonHougland\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
       "id": "rc224",
