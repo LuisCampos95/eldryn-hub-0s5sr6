@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-30T21:03:48.454Z",
+  "geradoEm": "2026-08-31T04:10:02.371Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 227,
+      "n": 233,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 111,
+      "n": 117,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 104,
+      "n": 110,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 57,
+      "n": 63,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 47,
+      "n": 53,
       "quem": "código"
     }
   ],
@@ -538,6 +538,170 @@
   "grade": [
     {
       "hora": "16:00",
+      "data": "2026-09-03",
+      "id": "rc233",
+      "rede": "facebook",
+      "titulo": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO",
+      "textoMeta": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 @Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/Farrens_Tale/status/2094082955660419220",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc233_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc233_2.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
+      "arquivosTwitter": [
+        "02-1600-rc233-1.jpg",
+        "02-1600-rc233-2.jpg"
+      ],
+      "tipo": "carrossel",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1692334906228433"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-09-03",
+      "id": "rc232",
+      "rede": "facebook",
+      "titulo": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR",
+      "textoMeta": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1w0btw5/immersive_storage_dont_sacrifice_vibes_for_utility/",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc232_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc232_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc232_3.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc232_4.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc232_5.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
+      "arquivosTwitter": [
+        "01-1230-rc232-1.png",
+        "01-1230-rc232-2.png",
+        "01-1230-rc232-3.png",
+        "01-1230-rc232-4.png",
+        "01-1230-rc232-5.png"
+      ],
+      "tipo": "carrossel",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1692334776228446"
+    },
+    {
+      "hora": "16:00",
+      "data": "2026-09-02",
+      "id": "rc231",
+      "rede": "facebook",
+      "titulo": "💫 O CHEFE NOVO DO STARBLIGHT LUTA DENTRO DE UM VAZIO ROXO QUE NÃO PARECE DO JOGO",
+      "textoMeta": "💫 O CHEFE NOVO DO STARBLIGHT LUTA DENTRO DE UM VAZIO ROXO QUE NÃO PARECE DO JOGO\n\nO Cosmic Hierophant é uma luta de chefe feita à mão dentro do mod Starblight. Barra de vida no topo, arena própria e um cenário roxo que não lembra nada do mundo normal.\n\n🔹 O chefe é uma figura encapuzada de placa escura, bem maior que o jogador\n🔹 A arena fica suspensa no vazio, com partícula brilhante caindo o tempo todo\n🔹 O mod já está no navegador de mods, e o chefe entrou nessa atualização\n\n🎥 Eastern-Fall6118\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "💫 O CHEFE NOVO DO STARBLIGHT LUTA DENTRO DE UM VAZIO ROXO QUE NÃO PARECE DO JOGO\n\nO Cosmic Hierophant é uma luta de chefe feita à mão dentro do mod Starblight. Barra de vida no topo, arena própria e um cenário roxo que não lembra nada do mundo normal.\n\n🔹 O chefe é uma figura encapuzada de placa escura, bem maior que o jogador\n🔹 A arena fica suspensa no vazio, com partícula brilhante caindo o tempo todo\n🔹 O mod já está no navegador de mods, e o chefe entrou nessa atualização\n\n🎥 Eastern-Fall6118\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1vy5af1/made_a_video_for_the_new_boss_in_the_starblight/",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc231.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
+      "arquivosTwitter": [
+        "02-1600-rc231.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1383367283976193/"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-09-02",
+      "id": "rc230",
+      "rede": "facebook",
+      "titulo": "🛸 TEM ARMADURA DE SOLDADO FUTURISTA ESCONDIDA NOS ARQUIVOS, E NINGUÉM SABE PRA QUE",
+      "textoMeta": "🛸 TEM ARMADURA DE SOLDADO FUTURISTA ESCONDIDA NOS ARQUIVOS, E NINGUÉM SABE PRA QUE\n\nEle foi fuçar os arquivos do jogo depois do Update 6 e achou um conjunto completo que não está disponível pra ninguém equipar. A pergunta que ficou é se isso entra no Capítulo 1.\n\n🔹 Capacete fechado com visor, ombreira e perneira de placa, tudo em cinza metálico\n🔹 Vem com uma arma que solta luz azul e ejeta cartucho ao disparar\n🔹 Nada disso combina com o visual medieval do jogo, o que aponta pra Zona 4\n\n🎥 FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🛸 TEM ARMADURA DE SOLDADO FUTURISTA ESCONDIDA NOS ARQUIVOS, E NINGUÉM SABE PRA QUE\n\nEle foi fuçar os arquivos do jogo depois do Update 6 e achou um conjunto completo que não está disponível pra ninguém equipar. A pergunta que ficou é se isso entra no Capítulo 1.\n\n🔹 Capacete fechado com visor, ombreira e perneira de placa, tudo em cinza metálico\n🔹 Vem com uma arma que solta luz azul e ejeta cartucho ao disparar\n🔹 Nada disso combina com o visual medieval do jogo, o que aponta pra Zona 4\n\n🎥 @FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/FrancoX1822_/status/2094140735788359819",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc230.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
+      "arquivosTwitter": [
+        "01-1230-rc230.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1638649710928796/"
+    },
+    {
+      "hora": "16:00",
+      "data": "2026-09-01",
+      "id": "rc229",
+      "rede": "facebook",
+      "titulo": "🐉 ELE ACHOU EM UM CHIP DE CELULAR VELHO A CENA DO DRAGÃO DO TRAILER ANTIGO DO JOGO",
+      "textoMeta": "🐉 ELE ACHOU EM UM CHIP DE CELULAR VELHO A CENA DO DRAGÃO DO TRAILER ANTIGO DO JOGO\n\nMexendo em um chip guardado há anos, ele encontrou a gravação da luta contra o dragão que aparecia no trailer. Reeditou em ritmo lento pra dar pra enxergar tudo.\n\n🔹 É a sequência do castelo pegando fogo, com escombro voando e o dragão sobrevoando a torre\n🔹 Em câmera lenta aparece detalhe que passava batido na velocidade original\n\n🎥 ThomasFrick\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🐉 ELE ACHOU EM UM CHIP DE CELULAR VELHO A CENA DO DRAGÃO DO TRAILER ANTIGO DO JOGO\n\nMexendo em um chip guardado há anos, ele encontrou a gravação da luta contra o dragão que aparecia no trailer. Reeditou em ritmo lento pra dar pra enxergar tudo.\n\n🔹 É a sequência do castelo pegando fogo, com escombro voando e o dragão sobrevoando a torre\n🔹 Em câmera lenta aparece detalhe que passava batido na velocidade original\n\n🎥 @ThomasFrick\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/ThomasFrick/status/2093879128936399045",
+      "arquivos": [
+        "midia/twitter/rc_dragonfight.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc229.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-01",
+      "arquivosTwitter": [
+        "02-1600-rc229.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1086932130560375/"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-09-01",
+      "id": "rc228",
+      "rede": "facebook",
+      "titulo": "⛵ O OCEANO DO JOGO ERA SÓ ENFEITE, AGORA TEM VELEIRO QUE VOCÊ PILOTA E ANDA NO CONVÉS",
+      "textoMeta": "⛵ O OCEANO DO JOGO ERA SÓ ENFEITE, AGORA TEM VELEIRO QUE VOCÊ PILOTA E ANDA NO CONVÉS\n\nO Maritime Life saiu e resolve uma coisa que incomodava, mar gigante em todo canto e nada que navegue nele. É de graça e já roda no Update 6.\n\n🔹 Dois barcos, catamarã de 12 metros e iate de 15, com o interior construído por dentro\n🔹 Você joga o barco na água como item, assume o leme e caminha pelo convés enquanto ele navega\n🔹 Aperta F e ele volta pro inventário, do jeito que estava\n\n🎥 MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "⛵ O OCEANO DO JOGO ERA SÓ ENFEITE, AGORA TEM VELEIRO QUE VOCÊ PILOTA E ANDA NO CONVÉS\n\nO Maritime Life saiu e resolve uma coisa que incomodava, mar gigante em todo canto e nada que navegue nele. É de graça e já roda no Update 6.\n\n🔹 Dois barcos, catamarã de 12 metros e iate de 15, com o interior construído por dentro\n🔹 Você joga o barco na água como item, assume o leme e caminha pelo convés enquanto ele navega\n🔹 Aperta F e ele volta pro inventário, do jeito que estava\n\n🎥 @MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/MaritimeLifeDev/status/2093109142970064914",
+      "arquivos": [
+        "midia/twitter/rc_maritime.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc228.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-01",
+      "arquivosTwitter": [
+        "01-1230-rc228.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1042914708643799/"
+    },
+    {
+      "hora": "16:00",
       "data": "2026-08-31",
       "id": "rc227",
       "rede": "facebook",
@@ -545,9 +709,7 @@
       "textoMeta": "🐝 ESSE CURTA MOSTRA O DIA DE UMA JOGADORA COM O BEEDIO GRUDADO NELA\n\nUm clipe curto e bem feito rodando na feira de um vilarejo à beira-mar. A graça está no Beedio, aquele bichinho do jogo, que segue a personagem por toda a cena.\n\n🔹 O cenário é uma feira com barraca listrada, carrinho de fruta e mesa na areia\n🔹 O autor está atrás de gente pra fazer mais curta e história dentro do jogo\n🔹 Passou de 200 votos no Reddit em poucos dias\n\n🎥 Few_Mention3392\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🐝 ESSE CURTA MOSTRA O DIA DE UMA JOGADORA COM O BEEDIO GRUDADO NELA\n\nUm clipe curto e bem feito rodando na feira de um vilarejo à beira-mar. A graça está no Beedio, aquele bichinho do jogo, que segue a personagem por toda a cena.\n\n🔹 O cenário é uma feira com barraca listrada, carrinho de fruta e mesa na areia\n🔹 O autor está atrás de gente pra fazer mais curta e história dentro do jogo\n🔹 Passou de 200 votos no Reddit em poucos dias\n\n🎥 u/Few_Mention3392\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1vui5ob/hytale_with_the_bestie/",
-      "arquivos": [
-        "midia/reddit/rc_beedio.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc227.mp4"
       ],
@@ -572,11 +734,7 @@
       "textoMeta": "🐈 TEM MAIS DE MIL COMBINAÇÕES DE GATO POSSÍVEIS NESSE MOD, E DÁ PRA CRIAR NINHADA\n\nO Alec's Cats passou de 81 mil downloads e foi atualizado essa semana pro Update 6. Você doma, cria, cuida e ainda leva o gato junto como companheiro.\n\n🔹 Mais de mil variações possíveis, entre pelagem malhada, siamês, smoking, preto e branco\n🔹 Dá pra acasalar e a ninhada herda característica dos pais\n🔹 Saco de petisco abre um menu em roda pra dar ordem e ver seus companheiros ligados\n🔹 Boa parte das pelagens é arte da Celly, que desenhou skin por skin\n\n🔧 alechilles\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🐈 TEM MAIS DE MIL COMBINAÇÕES DE GATO POSSÍVEIS NESSE MOD, E DÁ PRA CRIAR NINHADA\n\nO Alec's Cats passou de 81 mil downloads e foi atualizado essa semana pro Update 6. Você doma, cria, cuida e ainda leva o gato junto como companheiro.\n\n🔹 Mais de mil variações possíveis, entre pelagem malhada, siamês, smoking, preto e branco\n🔹 Dá pra acasalar e a ninhada herda característica dos pais\n🔹 Saco de petisco abre um menu em roda pra dar ordem e ver seus companheiros ligados\n🔹 Boa parte das pelagens é arte da Celly, que desenhou skin por skin\n\n🔧 alechilles\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.curseforge.com/hytale/mods/alecs-cats",
-      "arquivos": [
-        "midia/curseforge/cats/1.jpg",
-        "midia/curseforge/cats/2.jpg",
-        "midia/curseforge/cats/3.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc226_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc226_2.jpg",
@@ -614,7 +772,7 @@
         "03-1830-rc225.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -1890,6 +2048,188 @@
   ],
   "diasGrade": [
     {
+      "dia": "2026-09-03",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-09-03",
+          "id": "rc232",
+          "rede": "facebook",
+          "titulo": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR",
+          "textoMeta": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1w0btw5/immersive_storage_dont_sacrifice_vibes_for_utility/",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc232_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc232_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc232_3.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc232_4.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc232_5.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
+          "arquivosTwitter": [
+            "01-1230-rc232-1.png",
+            "01-1230-rc232-2.png",
+            "01-1230-rc232-3.png",
+            "01-1230-rc232-4.png",
+            "01-1230-rc232-5.png"
+          ],
+          "tipo": "carrossel",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1692334776228446"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-03",
+          "id": "rc233",
+          "rede": "facebook",
+          "titulo": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO",
+          "textoMeta": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 @Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/Farrens_Tale/status/2094082955660419220",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc233_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc233_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
+          "arquivosTwitter": [
+            "02-1600-rc233-1.jpg",
+            "02-1600-rc233-2.jpg"
+          ],
+          "tipo": "carrossel",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1692334906228433"
+        }
+      ],
+      "total": 2
+    },
+    {
+      "dia": "2026-09-02",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-09-02",
+          "id": "rc230",
+          "rede": "facebook",
+          "titulo": "🛸 TEM ARMADURA DE SOLDADO FUTURISTA ESCONDIDA NOS ARQUIVOS, E NINGUÉM SABE PRA QUE",
+          "textoMeta": "🛸 TEM ARMADURA DE SOLDADO FUTURISTA ESCONDIDA NOS ARQUIVOS, E NINGUÉM SABE PRA QUE\n\nEle foi fuçar os arquivos do jogo depois do Update 6 e achou um conjunto completo que não está disponível pra ninguém equipar. A pergunta que ficou é se isso entra no Capítulo 1.\n\n🔹 Capacete fechado com visor, ombreira e perneira de placa, tudo em cinza metálico\n🔹 Vem com uma arma que solta luz azul e ejeta cartucho ao disparar\n🔹 Nada disso combina com o visual medieval do jogo, o que aponta pra Zona 4\n\n🎥 FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🛸 TEM ARMADURA DE SOLDADO FUTURISTA ESCONDIDA NOS ARQUIVOS, E NINGUÉM SABE PRA QUE\n\nEle foi fuçar os arquivos do jogo depois do Update 6 e achou um conjunto completo que não está disponível pra ninguém equipar. A pergunta que ficou é se isso entra no Capítulo 1.\n\n🔹 Capacete fechado com visor, ombreira e perneira de placa, tudo em cinza metálico\n🔹 Vem com uma arma que solta luz azul e ejeta cartucho ao disparar\n🔹 Nada disso combina com o visual medieval do jogo, o que aponta pra Zona 4\n\n🎥 @FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/FrancoX1822_/status/2094140735788359819",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc230.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
+          "arquivosTwitter": [
+            "01-1230-rc230.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1638649710928796/"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-02",
+          "id": "rc231",
+          "rede": "facebook",
+          "titulo": "💫 O CHEFE NOVO DO STARBLIGHT LUTA DENTRO DE UM VAZIO ROXO QUE NÃO PARECE DO JOGO",
+          "textoMeta": "💫 O CHEFE NOVO DO STARBLIGHT LUTA DENTRO DE UM VAZIO ROXO QUE NÃO PARECE DO JOGO\n\nO Cosmic Hierophant é uma luta de chefe feita à mão dentro do mod Starblight. Barra de vida no topo, arena própria e um cenário roxo que não lembra nada do mundo normal.\n\n🔹 O chefe é uma figura encapuzada de placa escura, bem maior que o jogador\n🔹 A arena fica suspensa no vazio, com partícula brilhante caindo o tempo todo\n🔹 O mod já está no navegador de mods, e o chefe entrou nessa atualização\n\n🎥 Eastern-Fall6118\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "💫 O CHEFE NOVO DO STARBLIGHT LUTA DENTRO DE UM VAZIO ROXO QUE NÃO PARECE DO JOGO\n\nO Cosmic Hierophant é uma luta de chefe feita à mão dentro do mod Starblight. Barra de vida no topo, arena própria e um cenário roxo que não lembra nada do mundo normal.\n\n🔹 O chefe é uma figura encapuzada de placa escura, bem maior que o jogador\n🔹 A arena fica suspensa no vazio, com partícula brilhante caindo o tempo todo\n🔹 O mod já está no navegador de mods, e o chefe entrou nessa atualização\n\n🎥 Eastern-Fall6118\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1vy5af1/made_a_video_for_the_new_boss_in_the_starblight/",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc231.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
+          "arquivosTwitter": [
+            "02-1600-rc231.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1383367283976193/"
+        }
+      ],
+      "total": 2
+    },
+    {
+      "dia": "2026-09-01",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-09-01",
+          "id": "rc228",
+          "rede": "facebook",
+          "titulo": "⛵ O OCEANO DO JOGO ERA SÓ ENFEITE, AGORA TEM VELEIRO QUE VOCÊ PILOTA E ANDA NO CONVÉS",
+          "textoMeta": "⛵ O OCEANO DO JOGO ERA SÓ ENFEITE, AGORA TEM VELEIRO QUE VOCÊ PILOTA E ANDA NO CONVÉS\n\nO Maritime Life saiu e resolve uma coisa que incomodava, mar gigante em todo canto e nada que navegue nele. É de graça e já roda no Update 6.\n\n🔹 Dois barcos, catamarã de 12 metros e iate de 15, com o interior construído por dentro\n🔹 Você joga o barco na água como item, assume o leme e caminha pelo convés enquanto ele navega\n🔹 Aperta F e ele volta pro inventário, do jeito que estava\n\n🎥 MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "⛵ O OCEANO DO JOGO ERA SÓ ENFEITE, AGORA TEM VELEIRO QUE VOCÊ PILOTA E ANDA NO CONVÉS\n\nO Maritime Life saiu e resolve uma coisa que incomodava, mar gigante em todo canto e nada que navegue nele. É de graça e já roda no Update 6.\n\n🔹 Dois barcos, catamarã de 12 metros e iate de 15, com o interior construído por dentro\n🔹 Você joga o barco na água como item, assume o leme e caminha pelo convés enquanto ele navega\n🔹 Aperta F e ele volta pro inventário, do jeito que estava\n\n🎥 @MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/MaritimeLifeDev/status/2093109142970064914",
+          "arquivos": [
+            "midia/twitter/rc_maritime.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc228.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-01",
+          "arquivosTwitter": [
+            "01-1230-rc228.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1042914708643799/"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-01",
+          "id": "rc229",
+          "rede": "facebook",
+          "titulo": "🐉 ELE ACHOU EM UM CHIP DE CELULAR VELHO A CENA DO DRAGÃO DO TRAILER ANTIGO DO JOGO",
+          "textoMeta": "🐉 ELE ACHOU EM UM CHIP DE CELULAR VELHO A CENA DO DRAGÃO DO TRAILER ANTIGO DO JOGO\n\nMexendo em um chip guardado há anos, ele encontrou a gravação da luta contra o dragão que aparecia no trailer. Reeditou em ritmo lento pra dar pra enxergar tudo.\n\n🔹 É a sequência do castelo pegando fogo, com escombro voando e o dragão sobrevoando a torre\n🔹 Em câmera lenta aparece detalhe que passava batido na velocidade original\n\n🎥 ThomasFrick\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🐉 ELE ACHOU EM UM CHIP DE CELULAR VELHO A CENA DO DRAGÃO DO TRAILER ANTIGO DO JOGO\n\nMexendo em um chip guardado há anos, ele encontrou a gravação da luta contra o dragão que aparecia no trailer. Reeditou em ritmo lento pra dar pra enxergar tudo.\n\n🔹 É a sequência do castelo pegando fogo, com escombro voando e o dragão sobrevoando a torre\n🔹 Em câmera lenta aparece detalhe que passava batido na velocidade original\n\n🎥 @ThomasFrick\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/ThomasFrick/status/2093879128936399045",
+          "arquivos": [
+            "midia/twitter/rc_dragonfight.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc229.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-01",
+          "arquivosTwitter": [
+            "02-1600-rc229.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1086932130560375/"
+        }
+      ],
+      "total": 2
+    },
+    {
       "dia": "2026-08-31",
       "posts": [
         {
@@ -1901,11 +2241,7 @@
           "textoMeta": "🐈 TEM MAIS DE MIL COMBINAÇÕES DE GATO POSSÍVEIS NESSE MOD, E DÁ PRA CRIAR NINHADA\n\nO Alec's Cats passou de 81 mil downloads e foi atualizado essa semana pro Update 6. Você doma, cria, cuida e ainda leva o gato junto como companheiro.\n\n🔹 Mais de mil variações possíveis, entre pelagem malhada, siamês, smoking, preto e branco\n🔹 Dá pra acasalar e a ninhada herda característica dos pais\n🔹 Saco de petisco abre um menu em roda pra dar ordem e ver seus companheiros ligados\n🔹 Boa parte das pelagens é arte da Celly, que desenhou skin por skin\n\n🔧 alechilles\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🐈 TEM MAIS DE MIL COMBINAÇÕES DE GATO POSSÍVEIS NESSE MOD, E DÁ PRA CRIAR NINHADA\n\nO Alec's Cats passou de 81 mil downloads e foi atualizado essa semana pro Update 6. Você doma, cria, cuida e ainda leva o gato junto como companheiro.\n\n🔹 Mais de mil variações possíveis, entre pelagem malhada, siamês, smoking, preto e branco\n🔹 Dá pra acasalar e a ninhada herda característica dos pais\n🔹 Saco de petisco abre um menu em roda pra dar ordem e ver seus companheiros ligados\n🔹 Boa parte das pelagens é arte da Celly, que desenhou skin por skin\n\n🔧 alechilles\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.curseforge.com/hytale/mods/alecs-cats",
-          "arquivos": [
-            "midia/curseforge/cats/1.jpg",
-            "midia/curseforge/cats/2.jpg",
-            "midia/curseforge/cats/3.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc226_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc226_2.jpg",
@@ -1934,9 +2270,7 @@
           "textoMeta": "🐝 ESSE CURTA MOSTRA O DIA DE UMA JOGADORA COM O BEEDIO GRUDADO NELA\n\nUm clipe curto e bem feito rodando na feira de um vilarejo à beira-mar. A graça está no Beedio, aquele bichinho do jogo, que segue a personagem por toda a cena.\n\n🔹 O cenário é uma feira com barraca listrada, carrinho de fruta e mesa na areia\n🔹 O autor está atrás de gente pra fazer mais curta e história dentro do jogo\n🔹 Passou de 200 votos no Reddit em poucos dias\n\n🎥 Few_Mention3392\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🐝 ESSE CURTA MOSTRA O DIA DE UMA JOGADORA COM O BEEDIO GRUDADO NELA\n\nUm clipe curto e bem feito rodando na feira de um vilarejo à beira-mar. A graça está no Beedio, aquele bichinho do jogo, que segue a personagem por toda a cena.\n\n🔹 O cenário é uma feira com barraca listrada, carrinho de fruta e mesa na areia\n🔹 O autor está atrás de gente pra fazer mais curta e história dentro do jogo\n🔹 Passou de 200 votos no Reddit em poucos dias\n\n🎥 u/Few_Mention3392\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1vui5ob/hytale_with_the_bestie/",
-          "arquivos": [
-            "midia/reddit/rc_beedio.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc227.mp4"
           ],
@@ -2026,7 +2360,7 @@
             "03-1830-rc225.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -3388,13 +3722,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 227,
+    "coletadosTotal": 233,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 116,
     "rejeitadosMemoria": 7,
-    "escritos": 72,
-    "agendados": 47,
+    "escritos": 78,
+    "agendados": 53,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -3405,9 +3739,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 3,
+    "total": 2,
     "feitos": 0,
-    "data": "2026-08-30"
+    "data": "2026-08-31"
   },
   "custos": {
     "infraMensal": 0,
@@ -3458,11 +3792,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6051,
-      "totalPosts": 286,
+      "seguidores": 6054,
+      "totalPosts": 287,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 94,
+      "mediaCurtidas": 92,
       "amostra": 100
     },
     "twitter": {
@@ -3499,7 +3833,7 @@
       },
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 509,
+        "curtidas": 534,
         "comentarios": 3,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
@@ -3533,8 +3867,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-18T14:34:39+0000",
-      "ate": "2026-08-30T18:48:14+0000"
+      "de": "2026-07-18T16:01:49+0000",
+      "ate": "2026-08-30T23:56:30+0000"
     },
     "serie": [
       {
