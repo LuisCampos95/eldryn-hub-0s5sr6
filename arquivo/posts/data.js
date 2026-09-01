@@ -6850,5 +6850,26 @@ window.ELDRYN_POSTS = [
       "twitter": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 @Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 @Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc234",
+      "rodada": "2026-09-01 01:20",
+      "emoji": "🌑",
+      "titulo": "Hotfix 0.6.3, sombra de NPC de volta",
+      "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-3",
+      "fonteData": "2026-08-31",
+      "confiabilidade": "Nota oficial no site do Hytale.",
+      "resumo": "Terceira leva de hotfix do Update 6. Apenas Twitter.",
+      "midia": {
+          "url": "https://hytale.com/news/2026/8/hotfixes-update-6",
+          "nota": "Banner oficial da pagina de hotfixes.",
+          "tipo": "imagem",
+          "arquivos": [
+              "midia/site/u63/rc234.png"
+          ]
+      },
+      "twitter": "🌑 O NPC TINHA PERDIDO A SOMBRA NO UPDATE 6, E A 0.6.3 DEVOLVEU\n\nTerceira leva de correções do Update 6, bem curtinha, saiu ontem.\n\n🔹 NPC voltou a projetar sombra. E agora a sombra respeita o formato da textura, então parte transparente não escurece mais o chão\n🔹 Mais conserto no carregamento e no cache do avatar do perfil social\n🔹 A lista de notificação abre mais rápido pra quem tem pedido de amizade acumulado\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🌑 O NPC TINHA PERDIDO A SOMBRA NO UPDATE 6, E A 0.6.3 DEVOLVEU\n\nTerceira leva de correções do Update 6, bem curtinha, saiu ontem.\n\n🔹 NPC voltou a projetar sombra. E agora a sombra respeita o formato da textura, então parte transparente não escurece mais o chão\n🔹 Mais conserto no carregamento e no cache do avatar do perfil social\n🔹 A lista de notificação abre mais rápido pra quem tem pedido de amizade acumulado\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🌑 O NPC TINHA PERDIDO A SOMBRA NO UPDATE 6, E A 0.6.3 DEVOLVEU\n\nTerceira leva de correções do Update 6, bem curtinha, saiu ontem.\n\n🔹 NPC voltou a projetar sombra. E agora a sombra respeita o formato da textura, então parte transparente não escurece mais o chão\n🔹 Mais conserto no carregamento e no cache do avatar do perfil social\n🔹 A lista de notificação abre mais rápido pra quem tem pedido de amizade acumulado\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
