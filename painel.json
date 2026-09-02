@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-01T01:14:22.580Z",
+  "geradoEm": "2026-09-02T00:45:03.908Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -666,7 +666,7 @@
         "03-1600-rc229.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -693,7 +693,7 @@
         "02-1230-rc228.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -2244,7 +2244,7 @@
             "02-1230-rc228.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2271,7 +2271,7 @@
             "03-1600-rc229.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -3791,9 +3791,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 2,
+    "total": 3,
     "feitos": 0,
-    "data": "2026-08-31"
+    "data": "2026-09-01"
   },
   "custos": {
     "infraMensal": 0,
@@ -3836,7 +3836,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5934,
+      "seguidores": 5933,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -3844,11 +3844,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6061,
-      "totalPosts": 291,
+      "seguidores": 6064,
+      "totalPosts": 293,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 88,
+      "mediaCurtidas": 81,
       "amostra": 100
     },
     "twitter": {
@@ -3868,12 +3868,12 @@
     },
     "topPosts": [
       {
-        "titulo": "⚔️ AS BATALHAS DE POKÉMON VÃO DEIXAR VOCÊ ANDAR NO MEIO DA LUTA",
-        "curtidas": 704,
-        "comentarios": 9,
-        "tipo": "video",
-        "quando": "2026-07-19T15:05:09+0000",
-        "link": "https://www.instagram.com/reel/Da-pTxUlGSn/"
+        "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
+        "curtidas": 582,
+        "comentarios": 4,
+        "tipo": "carousel_album",
+        "quando": "2026-08-18T20:32:50+0000",
+        "link": "https://www.instagram.com/p/DcMerMem80F/"
       },
       {
         "titulo": "🔴 SAIU UM MOD DE POKÉMON PRO HYTALE",
@@ -3882,14 +3882,6 @@
         "tipo": "video",
         "quando": "2026-07-25T18:04:12+0000",
         "link": "https://www.instagram.com/reel/DbOai4nFUVP/"
-      },
-      {
-        "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 561,
-        "comentarios": 4,
-        "tipo": "carousel_album",
-        "quando": "2026-08-18T20:32:50+0000",
-        "link": "https://www.instagram.com/p/DcMerMem80F/"
       },
       {
         "titulo": "🐉 O ALEC ANIMAL HUSBANDRY GANHOU MONTARIA VOADORA DE DRAGÃO DE GELO N",
@@ -3914,13 +3906,21 @@
         "tipo": "image",
         "quando": "2026-08-08T16:29:12+0000",
         "link": "https://www.instagram.com/p/DbyS3NrEgeM/"
+      },
+      {
+        "titulo": "🚢 Navio funcionando no Hytale!",
+        "curtidas": 224,
+        "comentarios": 8,
+        "tipo": "video",
+        "quando": "2026-08-17T13:26:42+0000",
+        "link": "https://www.instagram.com/reel/DcJJEIhjo9M/"
       }
     ],
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-19T13:01:54+0000",
-      "ate": "2026-08-31T22:50:57+0000"
+      "de": "2026-07-19T17:00:47+0000",
+      "ate": "2026-09-01T19:38:51+0000"
     },
     "serie": [
       {
