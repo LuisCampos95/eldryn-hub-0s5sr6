@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-02T00:45:03.908Z",
+  "geradoEm": "2026-09-02T00:54:09.246Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 234,
+      "n": 238,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 118,
+      "n": 122,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 111,
+      "n": 115,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 64,
+      "n": 68,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 54,
+      "n": 58,
       "quem": "código"
     }
   ],
@@ -537,6 +537,32 @@
   ],
   "grade": [
     {
+      "hora": "20:00",
+      "data": "2026-09-03",
+      "id": "rc238",
+      "rede": "twitter",
+      "titulo": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE COMEÇANDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO",
+      "textoMeta": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE COMEÇANDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nPrimeira criatura de um mod novo de Harry Potter que tá nascendo. A gente já reparou nos detalhes do modelo antes de postar, ficou fiel mesmo.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 Casco dourado e crina branca brilhando, parado no meio da floresta\n🔹 É só a primeira criatura, o mod inteiro ainda tá sendo construído\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE COMEÇANDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nPrimeira criatura de um mod novo de Harry Potter que tá nascendo. A gente já reparou nos detalhes do modelo antes de postar, ficou fiel mesmo.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 Casco dourado e crina branca brilhando, parado no meio da floresta\n🔹 É só a primeira criatura, o mod inteiro ainda tá sendo construído\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/y0anb/status/2094883482237317554",
+      "arquivos": [
+        "midia/twitter/hpotter/1.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc238.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
+      "arquivosTwitter": [
+        "04-2000-rc238.jpg"
+      ],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
       "hora": "16:00",
       "data": "2026-09-03",
       "id": "rc233",
@@ -545,15 +571,18 @@
       "textoMeta": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 @Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Farrens_Tale/status/2094082955660419220",
-      "arquivos": [],
+      "arquivos": [
+        "midia/twitter/farrens/1.jpg",
+        "midia/twitter/farrens/2.jpg"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc233_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc233_2.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
       "arquivosTwitter": [
-        "02-1600-rc233-1.jpg",
-        "02-1600-rc233-2.jpg"
+        "03-1600-rc233-1.jpg",
+        "03-1600-rc233-2.jpg"
       ],
       "tipo": "carrossel",
       "status": "agendado",
@@ -572,7 +601,13 @@
       "textoMeta": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1w0btw5/immersive_storage_dont_sacrifice_vibes_for_utility/",
-      "arquivos": [],
+      "arquivos": [
+        "midia/reddit/storage/1.png",
+        "midia/reddit/storage/2.png",
+        "midia/reddit/storage/3.png",
+        "midia/reddit/storage/4.png",
+        "midia/reddit/storage/5.png"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc232_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc232_2.jpg",
@@ -582,11 +617,11 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
       "arquivosTwitter": [
-        "01-1230-rc232-1.png",
-        "01-1230-rc232-2.png",
-        "01-1230-rc232-3.png",
-        "01-1230-rc232-4.png",
-        "01-1230-rc232-5.png"
+        "02-1230-rc232-1.png",
+        "02-1230-rc232-2.png",
+        "02-1230-rc232-3.png",
+        "02-1230-rc232-4.png",
+        "02-1230-rc232-5.png"
       ],
       "tipo": "carrossel",
       "status": "agendado",
@@ -595,6 +630,56 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1692337752894815"
+    },
+    {
+      "hora": "10:00",
+      "data": "2026-09-03",
+      "id": "rc237",
+      "rede": "twitter",
+      "titulo": "🌋 O CÂNION INTEIRO COM TEMPLO E TUDO SAIU SOZINHO, GERADO PELO JOGO, SEM UM BLOCO NA MÃO",
+      "textoMeta": "🌋 O CÂNION INTEIRO COM TEMPLO E TUDO SAIU SOZINHO, GERADO PELO JOGO, SEM UM BLOCO NA MÃO\n\nResposta pro mesmo Desafio 10, mas 100% procedural. Um fez a estrutura do templo, o outro programou o terreno, e o jogo montou o cânion inteiro sozinho a partir disso.\n\n🔹 O templo com obelisco escuro é a peça pronta, mas o cânion ao redor é gerado, não construído bloco por bloco\n🔹 Combina rocha avermelhada, nuvem carregada e ponto de luz espalhado pela ravina\n🔹 Os dois já pensam em transformar isso em um mod jogável de verdade\n\n🎥 @Herborus e @Yumi_lychee\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🌋 O CÂNION INTEIRO COM TEMPLO E TUDO SAIU SOZINHO, GERADO PELO JOGO, SEM UM BLOCO NA MÃO\n\nResposta pro mesmo Desafio 10, mas 100% procedural. Um fez a estrutura do templo, o outro programou o terreno, e o jogo montou o cânion inteiro sozinho a partir disso.\n\n🔹 O templo com obelisco escuro é a peça pronta, mas o cânion ao redor é gerado, não construído bloco por bloco\n🔹 Combina rocha avermelhada, nuvem carregada e ponto de luz espalhado pela ravina\n🔹 Os dois já pensam em transformar isso em um mod jogável de verdade\n\n🎥 @Herborus e @Yumi_lychee\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/Herborus/status/2094795693990850870",
+      "arquivos": [
+        "midia/twitter/rc_worldgen10.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc237.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
+      "arquivosTwitter": [
+        "01-1000-rc237.mp4"
+      ],
+      "tipo": "video",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
+      "hora": "20:00",
+      "data": "2026-09-02",
+      "id": "rc236",
+      "rede": "twitter",
+      "titulo": "🏜️ ELE CONSTRUIU UMA CIDADE MURADA INTEIRA DENTRO DE UM CÂNION NO DESAFIO OFICIAL",
+      "textoMeta": "🏜️ ELE CONSTRUIU UMA CIDADE MURADA INTEIRA DENTRO DE UM CÂNION NO DESAFIO OFICIAL\n\nÉ a resposta dele pro Desafio 10, focado em muralha. Saiu uma cidade comprida encaixada entre dois paredões de pedra, com prédio grudado na muralha dos dois lados.\n\n🔹 A muralha central corta o cânion de ponta a ponta, com prédio de tijolo grudado nela dos dois lados\n🔹 A vila embaixo tem barraca, veículo estacionado e detalhe espalhado no chão inteiro\n🔹 Foi o desafio que mais deixou o processo de fazer prefab confiante, segundo o próprio texto do post\n\n🎥 @Stray_The_Dev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🏜️ ELE CONSTRUIU UMA CIDADE MURADA INTEIRA DENTRO DE UM CÂNION NO DESAFIO OFICIAL\n\nÉ a resposta dele pro Desafio 10, focado em muralha. Saiu uma cidade comprida encaixada entre dois paredões de pedra, com prédio grudado na muralha dos dois lados.\n\n🔹 A muralha central corta o cânion de ponta a ponta, com prédio de tijolo grudado nela dos dois lados\n🔹 A vila embaixo tem barraca, veículo estacionado e detalhe espalhado no chão inteiro\n🔹 Foi o desafio que mais deixou o processo de fazer prefab confiante, segundo o próprio texto do post\n\n🎥 @Stray_The_Dev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/Stray_The_Dev/status/2094871726274359513",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc236.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
+      "arquivosTwitter": [
+        "04-2000-rc236.mp4"
+      ],
+      "tipo": "video",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
     },
     {
       "hora": "16:00",
@@ -611,7 +696,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
       "arquivosTwitter": [
-        "02-1600-rc231.mp4"
+        "03-1600-rc231.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -636,7 +721,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
       "arquivosTwitter": [
-        "01-1230-rc230.mp4"
+        "02-1230-rc230.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -647,6 +732,30 @@
       "urlPublicada": "https://www.facebook.com/reel/1638649710928796/"
     },
     {
+      "hora": "10:00",
+      "data": "2026-09-02",
+      "id": "rc235",
+      "rede": "twitter",
+      "titulo": "🗺️ TEM FERRAMENTA QUE PUXA O ZOOM E MOSTRA O MAPA DO MUNDO INTEIRO DE CIMA",
+      "textoMeta": "🗺️ TEM FERRAMENTA QUE PUXA O ZOOM E MOSTRA O MAPA DO MUNDO INTEIRO DE CIMA\n\nO Meridian é um mapa companheiro rodando ao lado do jogo, e o zoom sai do pedacinho perto de você pra mostrar o mundo inteiro de uma vez, com bioma colorido e tudo.\n\n🔹 Dá pra ver o formato inteiro do mapa gerado, rio, deserto, floresta, tudo de uma visão só\n🔹 Zoom vai do close no personagem até o mundo completo lá de cima\n🔹 Ainda marca ponto de interesse no meio do mapa\n\n🎥 @0riorh\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🗺️ TEM FERRAMENTA QUE PUXA O ZOOM E MOSTRA O MAPA DO MUNDO INTEIRO DE CIMA\n\nO Meridian é um mapa companheiro rodando ao lado do jogo, e o zoom sai do pedacinho perto de você pra mostrar o mundo inteiro de uma vez, com bioma colorido e tudo.\n\n🔹 Dá pra ver o formato inteiro do mapa gerado, rio, deserto, floresta, tudo de uma visão só\n🔹 Zoom vai do close no personagem até o mundo completo lá de cima\n🔹 Ainda marca ponto de interesse no meio do mapa\n\n🎥 @0riorh\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/0riorh/status/2094926145707708427",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc235.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
+      "arquivosTwitter": [
+        "01-1000-rc235.mp4"
+      ],
+      "tipo": "video",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
       "hora": "16:00",
       "data": "2026-09-01",
       "id": "rc229",
@@ -655,9 +764,7 @@
       "textoMeta": "🐉 ELE ACHOU EM UM CHIP DE CELULAR VELHO A CENA DO DRAGÃO DO TRAILER ANTIGO DO JOGO\n\nMexendo em um chip guardado há anos, ele encontrou a gravação da luta contra o dragão que aparecia no trailer. Reeditou em ritmo lento pra dar pra enxergar tudo.\n\n🔹 É a sequência do castelo pegando fogo, com escombro voando e o dragão sobrevoando a torre\n🔹 Em câmera lenta aparece detalhe que passava batido na velocidade original\n\n🎥 ThomasFrick\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🐉 ELE ACHOU EM UM CHIP DE CELULAR VELHO A CENA DO DRAGÃO DO TRAILER ANTIGO DO JOGO\n\nMexendo em um chip guardado há anos, ele encontrou a gravação da luta contra o dragão que aparecia no trailer. Reeditou em ritmo lento pra dar pra enxergar tudo.\n\n🔹 É a sequência do castelo pegando fogo, com escombro voando e o dragão sobrevoando a torre\n🔹 Em câmera lenta aparece detalhe que passava batido na velocidade original\n\n🎥 @ThomasFrick\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/ThomasFrick/status/2093879128936399045",
-      "arquivos": [
-        "midia/twitter/rc_dragonfight.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc229.mp4"
       ],
@@ -682,9 +789,7 @@
       "textoMeta": "⛵ O OCEANO DO JOGO ERA SÓ ENFEITE, AGORA TEM VELEIRO QUE VOCÊ PILOTA E ANDA NO CONVÉS\n\nO Maritime Life saiu e resolve uma coisa que incomodava, mar gigante em todo canto e nada que navegue nele. É de graça e já roda no Update 6.\n\n🔹 Dois barcos, catamarã de 12 metros e iate de 15, com o interior construído por dentro\n🔹 Você joga o barco na água como item, assume o leme e caminha pelo convés enquanto ele navega\n🔹 Aperta F e ele volta pro inventário, do jeito que estava\n\n🎥 MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "⛵ O OCEANO DO JOGO ERA SÓ ENFEITE, AGORA TEM VELEIRO QUE VOCÊ PILOTA E ANDA NO CONVÉS\n\nO Maritime Life saiu e resolve uma coisa que incomodava, mar gigante em todo canto e nada que navegue nele. É de graça e já roda no Update 6.\n\n🔹 Dois barcos, catamarã de 12 metros e iate de 15, com o interior construído por dentro\n🔹 Você joga o barco na água como item, assume o leme e caminha pelo convés enquanto ele navega\n🔹 Aperta F e ele volta pro inventário, do jeito que estava\n\n🎥 @MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/MaritimeLifeDev/status/2093109142970064914",
-      "arquivos": [
-        "midia/twitter/rc_maritime.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc228.mp4"
       ],
@@ -709,9 +814,7 @@
       "textoMeta": "🌑 O NPC TINHA PERDIDO A SOMBRA NO UPDATE 6, E A 0.6.3 DEVOLVEU\n\nTerceira leva de correções do Update 6, bem curtinha, saiu ontem.\n\n🔹 NPC voltou a projetar sombra. E agora a sombra respeita o formato da textura, então parte transparente não escurece mais o chão\n🔹 Mais conserto no carregamento e no cache do avatar do perfil social\n🔹 A lista de notificação abre mais rápido pra quem tem pedido de amizade acumulado\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🌑 O NPC TINHA PERDIDO A SOMBRA NO UPDATE 6, E A 0.6.3 DEVOLVEU\n\nTerceira leva de correções do Update 6, bem curtinha, saiu ontem.\n\n🔹 NPC voltou a projetar sombra. E agora a sombra respeita o formato da textura, então parte transparente não escurece mais o chão\n🔹 Mais conserto no carregamento e no cache do avatar do perfil social\n🔹 A lista de notificação abre mais rápido pra quem tem pedido de amizade acumulado\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-3",
-      "arquivos": [
-        "midia/site/u63/rc234.png"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc234.jpg"
       ],
@@ -2077,6 +2180,32 @@
       "dia": "2026-09-03",
       "posts": [
         {
+          "hora": "10:00",
+          "data": "2026-09-03",
+          "id": "rc237",
+          "rede": "twitter",
+          "titulo": "🌋 O CÂNION INTEIRO COM TEMPLO E TUDO SAIU SOZINHO, GERADO PELO JOGO, SEM UM BLOCO NA MÃO",
+          "textoMeta": "🌋 O CÂNION INTEIRO COM TEMPLO E TUDO SAIU SOZINHO, GERADO PELO JOGO, SEM UM BLOCO NA MÃO\n\nResposta pro mesmo Desafio 10, mas 100% procedural. Um fez a estrutura do templo, o outro programou o terreno, e o jogo montou o cânion inteiro sozinho a partir disso.\n\n🔹 O templo com obelisco escuro é a peça pronta, mas o cânion ao redor é gerado, não construído bloco por bloco\n🔹 Combina rocha avermelhada, nuvem carregada e ponto de luz espalhado pela ravina\n🔹 Os dois já pensam em transformar isso em um mod jogável de verdade\n\n🎥 @Herborus e @Yumi_lychee\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🌋 O CÂNION INTEIRO COM TEMPLO E TUDO SAIU SOZINHO, GERADO PELO JOGO, SEM UM BLOCO NA MÃO\n\nResposta pro mesmo Desafio 10, mas 100% procedural. Um fez a estrutura do templo, o outro programou o terreno, e o jogo montou o cânion inteiro sozinho a partir disso.\n\n🔹 O templo com obelisco escuro é a peça pronta, mas o cânion ao redor é gerado, não construído bloco por bloco\n🔹 Combina rocha avermelhada, nuvem carregada e ponto de luz espalhado pela ravina\n🔹 Os dois já pensam em transformar isso em um mod jogável de verdade\n\n🎥 @Herborus e @Yumi_lychee\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/Herborus/status/2094795693990850870",
+          "arquivos": [
+            "midia/twitter/rc_worldgen10.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc237.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
+          "arquivosTwitter": [
+            "01-1000-rc237.mp4"
+          ],
+          "tipo": "video",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
           "hora": "12:30",
           "data": "2026-09-03",
           "id": "rc232",
@@ -2085,7 +2214,13 @@
           "textoMeta": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1w0btw5/immersive_storage_dont_sacrifice_vibes_for_utility/",
-          "arquivos": [],
+          "arquivos": [
+            "midia/reddit/storage/1.png",
+            "midia/reddit/storage/2.png",
+            "midia/reddit/storage/3.png",
+            "midia/reddit/storage/4.png",
+            "midia/reddit/storage/5.png"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc232_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc232_2.jpg",
@@ -2095,11 +2230,11 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
           "arquivosTwitter": [
-            "01-1230-rc232-1.png",
-            "01-1230-rc232-2.png",
-            "01-1230-rc232-3.png",
-            "01-1230-rc232-4.png",
-            "01-1230-rc232-5.png"
+            "02-1230-rc232-1.png",
+            "02-1230-rc232-2.png",
+            "02-1230-rc232-3.png",
+            "02-1230-rc232-4.png",
+            "02-1230-rc232-5.png"
           ],
           "tipo": "carrossel",
           "status": "agendado",
@@ -2118,15 +2253,18 @@
           "textoMeta": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 @Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Farrens_Tale/status/2094082955660419220",
-          "arquivos": [],
+          "arquivos": [
+            "midia/twitter/farrens/1.jpg",
+            "midia/twitter/farrens/2.jpg"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc233_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc233_2.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
           "arquivosTwitter": [
-            "02-1600-rc233-1.jpg",
-            "02-1600-rc233-2.jpg"
+            "03-1600-rc233-1.jpg",
+            "03-1600-rc233-2.jpg"
           ],
           "tipo": "carrossel",
           "status": "agendado",
@@ -2135,13 +2273,63 @@
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1692334906228433"
+        },
+        {
+          "hora": "20:00",
+          "data": "2026-09-03",
+          "id": "rc238",
+          "rede": "twitter",
+          "titulo": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE COMEÇANDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO",
+          "textoMeta": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE COMEÇANDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nPrimeira criatura de um mod novo de Harry Potter que tá nascendo. A gente já reparou nos detalhes do modelo antes de postar, ficou fiel mesmo.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 Casco dourado e crina branca brilhando, parado no meio da floresta\n🔹 É só a primeira criatura, o mod inteiro ainda tá sendo construído\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE COMEÇANDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nPrimeira criatura de um mod novo de Harry Potter que tá nascendo. A gente já reparou nos detalhes do modelo antes de postar, ficou fiel mesmo.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 Casco dourado e crina branca brilhando, parado no meio da floresta\n🔹 É só a primeira criatura, o mod inteiro ainda tá sendo construído\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/y0anb/status/2094883482237317554",
+          "arquivos": [
+            "midia/twitter/hpotter/1.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc238.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
+          "arquivosTwitter": [
+            "04-2000-rc238.jpg"
+          ],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
         }
       ],
-      "total": 2
+      "total": 4
     },
     {
       "dia": "2026-09-02",
       "posts": [
+        {
+          "hora": "10:00",
+          "data": "2026-09-02",
+          "id": "rc235",
+          "rede": "twitter",
+          "titulo": "🗺️ TEM FERRAMENTA QUE PUXA O ZOOM E MOSTRA O MAPA DO MUNDO INTEIRO DE CIMA",
+          "textoMeta": "🗺️ TEM FERRAMENTA QUE PUXA O ZOOM E MOSTRA O MAPA DO MUNDO INTEIRO DE CIMA\n\nO Meridian é um mapa companheiro rodando ao lado do jogo, e o zoom sai do pedacinho perto de você pra mostrar o mundo inteiro de uma vez, com bioma colorido e tudo.\n\n🔹 Dá pra ver o formato inteiro do mapa gerado, rio, deserto, floresta, tudo de uma visão só\n🔹 Zoom vai do close no personagem até o mundo completo lá de cima\n🔹 Ainda marca ponto de interesse no meio do mapa\n\n🎥 @0riorh\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🗺️ TEM FERRAMENTA QUE PUXA O ZOOM E MOSTRA O MAPA DO MUNDO INTEIRO DE CIMA\n\nO Meridian é um mapa companheiro rodando ao lado do jogo, e o zoom sai do pedacinho perto de você pra mostrar o mundo inteiro de uma vez, com bioma colorido e tudo.\n\n🔹 Dá pra ver o formato inteiro do mapa gerado, rio, deserto, floresta, tudo de uma visão só\n🔹 Zoom vai do close no personagem até o mundo completo lá de cima\n🔹 Ainda marca ponto de interesse no meio do mapa\n\n🎥 @0riorh\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/0riorh/status/2094926145707708427",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc235.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
+          "arquivosTwitter": [
+            "01-1000-rc235.mp4"
+          ],
+          "tipo": "video",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
         {
           "hora": "12:30",
           "data": "2026-09-02",
@@ -2157,7 +2345,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
           "arquivosTwitter": [
-            "01-1230-rc230.mp4"
+            "02-1230-rc230.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -2182,7 +2370,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
           "arquivosTwitter": [
-            "02-1600-rc231.mp4"
+            "03-1600-rc231.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -2191,9 +2379,33 @@
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/reel/1383367283976193/"
+        },
+        {
+          "hora": "20:00",
+          "data": "2026-09-02",
+          "id": "rc236",
+          "rede": "twitter",
+          "titulo": "🏜️ ELE CONSTRUIU UMA CIDADE MURADA INTEIRA DENTRO DE UM CÂNION NO DESAFIO OFICIAL",
+          "textoMeta": "🏜️ ELE CONSTRUIU UMA CIDADE MURADA INTEIRA DENTRO DE UM CÂNION NO DESAFIO OFICIAL\n\nÉ a resposta dele pro Desafio 10, focado em muralha. Saiu uma cidade comprida encaixada entre dois paredões de pedra, com prédio grudado na muralha dos dois lados.\n\n🔹 A muralha central corta o cânion de ponta a ponta, com prédio de tijolo grudado nela dos dois lados\n🔹 A vila embaixo tem barraca, veículo estacionado e detalhe espalhado no chão inteiro\n🔹 Foi o desafio que mais deixou o processo de fazer prefab confiante, segundo o próprio texto do post\n\n🎥 @Stray_The_Dev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🏜️ ELE CONSTRUIU UMA CIDADE MURADA INTEIRA DENTRO DE UM CÂNION NO DESAFIO OFICIAL\n\nÉ a resposta dele pro Desafio 10, focado em muralha. Saiu uma cidade comprida encaixada entre dois paredões de pedra, com prédio grudado na muralha dos dois lados.\n\n🔹 A muralha central corta o cânion de ponta a ponta, com prédio de tijolo grudado nela dos dois lados\n🔹 A vila embaixo tem barraca, veículo estacionado e detalhe espalhado no chão inteiro\n🔹 Foi o desafio que mais deixou o processo de fazer prefab confiante, segundo o próprio texto do post\n\n🎥 @Stray_The_Dev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/Stray_The_Dev/status/2094871726274359513",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc236.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-02",
+          "arquivosTwitter": [
+            "04-2000-rc236.mp4"
+          ],
+          "tipo": "video",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
         }
       ],
-      "total": 2
+      "total": 4
     },
     {
       "dia": "2026-09-01",
@@ -2207,9 +2419,7 @@
           "textoMeta": "🌑 O NPC TINHA PERDIDO A SOMBRA NO UPDATE 6, E A 0.6.3 DEVOLVEU\n\nTerceira leva de correções do Update 6, bem curtinha, saiu ontem.\n\n🔹 NPC voltou a projetar sombra. E agora a sombra respeita o formato da textura, então parte transparente não escurece mais o chão\n🔹 Mais conserto no carregamento e no cache do avatar do perfil social\n🔹 A lista de notificação abre mais rápido pra quem tem pedido de amizade acumulado\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🌑 O NPC TINHA PERDIDO A SOMBRA NO UPDATE 6, E A 0.6.3 DEVOLVEU\n\nTerceira leva de correções do Update 6, bem curtinha, saiu ontem.\n\n🔹 NPC voltou a projetar sombra. E agora a sombra respeita o formato da textura, então parte transparente não escurece mais o chão\n🔹 Mais conserto no carregamento e no cache do avatar do perfil social\n🔹 A lista de notificação abre mais rápido pra quem tem pedido de amizade acumulado\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-3",
-          "arquivos": [
-            "midia/site/u63/rc234.png"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc234.jpg"
           ],
@@ -2233,9 +2443,7 @@
           "textoMeta": "⛵ O OCEANO DO JOGO ERA SÓ ENFEITE, AGORA TEM VELEIRO QUE VOCÊ PILOTA E ANDA NO CONVÉS\n\nO Maritime Life saiu e resolve uma coisa que incomodava, mar gigante em todo canto e nada que navegue nele. É de graça e já roda no Update 6.\n\n🔹 Dois barcos, catamarã de 12 metros e iate de 15, com o interior construído por dentro\n🔹 Você joga o barco na água como item, assume o leme e caminha pelo convés enquanto ele navega\n🔹 Aperta F e ele volta pro inventário, do jeito que estava\n\n🎥 MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "⛵ O OCEANO DO JOGO ERA SÓ ENFEITE, AGORA TEM VELEIRO QUE VOCÊ PILOTA E ANDA NO CONVÉS\n\nO Maritime Life saiu e resolve uma coisa que incomodava, mar gigante em todo canto e nada que navegue nele. É de graça e já roda no Update 6.\n\n🔹 Dois barcos, catamarã de 12 metros e iate de 15, com o interior construído por dentro\n🔹 Você joga o barco na água como item, assume o leme e caminha pelo convés enquanto ele navega\n🔹 Aperta F e ele volta pro inventário, do jeito que estava\n\n🎥 @MaritimeLifeDev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/MaritimeLifeDev/status/2093109142970064914",
-          "arquivos": [
-            "midia/twitter/rc_maritime.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc228.mp4"
           ],
@@ -2260,9 +2468,7 @@
           "textoMeta": "🐉 ELE ACHOU EM UM CHIP DE CELULAR VELHO A CENA DO DRAGÃO DO TRAILER ANTIGO DO JOGO\n\nMexendo em um chip guardado há anos, ele encontrou a gravação da luta contra o dragão que aparecia no trailer. Reeditou em ritmo lento pra dar pra enxergar tudo.\n\n🔹 É a sequência do castelo pegando fogo, com escombro voando e o dragão sobrevoando a torre\n🔹 Em câmera lenta aparece detalhe que passava batido na velocidade original\n\n🎥 ThomasFrick\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🐉 ELE ACHOU EM UM CHIP DE CELULAR VELHO A CENA DO DRAGÃO DO TRAILER ANTIGO DO JOGO\n\nMexendo em um chip guardado há anos, ele encontrou a gravação da luta contra o dragão que aparecia no trailer. Reeditou em ritmo lento pra dar pra enxergar tudo.\n\n🔹 É a sequência do castelo pegando fogo, com escombro voando e o dragão sobrevoando a torre\n🔹 Em câmera lenta aparece detalhe que passava batido na velocidade original\n\n🎥 @ThomasFrick\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/ThomasFrick/status/2093879128936399045",
-          "arquivos": [
-            "midia/twitter/rc_dragonfight.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc229.mp4"
           ],
@@ -3774,13 +3980,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 234,
+    "coletadosTotal": 238,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 116,
     "rejeitadosMemoria": 7,
-    "escritos": 79,
-    "agendados": 54,
+    "escritos": 83,
+    "agendados": 58,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,

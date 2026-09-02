@@ -6871,5 +6871,92 @@ window.ELDRYN_POSTS = [
       "twitter": "🌑 O NPC TINHA PERDIDO A SOMBRA NO UPDATE 6, E A 0.6.3 DEVOLVEU\n\nTerceira leva de correções do Update 6, bem curtinha, saiu ontem.\n\n🔹 NPC voltou a projetar sombra. E agora a sombra respeita o formato da textura, então parte transparente não escurece mais o chão\n🔹 Mais conserto no carregamento e no cache do avatar do perfil social\n🔹 A lista de notificação abre mais rápido pra quem tem pedido de amizade acumulado\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🌑 O NPC TINHA PERDIDO A SOMBRA NO UPDATE 6, E A 0.6.3 DEVOLVEU\n\nTerceira leva de correções do Update 6, bem curtinha, saiu ontem.\n\n🔹 NPC voltou a projetar sombra. E agora a sombra respeita o formato da textura, então parte transparente não escurece mais o chão\n🔹 Mais conserto no carregamento e no cache do avatar do perfil social\n🔹 A lista de notificação abre mais rápido pra quem tem pedido de amizade acumulado\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🌑 O NPC TINHA PERDIDO A SOMBRA NO UPDATE 6, E A 0.6.3 DEVOLVEU\n\nTerceira leva de correções do Update 6, bem curtinha, saiu ontem.\n\n🔹 NPC voltou a projetar sombra. E agora a sombra respeita o formato da textura, então parte transparente não escurece mais o chão\n🔹 Mais conserto no carregamento e no cache do avatar do perfil social\n🔹 A lista de notificação abre mais rápido pra quem tem pedido de amizade acumulado\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc235",
+      "rodada": "2026-09-01 21:53",
+      "emoji": "🗺️",
+      "titulo": "[X] Ferramenta de mapa com zoom pro mundo inteiro",
+      "fonte": "https://x.com/0riorh/status/2094926145707708427",
+      "fonteData": "2026-09-01",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, so twitter.",
+      "midia": {
+          "url": "https://x.com/0riorh/status/2094926145707708427",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/rc_worldmap.mp4"
+          ],
+          "video": "midia/twitter/rc_worldmap.mp4"
+      },
+      "twitter": "🗺️ TEM FERRAMENTA QUE PUXA O ZOOM E MOSTRA O MAPA DO MUNDO INTEIRO DE CIMA\n\nO Meridian é um mapa companheiro rodando ao lado do jogo, e o zoom sai do pedacinho perto de você pra mostrar o mundo inteiro de uma vez, com bioma colorido e tudo.\n\n🔹 Dá pra ver o formato inteiro do mapa gerado, rio, deserto, floresta, tudo de uma visão só\n🔹 Zoom vai do close no personagem até o mundo completo lá de cima\n🔹 Ainda marca ponto de interesse no meio do mapa\n\n🎥 @0riorh\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🗺️ TEM FERRAMENTA QUE PUXA O ZOOM E MOSTRA O MAPA DO MUNDO INTEIRO DE CIMA\n\nO Meridian é um mapa companheiro rodando ao lado do jogo, e o zoom sai do pedacinho perto de você pra mostrar o mundo inteiro de uma vez, com bioma colorido e tudo.\n\n🔹 Dá pra ver o formato inteiro do mapa gerado, rio, deserto, floresta, tudo de uma visão só\n🔹 Zoom vai do close no personagem até o mundo completo lá de cima\n🔹 Ainda marca ponto de interesse no meio do mapa\n\n🎥 @0riorh\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🗺️ TEM FERRAMENTA QUE PUXA O ZOOM E MOSTRA O MAPA DO MUNDO INTEIRO DE CIMA\n\nO Meridian é um mapa companheiro rodando ao lado do jogo, e o zoom sai do pedacinho perto de você pra mostrar o mundo inteiro de uma vez, com bioma colorido e tudo.\n\n🔹 Dá pra ver o formato inteiro do mapa gerado, rio, deserto, floresta, tudo de uma visão só\n🔹 Zoom vai do close no personagem até o mundo completo lá de cima\n🔹 Ainda marca ponto de interesse no meio do mapa\n\n🎥 @0riorh\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc236",
+      "rodada": "2026-09-01 21:53",
+      "emoji": "🏜️",
+      "titulo": "[X] Cidade murada dentro de um cânion no Desafio 10",
+      "fonte": "https://x.com/Stray_The_Dev/status/2094871726274359513",
+      "fonteData": "2026-09-01",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, so twitter.",
+      "midia": {
+          "url": "https://x.com/Stray_The_Dev/status/2094871726274359513",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/rc_stray10.mp4"
+          ],
+          "video": "midia/twitter/rc_stray10.mp4"
+      },
+      "twitter": "🏜️ ELE CONSTRUIU UMA CIDADE MURADA INTEIRA DENTRO DE UM CÂNION NO DESAFIO OFICIAL\n\nÉ a resposta dele pro Desafio 10, focado em muralha. Saiu uma cidade comprida encaixada entre dois paredões de pedra, com prédio grudado na muralha dos dois lados.\n\n🔹 A muralha central corta o cânion de ponta a ponta, com prédio de tijolo grudado nela dos dois lados\n🔹 A vila embaixo tem barraca, veículo estacionado e detalhe espalhado no chão inteiro\n🔹 Foi o desafio que mais deixou o processo de fazer prefab confiante, segundo o próprio texto do post\n\n🎥 @Stray_The_Dev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🏜️ ELE CONSTRUIU UMA CIDADE MURADA INTEIRA DENTRO DE UM CÂNION NO DESAFIO OFICIAL\n\nÉ a resposta dele pro Desafio 10, focado em muralha. Saiu uma cidade comprida encaixada entre dois paredões de pedra, com prédio grudado na muralha dos dois lados.\n\n🔹 A muralha central corta o cânion de ponta a ponta, com prédio de tijolo grudado nela dos dois lados\n🔹 A vila embaixo tem barraca, veículo estacionado e detalhe espalhado no chão inteiro\n🔹 Foi o desafio que mais deixou o processo de fazer prefab confiante, segundo o próprio texto do post\n\n🎥 @Stray_The_Dev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🏜️ ELE CONSTRUIU UMA CIDADE MURADA INTEIRA DENTRO DE UM CÂNION NO DESAFIO OFICIAL\n\nÉ a resposta dele pro Desafio 10, focado em muralha. Saiu uma cidade comprida encaixada entre dois paredões de pedra, com prédio grudado na muralha dos dois lados.\n\n🔹 A muralha central corta o cânion de ponta a ponta, com prédio de tijolo grudado nela dos dois lados\n🔹 A vila embaixo tem barraca, veículo estacionado e detalhe espalhado no chão inteiro\n🔹 Foi o desafio que mais deixou o processo de fazer prefab confiante, segundo o próprio texto do post\n\n🎥 @Stray_The_Dev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc237",
+      "rodada": "2026-09-01 21:53",
+      "emoji": "🌋",
+      "titulo": "[X] Cânion procedural com templo, Desafio 10",
+      "fonte": "https://x.com/Herborus/status/2094795693990850870",
+      "fonteData": "2026-09-01",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, so twitter.",
+      "midia": {
+          "url": "https://x.com/Herborus/status/2094795693990850870",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/rc_worldgen10.mp4"
+          ],
+          "video": "midia/twitter/rc_worldgen10.mp4"
+      },
+      "twitter": "🌋 O CÂNION INTEIRO COM TEMPLO E TUDO SAIU SOZINHO, GERADO PELO JOGO, SEM UM BLOCO NA MÃO\n\nResposta pro mesmo Desafio 10, mas 100% procedural. Um fez a estrutura do templo, o outro programou o terreno, e o jogo montou o cânion inteiro sozinho a partir disso.\n\n🔹 O templo com obelisco escuro é a peça pronta, mas o cânion ao redor é gerado, não construído bloco por bloco\n🔹 Combina rocha avermelhada, nuvem carregada e ponto de luz espalhado pela ravina\n🔹 Os dois já pensam em transformar isso em um mod jogável de verdade\n\n🎥 @Herborus e @Yumi_lychee\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🌋 O CÂNION INTEIRO COM TEMPLO E TUDO SAIU SOZINHO, GERADO PELO JOGO, SEM UM BLOCO NA MÃO\n\nResposta pro mesmo Desafio 10, mas 100% procedural. Um fez a estrutura do templo, o outro programou o terreno, e o jogo montou o cânion inteiro sozinho a partir disso.\n\n🔹 O templo com obelisco escuro é a peça pronta, mas o cânion ao redor é gerado, não construído bloco por bloco\n🔹 Combina rocha avermelhada, nuvem carregada e ponto de luz espalhado pela ravina\n🔹 Os dois já pensam em transformar isso em um mod jogável de verdade\n\n🎥 @Herborus e @Yumi_lychee\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🌋 O CÂNION INTEIRO COM TEMPLO E TUDO SAIU SOZINHO, GERADO PELO JOGO, SEM UM BLOCO NA MÃO\n\nResposta pro mesmo Desafio 10, mas 100% procedural. Um fez a estrutura do templo, o outro programou o terreno, e o jogo montou o cânion inteiro sozinho a partir disso.\n\n🔹 O templo com obelisco escuro é a peça pronta, mas o cânion ao redor é gerado, não construído bloco por bloco\n🔹 Combina rocha avermelhada, nuvem carregada e ponto de luz espalhado pela ravina\n🔹 Os dois já pensam em transformar isso em um mod jogável de verdade\n\n🎥 @Herborus e @Yumi_lychee\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc238",
+      "rodada": "2026-09-01 21:53",
+      "emoji": "🦄",
+      "titulo": "[X] Unicórnio, primeira criatura de um mod de Harry Potter",
+      "fonte": "https://x.com/y0anb/status/2094883482237317554",
+      "fonteData": "2026-09-01",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, so twitter.",
+      "midia": {
+          "url": "https://x.com/y0anb/status/2094883482237317554",
+          "nota": "Midia da fonte original.",
+          "tipo": "imagem",
+          "arquivos": [
+              "midia/twitter/hpotter/1.jpg"
+          ]
+      },
+      "twitter": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE COMEÇANDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nPrimeira criatura de um mod novo de Harry Potter que tá nascendo. A gente já reparou nos detalhes do modelo antes de postar, ficou fiel mesmo.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 Casco dourado e crina branca brilhando, parado no meio da floresta\n🔹 É só a primeira criatura, o mod inteiro ainda tá sendo construído\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE COMEÇANDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nPrimeira criatura de um mod novo de Harry Potter que tá nascendo. A gente já reparou nos detalhes do modelo antes de postar, ficou fiel mesmo.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 Casco dourado e crina branca brilhando, parado no meio da floresta\n🔹 É só a primeira criatura, o mod inteiro ainda tá sendo construído\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE COMEÇANDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nPrimeira criatura de um mod novo de Harry Potter que tá nascendo. A gente já reparou nos detalhes do modelo antes de postar, ficou fiel mesmo.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 Casco dourado e crina branca brilhando, parado no meio da floresta\n🔹 É só a primeira criatura, o mod inteiro ainda tá sendo construído\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
