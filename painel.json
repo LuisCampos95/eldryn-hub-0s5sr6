@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-03T17:34:55.095Z",
+  "geradoEm": "2026-09-03T22:53:03.834Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 241,
+      "n": 249,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 125,
+      "n": 133,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 118,
+      "n": 126,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 71,
+      "n": 79,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 60,
+      "n": 68,
       "quem": "código"
     }
   ],
@@ -545,15 +545,13 @@
       "textoMeta": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE NASCENDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nCasco dourado, crina branca brilhando, parado no meio da floresta. É a primeira criatura de um mod novo que ainda está sendo construído peça por peça.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 O resto do mod, feitiço, casa, item, ainda está por vir\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE NASCENDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nCasco dourado, crina branca brilhando, parado no meio da floresta. É a primeira criatura de um mod novo que ainda está sendo construído peça por peça.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 O resto do mod, feitiço, casa, item, ainda está por vir\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/y0anb/status/2094883482237317554",
-      "arquivos": [
-        "midia/twitter/hpotter/1.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc238.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
       "arquivosTwitter": [
-        "02-2000-rc238.jpg"
+        "07-2000-rc238.jpg"
       ],
       "tipo": "imagem",
       "status": "aguardando manual",
@@ -561,6 +559,31 @@
       "engajamento": null,
       "categoria": null,
       "motivo": null
+    },
+    {
+      "hora": "19:00",
+      "data": "2026-09-04",
+      "id": "rc249",
+      "rede": "facebook",
+      "titulo": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ",
+      "textoMeta": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/OrbisHytale/status/2095592278513348903",
+      "arquivos": [
+        "midia/twitter/orbis_glider/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc249.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
+      "arquivosTwitter": [],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1375015431413030/"
     },
     {
       "hora": "16:00",
@@ -580,17 +603,39 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc233_2.jpg"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
-      "arquivosTwitter": [
-        "01-1600-rc233-1.jpg",
-        "01-1600-rc233-2.jpg"
-      ],
-      "tipo": "carrossel",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
       "status": "agendado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1695977332530857"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-09-04",
+      "id": "rc248",
+      "rede": "facebook",
+      "titulo": "🔮 TESTAMOS O SISTEMA DE RUNA NOVO DO UPDATE 7, E DÁ PRA COMBINAR PODER DIFERENTE NO MESMO GOLPE",
+      "textoMeta": "🔮 TESTAMOS O SISTEMA DE RUNA NOVO DO UPDATE 7, E DÁ PRA COMBINAR PODER DIFERENTE NO MESMO GOLPE\n\nCada runa encaixada na Efígie do Vinculador muda o jeito que sua arma bate. Testamos as cinco que já saíram, uma puxa mais dano pro dois lados, outra explode, outra envenena, outra derruba o chão embaixo do inimigo, e a última fura o alvo em sequência.\n\n🔹 São 5 runas pra começar, e cada uma pede uma tática de luta diferente\n🔹 Deu pra sentir a diferença de peso na mão, cada runa muda o ritmo do combo\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔮 TESTAMOS O SISTEMA DE RUNA NOVO DO UPDATE 7, E DÁ PRA COMBINAR PODER DIFERENTE NO MESMO GOLPE\n\nCada runa encaixada na Efígie do Vinculador muda o jeito que sua arma bate. Testamos as cinco que já saíram, uma puxa mais dano pro dois lados, outra explode, outra envenena, outra derruba o chão embaixo do inimigo, e a última fura o alvo em sequência.\n\n🔹 São 5 runas pra começar, e cada uma pede uma tática de luta diferente\n🔹 Deu pra sentir a diferença de peso na mão, cada runa muda o ritmo do combo\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/OrbisHytale/status/2095638449478889892",
+      "arquivos": [
+        "midia/twitter/orbis_runas/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc248.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
+      "arquivosTwitter": [],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1028419023343333/"
     },
     {
       "hora": "19:30",
@@ -606,7 +651,7 @@
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
       "arquivosTwitter": [],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -627,7 +672,7 @@
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
       "arquivosTwitter": [],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -648,7 +693,7 @@
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
       "arquivosTwitter": [],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -2223,6 +2268,31 @@
       "dia": "2026-09-04",
       "posts": [
         {
+          "hora": "12:30",
+          "data": "2026-09-04",
+          "id": "rc248",
+          "rede": "facebook",
+          "titulo": "🔮 TESTAMOS O SISTEMA DE RUNA NOVO DO UPDATE 7, E DÁ PRA COMBINAR PODER DIFERENTE NO MESMO GOLPE",
+          "textoMeta": "🔮 TESTAMOS O SISTEMA DE RUNA NOVO DO UPDATE 7, E DÁ PRA COMBINAR PODER DIFERENTE NO MESMO GOLPE\n\nCada runa encaixada na Efígie do Vinculador muda o jeito que sua arma bate. Testamos as cinco que já saíram, uma puxa mais dano pro dois lados, outra explode, outra envenena, outra derruba o chão embaixo do inimigo, e a última fura o alvo em sequência.\n\n🔹 São 5 runas pra começar, e cada uma pede uma tática de luta diferente\n🔹 Deu pra sentir a diferença de peso na mão, cada runa muda o ritmo do combo\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔮 TESTAMOS O SISTEMA DE RUNA NOVO DO UPDATE 7, E DÁ PRA COMBINAR PODER DIFERENTE NO MESMO GOLPE\n\nCada runa encaixada na Efígie do Vinculador muda o jeito que sua arma bate. Testamos as cinco que já saíram, uma puxa mais dano pro dois lados, outra explode, outra envenena, outra derruba o chão embaixo do inimigo, e a última fura o alvo em sequência.\n\n🔹 São 5 runas pra começar, e cada uma pede uma tática de luta diferente\n🔹 Deu pra sentir a diferença de peso na mão, cada runa muda o ritmo do combo\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/OrbisHytale/status/2095638449478889892",
+          "arquivos": [
+            "midia/twitter/orbis_runas/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc248.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
+          "arquivosTwitter": [],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1028419023343333/"
+        },
+        {
           "hora": "16:00",
           "data": "2026-09-04",
           "id": "rc233",
@@ -2240,17 +2310,39 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc233_2.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
-          "arquivosTwitter": [
-            "01-1600-rc233-1.jpg",
-            "01-1600-rc233-2.jpg"
-          ],
-          "tipo": "carrossel",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
           "status": "agendado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1695977332530857"
+        },
+        {
+          "hora": "19:00",
+          "data": "2026-09-04",
+          "id": "rc249",
+          "rede": "facebook",
+          "titulo": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ",
+          "textoMeta": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/OrbisHytale/status/2095592278513348903",
+          "arquivos": [
+            "midia/twitter/orbis_glider/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc249.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
+          "arquivosTwitter": [],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1375015431413030/"
         },
         {
           "hora": "20:00",
@@ -2261,15 +2353,13 @@
           "textoMeta": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE NASCENDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nCasco dourado, crina branca brilhando, parado no meio da floresta. É a primeira criatura de um mod novo que ainda está sendo construído peça por peça.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 O resto do mod, feitiço, casa, item, ainda está por vir\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE NASCENDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nCasco dourado, crina branca brilhando, parado no meio da floresta. É a primeira criatura de um mod novo que ainda está sendo construído peça por peça.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 O resto do mod, feitiço, casa, item, ainda está por vir\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/y0anb/status/2094883482237317554",
-          "arquivos": [
-            "midia/twitter/hpotter/1.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc238.jpg"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
           "arquivosTwitter": [
-            "02-2000-rc238.jpg"
+            "07-2000-rc238.jpg"
           ],
           "tipo": "imagem",
           "status": "aguardando manual",
@@ -2279,7 +2369,7 @@
           "motivo": null
         }
       ],
-      "total": 2
+      "total": 4
     },
     {
       "dia": "2026-09-03",
@@ -2343,7 +2433,7 @@
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
           "arquivosTwitter": [],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2364,7 +2454,7 @@
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
           "arquivosTwitter": [],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2385,7 +2475,7 @@
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
           "arquivosTwitter": [],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -4072,13 +4162,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 241,
+    "coletadosTotal": 249,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 116,
     "rejeitadosMemoria": 7,
-    "escritos": 86,
-    "agendados": 60,
+    "escritos": 94,
+    "agendados": 68,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -4142,11 +4232,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6069,
-      "totalPosts": 295,
+      "seguidores": 6070,
+      "totalPosts": 298,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 80,
+      "mediaCurtidas": 78,
       "amostra": 100
     },
     "twitter": {
@@ -4167,7 +4257,7 @@
     "topPosts": [
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 609,
+        "curtidas": 611,
         "comentarios": 4,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
@@ -4191,7 +4281,7 @@
       },
       {
         "titulo": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD",
-        "curtidas": 294,
+        "curtidas": 296,
         "comentarios": 3,
         "tipo": "video",
         "quando": "2026-08-25T15:58:47+0000",
@@ -4217,8 +4307,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-19T21:00:53+0000",
-      "ate": "2026-09-02T20:04:53+0000"
+      "de": "2026-07-21T18:18:49+0000",
+      "ate": "2026-09-03T22:52:21+0000"
     },
     "serie": [
       {

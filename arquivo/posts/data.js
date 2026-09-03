@@ -7023,5 +7023,181 @@ window.ELDRYN_POSTS = [
       "twitter": "👹 ENCARAMOS O FEASTMASTER, O GOBLIN GIGANTE DO UPDATE 7, E ELE CHAMA REFORÇO NO MEIO DA LUTA\n\nFomos testar o goblin de elite que chegou no pré-lançamento, e ele não briga sozinho. É o maior dos seis goblins novos, e a luta muda de fase.\n\n🔹 Chama outro goblin pra ajudar quando a vida dele começa a cair\n🔹 Investe correndo em alta velocidade, e o golpe estraga o cenário ao redor\n🔹 A arena vira um corredor de pedra apertado, então não tem muito espaço pra fugir do bicho\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "👹 ENCARAMOS O FEASTMASTER, O GOBLIN GIGANTE DO UPDATE 7, E ELE CHAMA REFORÇO NO MEIO DA LUTA\n\nFomos testar o goblin de elite que chegou no pré-lançamento, e ele não briga sozinho. É o maior dos seis goblins novos, e a luta muda de fase.\n\n🔹 Chama outro goblin pra ajudar quando a vida dele começa a cair\n🔹 Investe correndo em alta velocidade, e o golpe estraga o cenário ao redor\n🔹 A arena vira um corredor de pedra apertado, então não tem muito espaço pra fugir do bicho\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "👹 ENCARAMOS O FEASTMASTER, O GOBLIN GIGANTE DO UPDATE 7, E ELE CHAMA REFORÇO NO MEIO DA LUTA\n\nFomos testar o goblin de elite que chegou no pré-lançamento, e ele não briga sozinho. É o maior dos seis goblins novos, e a luta muda de fase.\n\n🔹 Chama outro goblin pra ajudar quando a vida dele começa a cair\n🔹 Investe correndo em alta velocidade, e o golpe estraga o cenário ao redor\n🔹 A arena vira um corredor de pedra apertado, então não tem muito espaço pra fugir do bicho\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc242",
+      "rodada": "2026-09-03 19:50",
+      "emoji": "🧌",
+      "titulo": "[X] Horda de goblin com IA nova, Update 7",
+      "fonte": "https://x.com/Stray_The_Dev/status/2095552366363684936",
+      "fonteData": "2026-09-03",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, itens do Update 7.",
+      "midia": {
+          "url": "https://x.com/Stray_The_Dev/status/2095552366363684936",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/u7_gadgets/goblinai.mp4"
+          ],
+          "video": "midia/twitter/u7_gadgets/goblinai.mp4"
+      },
+      "twitter": "🧌 HORDA INTEIRA DE GOBLIN VEIO TODA JUNTA PRA CIMA DELE, E NINGUÉM ATROPELOU O OUTRO\n\nA IA dos goblins do Update 7 tá impressionando. Dezenas deles cercam o jogador de uma vez, cada um se posicionando sem travar em cima do vizinho.\n\n🔹 O grupo inteiro converge pro mesmo alvo e ainda assim mantém espaço entre eles\n🔹 Dá pra ver variação de tipo no meio da horda, não é clone repetido\n\n🎥 @Stray_The_Dev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🧌 HORDA INTEIRA DE GOBLIN VEIO TODA JUNTA PRA CIMA DELE, E NINGUÉM ATROPELOU O OUTRO\n\nA IA dos goblins do Update 7 tá impressionando. Dezenas deles cercam o jogador de uma vez, cada um se posicionando sem travar em cima do vizinho.\n\n🔹 O grupo inteiro converge pro mesmo alvo e ainda assim mantém espaço entre eles\n🔹 Dá pra ver variação de tipo no meio da horda, não é clone repetido\n\n🎥 @Stray_The_Dev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🧌 HORDA INTEIRA DE GOBLIN VEIO TODA JUNTA PRA CIMA DELE, E NINGUÉM ATROPELOU O OUTRO\n\nA IA dos goblins do Update 7 tá impressionando. Dezenas deles cercam o jogador de uma vez, cada um se posicionando sem travar em cima do vizinho.\n\n🔹 O grupo inteiro converge pro mesmo alvo e ainda assim mantém espaço entre eles\n🔹 Dá pra ver variação de tipo no meio da horda, não é clone repetido\n\n🎥 @Stray_The_Dev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc243",
+      "rodada": "2026-09-03 19:50",
+      "emoji": "🔥",
+      "titulo": "[X] Goblin Burner, lança-chamas do Update 7",
+      "fonte": "https://x.com/hytalenewsyt/status/2095580731011666374",
+      "fonteData": "2026-09-03",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, itens do Update 7.",
+      "midia": {
+          "url": "https://x.com/hytalenewsyt/status/2095580731011666374",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/u7_gadgets/burner.mp4"
+          ],
+          "video": "midia/twitter/u7_gadgets/burner.mp4"
+      },
+      "twitter": "🔥 O GOBLIN BURNER CHEGOU COM LANÇA-CHAMAS DE VERDADE NO UPDATE 7\n\nEsse é o goblin ranged mais agressivo dos seis novos. Em vez de flecha ou bomba, ele varre a área na frente com fogo direto.\n\n🔹 Queima qualquer coisa que estiver no caminho do jato, planta ou jogador\n🔹 É um dos seis tipos de goblin novo, cada um com um jeito de lutar diferente\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔥 O GOBLIN BURNER CHEGOU COM LANÇA-CHAMAS DE VERDADE NO UPDATE 7\n\nEsse é o goblin ranged mais agressivo dos seis novos. Em vez de flecha ou bomba, ele varre a área na frente com fogo direto.\n\n🔹 Queima qualquer coisa que estiver no caminho do jato, planta ou jogador\n🔹 É um dos seis tipos de goblin novo, cada um com um jeito de lutar diferente\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔥 O GOBLIN BURNER CHEGOU COM LANÇA-CHAMAS DE VERDADE NO UPDATE 7\n\nEsse é o goblin ranged mais agressivo dos seis novos. Em vez de flecha ou bomba, ele varre a área na frente com fogo direto.\n\n🔹 Queima qualquer coisa que estiver no caminho do jato, planta ou jogador\n🔹 É um dos seis tipos de goblin novo, cada um com um jeito de lutar diferente\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc244",
+      "rodada": "2026-09-03 19:50",
+      "emoji": "🚀",
+      "titulo": "[X] Bota-Foguete, pulo duplo do Update 7",
+      "fonte": "https://x.com/HytaleNewsYT/status/2095566178924261710",
+      "fonteData": "2026-09-03",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, itens do Update 7.",
+      "midia": {
+          "url": "https://x.com/HytaleNewsYT/status/2095566178924261710",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/u7_gadgets/rocketboots.mp4"
+          ],
+          "video": "midia/twitter/u7_gadgets/rocketboots.mp4"
+      },
+      "twitter": "🚀 BOTA-FOGUETE NOVA DÁ PULO DUPLO NO HYTALE, SÓ ISSO MESMO\n\nItem de perna simples que chegou no Update 7. Não protege nada, é puro movimento.\n\n🔹 Equipa no lugar da perna e libera um segundo pulo no ar\n🔹 Zero proteção extra, é só pra mobilidade\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🚀 BOTA-FOGUETE NOVA DÁ PULO DUPLO NO HYTALE, SÓ ISSO MESMO\n\nItem de perna simples que chegou no Update 7. Não protege nada, é puro movimento.\n\n🔹 Equipa no lugar da perna e libera um segundo pulo no ar\n🔹 Zero proteção extra, é só pra mobilidade\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🚀 BOTA-FOGUETE NOVA DÁ PULO DUPLO NO HYTALE, SÓ ISSO MESMO\n\nItem de perna simples que chegou no Update 7. Não protege nada, é puro movimento.\n\n🔹 Equipa no lugar da perna e libera um segundo pulo no ar\n🔹 Zero proteção extra, é só pra mobilidade\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc245",
+      "rodada": "2026-09-03 19:50",
+      "emoji": "🔭",
+      "titulo": "[X] Luneta nova do Update 7",
+      "fonte": "https://x.com/hytalenewsyt/status/2095564933996171685",
+      "fonteData": "2026-09-03",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, itens do Update 7.",
+      "midia": {
+          "url": "https://x.com/hytalenewsyt/status/2095564933996171685",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/u7_gadgets/spyglass.mp4"
+          ],
+          "video": "midia/twitter/u7_gadgets/spyglass.mp4"
+      },
+      "twitter": "🔭 A LUNETA NOVA DO UPDATE 7 DÁ ZOOM NO QUE TÁ LONGE, IGUAL LUNETA DE VERDADE\n\nItem simples que chegou junto com o resto dos gadgets de goblin. Você aponta e vê de perto qualquer coisa acontecendo no horizonte.\n\n🔹 Zoom direto na visão, sem precisar chegar perto\n🔹 Faz parte do mesmo lote de gadget dos goblins que veio no Update 7\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔭 A LUNETA NOVA DO UPDATE 7 DÁ ZOOM NO QUE TÁ LONGE, IGUAL LUNETA DE VERDADE\n\nItem simples que chegou junto com o resto dos gadgets de goblin. Você aponta e vê de perto qualquer coisa acontecendo no horizonte.\n\n🔹 Zoom direto na visão, sem precisar chegar perto\n🔹 Faz parte do mesmo lote de gadget dos goblins que veio no Update 7\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔭 A LUNETA NOVA DO UPDATE 7 DÁ ZOOM NO QUE TÁ LONGE, IGUAL LUNETA DE VERDADE\n\nItem simples que chegou junto com o resto dos gadgets de goblin. Você aponta e vê de perto qualquer coisa acontecendo no horizonte.\n\n🔹 Zoom direto na visão, sem precisar chegar perto\n🔹 Faz parte do mesmo lote de gadget dos goblins que veio no Update 7\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc246",
+      "rodada": "2026-09-03 19:50",
+      "emoji": "⛏️",
+      "titulo": "[X] Broca de Sucata do Update 7",
+      "fonte": "https://x.com/HytaleNewsYT/status/2095563789483835900",
+      "fonteData": "2026-09-03",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, itens do Update 7.",
+      "midia": {
+          "url": "https://x.com/HytaleNewsYT/status/2095563789483835900",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/u7_gadgets/scrapdrill.mp4"
+          ],
+          "video": "midia/twitter/u7_gadgets/scrapdrill.mp4"
+      },
+      "twitter": "⛏️ BROCA DE SUCATA QUEBRA VÁRIOS BLOCOS DE UMA VEZ, MAS PRECISA CHEGAR PERTO\n\nFerramenta de mineração nova do Update 7. Em troca de arrancar bloco em grupo, ela exige distância bem mais curta que picareta comum.\n\n🔹 Quebra vários blocos no mesmo golpe, em vez de um por um\n🔹 O alcance encurtado é o preço pago pela velocidade\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "⛏️ BROCA DE SUCATA QUEBRA VÁRIOS BLOCOS DE UMA VEZ, MAS PRECISA CHEGAR PERTO\n\nFerramenta de mineração nova do Update 7. Em troca de arrancar bloco em grupo, ela exige distância bem mais curta que picareta comum.\n\n🔹 Quebra vários blocos no mesmo golpe, em vez de um por um\n🔹 O alcance encurtado é o preço pago pela velocidade\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "⛏️ BROCA DE SUCATA QUEBRA VÁRIOS BLOCOS DE UMA VEZ, MAS PRECISA CHEGAR PERTO\n\nFerramenta de mineração nova do Update 7. Em troca de arrancar bloco em grupo, ela exige distância bem mais curta que picareta comum.\n\n🔹 Quebra vários blocos no mesmo golpe, em vez de um por um\n🔹 O alcance encurtado é o preço pago pela velocidade\n\n🎥 @HytaleNewsYT\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc247",
+      "rodada": "2026-09-03 19:50",
+      "emoji": "🪝",
+      "titulo": "[X] Gancho e âncora do Update 7",
+      "fonte": "https://x.com/itsneildev/status/2095522336518832375",
+      "fonteData": "2026-09-03",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, itens do Update 7.",
+      "midia": {
+          "url": "https://x.com/itsneildev/status/2095522336518832375",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/u7_gadgets/hookshot.mp4"
+          ],
+          "video": "midia/twitter/u7_gadgets/hookshot.mp4"
+      },
+      "twitter": "🪝 GANCHO E ÂNCORA CHEGARAM NO UPDATE 7, E DÁ PRA CRUZAR O MAPA SE BALANÇANDO\n\nNovo jeito de se mover pelo mundo. Você fixa a âncora em algo à distância e o gancho puxa até lá.\n\n🔹 Dá pra atravessar rio, precipício ou área alta sem ter que contornar\n🔹 Faz parte do lote de gadget de goblin que chegou junto com o Update 7\n\n🎥 @itsneildev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🪝 GANCHO E ÂNCORA CHEGARAM NO UPDATE 7, E DÁ PRA CRUZAR O MAPA SE BALANÇANDO\n\nNovo jeito de se mover pelo mundo. Você fixa a âncora em algo à distância e o gancho puxa até lá.\n\n🔹 Dá pra atravessar rio, precipício ou área alta sem ter que contornar\n🔹 Faz parte do lote de gadget de goblin que chegou junto com o Update 7\n\n🎥 @itsneildev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🪝 GANCHO E ÂNCORA CHEGARAM NO UPDATE 7, E DÁ PRA CRUZAR O MAPA SE BALANÇANDO\n\nNovo jeito de se mover pelo mundo. Você fixa a âncora em algo à distância e o gancho puxa até lá.\n\n🔹 Dá pra atravessar rio, precipício ou área alta sem ter que contornar\n🔹 Faz parte do lote de gadget de goblin que chegou junto com o Update 7\n\n🎥 @itsneildev\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc248",
+      "rodada": "2026-09-03 19:50",
+      "emoji": "🔮",
+      "titulo": "[X] Sistema de Runa testado no Update 7",
+      "fonte": "https://x.com/OrbisHytale/status/2095638449478889892",
+      "fonteData": "2026-09-03",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, itens do Update 7.",
+      "midia": {
+          "url": "https://x.com/OrbisHytale/status/2095638449478889892",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/orbis_runas/1.mp4"
+          ],
+          "video": "midia/twitter/orbis_runas/1.mp4"
+      },
+      "twitter": "🔮 TESTAMOS O SISTEMA DE RUNA NOVO DO UPDATE 7, E DÁ PRA COMBINAR PODER DIFERENTE NO MESMO GOLPE\n\nCada runa encaixada na Efígie do Vinculador muda o jeito que sua arma bate. Testamos as cinco que já saíram, uma puxa mais dano pro dois lados, outra explode, outra envenena, outra derruba o chão embaixo do inimigo, e a última fura o alvo em sequência.\n\n🔹 São 5 runas pra começar, e cada uma pede uma tática de luta diferente\n🔹 Deu pra sentir a diferença de peso na mão, cada runa muda o ritmo do combo\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔮 TESTAMOS O SISTEMA DE RUNA NOVO DO UPDATE 7, E DÁ PRA COMBINAR PODER DIFERENTE NO MESMO GOLPE\n\nCada runa encaixada na Efígie do Vinculador muda o jeito que sua arma bate. Testamos as cinco que já saíram, uma puxa mais dano pro dois lados, outra explode, outra envenena, outra derruba o chão embaixo do inimigo, e a última fura o alvo em sequência.\n\n🔹 São 5 runas pra começar, e cada uma pede uma tática de luta diferente\n🔹 Deu pra sentir a diferença de peso na mão, cada runa muda o ritmo do combo\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔮 TESTAMOS O SISTEMA DE RUNA NOVO DO UPDATE 7, E DÁ PRA COMBINAR PODER DIFERENTE NO MESMO GOLPE\n\nCada runa encaixada na Efígie do Vinculador muda o jeito que sua arma bate. Testamos as cinco que já saíram, uma puxa mais dano pro dois lados, outra explode, outra envenena, outra derruba o chão embaixo do inimigo, e a última fura o alvo em sequência.\n\n🔹 São 5 runas pra começar, e cada uma pede uma tática de luta diferente\n🔹 Deu pra sentir a diferença de peso na mão, cada runa muda o ritmo do combo\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc249",
+      "rodada": "2026-09-03 19:50",
+      "emoji": "🪂",
+      "titulo": "[X] Planador testado no Update 7",
+      "fonte": "https://x.com/OrbisHytale/status/2095592278513348903",
+      "fonteData": "2026-09-03",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X, itens do Update 7.",
+      "midia": {
+          "url": "https://x.com/OrbisHytale/status/2095592278513348903",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/orbis_glider/1.mp4"
+          ],
+          "video": "midia/twitter/orbis_glider/1.mp4"
+      },
+      "twitter": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
