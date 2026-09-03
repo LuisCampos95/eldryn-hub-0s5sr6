@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-03T00:58:48.802Z",
+  "geradoEm": "2026-09-03T14:40:14.919Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 238,
+      "n": 239,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 122,
+      "n": 123,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 115,
+      "n": 116,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 68,
+      "n": 69,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 58,
+      "n": 59,
       "quem": "código"
     }
   ],
@@ -553,7 +553,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
       "arquivosTwitter": [
-        "04-2000-rc238.jpg"
+        "05-2000-rc238.jpg"
       ],
       "tipo": "imagem",
       "status": "aguardando manual",
@@ -581,8 +581,8 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
       "arquivosTwitter": [
-        "03-1600-rc233-1.jpg",
-        "03-1600-rc233-2.jpg"
+        "04-1600-rc233-1.jpg",
+        "04-1600-rc233-2.jpg"
       ],
       "tipo": "carrossel",
       "status": "agendado",
@@ -591,6 +591,32 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1692334906228433"
+    },
+    {
+      "hora": "15:00",
+      "data": "2026-09-03",
+      "id": "rc239",
+      "rede": "twitter",
+      "titulo": "🔮 CHEGOU A PRIMEIRA LEVA DE CONTEÚDO DO CAPÍTULO 1, COM MAGIA E GOBLIN NOVO PRA EXPLORAR",
+      "textoMeta": "🔮 CHEGOU A PRIMEIRA LEVA DE CONTEÚDO DO CAPÍTULO 1, COM MAGIA E GOBLIN NOVO PRA EXPLORAR\n\nSaiu o Update 7 no pré-lançamento, e essa é só a primeira de várias ondas que ainda vêm nas próximas semanas. Por enquanto dá pra ver a maior parte disso pelo Modo Criativo, e o próprio time avisou que o sistema de Runa em especial ainda vai mudar bastante até o Capítulo 1 sair de verdade.\n\n🪄 TEM MAGIA NOVA, O SISTEMA DE RUNA\nVocê recolhe runa e encaixa em uma Efígie do Vinculador de Runas pra ganhar poder em combate. Saíram 5 pra começar. Fúria aumenta o dano dado e recebido, Bola de Fogo explode ao acertar, Veneno faz sua arma envenenar quem apanha, Golpe de Terra crava o chão e lança o inimigo pro alto, e Rajada de Vento faz os próximos três ataques furarem o alvo.\n\n🧌 SEIS GOBLINS NOVOS, CADA UM DE UM JEITO\nScrapper ataca em bando corpo a corpo, Miner tem um pulo pesado, Guardian se protege com escudo, Lobber joga bomba à distância, Burner usa lança-chamas, e o Feastmaster é um gigante que devora tudo pela frente.\n\n🛠️ CINCO GADGETS DE GOBLIN\nBroca de Sucata quebra vários blocos de uma vez, Luneta dá zoom no que tá longe, Planador de Sucata bota você no ar, Bota-Foguete dá pulo duplo, e o Gancho com âncora própria te puxa pelo mapa. Só o Regador perdeu o golpe ofensivo que tinha.\n\n🪂 PLANAR MUDOU\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🧱 BLOCO NOVO\nChegou bloco de Cobre Flamejante, Ferro Flamejante, Ferro de Goblin e decoração de Goblin. O conjunto de Ouro ganhou modelo e textura novos.\n\n⚙️ QUALIDADE DE VIDA\nPainel de portal redesenhado, categoria de mod com nome legível no navegador de mods, tela de multiplayer avisando direto se seu amigo consegue entrar, botão de copiar relatório de rede sem nenhum endereço junto, e o mapa do mundo agora carrega em pedaço em vez de uma imagem só, então usa bem menos memória e não trava mais quando abre.\n\n🙌 Valeu Blovien, Nullicorn e NoctuaAstrum pelas correções e ideias que entraram nessa atualização.\n\n📷 @NandaPlay\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔮 CHEGOU A PRIMEIRA LEVA DE CONTEÚDO DO CAPÍTULO 1, COM MAGIA E GOBLIN NOVO PRA EXPLORAR\n\nSaiu o Update 7 no pré-lançamento, e essa é só a primeira de várias ondas que ainda vêm nas próximas semanas. Por enquanto dá pra ver a maior parte disso pelo Modo Criativo, e o próprio time avisou que o sistema de Runa em especial ainda vai mudar bastante até o Capítulo 1 sair de verdade.\n\n🪄 TEM MAGIA NOVA, O SISTEMA DE RUNA\nVocê recolhe runa e encaixa em uma Efígie do Vinculador de Runas pra ganhar poder em combate. Saíram 5 pra começar. Fúria aumenta o dano dado e recebido, Bola de Fogo explode ao acertar, Veneno faz sua arma envenenar quem apanha, Golpe de Terra crava o chão e lança o inimigo pro alto, e Rajada de Vento faz os próximos três ataques furarem o alvo.\n\n🧌 SEIS GOBLINS NOVOS, CADA UM DE UM JEITO\nScrapper ataca em bando corpo a corpo, Miner tem um pulo pesado, Guardian se protege com escudo, Lobber joga bomba à distância, Burner usa lança-chamas, e o Feastmaster é um gigante que devora tudo pela frente.\n\n🛠️ CINCO GADGETS DE GOBLIN\nBroca de Sucata quebra vários blocos de uma vez, Luneta dá zoom no que tá longe, Planador de Sucata bota você no ar, Bota-Foguete dá pulo duplo, e o Gancho com âncora própria te puxa pelo mapa. Só o Regador perdeu o golpe ofensivo que tinha.\n\n🪂 PLANAR MUDOU\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🧱 BLOCO NOVO\nChegou bloco de Cobre Flamejante, Ferro Flamejante, Ferro de Goblin e decoração de Goblin. O conjunto de Ouro ganhou modelo e textura novos.\n\n⚙️ QUALIDADE DE VIDA\nPainel de portal redesenhado, categoria de mod com nome legível no navegador de mods, tela de multiplayer avisando direto se seu amigo consegue entrar, botão de copiar relatório de rede sem nenhum endereço junto, e o mapa do mundo agora carrega em pedaço em vez de uma imagem só, então usa bem menos memória e não trava mais quando abre.\n\n🙌 Valeu Blovien, Nullicorn e NoctuaAstrum pelas correções e ideias que entraram nessa atualização.\n\n📷 @NandaPlay\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/9/pre-release-patch-notes-update-7",
+      "arquivos": [
+        "midia/twitter/nanda_u7/2.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc239.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
+      "arquivosTwitter": [
+        "03-1500-rc239.jpg"
+      ],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
     },
     {
       "hora": "12:30",
@@ -2245,6 +2271,32 @@
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1692337752894815"
         },
         {
+          "hora": "15:00",
+          "data": "2026-09-03",
+          "id": "rc239",
+          "rede": "twitter",
+          "titulo": "🔮 CHEGOU A PRIMEIRA LEVA DE CONTEÚDO DO CAPÍTULO 1, COM MAGIA E GOBLIN NOVO PRA EXPLORAR",
+          "textoMeta": "🔮 CHEGOU A PRIMEIRA LEVA DE CONTEÚDO DO CAPÍTULO 1, COM MAGIA E GOBLIN NOVO PRA EXPLORAR\n\nSaiu o Update 7 no pré-lançamento, e essa é só a primeira de várias ondas que ainda vêm nas próximas semanas. Por enquanto dá pra ver a maior parte disso pelo Modo Criativo, e o próprio time avisou que o sistema de Runa em especial ainda vai mudar bastante até o Capítulo 1 sair de verdade.\n\n🪄 TEM MAGIA NOVA, O SISTEMA DE RUNA\nVocê recolhe runa e encaixa em uma Efígie do Vinculador de Runas pra ganhar poder em combate. Saíram 5 pra começar. Fúria aumenta o dano dado e recebido, Bola de Fogo explode ao acertar, Veneno faz sua arma envenenar quem apanha, Golpe de Terra crava o chão e lança o inimigo pro alto, e Rajada de Vento faz os próximos três ataques furarem o alvo.\n\n🧌 SEIS GOBLINS NOVOS, CADA UM DE UM JEITO\nScrapper ataca em bando corpo a corpo, Miner tem um pulo pesado, Guardian se protege com escudo, Lobber joga bomba à distância, Burner usa lança-chamas, e o Feastmaster é um gigante que devora tudo pela frente.\n\n🛠️ CINCO GADGETS DE GOBLIN\nBroca de Sucata quebra vários blocos de uma vez, Luneta dá zoom no que tá longe, Planador de Sucata bota você no ar, Bota-Foguete dá pulo duplo, e o Gancho com âncora própria te puxa pelo mapa. Só o Regador perdeu o golpe ofensivo que tinha.\n\n🪂 PLANAR MUDOU\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🧱 BLOCO NOVO\nChegou bloco de Cobre Flamejante, Ferro Flamejante, Ferro de Goblin e decoração de Goblin. O conjunto de Ouro ganhou modelo e textura novos.\n\n⚙️ QUALIDADE DE VIDA\nPainel de portal redesenhado, categoria de mod com nome legível no navegador de mods, tela de multiplayer avisando direto se seu amigo consegue entrar, botão de copiar relatório de rede sem nenhum endereço junto, e o mapa do mundo agora carrega em pedaço em vez de uma imagem só, então usa bem menos memória e não trava mais quando abre.\n\n🙌 Valeu Blovien, Nullicorn e NoctuaAstrum pelas correções e ideias que entraram nessa atualização.\n\n📷 @NandaPlay\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔮 CHEGOU A PRIMEIRA LEVA DE CONTEÚDO DO CAPÍTULO 1, COM MAGIA E GOBLIN NOVO PRA EXPLORAR\n\nSaiu o Update 7 no pré-lançamento, e essa é só a primeira de várias ondas que ainda vêm nas próximas semanas. Por enquanto dá pra ver a maior parte disso pelo Modo Criativo, e o próprio time avisou que o sistema de Runa em especial ainda vai mudar bastante até o Capítulo 1 sair de verdade.\n\n🪄 TEM MAGIA NOVA, O SISTEMA DE RUNA\nVocê recolhe runa e encaixa em uma Efígie do Vinculador de Runas pra ganhar poder em combate. Saíram 5 pra começar. Fúria aumenta o dano dado e recebido, Bola de Fogo explode ao acertar, Veneno faz sua arma envenenar quem apanha, Golpe de Terra crava o chão e lança o inimigo pro alto, e Rajada de Vento faz os próximos três ataques furarem o alvo.\n\n🧌 SEIS GOBLINS NOVOS, CADA UM DE UM JEITO\nScrapper ataca em bando corpo a corpo, Miner tem um pulo pesado, Guardian se protege com escudo, Lobber joga bomba à distância, Burner usa lança-chamas, e o Feastmaster é um gigante que devora tudo pela frente.\n\n🛠️ CINCO GADGETS DE GOBLIN\nBroca de Sucata quebra vários blocos de uma vez, Luneta dá zoom no que tá longe, Planador de Sucata bota você no ar, Bota-Foguete dá pulo duplo, e o Gancho com âncora própria te puxa pelo mapa. Só o Regador perdeu o golpe ofensivo que tinha.\n\n🪂 PLANAR MUDOU\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🧱 BLOCO NOVO\nChegou bloco de Cobre Flamejante, Ferro Flamejante, Ferro de Goblin e decoração de Goblin. O conjunto de Ouro ganhou modelo e textura novos.\n\n⚙️ QUALIDADE DE VIDA\nPainel de portal redesenhado, categoria de mod com nome legível no navegador de mods, tela de multiplayer avisando direto se seu amigo consegue entrar, botão de copiar relatório de rede sem nenhum endereço junto, e o mapa do mundo agora carrega em pedaço em vez de uma imagem só, então usa bem menos memória e não trava mais quando abre.\n\n🙌 Valeu Blovien, Nullicorn e NoctuaAstrum pelas correções e ideias que entraram nessa atualização.\n\n📷 @NandaPlay\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/9/pre-release-patch-notes-update-7",
+          "arquivos": [
+            "midia/twitter/nanda_u7/2.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc239.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
+          "arquivosTwitter": [
+            "03-1500-rc239.jpg"
+          ],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
           "hora": "16:00",
           "data": "2026-09-03",
           "id": "rc233",
@@ -2263,8 +2315,8 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
           "arquivosTwitter": [
-            "03-1600-rc233-1.jpg",
-            "03-1600-rc233-2.jpg"
+            "04-1600-rc233-1.jpg",
+            "04-1600-rc233-2.jpg"
           ],
           "tipo": "carrossel",
           "status": "agendado",
@@ -2291,7 +2343,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
           "arquivosTwitter": [
-            "04-2000-rc238.jpg"
+            "05-2000-rc238.jpg"
           ],
           "tipo": "imagem",
           "status": "aguardando manual",
@@ -2301,7 +2353,7 @@
           "motivo": null
         }
       ],
-      "total": 4
+      "total": 5
     },
     {
       "dia": "2026-09-02",
@@ -3980,13 +4032,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 238,
+    "coletadosTotal": 239,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 116,
     "rejeitadosMemoria": 7,
-    "escritos": 83,
-    "agendados": 58,
+    "escritos": 84,
+    "agendados": 59,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -3997,9 +4049,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 4,
+    "total": 5,
     "feitos": 0,
-    "data": "2026-09-02"
+    "data": "2026-09-03"
   },
   "custos": {
     "infraMensal": 0,
@@ -4042,7 +4094,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5932,
+      "seguidores": 5931,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -4050,11 +4102,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6067,
+      "seguidores": 6070,
       "totalPosts": 295,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 79,
+      "mediaCurtidas": 80,
       "amostra": 100
     },
     "twitter": {
@@ -4075,7 +4127,7 @@
     "topPosts": [
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 601,
+        "curtidas": 609,
         "comentarios": 4,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
