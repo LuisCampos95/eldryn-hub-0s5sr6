@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-03T17:15:29.399Z",
+  "geradoEm": "2026-09-03T17:34:55.095Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -545,16 +545,52 @@
       "textoMeta": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE NASCENDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nCasco dourado, crina branca brilhando, parado no meio da floresta. É a primeira criatura de um mod novo que ainda está sendo construído peça por peça.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 O resto do mod, feitiço, casa, item, ainda está por vir\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE NASCENDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nCasco dourado, crina branca brilhando, parado no meio da floresta. É a primeira criatura de um mod novo que ainda está sendo construído peça por peça.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 O resto do mod, feitiço, casa, item, ainda está por vir\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/y0anb/status/2094883482237317554",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/twitter/hpotter/1.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc238.jpg"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "02-2000-rc238.jpg"
+      ],
       "tipo": "imagem",
       "status": "aguardando manual",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
       "motivo": null
+    },
+    {
+      "hora": "16:00",
+      "data": "2026-09-04",
+      "id": "rc233",
+      "rede": "facebook",
+      "titulo": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO",
+      "textoMeta": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 @Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/Farrens_Tale/status/2094082955660419220",
+      "arquivos": [
+        "midia/twitter/farrens/1.jpg",
+        "midia/twitter/farrens/2.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc233_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc233_2.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
+      "arquivosTwitter": [
+        "01-1600-rc233-1.jpg",
+        "01-1600-rc233-2.jpg"
+      ],
+      "tipo": "carrossel",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1695977332530857"
     },
     {
       "hora": "19:30",
@@ -597,33 +633,6 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/2122967094970189/"
-    },
-    {
-      "hora": "16:00",
-      "data": "2026-09-03",
-      "id": "rc233",
-      "rede": "facebook",
-      "titulo": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO",
-      "textoMeta": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 @Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/Farrens_Tale/status/2094082955660419220",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc233_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc233_2.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
-      "arquivosTwitter": [
-        "03-1600-rc233-1.jpg",
-        "03-1600-rc233-2.jpg"
-      ],
-      "tipo": "carrossel",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1692334906228433"
     },
     {
       "hora": "14:50",
@@ -2214,6 +2223,36 @@
       "dia": "2026-09-04",
       "posts": [
         {
+          "hora": "16:00",
+          "data": "2026-09-04",
+          "id": "rc233",
+          "rede": "facebook",
+          "titulo": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO",
+          "textoMeta": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 @Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/Farrens_Tale/status/2094082955660419220",
+          "arquivos": [
+            "midia/twitter/farrens/1.jpg",
+            "midia/twitter/farrens/2.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc233_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc233_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
+          "arquivosTwitter": [
+            "01-1600-rc233-1.jpg",
+            "01-1600-rc233-2.jpg"
+          ],
+          "tipo": "carrossel",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1695977332530857"
+        },
+        {
           "hora": "20:00",
           "data": "2026-09-04",
           "id": "rc238",
@@ -2222,10 +2261,16 @@
           "textoMeta": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE NASCENDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nCasco dourado, crina branca brilhando, parado no meio da floresta. É a primeira criatura de um mod novo que ainda está sendo construído peça por peça.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 O resto do mod, feitiço, casa, item, ainda está por vir\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🦄 TEM MOD DE HARRY POTTER PRO HYTALE NASCENDO, E A PRIMEIRA CRIATURA É O UNICÓRNIO\n\nCasco dourado, crina branca brilhando, parado no meio da floresta. É a primeira criatura de um mod novo que ainda está sendo construído peça por peça.\n\n🔹 Um fio da crina dele já dá pra virar item de varinha, leal e impossível de quebrar\n🔹 O resto do mod, feitiço, casa, item, ainda está por vir\n\n📸 @y0anb\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/y0anb/status/2094883482237317554",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/twitter/hpotter/1.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc238.jpg"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-04",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "02-2000-rc238.jpg"
+          ],
           "tipo": "imagem",
           "status": "aguardando manual",
           "qualidade": null,
@@ -2234,7 +2279,7 @@
           "motivo": null
         }
       ],
-      "total": 1
+      "total": 2
     },
     {
       "dia": "2026-09-03",
@@ -2306,33 +2351,6 @@
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1695850499210207"
         },
         {
-          "hora": "16:00",
-          "data": "2026-09-03",
-          "id": "rc233",
-          "rede": "facebook",
-          "titulo": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO",
-          "textoMeta": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🏜️ ELE CAVOU UMA BOCA DE MONSTRO NO DESERTO INSPIRADA EM STAR WARS E DUNA, COM ESTÔMAGO POR DENTRO\n\nO Desert Maw é uma armadilha viva enterrada na areia. De cima parece cratera, de perto são dentes em círculo e uma goela vermelha esperando alguém cair.\n\n🔹 Dentes brancos em volta da cratera e tentáculos roxos saindo da areia\n🔹 Tem estômago construído lá embaixo, dá pra descer e ver por dentro\n🔹 Ele soltou junto uma fábrica que montou quando o bloco de metal entrou no jogo\n\n📸 @Farrens_Tale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/Farrens_Tale/status/2094082955660419220",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc233_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc233_2.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-03",
-          "arquivosTwitter": [
-            "03-1600-rc233-1.jpg",
-            "03-1600-rc233-2.jpg"
-          ],
-          "tipo": "carrossel",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1692334906228433"
-        },
-        {
           "hora": "17:30",
           "data": "2026-09-03",
           "id": "rc240",
@@ -2375,7 +2393,7 @@
           "urlPublicada": "https://www.facebook.com/reel/2046218719343977/"
         }
       ],
-      "total": 6
+      "total": 5
     },
     {
       "dia": "2026-09-02",
@@ -4071,7 +4089,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 3,
+    "total": 2,
     "feitos": 0,
     "data": "2026-09-03"
   },
