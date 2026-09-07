@@ -7356,5 +7356,26 @@ window.ELDRYN_POSTS = [
       "twitter": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc258",
+      "rodada": "2026-09-07 11:58",
+      "emoji": "🔌",
+      "titulo": "[SITE] SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR, E ISSO ACABOU",
+      "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-4",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Nota oficial no site do Hytale.",
+      "resumo": "Quarta leva de hotfix do Update 6. Apenas Twitter.",
+      "midia": {
+          "url": "https://hytale.com/news/2026/8/hotfixes-update-6",
+          "nota": "Banner oficial da pagina de hotfixes.",
+          "tipo": "imagem",
+          "arquivos": [
+              "midia/site/u63/rc234.png"
+          ]
+      },
+      "twitter": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU\n\nSaiu a 0.6.4, quarta leva de correções do Update 6.\n\n🔹 Depois que alguém caía da conexão, só reentrava no mundo se o dono reiniciasse o jogo inteiro. Agora o host mantém a conexão viva e reentra direto\n🔹 Abertura de porta automática ficava desistindo cedo demais quando outro aparelho da rede demorava a responder, o que soltava aquele aviso de \"não disponível\" à toa\n🔹 Duas máquinas na mesma rede podiam derrubar a porta aberta uma da outra ao entrar ou abrir mundo, corrigido\n🔹 Rotacionar seleção de bloco com entidade no criativo girava errado, agora acompanha certo\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU\n\nSaiu a 0.6.4, quarta leva de correções do Update 6.\n\n🔹 Depois que alguém caía da conexão, só reentrava no mundo se o dono reiniciasse o jogo inteiro. Agora o host mantém a conexão viva e reentra direto\n🔹 Abertura de porta automática ficava desistindo cedo demais quando outro aparelho da rede demorava a responder, o que soltava aquele aviso de \"não disponível\" à toa\n🔹 Duas máquinas na mesma rede podiam derrubar a porta aberta uma da outra ao entrar ou abrir mundo, corrigido\n🔹 Rotacionar seleção de bloco com entidade no criativo girava errado, agora acompanha certo\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU\n\nSaiu a 0.6.4, quarta leva de correções do Update 6.\n\n🔹 Depois que alguém caía da conexão, só reentrava no mundo se o dono reiniciasse o jogo inteiro. Agora o host mantém a conexão viva e reentra direto\n🔹 Abertura de porta automática ficava desistindo cedo demais quando outro aparelho da rede demorava a responder, o que soltava aquele aviso de \"não disponível\" à toa\n🔹 Duas máquinas na mesma rede podiam derrubar a porta aberta uma da outra ao entrar ou abrir mundo, corrigido\n🔹 Rotacionar seleção de bloco com entidade no criativo girava errado, agora acompanha certo\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
