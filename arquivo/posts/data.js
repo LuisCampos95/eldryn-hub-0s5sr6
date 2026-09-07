@@ -7199,5 +7199,117 @@ window.ELDRYN_POSTS = [
       "twitter": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc250",
+      "rodada": "2026-09-07 10:14",
+      "emoji": "🔮",
+      "titulo": "[X] Simon mostra combo de runa modificadora",
+      "fonte": "https://x.com/Simon_Hypixel/status/2096664134343397447",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura X+Reddit+CurseForge.",
+      "midia": {
+          "url": "https://x.com/Simon_Hypixel/status/2096664134343397447",
+          "nota": "Midia da fonte original.",
+          "tipo": "carrossel",
+          "arquivos": [
+              "midia/twitter/simon_runas/1.jpg",
+              "midia/twitter/simon_runas/2.jpg"
+          ]
+      },
+      "twitter": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc251",
+      "rodada": "2026-09-07 10:14",
+      "emoji": "🧌",
+      "titulo": "[REDDIT] Goblins interagem entre si, comportamento novo",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1w6wl8e/goblins_have_interactions_between_themselves/",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura X+Reddit+CurseForge.",
+      "midia": {
+          "url": "https://www.reddit.com/r/hytale/comments/1w6wl8e/goblins_have_interactions_between_themselves/",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/reddit/goblin_interact/1.mp4"
+          ],
+          "video": "midia/reddit/goblin_interact/1.mp4"
+      },
+      "twitter": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 u/MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 u/MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc252",
+      "rodada": "2026-09-07 10:14",
+      "emoji": "🌆",
+      "titulo": "[REDDIT] Chefe de bullet hell numa cidade neon",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1w6yxnk/hytale_bullet_hell_raid_boss_endless_leveling_x_hytale_v6/",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura X+Reddit+CurseForge.",
+      "midia": {
+          "url": "https://www.reddit.com/r/hytale/comments/1w6yxnk/hytale_bullet_hell_raid_boss_endless_leveling_x_hytale_v6/",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/reddit/bullethell/corte.mp4"
+          ],
+          "video": "midia/reddit/bullethell/corte.mp4"
+      },
+      "twitter": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 u/Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 u/Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc253",
+      "rodada": "2026-09-07 10:14",
+      "emoji": "💀",
+      "titulo": "[REDDIT] Esqueleto de Elite e tentáculo do Vazio nos arquivos",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1w8vzua/novo_esqueleto_de_elite_e_tentaculo_do_vazio/",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura X+Reddit+CurseForge.",
+      "midia": {
+          "url": "https://www.reddit.com/r/hytale/comments/1w8vzua/novo_esqueleto_de_elite_e_tentaculo_do_vazio/",
+          "nota": "Midia da fonte original.",
+          "tipo": "carrossel",
+          "arquivos": [
+              "midia/reddit/void_elite/1.png",
+              "midia/reddit/void_elite/2.png",
+              "midia/reddit/void_elite/3.png",
+              "midia/reddit/void_elite/4.png"
+          ]
+      },
+      "twitter": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 u/Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 u/Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc254",
+      "rodada": "2026-09-07 10:14",
+      "emoji": "⚔️",
+      "titulo": "[X] Armadura Warhammer detalhada, mod novo",
+      "fonte": "https://x.com/FrancoX1822_/status/2096736554035138755",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura X+Reddit+CurseForge.",
+      "midia": {
+          "url": "https://x.com/FrancoX1822_/status/2096736554035138755",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/warhammer_armor.mp4"
+          ],
+          "video": "midia/twitter/warhammer_armor.mp4"
+      },
+      "twitter": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 @FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 @FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
