@@ -7289,5 +7289,72 @@ window.ELDRYN_POSTS = [
       "twitter": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 @FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 @FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc255",
+      "rodada": "2026-09-07 11:31",
+      "emoji": "🛒",
+      "titulo": "[X] Goblin Merchant e Goblin Turret nos arquivos",
+      "fonte": "https://x.com/bravoxv_/status/2096776308118237591",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura profunda do X.",
+      "midia": {
+          "url": "https://x.com/bravoxv_/status/2096776308118237591",
+          "nota": "Midia da fonte original.",
+          "tipo": "carrossel",
+          "arquivos": [
+              "midia/twitter/goblin_roles/1.jpg",
+              "midia/twitter/goblin_roles/2.jpg",
+              "midia/twitter/goblin_roles/3.jpg",
+              "midia/twitter/goblin_roles/4.jpg"
+          ]
+      },
+      "twitter": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc256",
+      "rodada": "2026-09-07 11:31",
+      "emoji": "🔧",
+      "titulo": "[X] Conceito de bancada de conserto dos goblins",
+      "fonte": "https://x.com/bravoxv_/status/2096802062872826005",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura profunda do X.",
+      "midia": {
+          "url": "https://x.com/bravoxv_/status/2096802062872826005",
+          "nota": "Midia da fonte original.",
+          "tipo": "carrossel",
+          "arquivos": [
+              "midia/twitter/goblinlab/2.png",
+              "midia/twitter/goblinlab/3.jpg"
+          ]
+      },
+      "twitter": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc257",
+      "rodada": "2026-09-07 11:31",
+      "emoji": "☕",
+      "titulo": "[X] Conjunto de mobília de cafeteria",
+      "fonte": "https://x.com/RedGindew/status/2096868989662052708",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura profunda do X.",
+      "midia": {
+          "url": "https://x.com/RedGindew/status/2096868989662052708",
+          "nota": "Midia da fonte original.",
+          "tipo": "carrossel",
+          "arquivos": [
+              "midia/twitter/coffeeshop/1.png"
+          ]
+      },
+      "twitter": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];

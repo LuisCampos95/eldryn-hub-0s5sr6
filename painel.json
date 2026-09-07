@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-07T14:24:31.512Z",
+  "geradoEm": "2026-09-07T14:32:17.072Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 254,
+      "n": 257,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 137,
+      "n": 140,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 130,
+      "n": 133,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 84,
+      "n": 87,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 73,
+      "n": 76,
       "quem": "código"
     }
   ],
@@ -539,6 +539,122 @@
   "grade": [
     {
       "hora": "16:00",
+      "data": "2026-09-09",
+      "id": "rc256",
+      "rede": "facebook",
+      "titulo": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS",
+      "textoMeta": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/bravoxv_/status/2096802062872826005",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc256.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
+      "arquivosTwitter": [
+        "02-1600-rc254.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908775471046"
+    },
+    {
+      "hora": "16:00",
+      "data": "2026-09-09",
+      "id": "rc256",
+      "rede": "twitter",
+      "titulo": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS",
+      "textoMeta": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/bravoxv_/status/2096802062872826005",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc256.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
+      "arquivosTwitter": [
+        "02-1600-rc254.mp4"
+      ],
+      "tipo": "video",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908775471046"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-09-09",
+      "id": "rc255",
+      "rede": "facebook",
+      "titulo": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO",
+      "textoMeta": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/bravoxv_/status/2096776308118237591",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_3.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_4.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_5.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
+      "arquivosTwitter": [
+        "01-1230-rc232-1.png",
+        "01-1230-rc232-2.png",
+        "01-1230-rc232-3.png",
+        "01-1230-rc232-4.png",
+        "01-1230-rc232-5.png"
+      ],
+      "tipo": "carrossel",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908618804395"
+    },
+    {
+      "hora": "12:30",
+      "data": "2026-09-09",
+      "id": "rc255",
+      "rede": "twitter",
+      "titulo": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO",
+      "textoMeta": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/bravoxv_/status/2096776308118237591",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_3.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_4.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_5.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
+      "arquivosTwitter": [
+        "01-1230-rc232-1.png",
+        "01-1230-rc232-2.png",
+        "01-1230-rc232-3.png",
+        "01-1230-rc232-4.png",
+        "01-1230-rc232-5.png"
+      ],
+      "tipo": "carrossel",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908618804395"
+    },
+    {
+      "hora": "16:00",
       "data": "2026-09-08",
       "id": "rc253",
       "rede": "facebook",
@@ -648,6 +764,32 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/2294126538012336/"
+    },
+    {
+      "hora": "19:00",
+      "data": "2026-09-07",
+      "id": "rc257",
+      "rede": "twitter",
+      "titulo": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO",
+      "textoMeta": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/RedGindew/status/2096868989662052708",
+      "arquivos": [
+        "midia/twitter/coffeeshop/1.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc257.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
+      "arquivosTwitter": [
+        "02-1900-rc257.png"
+      ],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
     },
     {
       "hora": "16:00",
@@ -666,7 +808,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
       "arquivosTwitter": [
-        "02-1600-rc251.mp4"
+        "01-1600-rc251.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -693,7 +835,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
       "arquivosTwitter": [
-        "02-1600-rc251.mp4"
+        "01-1600-rc251.mp4"
       ],
       "tipo": "video",
       "status": "aguardando manual",
@@ -2562,6 +2704,128 @@
   ],
   "diasGrade": [
     {
+      "dia": "2026-09-09",
+      "posts": [
+        {
+          "hora": "12:30",
+          "data": "2026-09-09",
+          "id": "rc255",
+          "rede": "facebook",
+          "titulo": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO",
+          "textoMeta": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/bravoxv_/status/2096776308118237591",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_3.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_4.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_5.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
+          "arquivosTwitter": [
+            "01-1230-rc232-1.png",
+            "01-1230-rc232-2.png",
+            "01-1230-rc232-3.png",
+            "01-1230-rc232-4.png",
+            "01-1230-rc232-5.png"
+          ],
+          "tipo": "carrossel",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908618804395"
+        },
+        {
+          "hora": "12:30",
+          "data": "2026-09-09",
+          "id": "rc255",
+          "rede": "twitter",
+          "titulo": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO",
+          "textoMeta": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/bravoxv_/status/2096776308118237591",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_3.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_4.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_5.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
+          "arquivosTwitter": [
+            "01-1230-rc232-1.png",
+            "01-1230-rc232-2.png",
+            "01-1230-rc232-3.png",
+            "01-1230-rc232-4.png",
+            "01-1230-rc232-5.png"
+          ],
+          "tipo": "carrossel",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908618804395"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-09",
+          "id": "rc256",
+          "rede": "facebook",
+          "titulo": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS",
+          "textoMeta": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/bravoxv_/status/2096802062872826005",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc256.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
+          "arquivosTwitter": [
+            "02-1600-rc254.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908775471046"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-09",
+          "id": "rc256",
+          "rede": "twitter",
+          "titulo": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS",
+          "textoMeta": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/bravoxv_/status/2096802062872826005",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc256.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
+          "arquivosTwitter": [
+            "02-1600-rc254.mp4"
+          ],
+          "tipo": "video",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908775471046"
+        }
+      ],
+      "total": 4
+    },
+    {
       "dia": "2026-09-08",
       "posts": [
         {
@@ -2699,7 +2963,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
           "arquivosTwitter": [
-            "02-1600-rc251.mp4"
+            "01-1600-rc251.mp4"
           ],
           "tipo": "video",
           "status": "agendado",
@@ -2726,7 +2990,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
           "arquivosTwitter": [
-            "02-1600-rc251.mp4"
+            "01-1600-rc251.mp4"
           ],
           "tipo": "video",
           "status": "aguardando manual",
@@ -2735,9 +2999,35 @@
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/reel/1618728456579646/"
+        },
+        {
+          "hora": "19:00",
+          "data": "2026-09-07",
+          "id": "rc257",
+          "rede": "twitter",
+          "titulo": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO",
+          "textoMeta": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/RedGindew/status/2096868989662052708",
+          "arquivos": [
+            "midia/twitter/coffeeshop/1.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc257.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
+          "arquivosTwitter": [
+            "02-1900-rc257.png"
+          ],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
         }
       ],
-      "total": 2
+      "total": 3
     },
     {
       "dia": "2026-09-05",
@@ -4773,13 +5063,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 254,
+    "coletadosTotal": 257,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 117,
     "rejeitadosMemoria": 7,
-    "escritos": 99,
-    "agendados": 73,
+    "escritos": 102,
+    "agendados": 76,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -4835,7 +5125,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5929,
+      "seguidores": 5930,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
