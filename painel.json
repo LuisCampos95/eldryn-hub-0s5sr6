@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-07T15:06:15.668Z",
+  "geradoEm": "2026-09-07T16:46:29.974Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -846,6 +846,31 @@
       "urlPublicada": "https://www.facebook.com/reel/1618728456579646/"
     },
     {
+      "hora": "14:00",
+      "data": "2026-09-07",
+      "id": "rc258",
+      "rede": "facebook",
+      "titulo": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU",
+      "textoMeta": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU\n\nSaiu a 0.6.4, quarta leva de correções do Update 6.\n\n🔹 Depois que alguém caía da conexão, só reentrava no mundo se o dono reiniciasse o jogo inteiro. Agora o host mantém a conexão viva e reentra direto\n🔹 Abertura de porta automática ficava desistindo cedo demais quando outro aparelho da rede demorava a responder, o que soltava aquele aviso de \"não disponível\" à toa\n🔹 Duas máquinas na mesma rede podiam derrubar a porta aberta uma da outra ao entrar ou abrir mundo, corrigido\n🔹 Rotacionar seleção de bloco com entidade no criativo girava errado, agora acompanha certo\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU\n\nSaiu a 0.6.4, quarta leva de correções do Update 6.\n\n🔹 Depois que alguém caía da conexão, só reentrava no mundo se o dono reiniciasse o jogo inteiro. Agora o host mantém a conexão viva e reentra direto\n🔹 Abertura de porta automática ficava desistindo cedo demais quando outro aparelho da rede demorava a responder, o que soltava aquele aviso de \"não disponível\" à toa\n🔹 Duas máquinas na mesma rede podiam derrubar a porta aberta uma da outra ao entrar ou abrir mundo, corrigido\n🔹 Rotacionar seleção de bloco com entidade no criativo girava errado, agora acompanha certo\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-4",
+      "arquivos": [
+        "midia/site/u63/rc234.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc258.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1700019108793346"
+    },
+    {
       "hora": "12:10",
       "data": "2026-09-07",
       "id": "rc258",
@@ -869,7 +894,8 @@
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
-      "motivo": null
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1700019108793346"
     },
     {
       "hora": "20:00",
@@ -2996,7 +3022,33 @@
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
-          "motivo": null
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1700019108793346"
+        },
+        {
+          "hora": "14:00",
+          "data": "2026-09-07",
+          "id": "rc258",
+          "rede": "facebook",
+          "titulo": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU",
+          "textoMeta": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU\n\nSaiu a 0.6.4, quarta leva de correções do Update 6.\n\n🔹 Depois que alguém caía da conexão, só reentrava no mundo se o dono reiniciasse o jogo inteiro. Agora o host mantém a conexão viva e reentra direto\n🔹 Abertura de porta automática ficava desistindo cedo demais quando outro aparelho da rede demorava a responder, o que soltava aquele aviso de \"não disponível\" à toa\n🔹 Duas máquinas na mesma rede podiam derrubar a porta aberta uma da outra ao entrar ou abrir mundo, corrigido\n🔹 Rotacionar seleção de bloco com entidade no criativo girava errado, agora acompanha certo\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU\n\nSaiu a 0.6.4, quarta leva de correções do Update 6.\n\n🔹 Depois que alguém caía da conexão, só reentrava no mundo se o dono reiniciasse o jogo inteiro. Agora o host mantém a conexão viva e reentra direto\n🔹 Abertura de porta automática ficava desistindo cedo demais quando outro aparelho da rede demorava a responder, o que soltava aquele aviso de \"não disponível\" à toa\n🔹 Duas máquinas na mesma rede podiam derrubar a porta aberta uma da outra ao entrar ou abrir mundo, corrigido\n🔹 Rotacionar seleção de bloco com entidade no criativo girava errado, agora acompanha certo\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-4",
+          "arquivos": [
+            "midia/site/u63/rc234.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc258.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1700019108793346"
         },
         {
           "hora": "16:00",
@@ -3079,7 +3131,7 @@
           "motivo": null
         }
       ],
-      "total": 4
+      "total": 5
     },
     {
       "dia": "2026-09-05",
@@ -5210,7 +5262,7 @@
     "topPosts": [
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 678,
+        "curtidas": 680,
         "comentarios": 4,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
