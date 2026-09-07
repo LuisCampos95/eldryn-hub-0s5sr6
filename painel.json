@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-07T14:58:11.283Z",
+  "geradoEm": "2026-09-07T15:06:15.668Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -846,7 +846,7 @@
       "urlPublicada": "https://www.facebook.com/reel/1618728456579646/"
     },
     {
-      "hora": "10:00",
+      "hora": "12:10",
       "data": "2026-09-07",
       "id": "rc258",
       "rede": "twitter",
@@ -862,7 +862,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
       "arquivosTwitter": [
-        "01-1000-rc258.png"
+        "01-1210-rc258.png"
       ],
       "tipo": "imagem",
       "status": "aguardando manual",
@@ -2973,7 +2973,7 @@
       "dia": "2026-09-07",
       "posts": [
         {
-          "hora": "10:00",
+          "hora": "12:10",
           "data": "2026-09-07",
           "id": "rc258",
           "rede": "twitter",
@@ -2989,7 +2989,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
           "arquivosTwitter": [
-            "01-1000-rc258.png"
+            "01-1210-rc258.png"
           ],
           "tipo": "imagem",
           "status": "aguardando manual",
