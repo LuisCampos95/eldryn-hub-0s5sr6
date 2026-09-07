@@ -7201,28 +7201,6 @@ window.ELDRYN_POSTS = [
       "texto": "🪂 O PLANADOR FICOU BEM MELHOR NO UPDATE 7, E A GENTE TESTOU VOANDO POR AÍ\n\nAgora dá pra mergulhar ou subir apertando ou soltando o Sprint, e o planador mantém a velocidade que você já tinha ao abrir ele.\n\n🔹 O controle no ar ficou bem mais solto que antes\n🔹 Combina bem com o resto dos gadgets novos, tipo o Gancho e a Bota-Foguete\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
-      "id": "rc250",
-      "rodada": "2026-09-07 10:14",
-      "emoji": "🔮",
-      "titulo": "[X] Simon mostra combo de runa modificadora",
-      "fonte": "https://x.com/Simon_Hypixel/status/2096664134343397447",
-      "fonteData": "2026-09-07",
-      "confiabilidade": "Fonte original do criador.",
-      "resumo": "Varredura X+Reddit+CurseForge.",
-      "midia": {
-          "url": "https://x.com/Simon_Hypixel/status/2096664134343397447",
-          "nota": "Midia da fonte original.",
-          "tipo": "carrossel",
-          "arquivos": [
-              "midia/twitter/simon_runas/1.jpg",
-              "midia/twitter/simon_runas/2.jpg"
-          ]
-      },
-      "twitter": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "meta": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "texto": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
-  },
-  {
       "id": "rc251",
       "rodada": "2026-09-07 10:14",
       "emoji": "🧌",

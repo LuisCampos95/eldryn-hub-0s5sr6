@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-07T13:21:52.812Z",
+  "geradoEm": "2026-09-07T14:24:31.512Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -86,12 +86,12 @@
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 138,
+      "n": 137,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 131,
+      "n": 130,
       "quem": "código"
     },
     {
@@ -111,11 +111,12 @@
     },
     {
       "etapa": "Agendados",
-      "n": 74,
+      "n": 73,
       "quem": "código"
     }
   ],
   "motivosCorte": {
+    "mesmo tweet ja coberto pelo concorrente Comu_HytaleBR, angulo parecido demais": 1,
     "navegador de mods ja saiu em 13/08, coberto no post principal": 1,
     "sem foto nem video": 1,
     "link ja virou post": 8,
@@ -538,99 +539,6 @@
   "grade": [
     {
       "hora": "16:00",
-      "data": "2026-09-09",
-      "id": "rc254",
-      "rede": "facebook",
-      "titulo": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD",
-      "textoMeta": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 @FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/FrancoX1822_/status/2096736554035138755",
-      "arquivos": [
-        "midia/twitter/warhammer_armor.mp4"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc254.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-      "arquivosTwitter": [
-        "02-1600-rc254.mp4"
-      ],
-      "tipo": "video",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/reel/1613094497070937/"
-    },
-    {
-      "hora": "16:00",
-      "data": "2026-09-09",
-      "id": "rc254",
-      "rede": "twitter",
-      "titulo": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD",
-      "textoMeta": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 @FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/FrancoX1822_/status/2096736554035138755",
-      "arquivos": [
-        "midia/twitter/warhammer_armor.mp4"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc254.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-      "arquivosTwitter": [
-        "02-1600-rc254.mp4"
-      ],
-      "tipo": "video",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/reel/1613094497070937/"
-    },
-    {
-      "hora": "12:30",
-      "data": "2026-09-09",
-      "id": "rc232",
-      "rede": "facebook",
-      "titulo": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR",
-      "textoMeta": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://www.reddit.com/r/hytale/comments/1w0btw5/immersive_storage_dont_sacrifice_vibes_for_utility/",
-      "arquivos": [
-        "midia/reddit/storage/1.png",
-        "midia/reddit/storage/2.png",
-        "midia/reddit/storage/3.png",
-        "midia/reddit/storage/4.png",
-        "midia/reddit/storage/5.png"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc232_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc232_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc232_3.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc232_4.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc232_5.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-      "arquivosTwitter": [
-        "01-1230-rc232-1.png",
-        "01-1230-rc232-2.png",
-        "01-1230-rc232-3.png",
-        "01-1230-rc232-4.png",
-        "01-1230-rc232-5.png"
-      ],
-      "tipo": "carrossel",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699853418809915"
-    },
-    {
-      "hora": "16:00",
       "data": "2026-09-08",
       "id": "rc253",
       "rede": "facebook",
@@ -750,7 +658,9 @@
       "textoMeta": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 u/MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1w6wl8e/goblins_have_interactions_between_themselves/",
-      "arquivos": [],
+      "arquivos": [
+        "midia/reddit/goblin_interact/1.mp4"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc251.mp4"
       ],
@@ -775,7 +685,9 @@
       "textoMeta": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 u/MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://www.reddit.com/r/hytale/comments/1w6wl8e/goblins_have_interactions_between_themselves/",
-      "arquivos": [],
+      "arquivos": [
+        "midia/reddit/goblin_interact/1.mp4"
+      ],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc251.mp4"
       ],
@@ -790,60 +702,6 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/1618728456579646/"
-    },
-    {
-      "hora": "12:30",
-      "data": "2026-09-07",
-      "id": "rc250",
-      "rede": "facebook",
-      "titulo": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE",
-      "textoMeta": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/Simon_Hypixel/status/2096664134343397447",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc250_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc250_2.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
-      "arquivosTwitter": [
-        "01-1230-rc250-1.jpg",
-        "01-1230-rc250-2.jpg"
-      ],
-      "tipo": "carrossel",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699852198810037"
-    },
-    {
-      "hora": "12:30",
-      "data": "2026-09-07",
-      "id": "rc250",
-      "rede": "twitter",
-      "titulo": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE",
-      "textoMeta": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/Simon_Hypixel/status/2096664134343397447",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc250_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc250_2.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
-      "arquivosTwitter": [
-        "01-1230-rc250-1.jpg",
-        "01-1230-rc250-2.jpg"
-      ],
-      "tipo": "carrossel",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699852198810037"
     },
     {
       "hora": "20:00",
@@ -2704,105 +2562,6 @@
   ],
   "diasGrade": [
     {
-      "dia": "2026-09-09",
-      "posts": [
-        {
-          "hora": "12:30",
-          "data": "2026-09-09",
-          "id": "rc232",
-          "rede": "facebook",
-          "titulo": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR",
-          "textoMeta": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🖼️ DÁ PRA ESCONDER O COFRE ATRÁS DE UM QUADRO E NINGUÉM MAIS CONSEGUE ABRIR\n\nO Immersive Storage ganhou dois cofres novos no Update 6, e a graça é que eles somem. Você cobre a porta com bloco fino e o cofre deixa de existir pra quem passa.\n\n🔹 Cofre de chão e cofre de parede, escondidos por quadro, tapete de musgo ou qualquer bloco fino\n🔹 Escondido, ninguém interage nem pelos outros lados, só quebrando o que está cobrindo\n🔹 Dá pra juntar dois e virar um cofre grande, igual baú duplo\n🔹 Tem material novo que cai de Mago Esquelético e de barril e caixão de ruína, e aumenta o espaço do baú\n\n🔧 SOL_INVICTVS_VI\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://www.reddit.com/r/hytale/comments/1w0btw5/immersive_storage_dont_sacrifice_vibes_for_utility/",
-          "arquivos": [
-            "midia/reddit/storage/1.png",
-            "midia/reddit/storage/2.png",
-            "midia/reddit/storage/3.png",
-            "midia/reddit/storage/4.png",
-            "midia/reddit/storage/5.png"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc232_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc232_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc232_3.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc232_4.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc232_5.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-          "arquivosTwitter": [
-            "01-1230-rc232-1.png",
-            "01-1230-rc232-2.png",
-            "01-1230-rc232-3.png",
-            "01-1230-rc232-4.png",
-            "01-1230-rc232-5.png"
-          ],
-          "tipo": "carrossel",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699853418809915"
-        },
-        {
-          "hora": "16:00",
-          "data": "2026-09-09",
-          "id": "rc254",
-          "rede": "facebook",
-          "titulo": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD",
-          "textoMeta": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 @FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/FrancoX1822_/status/2096736554035138755",
-          "arquivos": [
-            "midia/twitter/warhammer_armor.mp4"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc254.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-          "arquivosTwitter": [
-            "02-1600-rc254.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/1613094497070937/"
-        },
-        {
-          "hora": "16:00",
-          "data": "2026-09-09",
-          "id": "rc254",
-          "rede": "twitter",
-          "titulo": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD",
-          "textoMeta": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "⚔️ ARMADURA INSPIRADA EM WARHAMMER FICOU DETALHADA DEMAIS NESSE MOD\n\nO criador levou um baita tempo encaixando detalhe em cima de detalhe nessa armadura pesada, no estilo do universo Warhammer Old World.\n\n🔹 Placa cheia de relevo, cravo e acabamento que imita metal batido à mão\n🔹 Processo todo feito no Blockbench, ferramenta usada pra montar modelo de mod\n\n🎥 @FrancoX1822_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/FrancoX1822_/status/2096736554035138755",
-          "arquivos": [
-            "midia/twitter/warhammer_armor.mp4"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc254.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-          "arquivosTwitter": [
-            "02-1600-rc254.mp4"
-          ],
-          "tipo": "video",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/1613094497070937/"
-        }
-      ],
-      "total": 3
-    },
-    {
       "dia": "2026-09-08",
       "posts": [
         {
@@ -2924,60 +2683,6 @@
       "dia": "2026-09-07",
       "posts": [
         {
-          "hora": "12:30",
-          "data": "2026-09-07",
-          "id": "rc250",
-          "rede": "facebook",
-          "titulo": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE",
-          "textoMeta": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/Simon_Hypixel/status/2096664134343397447",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc250_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc250_2.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
-          "arquivosTwitter": [
-            "01-1230-rc250-1.jpg",
-            "01-1230-rc250-2.jpg"
-          ],
-          "tipo": "carrossel",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699852198810037"
-        },
-        {
-          "hora": "12:30",
-          "data": "2026-09-07",
-          "id": "rc250",
-          "rede": "twitter",
-          "titulo": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE",
-          "textoMeta": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🔮 O SIMON MOSTROU COMO VAI FICAR O COMBO DE RUNA, E PEDIU IDEIA DA COMUNIDADE\n\nO diretor do Hytale soltou arte oficial explicando pra onde o sistema de Runa vai. Hoje cada runa é só um golpe. No plano novo, você encaixa runa modificadora do lado e o mesmo golpe muda de efeito.\n\n🔹 Bola de Fogo sozinha explode uma vez. Com a runa Choque e a runa Divisão encaixadas do lado, ela vira duas bolas elétricas que se separam\n🔹 Golpe de Terra ganha runa de Gelo e runa de Raio pra virar um impacto congelante com área maior\n🔹 O Simon pediu ideia de habilidade e modificador direto pra comunidade, então ainda dá tempo de sugerir\n\n🎨 @Simon_Hypixel\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/Simon_Hypixel/status/2096664134343397447",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc250_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc250_2.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
-          "arquivosTwitter": [
-            "01-1230-rc250-1.jpg",
-            "01-1230-rc250-2.jpg"
-          ],
-          "tipo": "carrossel",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699852198810037"
-        },
-        {
           "hora": "16:00",
           "data": "2026-09-07",
           "id": "rc251",
@@ -2986,7 +2691,9 @@
           "textoMeta": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 u/MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1w6wl8e/goblins_have_interactions_between_themselves/",
-          "arquivos": [],
+          "arquivos": [
+            "midia/reddit/goblin_interact/1.mp4"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc251.mp4"
           ],
@@ -3011,7 +2718,9 @@
           "textoMeta": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 u/MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://www.reddit.com/r/hytale/comments/1w6wl8e/goblins_have_interactions_between_themselves/",
-          "arquivos": [],
+          "arquivos": [
+            "midia/reddit/goblin_interact/1.mp4"
+          ],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc251.mp4"
           ],
@@ -3028,7 +2737,7 @@
           "urlPublicada": "https://www.facebook.com/reel/1618728456579646/"
         }
       ],
-      "total": 4
+      "total": 2
     },
     {
       "dia": "2026-09-05",
@@ -5067,10 +4776,10 @@
     "coletadosTotal": 254,
     "aprovados": 33,
     "rejeitados": 33,
-    "rejeitadosFiltro": 116,
+    "rejeitadosFiltro": 117,
     "rejeitadosMemoria": 7,
     "escritos": 99,
-    "agendados": 74,
+    "agendados": 73,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -5138,7 +4847,7 @@
       "totalPosts": 301,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 81,
+      "mediaCurtidas": 82,
       "amostra": 100
     },
     "twitter": {
@@ -5159,7 +4868,7 @@
     "topPosts": [
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 677,
+        "curtidas": 678,
         "comentarios": 4,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
