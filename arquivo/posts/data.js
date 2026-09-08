@@ -7242,5 +7242,93 @@ window.ELDRYN_POSTS = [
       "twitter": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU\n\nSaiu a 0.6.4, quarta leva de correções do Update 6.\n\n🔹 Depois que alguém caía da conexão, só reentrava no mundo se o dono reiniciasse o jogo inteiro. Agora o host mantém a conexão viva e reentra direto\n🔹 Abertura de porta automática ficava desistindo cedo demais quando outro aparelho da rede demorava a responder, o que soltava aquele aviso de \"não disponível\" à toa\n🔹 Duas máquinas na mesma rede podiam derrubar a porta aberta uma da outra ao entrar ou abrir mundo, corrigido\n🔹 Rotacionar seleção de bloco com entidade no criativo girava errado, agora acompanha certo\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU\n\nSaiu a 0.6.4, quarta leva de correções do Update 6.\n\n🔹 Depois que alguém caía da conexão, só reentrava no mundo se o dono reiniciasse o jogo inteiro. Agora o host mantém a conexão viva e reentra direto\n🔹 Abertura de porta automática ficava desistindo cedo demais quando outro aparelho da rede demorava a responder, o que soltava aquele aviso de \"não disponível\" à toa\n🔹 Duas máquinas na mesma rede podiam derrubar a porta aberta uma da outra ao entrar ou abrir mundo, corrigido\n🔹 Rotacionar seleção de bloco com entidade no criativo girava errado, agora acompanha certo\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🔌 SEU AMIGO NÃO CONSEGUIA VOLTAR PRO MUNDO SEM VOCÊ REINICIAR O JOGO, E ISSO ACABOU\n\nSaiu a 0.6.4, quarta leva de correções do Update 6.\n\n🔹 Depois que alguém caía da conexão, só reentrava no mundo se o dono reiniciasse o jogo inteiro. Agora o host mantém a conexão viva e reentra direto\n🔹 Abertura de porta automática ficava desistindo cedo demais quando outro aparelho da rede demorava a responder, o que soltava aquele aviso de \"não disponível\" à toa\n🔹 Duas máquinas na mesma rede podiam derrubar a porta aberta uma da outra ao entrar ou abrir mundo, corrigido\n🔹 Rotacionar seleção de bloco com entidade no criativo girava errado, agora acompanha certo\n\n🔧 Notas completas no site oficial do Hytale\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc259",
+      "rodada": "2026-09-07 21:49",
+      "emoji": "👑",
+      "titulo": "[X] Covil do Goblin Duke gerado naturalmente",
+      "fonte": "https://x.com/Xspree28/status/2097070682677125623",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter apos limpeza.",
+      "midia": {
+          "url": "https://x.com/Xspree28/status/2097070682677125623",
+          "nota": "Midia da fonte original.",
+          "tipo": "carrossel",
+          "arquivos": [
+              "midia/twitter/goblinduke/1.jpg",
+              "midia/twitter/goblinduke/2.jpg"
+          ]
+      },
+      "twitter": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 @Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 @Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc260",
+      "rodada": "2026-09-07 21:49",
+      "emoji": "🎵",
+      "titulo": "[X] Música do ataque do Vazio nos arquivos",
+      "fonte": "https://x.com/bravoxv_/status/2097039649789132982",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter apos limpeza.",
+      "midia": {
+          "url": "https://x.com/bravoxv_/status/2097039649789132982",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/voidmusic/1.mp4"
+          ],
+          "video": "midia/twitter/voidmusic/1.mp4"
+      },
+      "twitter": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc261",
+      "rodada": "2026-09-07 21:49",
+      "emoji": "🚪",
+      "titulo": "[X] Porta industrial deslizante",
+      "fonte": "https://x.com/Riku_Tatsu/status/2097056233702236236",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter apos limpeza.",
+      "midia": {
+          "url": "https://x.com/Riku_Tatsu/status/2097056233702236236",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/industrialdoor/1.mp4"
+          ],
+          "video": "midia/twitter/industrialdoor/1.mp4"
+      },
+      "twitter": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc262",
+      "rodada": "2026-09-07 21:49",
+      "emoji": "🗡️",
+      "titulo": "[X] Arma flutuante estilo Nier Automata",
+      "fonte": "https://x.com/silver25636/status/2097074430170071469",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter apos limpeza.",
+      "midia": {
+          "url": "https://x.com/silver25636/status/2097074430170071469",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/togoweapon/1.mp4"
+          ],
+          "video": "midia/twitter/togoweapon/1.mp4"
+      },
+      "twitter": "🗡️ ELE TÁ TENTANDO FAZER ARMA FLUTUANTE NO HYTALE, DO JEITO QUE NIER AUTOMATA FAZ\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🗡️ ELE TÁ TENTANDO FAZER ARMA FLUTUANTE NO HYTALE, DO JEITO QUE NIER AUTOMATA FAZ\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🗡️ ELE TÁ TENTANDO FAZER ARMA FLUTUANTE NO HYTALE, DO JEITO QUE NIER AUTOMATA FAZ\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
