@@ -7279,9 +7279,9 @@ window.ELDRYN_POSTS = [
           "nota": "Midia da fonte original.",
           "tipo": "video",
           "arquivos": [
-              "midia/twitter/voidmusic/1.mp4"
-          ],
-          "video": "midia/twitter/voidmusic/1.mp4"
+              "midia/twitter/voidmusic/1.mp4",
+              "midia/twitter/voidmusic/2.mp4"
+          ]
       },
       "twitter": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
