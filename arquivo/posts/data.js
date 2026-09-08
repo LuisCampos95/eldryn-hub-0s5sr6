@@ -7291,7 +7291,7 @@ window.ELDRYN_POSTS = [
       "id": "rc261",
       "rodada": "2026-09-07 21:49",
       "emoji": "🚪",
-      "titulo": "[X] Porta industrial deslizante",
+      "titulo": "[X] Porta desliza igual portão de fábrica de verdade",
       "fonte": "https://x.com/Riku_Tatsu/status/2097056233702236236",
       "fonteData": "2026-09-07",
       "confiabilidade": "Fonte original do criador.",
@@ -7305,15 +7305,15 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/industrialdoor/1.mp4"
       },
-      "twitter": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "meta": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "texto": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+      "twitter": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
       "id": "rc262",
       "rodada": "2026-09-07 21:49",
       "emoji": "🗡️",
-      "titulo": "[X] Arma flutuante estilo Nier Automata",
+      "titulo": "[X] Arma flutua igual o Pod de Nier Automata",
       "fonte": "https://x.com/silver25636/status/2097074430170071469",
       "fonteData": "2026-09-07",
       "confiabilidade": "Fonte original do criador.",
@@ -7327,8 +7327,8 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/togoweapon/1.mp4"
       },
-      "twitter": "🗡️ ELE TÁ TENTANDO FAZER ARMA FLUTUANTE NO HYTALE, DO JEITO QUE NIER AUTOMATA FAZ\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "meta": "🗡️ ELE TÁ TENTANDO FAZER ARMA FLUTUANTE NO HYTALE, DO JEITO QUE NIER AUTOMATA FAZ\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "texto": "🗡️ ELE TÁ TENTANDO FAZER ARMA FLUTUANTE NO HYTALE, DO JEITO QUE NIER AUTOMATA FAZ\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+      "twitter": "🗡️ A ARMA DELE FLUTUA DO LADO DO PERSONAGEM, IGUAL O POD DE NIER AUTOMATA\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🗡️ A ARMA DELE FLUTUA DO LADO DO PERSONAGEM, IGUAL O POD DE NIER AUTOMATA\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🗡️ A ARMA DELE FLUTUA DO LADO DO PERSONAGEM, IGUAL O POD DE NIER AUTOMATA\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
