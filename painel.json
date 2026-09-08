@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-07T16:47:27.249Z",
+  "geradoEm": "2026-09-08T00:37:07.452Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -86,12 +86,12 @@
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 141,
+      "n": 135,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 134,
+      "n": 128,
       "quem": "código"
     },
     {
@@ -111,11 +111,12 @@
     },
     {
       "etapa": "Agendados",
-      "n": 77,
+      "n": 71,
       "quem": "código"
     }
   ],
   "motivosCorte": {
+    "qualidade ruim, pedido do Luis pra refazer": 6,
     "mesmo tweet ja coberto pelo concorrente Comu_HytaleBR, angulo parecido demais": 1,
     "navegador de mods ja saiu em 13/08, coberto no post principal": 1,
     "sem foto nem video": 1,
@@ -538,314 +539,6 @@
   ],
   "grade": [
     {
-      "hora": "16:00",
-      "data": "2026-09-09",
-      "id": "rc256",
-      "rede": "facebook",
-      "titulo": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS",
-      "textoMeta": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/bravoxv_/status/2096802062872826005",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc256_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc256_2.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-      "arquivosTwitter": [
-        "02-1600-rc256-1.png",
-        "02-1600-rc256-2.jpg"
-      ],
-      "tipo": "carrossel",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908775471046"
-    },
-    {
-      "hora": "16:00",
-      "data": "2026-09-09",
-      "id": "rc256",
-      "rede": "twitter",
-      "titulo": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS",
-      "textoMeta": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/bravoxv_/status/2096802062872826005",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc256_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc256_2.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-      "arquivosTwitter": [
-        "02-1600-rc256-1.png",
-        "02-1600-rc256-2.jpg"
-      ],
-      "tipo": "carrossel",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908775471046"
-    },
-    {
-      "hora": "12:30",
-      "data": "2026-09-09",
-      "id": "rc255",
-      "rede": "facebook",
-      "titulo": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO",
-      "textoMeta": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/bravoxv_/status/2096776308118237591",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_3.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_4.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-      "arquivosTwitter": [
-        "01-1230-rc255-1.jpg",
-        "01-1230-rc255-2.jpg",
-        "01-1230-rc255-3.jpg",
-        "01-1230-rc255-4.jpg"
-      ],
-      "tipo": "carrossel",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908618804395"
-    },
-    {
-      "hora": "12:30",
-      "data": "2026-09-09",
-      "id": "rc255",
-      "rede": "twitter",
-      "titulo": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO",
-      "textoMeta": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/bravoxv_/status/2096776308118237591",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_3.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc255_4.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-      "arquivosTwitter": [
-        "01-1230-rc255-1.jpg",
-        "01-1230-rc255-2.jpg",
-        "01-1230-rc255-3.jpg",
-        "01-1230-rc255-4.jpg"
-      ],
-      "tipo": "carrossel",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908618804395"
-    },
-    {
-      "hora": "16:00",
-      "data": "2026-09-08",
-      "id": "rc253",
-      "rede": "facebook",
-      "titulo": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7",
-      "textoMeta": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 u/Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://www.reddit.com/r/hytale/comments/1w8vzua/novo_esqueleto_de_elite_e_tentaculo_do_vazio/",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc253_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc253_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc253_3.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc253_4.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-08",
-      "arquivosTwitter": [
-        "02-1600-rc253-1.png",
-        "02-1600-rc253-2.png",
-        "02-1600-rc253-3.png",
-        "02-1600-rc253-4.png"
-      ],
-      "tipo": "carrossel",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699852905476633"
-    },
-    {
-      "hora": "16:00",
-      "data": "2026-09-08",
-      "id": "rc253",
-      "rede": "twitter",
-      "titulo": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7",
-      "textoMeta": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 u/Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://www.reddit.com/r/hytale/comments/1w8vzua/novo_esqueleto_de_elite_e_tentaculo_do_vazio/",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc253_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc253_2.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc253_3.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc253_4.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-08",
-      "arquivosTwitter": [
-        "02-1600-rc253-1.png",
-        "02-1600-rc253-2.png",
-        "02-1600-rc253-3.png",
-        "02-1600-rc253-4.png"
-      ],
-      "tipo": "carrossel",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699852905476633"
-    },
-    {
-      "hora": "12:30",
-      "data": "2026-09-08",
-      "id": "rc252",
-      "rede": "facebook",
-      "titulo": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA",
-      "textoMeta": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 u/Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://www.reddit.com/r/hytale/comments/1w6yxnk/hytale_bullet_hell_raid_boss_endless_leveling_x_hytale_v6/",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc252.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-08",
-      "arquivosTwitter": [
-        "01-1230-rc252.mp4"
-      ],
-      "tipo": "video",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/reel/2294126538012336/"
-    },
-    {
-      "hora": "12:30",
-      "data": "2026-09-08",
-      "id": "rc252",
-      "rede": "twitter",
-      "titulo": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA",
-      "textoMeta": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 u/Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://www.reddit.com/r/hytale/comments/1w6yxnk/hytale_bullet_hell_raid_boss_endless_leveling_x_hytale_v6/",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc252.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-08",
-      "arquivosTwitter": [
-        "01-1230-rc252.mp4"
-      ],
-      "tipo": "video",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/reel/2294126538012336/"
-    },
-    {
-      "hora": "19:00",
-      "data": "2026-09-07",
-      "id": "rc257",
-      "rede": "twitter",
-      "titulo": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO",
-      "textoMeta": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://x.com/RedGindew/status/2096868989662052708",
-      "arquivos": [
-        "midia/twitter/coffeeshop/1.png"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc257.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
-      "arquivosTwitter": [
-        "03-1900-rc257.png"
-      ],
-      "tipo": "imagem",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null
-    },
-    {
-      "hora": "16:00",
-      "data": "2026-09-07",
-      "id": "rc251",
-      "rede": "facebook",
-      "titulo": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR",
-      "textoMeta": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 u/MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://www.reddit.com/r/hytale/comments/1w6wl8e/goblins_have_interactions_between_themselves/",
-      "arquivos": [
-        "midia/reddit/goblin_interact/1.mp4"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc251.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
-      "arquivosTwitter": [
-        "02-1600-rc251.mp4"
-      ],
-      "tipo": "video",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/reel/1618728456579646/"
-    },
-    {
-      "hora": "16:00",
-      "data": "2026-09-07",
-      "id": "rc251",
-      "rede": "twitter",
-      "titulo": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR",
-      "textoMeta": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "textoTwitter": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 u/MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-      "fonte": "https://www.reddit.com/r/hytale/comments/1w6wl8e/goblins_have_interactions_between_themselves/",
-      "arquivos": [
-        "midia/reddit/goblin_interact/1.mp4"
-      ],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc251.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
-      "arquivosTwitter": [
-        "02-1600-rc251.mp4"
-      ],
-      "tipo": "video",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/reel/1618728456579646/"
-    },
-    {
       "hora": "14:00",
       "data": "2026-09-07",
       "id": "rc258",
@@ -863,7 +556,7 @@
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
       "arquivosTwitter": [],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -2756,246 +2449,6 @@
   ],
   "diasGrade": [
     {
-      "dia": "2026-09-09",
-      "posts": [
-        {
-          "hora": "12:30",
-          "data": "2026-09-09",
-          "id": "rc255",
-          "rede": "facebook",
-          "titulo": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO",
-          "textoMeta": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/bravoxv_/status/2096776308118237591",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_3.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_4.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-          "arquivosTwitter": [
-            "01-1230-rc255-1.jpg",
-            "01-1230-rc255-2.jpg",
-            "01-1230-rc255-3.jpg",
-            "01-1230-rc255-4.jpg"
-          ],
-          "tipo": "carrossel",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908618804395"
-        },
-        {
-          "hora": "12:30",
-          "data": "2026-09-09",
-          "id": "rc255",
-          "rede": "twitter",
-          "titulo": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO",
-          "textoMeta": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🛒 ACHARAM GOBLIN VENDEDOR E GOBLIN TORRE DE VIGIA NOS ARQUIVOS DO JOGO\n\nModelo novo apareceu dentro do próprio jogo, mesmo sem estar em uso ainda. Não são todos hostis.\n\n🔹 O Goblin Merchant é modelo pacífico, dá pra imaginar ele vendendo item futuramente\n🔹 O Goblin Turret detecta o jogador e avisa o resto do bando que o território foi invadido\n🔹 Ainda tem goblin simplesmente dormindo no meio do acampamento\n\n🎥 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/bravoxv_/status/2096776308118237591",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_3.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc255_4.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-          "arquivosTwitter": [
-            "01-1230-rc255-1.jpg",
-            "01-1230-rc255-2.jpg",
-            "01-1230-rc255-3.jpg",
-            "01-1230-rc255-4.jpg"
-          ],
-          "tipo": "carrossel",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908618804395"
-        },
-        {
-          "hora": "16:00",
-          "data": "2026-09-09",
-          "id": "rc256",
-          "rede": "facebook",
-          "titulo": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS",
-          "textoMeta": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/bravoxv_/status/2096802062872826005",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc256_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc256_2.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-          "arquivosTwitter": [
-            "02-1600-rc256-1.png",
-            "02-1600-rc256-2.jpg"
-          ],
-          "tipo": "carrossel",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908775471046"
-        },
-        {
-          "hora": "16:00",
-          "data": "2026-09-09",
-          "id": "rc256",
-          "rede": "twitter",
-          "titulo": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS",
-          "textoMeta": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🔧 FÃ IMAGINOU COMO SERIA A BANCADA DE CONSERTO DOS GOBLINS\n\nBaseado no que já se sabe do Goblin Scrapper, aquele goblin amigável que não ataca ninguém, o criador montou um conceito de como a estação de conserto dele funcionaria.\n\n🔹 No conceito a mesa nem quebra nem sai do lugar, só o Goblin Scrapper consegue reparar ela com o martelo\n🔹 Ganhou até uma interface de upgrade por nível, subindo capacidade de processamento\n\n🎨 @bravoxv_\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/bravoxv_/status/2096802062872826005",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc256_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc256_2.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-          "arquivosTwitter": [
-            "02-1600-rc256-1.png",
-            "02-1600-rc256-2.jpg"
-          ],
-          "tipo": "carrossel",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699908775471046"
-        }
-      ],
-      "total": 4
-    },
-    {
-      "dia": "2026-09-08",
-      "posts": [
-        {
-          "hora": "12:30",
-          "data": "2026-09-08",
-          "id": "rc252",
-          "rede": "facebook",
-          "titulo": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA",
-          "textoMeta": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 u/Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://www.reddit.com/r/hytale/comments/1w6yxnk/hytale_bullet_hell_raid_boss_endless_leveling_x_hytale_v6/",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc252.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-08",
-          "arquivosTwitter": [
-            "01-1230-rc252.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/2294126538012336/"
-        },
-        {
-          "hora": "12:30",
-          "data": "2026-09-08",
-          "id": "rc252",
-          "rede": "twitter",
-          "titulo": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA",
-          "textoMeta": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🌆 ELE CONSTRUIU UM CHEFE DE BULLET HELL EM UMA CIDADE NEON INTEIRA, SÓ COM A API NATIVA\n\nO Endless Leveling ganhou uma raid nova, com boss chamado The Technologist em uma arena cyberpunk cheia de luz de néon e padrão de tiro pra desviar.\n\n🔹 A arena é toda scriptada, luz, fase e ataque em padrão, sem mod externo, só ferramenta nativa\n🔹 Ainda tá ajustando a dificuldade de algumas fases, mas já dá pra jogar\n\n🎥 u/Airijko\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://www.reddit.com/r/hytale/comments/1w6yxnk/hytale_bullet_hell_raid_boss_endless_leveling_x_hytale_v6/",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc252.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-08",
-          "arquivosTwitter": [
-            "01-1230-rc252.mp4"
-          ],
-          "tipo": "video",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/2294126538012336/"
-        },
-        {
-          "hora": "16:00",
-          "data": "2026-09-08",
-          "id": "rc253",
-          "rede": "facebook",
-          "titulo": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7",
-          "textoMeta": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 u/Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://www.reddit.com/r/hytale/comments/1w8vzua/novo_esqueleto_de_elite_e_tentaculo_do_vazio/",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc253_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc253_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc253_3.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc253_4.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-08",
-          "arquivosTwitter": [
-            "02-1600-rc253-1.png",
-            "02-1600-rc253-2.png",
-            "02-1600-rc253-3.png",
-            "02-1600-rc253-4.png"
-          ],
-          "tipo": "carrossel",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699852905476633"
-        },
-        {
-          "hora": "16:00",
-          "data": "2026-09-08",
-          "id": "rc253",
-          "rede": "twitter",
-          "titulo": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7",
-          "textoMeta": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "💀 ACHARAM ESQUELETO DE ELITE E TENTÁCULO DO VAZIO ESCONDIDOS NOS ARQUIVOS DO UPDATE 7\n\nUm jogador vasculhou o modo Criativo do pré-lançamento e achou entidade nova que ainda não apareceu no jogo de verdade.\n\n🔹 O Esqueleto de Elite pode ser sinal de que a linha toda de esqueleto vai ganhar visual novo\n🔹 O tentáculo do Vazio é bizarro e não tem nenhuma explicação ainda, só apareceu nos arquivos\n\n🎥 u/Carloshenr10\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://www.reddit.com/r/hytale/comments/1w8vzua/novo_esqueleto_de_elite_e_tentaculo_do_vazio/",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc253_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc253_2.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc253_3.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc253_4.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-08",
-          "arquivosTwitter": [
-            "02-1600-rc253-1.png",
-            "02-1600-rc253-2.png",
-            "02-1600-rc253-3.png",
-            "02-1600-rc253-4.png"
-          ],
-          "tipo": "carrossel",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1699852905476633"
-        }
-      ],
-      "total": 4
-    },
-    {
       "dia": "2026-09-07",
       "posts": [
         {
@@ -3043,95 +2496,15 @@
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
           "arquivosTwitter": [],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1700019108793346"
-        },
-        {
-          "hora": "16:00",
-          "data": "2026-09-07",
-          "id": "rc251",
-          "rede": "facebook",
-          "titulo": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR",
-          "textoMeta": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 u/MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://www.reddit.com/r/hytale/comments/1w6wl8e/goblins_have_interactions_between_themselves/",
-          "arquivos": [
-            "midia/reddit/goblin_interact/1.mp4"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc251.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
-          "arquivosTwitter": [
-            "02-1600-rc251.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/1618728456579646/"
-        },
-        {
-          "hora": "16:00",
-          "data": "2026-09-07",
-          "id": "rc251",
-          "rede": "twitter",
-          "titulo": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR",
-          "textoMeta": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "🧌 GOBLIN AGORA INTERAGE COM OUTRO GOBLIN, NÃO SÓ COM O JOGADOR\n\nVídeo mostra o Feastmaster sentado feito um chefe, cercado por uma corte inteira de goblins parados ao redor dele. Não é ataque, é convivência entre eles mesmos.\n\n🔹 Os goblins se organizam ao redor do maior, tipo hierarquia de bando de verdade\n🔹 Isso é comportamento de fundo, sem o jogador precisar fazer nada pra acontecer\n\n🎥 u/MrBlueA\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://www.reddit.com/r/hytale/comments/1w6wl8e/goblins_have_interactions_between_themselves/",
-          "arquivos": [
-            "midia/reddit/goblin_interact/1.mp4"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc251.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
-          "arquivosTwitter": [
-            "02-1600-rc251.mp4"
-          ],
-          "tipo": "video",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/1618728456579646/"
-        },
-        {
-          "hora": "19:00",
-          "data": "2026-09-07",
-          "id": "rc257",
-          "rede": "twitter",
-          "titulo": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO",
-          "textoMeta": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "textoTwitter": "☕ SAIU CONJUNTO DE MOBÍLIA DE CAFETERIA PRO HYTALE, COM CROISSANT E TUDO\n\nMod pequeno mas caprichado, focado só em deixar sua cafeteria bonita de verdade.\n\n🔹 Vem com balcão, prateleira e os docinhos, croissant e bolinho incluídos\n🔹 Serve pra montar loja, canto de café ou decoração de casa mesmo\n\n🎥 @RedGindew\n\n🎮 Bora jogar no Eldryn! Nosso servidor Survival.\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
-          "fonte": "https://x.com/RedGindew/status/2096868989662052708",
-          "arquivos": [
-            "midia/twitter/coffeeshop/1.png"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc257.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-07",
-          "arquivosTwitter": [
-            "03-1900-rc257.png"
-          ],
-          "tipo": "imagem",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null
         }
       ],
-      "total": 5
+      "total": 2
     },
     {
       "dia": "2026-09-05",
@@ -5170,10 +4543,10 @@
     "coletadosTotal": 258,
     "aprovados": 33,
     "rejeitados": 33,
-    "rejeitadosFiltro": 117,
+    "rejeitadosFiltro": 123,
     "rejeitadosMemoria": 7,
     "escritos": 103,
-    "agendados": 77,
+    "agendados": 71,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -5184,7 +4557,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 3,
+    "total": 1,
     "feitos": 0,
     "data": "2026-09-07"
   },
@@ -5229,7 +4602,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5930,
+      "seguidores": 5929,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -5237,11 +4610,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6071,
-      "totalPosts": 301,
+      "seguidores": 6072,
+      "totalPosts": 303,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 82,
+      "mediaCurtidas": 80,
       "amostra": 100
     },
     "twitter": {
@@ -5262,7 +4635,7 @@
     "topPosts": [
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 680,
+        "curtidas": 699,
         "comentarios": 4,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
@@ -5312,8 +4685,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-21T23:00:42+0000",
-      "ate": "2026-09-05T19:21:09+0000"
+      "de": "2026-07-23T18:00:50+0000",
+      "ate": "2026-09-07T19:45:49+0000"
     },
     "serie": [
       {
