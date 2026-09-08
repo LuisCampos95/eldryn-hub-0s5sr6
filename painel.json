@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-08T00:50:46.359Z",
+  "geradoEm": "2026-09-08T00:51:43.148Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -547,11 +547,17 @@
       "textoMeta": "🗡️ ELE TÁ TENTANDO FAZER ARMA FLUTUANTE NO HYTALE, DO JEITO QUE NIER AUTOMATA FAZ\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🗡️ ELE TÁ TENTANDO FAZER ARMA FLUTUANTE NO HYTALE, DO JEITO QUE NIER AUTOMATA FAZ\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/silver25636/status/2097074430170071469",
-      "arquivos": [],
-      "midiaWeb": [],
+      "arquivos": [
+        "midia/twitter/togoweapon/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc262.mp4"
+      ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
+      "arquivosTwitter": [
+        "01-1200-rc262.mp4"
+      ],
+      "tipo": "video",
       "status": "aguardando manual",
       "qualidade": null,
       "engajamento": null,
@@ -567,9 +573,7 @@
       "textoMeta": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/bravoxv_/status/2097039649789132982",
-      "arquivos": [
-        "midia/twitter/voidmusic/1.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc260.mp4"
       ],
@@ -593,9 +597,7 @@
       "textoMeta": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Riku_Tatsu/status/2097056233702236236",
-      "arquivos": [
-        "midia/twitter/industrialdoor/1.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc261.mp4"
       ],
@@ -620,9 +622,7 @@
       "textoMeta": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Riku_Tatsu/status/2097056233702236236",
-      "arquivos": [
-        "midia/twitter/industrialdoor/1.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc261.mp4"
       ],
@@ -647,10 +647,7 @@
       "textoMeta": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 @Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Xspree28/status/2097070682677125623",
-      "arquivos": [
-        "midia/twitter/goblinduke/1.jpg",
-        "midia/twitter/goblinduke/2.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc259_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc259_2.jpg"
@@ -677,10 +674,7 @@
       "textoMeta": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 @Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Xspree28/status/2097070682677125623",
-      "arquivos": [
-        "midia/twitter/goblinduke/1.jpg",
-        "midia/twitter/goblinduke/2.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc259_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc259_2.jpg"
@@ -2614,11 +2608,17 @@
           "textoMeta": "🗡️ ELE TÁ TENTANDO FAZER ARMA FLUTUANTE NO HYTALE, DO JEITO QUE NIER AUTOMATA FAZ\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🗡️ ELE TÁ TENTANDO FAZER ARMA FLUTUANTE NO HYTALE, DO JEITO QUE NIER AUTOMATA FAZ\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/silver25636/status/2097074430170071469",
-          "arquivos": [],
-          "midiaWeb": [],
+          "arquivos": [
+            "midia/twitter/togoweapon/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc262.mp4"
+          ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-09",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
+          "arquivosTwitter": [
+            "01-1200-rc262.mp4"
+          ],
+          "tipo": "video",
           "status": "aguardando manual",
           "qualidade": null,
           "engajamento": null,
@@ -2640,10 +2640,7 @@
           "textoMeta": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 @Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Xspree28/status/2097070682677125623",
-          "arquivos": [
-            "midia/twitter/goblinduke/1.jpg",
-            "midia/twitter/goblinduke/2.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc259_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc259_2.jpg"
@@ -2670,10 +2667,7 @@
           "textoMeta": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 @Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Xspree28/status/2097070682677125623",
-          "arquivos": [
-            "midia/twitter/goblinduke/1.jpg",
-            "midia/twitter/goblinduke/2.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc259_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc259_2.jpg"
@@ -2700,9 +2694,7 @@
           "textoMeta": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Riku_Tatsu/status/2097056233702236236",
-          "arquivos": [
-            "midia/twitter/industrialdoor/1.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc261.mp4"
           ],
@@ -2727,9 +2719,7 @@
           "textoMeta": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🚪 PORTA INDUSTRIAL DESLIZANTE FICOU PERFEITA PRO CENÁRIO DE FÁBRICA\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Riku_Tatsu/status/2097056233702236236",
-          "arquivos": [
-            "midia/twitter/industrialdoor/1.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc261.mp4"
           ],
@@ -2754,9 +2744,7 @@
           "textoMeta": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/bravoxv_/status/2097039649789132982",
-          "arquivos": [
-            "midia/twitter/voidmusic/1.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc260.mp4"
           ],
