@@ -7330,5 +7330,50 @@ window.ELDRYN_POSTS = [
       "twitter": "🗡️ A ARMA DELE FLUTUA DO LADO DO PERSONAGEM, IGUAL O POD DE NIER AUTOMATA\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🗡️ A ARMA DELE FLUTUA DO LADO DO PERSONAGEM, IGUAL O POD DE NIER AUTOMATA\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🗡️ A ARMA DELE FLUTUA DO LADO DO PERSONAGEM, IGUAL O POD DE NIER AUTOMATA\n\nO projeto TOGO ainda é rascunho, mas já mostra a arma boiando ao lado do personagem sozinha, sem estar na mão.\n\n🔹 Ainda faltam golpe de mergulho, investida, contra-ataque e o golpe forte\n🔹 Ele mesmo admite que ainda não achou o jeito certo de fazer a arma flutuar direito\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc263",
+      "rodada": "2026-09-10 01:16",
+      "emoji": "🪦",
+      "titulo": "[X] Corredor de cripta com caixão no fim",
+      "fonte": "https://x.com/GibsonHougland/status/2097859786650140980",
+      "fonteData": "2026-09-10",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter.",
+      "midia": {
+          "url": "https://x.com/GibsonHougland/status/2097859786650140980",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/crypt/1.mp4"
+          ],
+          "video": "midia/twitter/crypt/1.mp4"
+      },
+      "twitter": "🪦 CORREDOR DE CRIPTA LEVA A UMA SALA COM CAIXÃO NO MEIO, TAPETE VERMELHO E TUDO\n\nO criador batizou de \"cripta DELE\", sem dizer quem é o dono. A luz verde fraca nas paredes só deixa o clima mais pesado.\n\n🔹 O corredor inteiro é ladeado por lanterna verde acesa, guiando até o fundo\n🔹 A sala final tem tapete manchado de vermelho apontando reto pro caixão\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🪦 CORREDOR DE CRIPTA LEVA A UMA SALA COM CAIXÃO NO MEIO, TAPETE VERMELHO E TUDO\n\nO criador batizou de \"cripta DELE\", sem dizer quem é o dono. A luz verde fraca nas paredes só deixa o clima mais pesado.\n\n🔹 O corredor inteiro é ladeado por lanterna verde acesa, guiando até o fundo\n🔹 A sala final tem tapete manchado de vermelho apontando reto pro caixão\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🪦 CORREDOR DE CRIPTA LEVA A UMA SALA COM CAIXÃO NO MEIO, TAPETE VERMELHO E TUDO\n\nO criador batizou de \"cripta DELE\", sem dizer quem é o dono. A luz verde fraca nas paredes só deixa o clima mais pesado.\n\n🔹 O corredor inteiro é ladeado por lanterna verde acesa, guiando até o fundo\n🔹 A sala final tem tapete manchado de vermelho apontando reto pro caixão\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc264",
+      "rodada": "2026-09-10 01:16",
+      "emoji": "🔮",
+      "titulo": "[X] Fã desenhou 3 runas próprias pro Simon",
+      "fonte": "https://x.com/MarianoArgello3/status/2097496315911365039",
+      "fonteData": "2026-09-10",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter.",
+      "midia": {
+          "url": "https://x.com/MarianoArgello3/status/2097496315911365039",
+          "nota": "Midia da fonte original.",
+          "tipo": "carrossel",
+          "arquivos": [
+              "midia/twitter/marianorunas/1.png",
+              "midia/twitter/marianorunas/2.png",
+              "midia/twitter/marianorunas/3.png"
+          ]
+      },
+      "twitter": "🔮 FÃ DESENHOU 3 RUNAS PRÓPRIAS E MANDOU DIRETO PRO SIMON, RESPONDENDO O PEDIDO DELE POR IDEIA\n\nO Simon tinha pedido sugestão de runa pra comunidade, e esse aqui não só desenhou o ícone como já pensou a mecânica inteira de cada uma.\n\n🔹 Death Mark marca o alvo na mira, aplicando vantagem pra você e desvantagem pra ele ao mesmo tempo\n🔹 Regenesis é runa de suporte com efeito ativo e passivo juntos, pensada pra sustentar time\n🔹 Toxic Mark usa a mesma mecânica da Death Mark só que com veneno no lugar\n\n🎨 @MarianoArgello3\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔮 FÃ DESENHOU 3 RUNAS PRÓPRIAS E MANDOU DIRETO PRO SIMON, RESPONDENDO O PEDIDO DELE POR IDEIA\n\nO Simon tinha pedido sugestão de runa pra comunidade, e esse aqui não só desenhou o ícone como já pensou a mecânica inteira de cada uma.\n\n🔹 Death Mark marca o alvo na mira, aplicando vantagem pra você e desvantagem pra ele ao mesmo tempo\n🔹 Regenesis é runa de suporte com efeito ativo e passivo juntos, pensada pra sustentar time\n🔹 Toxic Mark usa a mesma mecânica da Death Mark só que com veneno no lugar\n\n🎨 @MarianoArgello3\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔮 FÃ DESENHOU 3 RUNAS PRÓPRIAS E MANDOU DIRETO PRO SIMON, RESPONDENDO O PEDIDO DELE POR IDEIA\n\nO Simon tinha pedido sugestão de runa pra comunidade, e esse aqui não só desenhou o ícone como já pensou a mecânica inteira de cada uma.\n\n🔹 Death Mark marca o alvo na mira, aplicando vantagem pra você e desvantagem pra ele ao mesmo tempo\n🔹 Regenesis é runa de suporte com efeito ativo e passivo juntos, pensada pra sustentar time\n🔹 Toxic Mark usa a mesma mecânica da Death Mark só que com veneno no lugar\n\n🎨 @MarianoArgello3\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];

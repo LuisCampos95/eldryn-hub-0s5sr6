@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-08T15:28:22.622Z",
+  "geradoEm": "2026-09-10T04:16:23.806Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 262,
+      "n": 264,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 139,
+      "n": 141,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 132,
+      "n": 134,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 92,
+      "n": 94,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 75,
+      "n": 77,
       "quem": "código"
     }
   ],
@@ -539,6 +539,64 @@
   ],
   "grade": [
     {
+      "hora": "17:00",
+      "data": "2026-09-10",
+      "id": "rc264",
+      "rede": "twitter",
+      "titulo": "🔮 FÃ DESENHOU 3 RUNAS PRÓPRIAS E MANDOU DIRETO PRO SIMON, RESPONDENDO O PEDIDO DELE POR IDEIA",
+      "textoMeta": "🔮 FÃ DESENHOU 3 RUNAS PRÓPRIAS E MANDOU DIRETO PRO SIMON, RESPONDENDO O PEDIDO DELE POR IDEIA\n\nO Simon tinha pedido sugestão de runa pra comunidade, e esse aqui não só desenhou o ícone como já pensou a mecânica inteira de cada uma.\n\n🔹 Death Mark marca o alvo na mira, aplicando vantagem pra você e desvantagem pra ele ao mesmo tempo\n🔹 Regenesis é runa de suporte com efeito ativo e passivo juntos, pensada pra sustentar time\n🔹 Toxic Mark usa a mesma mecânica da Death Mark só que com veneno no lugar\n\n🎨 @MarianoArgello3\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔮 FÃ DESENHOU 3 RUNAS PRÓPRIAS E MANDOU DIRETO PRO SIMON, RESPONDENDO O PEDIDO DELE POR IDEIA\n\nO Simon tinha pedido sugestão de runa pra comunidade, e esse aqui não só desenhou o ícone como já pensou a mecânica inteira de cada uma.\n\n🔹 Death Mark marca o alvo na mira, aplicando vantagem pra você e desvantagem pra ele ao mesmo tempo\n🔹 Regenesis é runa de suporte com efeito ativo e passivo juntos, pensada pra sustentar time\n🔹 Toxic Mark usa a mesma mecânica da Death Mark só que com veneno no lugar\n\n🎨 @MarianoArgello3\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/MarianoArgello3/status/2097496315911365039",
+      "arquivos": [
+        "midia/twitter/marianorunas/1.png",
+        "midia/twitter/marianorunas/2.png",
+        "midia/twitter/marianorunas/3.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc264_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc264_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc264_3.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+      "arquivosTwitter": [
+        "02-1700-rc264-1.png",
+        "02-1700-rc264-2.png",
+        "02-1700-rc264-3.png"
+      ],
+      "tipo": "carrossel",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
+      "hora": "11:00",
+      "data": "2026-09-10",
+      "id": "rc263",
+      "rede": "twitter",
+      "titulo": "🪦 CORREDOR DE CRIPTA LEVA A UMA SALA COM CAIXÃO NO MEIO, TAPETE VERMELHO E TUDO",
+      "textoMeta": "🪦 CORREDOR DE CRIPTA LEVA A UMA SALA COM CAIXÃO NO MEIO, TAPETE VERMELHO E TUDO\n\nO criador batizou de \"cripta DELE\", sem dizer quem é o dono. A luz verde fraca nas paredes só deixa o clima mais pesado.\n\n🔹 O corredor inteiro é ladeado por lanterna verde acesa, guiando até o fundo\n🔹 A sala final tem tapete manchado de vermelho apontando reto pro caixão\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🪦 CORREDOR DE CRIPTA LEVA A UMA SALA COM CAIXÃO NO MEIO, TAPETE VERMELHO E TUDO\n\nO criador batizou de \"cripta DELE\", sem dizer quem é o dono. A luz verde fraca nas paredes só deixa o clima mais pesado.\n\n🔹 O corredor inteiro é ladeado por lanterna verde acesa, guiando até o fundo\n🔹 A sala final tem tapete manchado de vermelho apontando reto pro caixão\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/GibsonHougland/status/2097859786650140980",
+      "arquivos": [
+        "midia/twitter/crypt/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc263.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+      "arquivosTwitter": [
+        "01-1100-rc263.mp4"
+      ],
+      "tipo": "video",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
       "hora": "12:00",
       "data": "2026-09-09",
       "id": "rc262",
@@ -571,10 +629,7 @@
       "textoMeta": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/bravoxv_/status/2097039649789132982",
-      "arquivos": [
-        "midia/twitter/voidmusic/1.mp4",
-        "midia/twitter/voidmusic/2.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc260.mp4",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc260.mp4"
@@ -600,9 +655,7 @@
       "textoMeta": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Riku_Tatsu/status/2097056233702236236",
-      "arquivos": [
-        "midia/twitter/industrialdoor/1.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc261.mp4"
       ],
@@ -611,7 +664,7 @@
         "02-1600-rc261.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -627,9 +680,7 @@
       "textoMeta": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Riku_Tatsu/status/2097056233702236236",
-      "arquivos": [
-        "midia/twitter/industrialdoor/1.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc261.mp4"
       ],
@@ -654,10 +705,7 @@
       "textoMeta": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 @Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Xspree28/status/2097070682677125623",
-      "arquivos": [
-        "midia/twitter/goblinduke/1.jpg",
-        "midia/twitter/goblinduke/2.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc259_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc259_2.jpg"
@@ -668,7 +716,7 @@
         "01-1230-rc259-2.jpg"
       ],
       "tipo": "carrossel",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -684,10 +732,7 @@
       "textoMeta": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 @Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Xspree28/status/2097070682677125623",
-      "arquivos": [
-        "midia/twitter/goblinduke/1.jpg",
-        "midia/twitter/goblinduke/2.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc259_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc259_2.jpg"
@@ -2610,6 +2655,70 @@
   ],
   "diasGrade": [
     {
+      "dia": "2026-09-10",
+      "posts": [
+        {
+          "hora": "11:00",
+          "data": "2026-09-10",
+          "id": "rc263",
+          "rede": "twitter",
+          "titulo": "🪦 CORREDOR DE CRIPTA LEVA A UMA SALA COM CAIXÃO NO MEIO, TAPETE VERMELHO E TUDO",
+          "textoMeta": "🪦 CORREDOR DE CRIPTA LEVA A UMA SALA COM CAIXÃO NO MEIO, TAPETE VERMELHO E TUDO\n\nO criador batizou de \"cripta DELE\", sem dizer quem é o dono. A luz verde fraca nas paredes só deixa o clima mais pesado.\n\n🔹 O corredor inteiro é ladeado por lanterna verde acesa, guiando até o fundo\n🔹 A sala final tem tapete manchado de vermelho apontando reto pro caixão\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🪦 CORREDOR DE CRIPTA LEVA A UMA SALA COM CAIXÃO NO MEIO, TAPETE VERMELHO E TUDO\n\nO criador batizou de \"cripta DELE\", sem dizer quem é o dono. A luz verde fraca nas paredes só deixa o clima mais pesado.\n\n🔹 O corredor inteiro é ladeado por lanterna verde acesa, guiando até o fundo\n🔹 A sala final tem tapete manchado de vermelho apontando reto pro caixão\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/GibsonHougland/status/2097859786650140980",
+          "arquivos": [
+            "midia/twitter/crypt/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc263.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+          "arquivosTwitter": [
+            "01-1100-rc263.mp4"
+          ],
+          "tipo": "video",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
+          "hora": "17:00",
+          "data": "2026-09-10",
+          "id": "rc264",
+          "rede": "twitter",
+          "titulo": "🔮 FÃ DESENHOU 3 RUNAS PRÓPRIAS E MANDOU DIRETO PRO SIMON, RESPONDENDO O PEDIDO DELE POR IDEIA",
+          "textoMeta": "🔮 FÃ DESENHOU 3 RUNAS PRÓPRIAS E MANDOU DIRETO PRO SIMON, RESPONDENDO O PEDIDO DELE POR IDEIA\n\nO Simon tinha pedido sugestão de runa pra comunidade, e esse aqui não só desenhou o ícone como já pensou a mecânica inteira de cada uma.\n\n🔹 Death Mark marca o alvo na mira, aplicando vantagem pra você e desvantagem pra ele ao mesmo tempo\n🔹 Regenesis é runa de suporte com efeito ativo e passivo juntos, pensada pra sustentar time\n🔹 Toxic Mark usa a mesma mecânica da Death Mark só que com veneno no lugar\n\n🎨 @MarianoArgello3\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔮 FÃ DESENHOU 3 RUNAS PRÓPRIAS E MANDOU DIRETO PRO SIMON, RESPONDENDO O PEDIDO DELE POR IDEIA\n\nO Simon tinha pedido sugestão de runa pra comunidade, e esse aqui não só desenhou o ícone como já pensou a mecânica inteira de cada uma.\n\n🔹 Death Mark marca o alvo na mira, aplicando vantagem pra você e desvantagem pra ele ao mesmo tempo\n🔹 Regenesis é runa de suporte com efeito ativo e passivo juntos, pensada pra sustentar time\n🔹 Toxic Mark usa a mesma mecânica da Death Mark só que com veneno no lugar\n\n🎨 @MarianoArgello3\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/MarianoArgello3/status/2097496315911365039",
+          "arquivos": [
+            "midia/twitter/marianorunas/1.png",
+            "midia/twitter/marianorunas/2.png",
+            "midia/twitter/marianorunas/3.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc264_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc264_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc264_3.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+          "arquivosTwitter": [
+            "02-1700-rc264-1.png",
+            "02-1700-rc264-2.png",
+            "02-1700-rc264-3.png"
+          ],
+          "tipo": "carrossel",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        }
+      ],
+      "total": 2
+    },
+    {
       "dia": "2026-09-09",
       "posts": [
         {
@@ -2651,10 +2760,7 @@
           "textoMeta": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 @Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Xspree28/status/2097070682677125623",
-          "arquivos": [
-            "midia/twitter/goblinduke/1.jpg",
-            "midia/twitter/goblinduke/2.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc259_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc259_2.jpg"
@@ -2665,7 +2771,7 @@
             "01-1230-rc259-2.jpg"
           ],
           "tipo": "carrossel",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2681,10 +2787,7 @@
           "textoMeta": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "👑 JOGADOR ACHOU O COVIL INTEIRO DO GOBLIN DUKE GERADO NATURALMENTE NO MUNDO\n\nEle estava só procurando pista de lore nova quando caiu em uma caverna com pilha de tesouro gigante e um trono goblin no topo. Não é construção de ninguém, é o mundo mesmo que gerou assim.\n\n🔹 Montanha de baú e item empilhado até o teto da caverna, com bandeira no topo\n🔹 Tem lagoa dentro da mesma caverna, cercada de casinha de madeira do bando\n🔹 O Update 7 ainda nem chegou pra valer e já tem covil de chefe escondido gerando sozinho\n\n🎥 @Xspree28\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Xspree28/status/2097070682677125623",
-          "arquivos": [
-            "midia/twitter/goblinduke/1.jpg",
-            "midia/twitter/goblinduke/2.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc259_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc259_2.jpg"
@@ -2711,9 +2814,7 @@
           "textoMeta": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Riku_Tatsu/status/2097056233702236236",
-          "arquivos": [
-            "midia/twitter/industrialdoor/1.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc261.mp4"
           ],
@@ -2722,7 +2823,7 @@
             "02-1600-rc261.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2738,9 +2839,7 @@
           "textoMeta": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🚪 PORTA DESLIZA COM FAIXA DE RISCO E TUDO, IGUAL PORTÃO DE FÁBRICA DE VERDADE\n\nFaz parte de um conjunto maior de mobília industrial que o criador está montando peça por peça.\n\n🔹 Vem com faixa de risco amarela e preta, do jeito que porta de fábrica de verdade tem\n🔹 Encaixa com o resto do set, então dá pra montar cenário industrial inteiro combinando\n\n🎥 @Riku_Tatsu\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Riku_Tatsu/status/2097056233702236236",
-          "arquivos": [
-            "midia/twitter/industrialdoor/1.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc261.mp4"
           ],
@@ -2765,10 +2864,7 @@
           "textoMeta": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎵 ACHARAM AS DUAS VERSÕES DA MÚSICA DO ATAQUE DO VAZIO NOS ARQUIVOS\n\nTem trilha sonora pronta pra quando o evento do Vazio entra em ataque, e já são duas variações diferentes esperando pra tocar.\n\n🔹 Versão 1 e versão 2 têm ritmo e tensão diferentes entre si, não é a mesma faixa reaproveitada\n🔹 O evento do Vazio em si já tinha aparecido antes, mas sem essa trilha nenhuma referência anterior tinha mostrado\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/bravoxv_/status/2097039649789132982",
-          "arquivos": [
-            "midia/twitter/voidmusic/1.mp4",
-            "midia/twitter/voidmusic/2.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc260.mp4",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc260.mp4"
@@ -4874,13 +4970,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 262,
+    "coletadosTotal": 264,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 123,
     "rejeitadosMemoria": 7,
-    "escritos": 107,
-    "agendados": 75,
+    "escritos": 109,
+    "agendados": 77,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -4891,9 +4987,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 3,
+    "total": 2,
     "feitos": 0,
-    "data": "2026-09-08"
+    "data": "2026-09-10"
   },
   "custos": {
     "infraMensal": 0,
@@ -4944,8 +5040,8 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6074,
-      "totalPosts": 303,
+      "seguidores": 6077,
+      "totalPosts": 305,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
       "mediaCurtidas": 80,
@@ -4969,7 +5065,7 @@
     "topPosts": [
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 725,
+        "curtidas": 747,
         "comentarios": 4,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
@@ -5019,8 +5115,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-23T18:00:50+0000",
-      "ate": "2026-09-07T19:45:49+0000"
+      "de": "2026-07-25T18:04:12+0000",
+      "ate": "2026-09-08T20:59:15+0000"
     },
     "serie": [
       {
