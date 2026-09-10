@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-10T04:16:23.806Z",
+  "geradoEm": "2026-09-10T04:17:20.917Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -571,7 +571,7 @@
       "motivo": null
     },
     {
-      "hora": "11:00",
+      "hora": "09:30",
       "data": "2026-09-10",
       "id": "rc263",
       "rede": "twitter",
@@ -587,7 +587,7 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
       "arquivosTwitter": [
-        "01-1100-rc263.mp4"
+        "01-0930-rc263.mp4"
       ],
       "tipo": "video",
       "status": "aguardando manual",
@@ -2658,7 +2658,7 @@
       "dia": "2026-09-10",
       "posts": [
         {
-          "hora": "11:00",
+          "hora": "09:30",
           "data": "2026-09-10",
           "id": "rc263",
           "rede": "twitter",
@@ -2674,7 +2674,7 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
           "arquivosTwitter": [
-            "01-1100-rc263.mp4"
+            "01-0930-rc263.mp4"
           ],
           "tipo": "video",
           "status": "aguardando manual",
