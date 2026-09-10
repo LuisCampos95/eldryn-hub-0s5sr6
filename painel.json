@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-10T13:05:34.129Z",
+  "geradoEm": "2026-09-10T14:28:37.346Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,17 +81,17 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 264,
+      "n": 266,
       "quem": "código"
     },
     {
       "etapa": "Passaram no filtro",
-      "n": 141,
+      "n": 143,
       "quem": "código"
     },
     {
       "etapa": "Assunto novo ou parecido",
-      "n": 134,
+      "n": 136,
       "quem": "código"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "etapa": "Escritos e no QC",
-      "n": 94,
+      "n": 96,
       "quem": "IA + código"
     },
     {
       "etapa": "Agendados",
-      "n": 77,
+      "n": 79,
       "quem": "código"
     }
   ],
@@ -559,9 +559,9 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
       "arquivosTwitter": [
-        "02-1700-rc264-1.png",
-        "02-1700-rc264-2.png",
-        "02-1700-rc264-3.png"
+        "04-1700-rc264-1.png",
+        "04-1700-rc264-2.png",
+        "04-1700-rc264-3.png"
       ],
       "tipo": "carrossel",
       "status": "agendado",
@@ -592,9 +592,9 @@
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
       "arquivosTwitter": [
-        "02-1700-rc264-1.png",
-        "02-1700-rc264-2.png",
-        "02-1700-rc264-3.png"
+        "04-1700-rc264-1.png",
+        "04-1700-rc264-2.png",
+        "04-1700-rc264-3.png"
       ],
       "tipo": "carrossel",
       "status": "aguardando manual",
@@ -603,6 +603,114 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1703028241825766"
+    },
+    {
+      "hora": "11:50",
+      "data": "2026-09-10",
+      "id": "rc266",
+      "rede": "facebook",
+      "titulo": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO",
+      "textoMeta": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-5",
+      "arquivos": [
+        "midia/site/u63/rc234.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc266.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+      "arquivosTwitter": [
+        "03-1150-rc266.png"
+      ],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1703098515152072"
+    },
+    {
+      "hora": "11:50",
+      "data": "2026-09-10",
+      "id": "rc266",
+      "rede": "twitter",
+      "titulo": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO",
+      "textoMeta": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-5",
+      "arquivos": [
+        "midia/site/u63/rc234.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc266.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+      "arquivosTwitter": [
+        "03-1150-rc266.png"
+      ],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1703098515152072"
+    },
+    {
+      "hora": "11:45",
+      "data": "2026-09-10",
+      "id": "rc265",
+      "rede": "facebook",
+      "titulo": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO",
+      "textoMeta": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO\n\nSaiu a segunda leva do Update 7 pré-lançamento, com reforma grande na ferramenta de criativo mais avançada do jogo e comportamento novo de IA.\n\n🖥️ EDITOR DE NÓ QUASE OUTRA FERRAMENTA\nAbre direto em uma tela inicial pra escolher o que criar ou voltar em um arquivo recente, lembra o último tipo de workspace usado, e arquivo arrastado abre direto no Windows e Mac. Ganhou tema claro além do escuro. Tem minimapa novo que mostra onde você tá no gráfico inteiro e leva você pra qualquer parte com um clique. Arrastar nó agora encaixa sozinho na linha dos vizinhos, com linha guia mostrando o alinhamento. E os nós de curva (ManualCurve, FunctionForY) ganharam gráfico interativo, clique direito adiciona ponto, Delete remove.\n\n🧌 GOBLIN AGORA FOGE DO VAZIO, OU SEGURA A ONDA SE TIVER REFORÇO\nCriatura do Vazio virou hostil contra goblin. A maioria foge quando encontra uma, só segura a posição se tiver aliado suficiente por perto. Burner, Feastmaster, Guardian, Lobber, Miner e Scrapper pararam de perseguir alvo pra sempre, e o Burner ficou com bem menos empurrão no ataque.\n\n🛠️ ITEM E CONTROLE\nPortal ganha limite de entrada por jogador, mostrado na interface do Portal Ancestral. Gancho foi refeito visualmente, animação de disparo nova. Planador de Sucata ganhou modelo e textura novos, e a asa bate de verdade agora. Controle de habilidade no controle mudou, segura o gatilho direito e aperta botão diferente pra cada habilidade.\n\n🔎 BUSCA DO INVENTÁRIO CRIATIVO ACEITA ERRO DE DIGITAÇÃO\nEscreve \"swrd\" ou \"swodr\" e ainda acha espada. Também ignora acento, \"e\" já encontra item com \"é\". Efígie do Vinculador ganhou passada visual, e runa mostra a etiqueta de habilidade no tooltip.\n\n🔊 ÁUDIO\nSom novo pra quando você bate ferramenta fraca demais em um bloco. Menos som de quebra repetido ao minerar em sequência. Goblin ao redor abaixa o volume quando o Feastmaster grita com eles. Som da Habilidade Marca carregada ficou mais baixo, e a Bota-Foguete ganhou som próprio no pulo duplo.\n\n🔧 CORREÇÃO DE BUG\nEditor de Nó parou de travar ao abrir e fechar gráfico grande, arquivo carrega em segundo plano agora. Resolvido vazamento de memória que deixava todo gráfico aberto preso até fechar o jogo, perda de conexão ao copiar e colar nó, e problema de título de grupo bagunçado. Barril explosivo ganhou aviso de que pode ser carregado. Machado virou jeito alternativo (e nada convencional) de detonar bloco explosivo. Armadilha Presa de Cobra prende por 2 segundos agora, em vez de travar pra sempre. Projétil de gancho parou de ficar perdido no mundo depois de parar de se mover.\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO\n\nSaiu a segunda leva do Update 7 pré-lançamento, com reforma grande na ferramenta de criativo mais avançada do jogo e comportamento novo de IA.\n\n🖥️ EDITOR DE NÓ QUASE OUTRA FERRAMENTA\nAbre direto em uma tela inicial pra escolher o que criar ou voltar em um arquivo recente, lembra o último tipo de workspace usado, e arquivo arrastado abre direto no Windows e Mac. Ganhou tema claro além do escuro. Tem minimapa novo que mostra onde você tá no gráfico inteiro e leva você pra qualquer parte com um clique. Arrastar nó agora encaixa sozinho na linha dos vizinhos, com linha guia mostrando o alinhamento. E os nós de curva (ManualCurve, FunctionForY) ganharam gráfico interativo, clique direito adiciona ponto, Delete remove.\n\n🧌 GOBLIN AGORA FOGE DO VAZIO, OU SEGURA A ONDA SE TIVER REFORÇO\nCriatura do Vazio virou hostil contra goblin. A maioria foge quando encontra uma, só segura a posição se tiver aliado suficiente por perto. Burner, Feastmaster, Guardian, Lobber, Miner e Scrapper pararam de perseguir alvo pra sempre, e o Burner ficou com bem menos empurrão no ataque.\n\n🛠️ ITEM E CONTROLE\nPortal ganha limite de entrada por jogador, mostrado na interface do Portal Ancestral. Gancho foi refeito visualmente, animação de disparo nova. Planador de Sucata ganhou modelo e textura novos, e a asa bate de verdade agora. Controle de habilidade no controle mudou, segura o gatilho direito e aperta botão diferente pra cada habilidade.\n\n🔎 BUSCA DO INVENTÁRIO CRIATIVO ACEITA ERRO DE DIGITAÇÃO\nEscreve \"swrd\" ou \"swodr\" e ainda acha espada. Também ignora acento, \"e\" já encontra item com \"é\". Efígie do Vinculador ganhou passada visual, e runa mostra a etiqueta de habilidade no tooltip.\n\n🔊 ÁUDIO\nSom novo pra quando você bate ferramenta fraca demais em um bloco. Menos som de quebra repetido ao minerar em sequência. Goblin ao redor abaixa o volume quando o Feastmaster grita com eles. Som da Habilidade Marca carregada ficou mais baixo, e a Bota-Foguete ganhou som próprio no pulo duplo.\n\n🔧 CORREÇÃO DE BUG\nEditor de Nó parou de travar ao abrir e fechar gráfico grande, arquivo carrega em segundo plano agora. Resolvido vazamento de memória que deixava todo gráfico aberto preso até fechar o jogo, perda de conexão ao copiar e colar nó, e problema de título de grupo bagunçado. Barril explosivo ganhou aviso de que pode ser carregado. Machado virou jeito alternativo (e nada convencional) de detonar bloco explosivo. Armadilha Presa de Cobra prende por 2 segundos agora, em vez de travar pra sempre. Projétil de gancho parou de ficar perdido no mundo depois de parar de se mover.\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/9/pre-release-patch-notes-update-7#part2",
+      "arquivos": [
+        "midia/site/u7pt1/banner.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc265.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+      "arquivosTwitter": [
+        "02-1145-rc265.png"
+      ],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1703098751818715"
+    },
+    {
+      "hora": "11:45",
+      "data": "2026-09-10",
+      "id": "rc265",
+      "rede": "twitter",
+      "titulo": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO",
+      "textoMeta": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO\n\nSaiu a segunda leva do Update 7 pré-lançamento, com reforma grande na ferramenta de criativo mais avançada do jogo e comportamento novo de IA.\n\n🖥️ EDITOR DE NÓ QUASE OUTRA FERRAMENTA\nAbre direto em uma tela inicial pra escolher o que criar ou voltar em um arquivo recente, lembra o último tipo de workspace usado, e arquivo arrastado abre direto no Windows e Mac. Ganhou tema claro além do escuro. Tem minimapa novo que mostra onde você tá no gráfico inteiro e leva você pra qualquer parte com um clique. Arrastar nó agora encaixa sozinho na linha dos vizinhos, com linha guia mostrando o alinhamento. E os nós de curva (ManualCurve, FunctionForY) ganharam gráfico interativo, clique direito adiciona ponto, Delete remove.\n\n🧌 GOBLIN AGORA FOGE DO VAZIO, OU SEGURA A ONDA SE TIVER REFORÇO\nCriatura do Vazio virou hostil contra goblin. A maioria foge quando encontra uma, só segura a posição se tiver aliado suficiente por perto. Burner, Feastmaster, Guardian, Lobber, Miner e Scrapper pararam de perseguir alvo pra sempre, e o Burner ficou com bem menos empurrão no ataque.\n\n🛠️ ITEM E CONTROLE\nPortal ganha limite de entrada por jogador, mostrado na interface do Portal Ancestral. Gancho foi refeito visualmente, animação de disparo nova. Planador de Sucata ganhou modelo e textura novos, e a asa bate de verdade agora. Controle de habilidade no controle mudou, segura o gatilho direito e aperta botão diferente pra cada habilidade.\n\n🔎 BUSCA DO INVENTÁRIO CRIATIVO ACEITA ERRO DE DIGITAÇÃO\nEscreve \"swrd\" ou \"swodr\" e ainda acha espada. Também ignora acento, \"e\" já encontra item com \"é\". Efígie do Vinculador ganhou passada visual, e runa mostra a etiqueta de habilidade no tooltip.\n\n🔊 ÁUDIO\nSom novo pra quando você bate ferramenta fraca demais em um bloco. Menos som de quebra repetido ao minerar em sequência. Goblin ao redor abaixa o volume quando o Feastmaster grita com eles. Som da Habilidade Marca carregada ficou mais baixo, e a Bota-Foguete ganhou som próprio no pulo duplo.\n\n🔧 CORREÇÃO DE BUG\nEditor de Nó parou de travar ao abrir e fechar gráfico grande, arquivo carrega em segundo plano agora. Resolvido vazamento de memória que deixava todo gráfico aberto preso até fechar o jogo, perda de conexão ao copiar e colar nó, e problema de título de grupo bagunçado. Barril explosivo ganhou aviso de que pode ser carregado. Machado virou jeito alternativo (e nada convencional) de detonar bloco explosivo. Armadilha Presa de Cobra prende por 2 segundos agora, em vez de travar pra sempre. Projétil de gancho parou de ficar perdido no mundo depois de parar de se mover.\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO\n\nSaiu a segunda leva do Update 7 pré-lançamento, com reforma grande na ferramenta de criativo mais avançada do jogo e comportamento novo de IA.\n\n🖥️ EDITOR DE NÓ QUASE OUTRA FERRAMENTA\nAbre direto em uma tela inicial pra escolher o que criar ou voltar em um arquivo recente, lembra o último tipo de workspace usado, e arquivo arrastado abre direto no Windows e Mac. Ganhou tema claro além do escuro. Tem minimapa novo que mostra onde você tá no gráfico inteiro e leva você pra qualquer parte com um clique. Arrastar nó agora encaixa sozinho na linha dos vizinhos, com linha guia mostrando o alinhamento. E os nós de curva (ManualCurve, FunctionForY) ganharam gráfico interativo, clique direito adiciona ponto, Delete remove.\n\n🧌 GOBLIN AGORA FOGE DO VAZIO, OU SEGURA A ONDA SE TIVER REFORÇO\nCriatura do Vazio virou hostil contra goblin. A maioria foge quando encontra uma, só segura a posição se tiver aliado suficiente por perto. Burner, Feastmaster, Guardian, Lobber, Miner e Scrapper pararam de perseguir alvo pra sempre, e o Burner ficou com bem menos empurrão no ataque.\n\n🛠️ ITEM E CONTROLE\nPortal ganha limite de entrada por jogador, mostrado na interface do Portal Ancestral. Gancho foi refeito visualmente, animação de disparo nova. Planador de Sucata ganhou modelo e textura novos, e a asa bate de verdade agora. Controle de habilidade no controle mudou, segura o gatilho direito e aperta botão diferente pra cada habilidade.\n\n🔎 BUSCA DO INVENTÁRIO CRIATIVO ACEITA ERRO DE DIGITAÇÃO\nEscreve \"swrd\" ou \"swodr\" e ainda acha espada. Também ignora acento, \"e\" já encontra item com \"é\". Efígie do Vinculador ganhou passada visual, e runa mostra a etiqueta de habilidade no tooltip.\n\n🔊 ÁUDIO\nSom novo pra quando você bate ferramenta fraca demais em um bloco. Menos som de quebra repetido ao minerar em sequência. Goblin ao redor abaixa o volume quando o Feastmaster grita com eles. Som da Habilidade Marca carregada ficou mais baixo, e a Bota-Foguete ganhou som próprio no pulo duplo.\n\n🔧 CORREÇÃO DE BUG\nEditor de Nó parou de travar ao abrir e fechar gráfico grande, arquivo carrega em segundo plano agora. Resolvido vazamento de memória que deixava todo gráfico aberto preso até fechar o jogo, perda de conexão ao copiar e colar nó, e problema de título de grupo bagunçado. Barril explosivo ganhou aviso de que pode ser carregado. Machado virou jeito alternativo (e nada convencional) de detonar bloco explosivo. Armadilha Presa de Cobra prende por 2 segundos agora, em vez de travar pra sempre. Projétil de gancho parou de ficar perdido no mundo depois de parar de se mover.\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://hytale.com/news/2026/9/pre-release-patch-notes-update-7#part2",
+      "arquivos": [
+        "midia/site/u7pt1/banner.png"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc265.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+      "arquivosTwitter": [
+        "02-1145-rc265.png"
+      ],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1703098751818715"
     },
     {
       "hora": "10:20",
@@ -620,11 +728,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc263.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
-      "arquivosTwitter": [
-        "01-1020-rc263.mp4"
-      ],
+      "arquivosTwitter": [],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -647,7 +753,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc263.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "01-0930-rc263.mp4"
+      ],
       "tipo": "video",
       "status": "aguardando manual",
       "qualidade": null,
@@ -2733,7 +2841,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc263.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "01-0930-rc263.mp4"
+          ],
           "tipo": "video",
           "status": "aguardando manual",
           "qualidade": null,
@@ -2758,16 +2868,122 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc263.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
-          "arquivosTwitter": [
-            "01-1020-rc263.mp4"
-          ],
+          "arquivosTwitter": [],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/reel/1765139124616961/"
+        },
+        {
+          "hora": "11:45",
+          "data": "2026-09-10",
+          "id": "rc265",
+          "rede": "facebook",
+          "titulo": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO",
+          "textoMeta": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO\n\nSaiu a segunda leva do Update 7 pré-lançamento, com reforma grande na ferramenta de criativo mais avançada do jogo e comportamento novo de IA.\n\n🖥️ EDITOR DE NÓ QUASE OUTRA FERRAMENTA\nAbre direto em uma tela inicial pra escolher o que criar ou voltar em um arquivo recente, lembra o último tipo de workspace usado, e arquivo arrastado abre direto no Windows e Mac. Ganhou tema claro além do escuro. Tem minimapa novo que mostra onde você tá no gráfico inteiro e leva você pra qualquer parte com um clique. Arrastar nó agora encaixa sozinho na linha dos vizinhos, com linha guia mostrando o alinhamento. E os nós de curva (ManualCurve, FunctionForY) ganharam gráfico interativo, clique direito adiciona ponto, Delete remove.\n\n🧌 GOBLIN AGORA FOGE DO VAZIO, OU SEGURA A ONDA SE TIVER REFORÇO\nCriatura do Vazio virou hostil contra goblin. A maioria foge quando encontra uma, só segura a posição se tiver aliado suficiente por perto. Burner, Feastmaster, Guardian, Lobber, Miner e Scrapper pararam de perseguir alvo pra sempre, e o Burner ficou com bem menos empurrão no ataque.\n\n🛠️ ITEM E CONTROLE\nPortal ganha limite de entrada por jogador, mostrado na interface do Portal Ancestral. Gancho foi refeito visualmente, animação de disparo nova. Planador de Sucata ganhou modelo e textura novos, e a asa bate de verdade agora. Controle de habilidade no controle mudou, segura o gatilho direito e aperta botão diferente pra cada habilidade.\n\n🔎 BUSCA DO INVENTÁRIO CRIATIVO ACEITA ERRO DE DIGITAÇÃO\nEscreve \"swrd\" ou \"swodr\" e ainda acha espada. Também ignora acento, \"e\" já encontra item com \"é\". Efígie do Vinculador ganhou passada visual, e runa mostra a etiqueta de habilidade no tooltip.\n\n🔊 ÁUDIO\nSom novo pra quando você bate ferramenta fraca demais em um bloco. Menos som de quebra repetido ao minerar em sequência. Goblin ao redor abaixa o volume quando o Feastmaster grita com eles. Som da Habilidade Marca carregada ficou mais baixo, e a Bota-Foguete ganhou som próprio no pulo duplo.\n\n🔧 CORREÇÃO DE BUG\nEditor de Nó parou de travar ao abrir e fechar gráfico grande, arquivo carrega em segundo plano agora. Resolvido vazamento de memória que deixava todo gráfico aberto preso até fechar o jogo, perda de conexão ao copiar e colar nó, e problema de título de grupo bagunçado. Barril explosivo ganhou aviso de que pode ser carregado. Machado virou jeito alternativo (e nada convencional) de detonar bloco explosivo. Armadilha Presa de Cobra prende por 2 segundos agora, em vez de travar pra sempre. Projétil de gancho parou de ficar perdido no mundo depois de parar de se mover.\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO\n\nSaiu a segunda leva do Update 7 pré-lançamento, com reforma grande na ferramenta de criativo mais avançada do jogo e comportamento novo de IA.\n\n🖥️ EDITOR DE NÓ QUASE OUTRA FERRAMENTA\nAbre direto em uma tela inicial pra escolher o que criar ou voltar em um arquivo recente, lembra o último tipo de workspace usado, e arquivo arrastado abre direto no Windows e Mac. Ganhou tema claro além do escuro. Tem minimapa novo que mostra onde você tá no gráfico inteiro e leva você pra qualquer parte com um clique. Arrastar nó agora encaixa sozinho na linha dos vizinhos, com linha guia mostrando o alinhamento. E os nós de curva (ManualCurve, FunctionForY) ganharam gráfico interativo, clique direito adiciona ponto, Delete remove.\n\n🧌 GOBLIN AGORA FOGE DO VAZIO, OU SEGURA A ONDA SE TIVER REFORÇO\nCriatura do Vazio virou hostil contra goblin. A maioria foge quando encontra uma, só segura a posição se tiver aliado suficiente por perto. Burner, Feastmaster, Guardian, Lobber, Miner e Scrapper pararam de perseguir alvo pra sempre, e o Burner ficou com bem menos empurrão no ataque.\n\n🛠️ ITEM E CONTROLE\nPortal ganha limite de entrada por jogador, mostrado na interface do Portal Ancestral. Gancho foi refeito visualmente, animação de disparo nova. Planador de Sucata ganhou modelo e textura novos, e a asa bate de verdade agora. Controle de habilidade no controle mudou, segura o gatilho direito e aperta botão diferente pra cada habilidade.\n\n🔎 BUSCA DO INVENTÁRIO CRIATIVO ACEITA ERRO DE DIGITAÇÃO\nEscreve \"swrd\" ou \"swodr\" e ainda acha espada. Também ignora acento, \"e\" já encontra item com \"é\". Efígie do Vinculador ganhou passada visual, e runa mostra a etiqueta de habilidade no tooltip.\n\n🔊 ÁUDIO\nSom novo pra quando você bate ferramenta fraca demais em um bloco. Menos som de quebra repetido ao minerar em sequência. Goblin ao redor abaixa o volume quando o Feastmaster grita com eles. Som da Habilidade Marca carregada ficou mais baixo, e a Bota-Foguete ganhou som próprio no pulo duplo.\n\n🔧 CORREÇÃO DE BUG\nEditor de Nó parou de travar ao abrir e fechar gráfico grande, arquivo carrega em segundo plano agora. Resolvido vazamento de memória que deixava todo gráfico aberto preso até fechar o jogo, perda de conexão ao copiar e colar nó, e problema de título de grupo bagunçado. Barril explosivo ganhou aviso de que pode ser carregado. Machado virou jeito alternativo (e nada convencional) de detonar bloco explosivo. Armadilha Presa de Cobra prende por 2 segundos agora, em vez de travar pra sempre. Projétil de gancho parou de ficar perdido no mundo depois de parar de se mover.\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/9/pre-release-patch-notes-update-7#part2",
+          "arquivos": [
+            "midia/site/u7pt1/banner.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc265.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+          "arquivosTwitter": [
+            "02-1145-rc265.png"
+          ],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1703098751818715"
+        },
+        {
+          "hora": "11:45",
+          "data": "2026-09-10",
+          "id": "rc265",
+          "rede": "twitter",
+          "titulo": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO",
+          "textoMeta": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO\n\nSaiu a segunda leva do Update 7 pré-lançamento, com reforma grande na ferramenta de criativo mais avançada do jogo e comportamento novo de IA.\n\n🖥️ EDITOR DE NÓ QUASE OUTRA FERRAMENTA\nAbre direto em uma tela inicial pra escolher o que criar ou voltar em um arquivo recente, lembra o último tipo de workspace usado, e arquivo arrastado abre direto no Windows e Mac. Ganhou tema claro além do escuro. Tem minimapa novo que mostra onde você tá no gráfico inteiro e leva você pra qualquer parte com um clique. Arrastar nó agora encaixa sozinho na linha dos vizinhos, com linha guia mostrando o alinhamento. E os nós de curva (ManualCurve, FunctionForY) ganharam gráfico interativo, clique direito adiciona ponto, Delete remove.\n\n🧌 GOBLIN AGORA FOGE DO VAZIO, OU SEGURA A ONDA SE TIVER REFORÇO\nCriatura do Vazio virou hostil contra goblin. A maioria foge quando encontra uma, só segura a posição se tiver aliado suficiente por perto. Burner, Feastmaster, Guardian, Lobber, Miner e Scrapper pararam de perseguir alvo pra sempre, e o Burner ficou com bem menos empurrão no ataque.\n\n🛠️ ITEM E CONTROLE\nPortal ganha limite de entrada por jogador, mostrado na interface do Portal Ancestral. Gancho foi refeito visualmente, animação de disparo nova. Planador de Sucata ganhou modelo e textura novos, e a asa bate de verdade agora. Controle de habilidade no controle mudou, segura o gatilho direito e aperta botão diferente pra cada habilidade.\n\n🔎 BUSCA DO INVENTÁRIO CRIATIVO ACEITA ERRO DE DIGITAÇÃO\nEscreve \"swrd\" ou \"swodr\" e ainda acha espada. Também ignora acento, \"e\" já encontra item com \"é\". Efígie do Vinculador ganhou passada visual, e runa mostra a etiqueta de habilidade no tooltip.\n\n🔊 ÁUDIO\nSom novo pra quando você bate ferramenta fraca demais em um bloco. Menos som de quebra repetido ao minerar em sequência. Goblin ao redor abaixa o volume quando o Feastmaster grita com eles. Som da Habilidade Marca carregada ficou mais baixo, e a Bota-Foguete ganhou som próprio no pulo duplo.\n\n🔧 CORREÇÃO DE BUG\nEditor de Nó parou de travar ao abrir e fechar gráfico grande, arquivo carrega em segundo plano agora. Resolvido vazamento de memória que deixava todo gráfico aberto preso até fechar o jogo, perda de conexão ao copiar e colar nó, e problema de título de grupo bagunçado. Barril explosivo ganhou aviso de que pode ser carregado. Machado virou jeito alternativo (e nada convencional) de detonar bloco explosivo. Armadilha Presa de Cobra prende por 2 segundos agora, em vez de travar pra sempre. Projétil de gancho parou de ficar perdido no mundo depois de parar de se mover.\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🎨 EDITOR DE NÓ GANHOU TELA INICIAL E MINIMAPA, E OS GOBLINS AGORA TÊM MEDO DO VAZIO\n\nSaiu a segunda leva do Update 7 pré-lançamento, com reforma grande na ferramenta de criativo mais avançada do jogo e comportamento novo de IA.\n\n🖥️ EDITOR DE NÓ QUASE OUTRA FERRAMENTA\nAbre direto em uma tela inicial pra escolher o que criar ou voltar em um arquivo recente, lembra o último tipo de workspace usado, e arquivo arrastado abre direto no Windows e Mac. Ganhou tema claro além do escuro. Tem minimapa novo que mostra onde você tá no gráfico inteiro e leva você pra qualquer parte com um clique. Arrastar nó agora encaixa sozinho na linha dos vizinhos, com linha guia mostrando o alinhamento. E os nós de curva (ManualCurve, FunctionForY) ganharam gráfico interativo, clique direito adiciona ponto, Delete remove.\n\n🧌 GOBLIN AGORA FOGE DO VAZIO, OU SEGURA A ONDA SE TIVER REFORÇO\nCriatura do Vazio virou hostil contra goblin. A maioria foge quando encontra uma, só segura a posição se tiver aliado suficiente por perto. Burner, Feastmaster, Guardian, Lobber, Miner e Scrapper pararam de perseguir alvo pra sempre, e o Burner ficou com bem menos empurrão no ataque.\n\n🛠️ ITEM E CONTROLE\nPortal ganha limite de entrada por jogador, mostrado na interface do Portal Ancestral. Gancho foi refeito visualmente, animação de disparo nova. Planador de Sucata ganhou modelo e textura novos, e a asa bate de verdade agora. Controle de habilidade no controle mudou, segura o gatilho direito e aperta botão diferente pra cada habilidade.\n\n🔎 BUSCA DO INVENTÁRIO CRIATIVO ACEITA ERRO DE DIGITAÇÃO\nEscreve \"swrd\" ou \"swodr\" e ainda acha espada. Também ignora acento, \"e\" já encontra item com \"é\". Efígie do Vinculador ganhou passada visual, e runa mostra a etiqueta de habilidade no tooltip.\n\n🔊 ÁUDIO\nSom novo pra quando você bate ferramenta fraca demais em um bloco. Menos som de quebra repetido ao minerar em sequência. Goblin ao redor abaixa o volume quando o Feastmaster grita com eles. Som da Habilidade Marca carregada ficou mais baixo, e a Bota-Foguete ganhou som próprio no pulo duplo.\n\n🔧 CORREÇÃO DE BUG\nEditor de Nó parou de travar ao abrir e fechar gráfico grande, arquivo carrega em segundo plano agora. Resolvido vazamento de memória que deixava todo gráfico aberto preso até fechar o jogo, perda de conexão ao copiar e colar nó, e problema de título de grupo bagunçado. Barril explosivo ganhou aviso de que pode ser carregado. Machado virou jeito alternativo (e nada convencional) de detonar bloco explosivo. Armadilha Presa de Cobra prende por 2 segundos agora, em vez de travar pra sempre. Projétil de gancho parou de ficar perdido no mundo depois de parar de se mover.\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/9/pre-release-patch-notes-update-7#part2",
+          "arquivos": [
+            "midia/site/u7pt1/banner.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc265.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+          "arquivosTwitter": [
+            "02-1145-rc265.png"
+          ],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1703098751818715"
+        },
+        {
+          "hora": "11:50",
+          "data": "2026-09-10",
+          "id": "rc266",
+          "rede": "facebook",
+          "titulo": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO",
+          "textoMeta": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-5",
+          "arquivos": [
+            "midia/site/u63/rc234.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc266.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+          "arquivosTwitter": [
+            "03-1150-rc266.png"
+          ],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1703098515152072"
+        },
+        {
+          "hora": "11:50",
+          "data": "2026-09-10",
+          "id": "rc266",
+          "rede": "twitter",
+          "titulo": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO",
+          "textoMeta": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://hytale.com/news/2026/8/hotfixes-update-6#0-6-5",
+          "arquivos": [
+            "midia/site/u63/rc234.png"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc266.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
+          "arquivosTwitter": [
+            "03-1150-rc266.png"
+          ],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1703098515152072"
         },
         {
           "hora": "17:00",
@@ -2790,9 +3006,9 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
           "arquivosTwitter": [
-            "02-1700-rc264-1.png",
-            "02-1700-rc264-2.png",
-            "02-1700-rc264-3.png"
+            "04-1700-rc264-1.png",
+            "04-1700-rc264-2.png",
+            "04-1700-rc264-3.png"
           ],
           "tipo": "carrossel",
           "status": "agendado",
@@ -2823,9 +3039,9 @@
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-10",
           "arquivosTwitter": [
-            "02-1700-rc264-1.png",
-            "02-1700-rc264-2.png",
-            "02-1700-rc264-3.png"
+            "04-1700-rc264-1.png",
+            "04-1700-rc264-2.png",
+            "04-1700-rc264-3.png"
           ],
           "tipo": "carrossel",
           "status": "aguardando manual",
@@ -2836,7 +3052,7 @@
           "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1703028241825766"
         }
       ],
-      "total": 4
+      "total": 8
     },
     {
       "dia": "2026-09-09",
@@ -5090,13 +5306,13 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 264,
+    "coletadosTotal": 266,
     "aprovados": 33,
     "rejeitados": 33,
     "rejeitadosFiltro": 123,
     "rejeitadosMemoria": 7,
-    "escritos": 109,
-    "agendados": 77,
+    "escritos": 111,
+    "agendados": 79,
     "publicadosTotal": 1604,
     "publicadosPorRede": {
       "facebook": 560,
@@ -5107,7 +5323,7 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 2,
+    "total": 4,
     "feitos": 0,
     "data": "2026-09-10"
   },
