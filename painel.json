@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-11T02:16:30.098Z",
+  "geradoEm": "2026-09-11T02:18:31.761Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -538,6 +538,60 @@
     }
   ],
   "grade": [
+    {
+      "hora": "16:00",
+      "data": "2026-09-11",
+      "id": "rc268",
+      "rede": "facebook",
+      "titulo": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT",
+      "textoMeta": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/WoWTaleTeam/status/2097747624673640566",
+      "arquivos": [
+        "midia/twitter/buzzsaw/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc268.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-11",
+      "arquivosTwitter": [
+        "02-1600-rc268.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/2161113371127059/"
+    },
+    {
+      "hora": "12:00",
+      "data": "2026-09-11",
+      "id": "rc267",
+      "rede": "facebook",
+      "titulo": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW",
+      "textoMeta": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/GibsonHougland/status/2097127453684822112",
+      "arquivos": [
+        "midia/twitter/dunewyrm/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc267.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-11",
+      "arquivosTwitter": [
+        "01-1200-rc267.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1589757512645891/"
+    },
     {
       "hora": "17:00",
       "data": "2026-09-10",
@@ -2800,6 +2854,66 @@
     }
   ],
   "diasGrade": [
+    {
+      "dia": "2026-09-11",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-11",
+          "id": "rc267",
+          "rede": "facebook",
+          "titulo": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW",
+          "textoMeta": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/GibsonHougland/status/2097127453684822112",
+          "arquivos": [
+            "midia/twitter/dunewyrm/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc267.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-11",
+          "arquivosTwitter": [
+            "01-1200-rc267.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1589757512645891/"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-11",
+          "id": "rc268",
+          "rede": "facebook",
+          "titulo": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT",
+          "textoMeta": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/WoWTaleTeam/status/2097747624673640566",
+          "arquivos": [
+            "midia/twitter/buzzsaw/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc268.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-11",
+          "arquivosTwitter": [
+            "02-1600-rc268.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/2161113371127059/"
+        }
+      ],
+      "total": 2
+    },
     {
       "dia": "2026-09-10",
       "posts": [
