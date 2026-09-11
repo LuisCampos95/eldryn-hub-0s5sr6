@@ -7417,5 +7417,49 @@ window.ELDRYN_POSTS = [
       "twitter": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🧹 VAZAMENTO DE MEMÓRIA QUE IA DEIXANDO O JOGO PESADO AO LONGO DA SESSÃO TÁ RESOLVIDO\n\nSaiu a 0.6.5, quinta leva de correções do Update 6.\n\n🔹 Cliente e servidor paravam de liberar memória ao entrar em mundo, trocar de instância ou depois que um mundo descarregava, o que ia acumulando com o tempo\n🔹 Crash ao sair do mundo com cena de machinima carregada, corrigido\n🔹 Recurso social volta sozinho depois de falha de conexão no início, sem precisar reiniciar o jogo\n🔹 Levantar bloco parou de disparar o efeito de quebra dele, tipo explosão\n\n🔧 Notas completas no site oficial do Hytale\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc267",
+      "rodada": "2026-09-11 02:16",
+      "emoji": "🐍",
+      "titulo": "[X] Dunewyrm desafia o grupo, igual Molduga de Zelda",
+      "fonte": "https://x.com/GibsonHougland/status/2097127453684822112",
+      "fonteData": "2026-09-07",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter.",
+      "midia": {
+          "url": "https://x.com/GibsonHougland/status/2097127453684822112",
+          "nota": "Midia da fonte original, cortada pra trecho de 26s.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/dunewyrm/1.mp4"
+          ],
+          "video": "midia/twitter/dunewyrm/1.mp4"
+      },
+      "twitter": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc268",
+      "rodada": "2026-09-11 02:16",
+      "emoji": "🔥",
+      "titulo": "[X] Ferreiro forja o Buzz Saw, referência a Warcraft",
+      "fonte": "https://x.com/WoWTaleTeam/status/2097747624673640566",
+      "fonteData": "2026-09-09",
+      "confiabilidade": "Fonte original da equipe do mod.",
+      "resumo": "Varredura Twitter.",
+      "midia": {
+          "url": "https://x.com/WoWTaleTeam/status/2097747624673640566",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/buzzsaw/1.mp4"
+          ],
+          "video": "midia/twitter/buzzsaw/1.mp4"
+      },
+      "twitter": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
