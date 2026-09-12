@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-12T02:16:10.393Z",
+  "geradoEm": "2026-09-12T02:17:19.344Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -538,6 +538,63 @@
     }
   ],
   "grade": [
+    {
+      "hora": "16:00",
+      "data": "2026-09-13",
+      "id": "rc272",
+      "rede": "facebook",
+      "titulo": "⏳ PORTAL PRO FRAGMENTO DE ORBIS TEM CONTAGEM REGRESSIVA, IGUAL GREATER RIFT DE DIABLO",
+      "textoMeta": "⏳ PORTAL PRO FRAGMENTO DE ORBIS TEM CONTAGEM REGRESSIVA, IGUAL GREATER RIFT DE DIABLO\n\nO mod Fullmetal Labyrinth virou resposta ao desafio de worldgen do Simon, com torres cravejadas de espinho e frota de dirigíveis em formato de chifre sobrevoando o deserto vermelho.\n\n🔹 A região se chama \"Trork's Father Sands\" e é um Fragmento de Orbis, com prazo pra sair antes do portal fechar\n🔹 Torres erguem sobre pilares finos, cravejadas de espinho do topo até a base\n\n🎥 @lunaronin777\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "⏳ PORTAL PRO FRAGMENTO DE ORBIS TEM CONTAGEM REGRESSIVA, IGUAL GREATER RIFT DE DIABLO\n\nO mod Fullmetal Labyrinth virou resposta ao desafio de worldgen do Simon, com torres cravejadas de espinho e frota de dirigíveis em formato de chifre sobrevoando o deserto vermelho.\n\n🔹 A região se chama \"Trork's Father Sands\" e é um Fragmento de Orbis, com prazo pra sair antes do portal fechar\n🔹 Torres erguem sobre pilares finos, cravejadas de espinho do topo até a base\n\n🎥 @lunaronin777\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/lunaronin777/status/2094823165893509438",
+      "arquivos": [
+        "midia/twitter/fullmetal/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc272.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-13",
+      "arquivosTwitter": [
+        "02-1600-rc272.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1087191983697745/"
+    },
+    {
+      "hora": "12:00",
+      "data": "2026-09-13",
+      "id": "rc271",
+      "rede": "facebook",
+      "titulo": "🛸 ZEPELINS FLUTUAM SOBRE CÂNION 100% GERADO SEM PREFAB, IGUAL CENÁRIO DE O CASTELO NO CÉU",
+      "textoMeta": "🛸 ZEPELINS FLUTUAM SOBRE CÂNION 100% GERADO SEM PREFAB, IGUAL CENÁRIO DE O CASTELO NO CÉU\n\nResposta ao desafio semanal de worldgen do Simon não usou nenhuma peça pronta, terreno, formações de rocha e céu rosa inteiros gerados na hora.\n\n🔹 Frota inteira de dirigíveis sobrevoa o cânion, dando escala de cidade voadora ao cenário\n🔹 Regra do desafio da semana era direta, nada de prefab, só geração pura\n\n🎨 @Olegro_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🛸 ZEPELINS FLUTUAM SOBRE CÂNION 100% GERADO SEM PREFAB, IGUAL CENÁRIO DE O CASTELO NO CÉU\n\nResposta ao desafio semanal de worldgen do Simon não usou nenhuma peça pronta, terreno, formações de rocha e céu rosa inteiros gerados na hora.\n\n🔹 Frota inteira de dirigíveis sobrevoa o cânion, dando escala de cidade voadora ao cenário\n🔹 Regra do desafio da semana era direta, nada de prefab, só geração pura\n\n🎨 @Olegro_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/Olegro_/status/2094862877601521696",
+      "arquivos": [
+        "midia/twitter/zepelins/1.jpg",
+        "midia/twitter/zepelins/2.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc271_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc271_2.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-13",
+      "arquivosTwitter": [
+        "01-1200-rc271-1.jpg",
+        "01-1200-rc271-2.jpg"
+      ],
+      "tipo": "carrossel",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1704689084993015"
+    },
     {
       "hora": "16:00",
       "data": "2026-09-12",
@@ -2900,6 +2957,69 @@
     }
   ],
   "diasGrade": [
+    {
+      "dia": "2026-09-13",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-13",
+          "id": "rc271",
+          "rede": "facebook",
+          "titulo": "🛸 ZEPELINS FLUTUAM SOBRE CÂNION 100% GERADO SEM PREFAB, IGUAL CENÁRIO DE O CASTELO NO CÉU",
+          "textoMeta": "🛸 ZEPELINS FLUTUAM SOBRE CÂNION 100% GERADO SEM PREFAB, IGUAL CENÁRIO DE O CASTELO NO CÉU\n\nResposta ao desafio semanal de worldgen do Simon não usou nenhuma peça pronta, terreno, formações de rocha e céu rosa inteiros gerados na hora.\n\n🔹 Frota inteira de dirigíveis sobrevoa o cânion, dando escala de cidade voadora ao cenário\n🔹 Regra do desafio da semana era direta, nada de prefab, só geração pura\n\n🎨 @Olegro_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🛸 ZEPELINS FLUTUAM SOBRE CÂNION 100% GERADO SEM PREFAB, IGUAL CENÁRIO DE O CASTELO NO CÉU\n\nResposta ao desafio semanal de worldgen do Simon não usou nenhuma peça pronta, terreno, formações de rocha e céu rosa inteiros gerados na hora.\n\n🔹 Frota inteira de dirigíveis sobrevoa o cânion, dando escala de cidade voadora ao cenário\n🔹 Regra do desafio da semana era direta, nada de prefab, só geração pura\n\n🎨 @Olegro_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/Olegro_/status/2094862877601521696",
+          "arquivos": [
+            "midia/twitter/zepelins/1.jpg",
+            "midia/twitter/zepelins/2.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc271_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc271_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-13",
+          "arquivosTwitter": [
+            "01-1200-rc271-1.jpg",
+            "01-1200-rc271-2.jpg"
+          ],
+          "tipo": "carrossel",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1704689084993015"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-13",
+          "id": "rc272",
+          "rede": "facebook",
+          "titulo": "⏳ PORTAL PRO FRAGMENTO DE ORBIS TEM CONTAGEM REGRESSIVA, IGUAL GREATER RIFT DE DIABLO",
+          "textoMeta": "⏳ PORTAL PRO FRAGMENTO DE ORBIS TEM CONTAGEM REGRESSIVA, IGUAL GREATER RIFT DE DIABLO\n\nO mod Fullmetal Labyrinth virou resposta ao desafio de worldgen do Simon, com torres cravejadas de espinho e frota de dirigíveis em formato de chifre sobrevoando o deserto vermelho.\n\n🔹 A região se chama \"Trork's Father Sands\" e é um Fragmento de Orbis, com prazo pra sair antes do portal fechar\n🔹 Torres erguem sobre pilares finos, cravejadas de espinho do topo até a base\n\n🎥 @lunaronin777\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "⏳ PORTAL PRO FRAGMENTO DE ORBIS TEM CONTAGEM REGRESSIVA, IGUAL GREATER RIFT DE DIABLO\n\nO mod Fullmetal Labyrinth virou resposta ao desafio de worldgen do Simon, com torres cravejadas de espinho e frota de dirigíveis em formato de chifre sobrevoando o deserto vermelho.\n\n🔹 A região se chama \"Trork's Father Sands\" e é um Fragmento de Orbis, com prazo pra sair antes do portal fechar\n🔹 Torres erguem sobre pilares finos, cravejadas de espinho do topo até a base\n\n🎥 @lunaronin777\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/lunaronin777/status/2094823165893509438",
+          "arquivos": [
+            "midia/twitter/fullmetal/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc272.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-13",
+          "arquivosTwitter": [
+            "02-1600-rc272.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1087191983697745/"
+        }
+      ],
+      "total": 2
+    },
     {
       "dia": "2026-09-12",
       "posts": [
