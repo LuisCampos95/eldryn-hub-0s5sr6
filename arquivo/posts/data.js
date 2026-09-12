@@ -7461,5 +7461,93 @@ window.ELDRYN_POSTS = [
       "twitter": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc269",
+      "rodada": "2026-09-12 02:13",
+      "emoji": "🏛️",
+      "titulo": "[X] Templo levanta e anda, igual colosso de Shadow of the Colossus",
+      "fonte": "https://x.com/GibsonHougland/status/2094944446366548239",
+      "fonteData": "2026-09-01",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter, grade de fim de semana.",
+      "midia": {
+          "url": "https://x.com/GibsonHougland/status/2094944446366548239",
+          "nota": "Midia da fonte original, reduzida pra 1280px.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/roamingtemple/1.mp4"
+          ],
+          "video": "midia/twitter/roamingtemple/1.mp4"
+      },
+      "twitter": "🏛️ TEMPLO LEVANTA E ANDA COM BARRA DE VIDA, IGUAL COLOSSO DE SHADOW OF THE COLOSSUS\n\nO Roaming Temple nasceu de um teste de estresse, pra descobrir o tamanho máximo de criatura que a engine aguenta sem engasgar.\n\n🔹 As pernas são torres de pedra cobertas de limo, com cristal azul encravado no meio\n🔹 Cada parte do corpo tem barra de vida separada, além da barra do chefe inteiro\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🏛️ TEMPLO LEVANTA E ANDA COM BARRA DE VIDA, IGUAL COLOSSO DE SHADOW OF THE COLOSSUS\n\nO Roaming Temple nasceu de um teste de estresse, pra descobrir o tamanho máximo de criatura que a engine aguenta sem engasgar.\n\n🔹 As pernas são torres de pedra cobertas de limo, com cristal azul encravado no meio\n🔹 Cada parte do corpo tem barra de vida separada, além da barra do chefe inteiro\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🏛️ TEMPLO LEVANTA E ANDA COM BARRA DE VIDA, IGUAL COLOSSO DE SHADOW OF THE COLOSSUS\n\nO Roaming Temple nasceu de um teste de estresse, pra descobrir o tamanho máximo de criatura que a engine aguenta sem engasgar.\n\n🔹 As pernas são torres de pedra cobertas de limo, com cristal azul encravado no meio\n🔹 Cada parte do corpo tem barra de vida separada, além da barra do chefe inteiro\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc270",
+      "rodada": "2026-09-12 02:13",
+      "emoji": "🥚",
+      "titulo": "[X] Gigante nasce do ovo e obedece varinha",
+      "fonte": "https://x.com/GibsonHougland/status/2096088871880823158",
+      "fonteData": "2026-09-05",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter, grade de fim de semana.",
+      "midia": {
+          "url": "https://x.com/GibsonHougland/status/2096088871880823158",
+          "nota": "Midia da fonte original, cortada pra trecho de 45s.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/gigantes/1.mp4"
+          ],
+          "video": "midia/twitter/gigantes/1.mp4"
+      },
+      "twitter": "🥚 CASCA RACHA, GIGANTE NASCE E JÁ OBEDECE A VARINHA, IGUAL COMO TREINAR O SEU DRAGÃO\n\nMod de RPG completo já tem sistema de leveling, raça e classe prontos, e ainda deixa criar vínculo com o gigante assim que ele sai do ovo.\n\n🔹 Segurar qualquer botão do mouse manda o gigante pro lugar que você mirar, e o botão de uso faz ele saltar\n🔹 O bicho também obedece comando pra sentar ou ficar em pé sozinho\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🥚 CASCA RACHA, GIGANTE NASCE E JÁ OBEDECE A VARINHA, IGUAL COMO TREINAR O SEU DRAGÃO\n\nMod de RPG completo já tem sistema de leveling, raça e classe prontos, e ainda deixa criar vínculo com o gigante assim que ele sai do ovo.\n\n🔹 Segurar qualquer botão do mouse manda o gigante pro lugar que você mirar, e o botão de uso faz ele saltar\n🔹 O bicho também obedece comando pra sentar ou ficar em pé sozinho\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🥚 CASCA RACHA, GIGANTE NASCE E JÁ OBEDECE A VARINHA, IGUAL COMO TREINAR O SEU DRAGÃO\n\nMod de RPG completo já tem sistema de leveling, raça e classe prontos, e ainda deixa criar vínculo com o gigante assim que ele sai do ovo.\n\n🔹 Segurar qualquer botão do mouse manda o gigante pro lugar que você mirar, e o botão de uso faz ele saltar\n🔹 O bicho também obedece comando pra sentar ou ficar em pé sozinho\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc271",
+      "rodada": "2026-09-12 02:13",
+      "emoji": "🛸",
+      "titulo": "[X] Zepelins sobre cânion gerado sem prefab",
+      "fonte": "https://x.com/Olegro_/status/2094862877601521696",
+      "fonteData": "2026-09-01",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter, grade de fim de semana.",
+      "midia": {
+          "url": "https://x.com/Olegro_/status/2094862877601521696",
+          "nota": "Midia da fonte original.",
+          "tipo": "imagem",
+          "arquivos": [
+              "midia/twitter/zepelins/1.jpg",
+              "midia/twitter/zepelins/2.jpg"
+          ]
+      },
+      "twitter": "🛸 ZEPELINS FLUTUAM SOBRE CÂNION 100% GERADO SEM PREFAB, IGUAL CENÁRIO DE O CASTELO NO CÉU\n\nResposta ao desafio semanal de worldgen do Simon não usou nenhuma peça pronta, terreno, formações de rocha e céu rosa inteiros gerados na hora.\n\n🔹 Frota inteira de dirigíveis sobrevoa o cânion, dando escala de cidade voadora ao cenário\n🔹 Regra do desafio da semana era direta, nada de prefab, só geração pura\n\n🎨 @Olegro_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🛸 ZEPELINS FLUTUAM SOBRE CÂNION 100% GERADO SEM PREFAB, IGUAL CENÁRIO DE O CASTELO NO CÉU\n\nResposta ao desafio semanal de worldgen do Simon não usou nenhuma peça pronta, terreno, formações de rocha e céu rosa inteiros gerados na hora.\n\n🔹 Frota inteira de dirigíveis sobrevoa o cânion, dando escala de cidade voadora ao cenário\n🔹 Regra do desafio da semana era direta, nada de prefab, só geração pura\n\n🎨 @Olegro_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🛸 ZEPELINS FLUTUAM SOBRE CÂNION 100% GERADO SEM PREFAB, IGUAL CENÁRIO DE O CASTELO NO CÉU\n\nResposta ao desafio semanal de worldgen do Simon não usou nenhuma peça pronta, terreno, formações de rocha e céu rosa inteiros gerados na hora.\n\n🔹 Frota inteira de dirigíveis sobrevoa o cânion, dando escala de cidade voadora ao cenário\n🔹 Regra do desafio da semana era direta, nada de prefab, só geração pura\n\n🎨 @Olegro_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc272",
+      "rodada": "2026-09-12 02:13",
+      "emoji": "⏳",
+      "titulo": "[X] Portal com contagem regressiva no Fullmetal Labyrinth",
+      "fonte": "https://x.com/lunaronin777/status/2094823165893509438",
+      "fonteData": "2026-09-01",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter, grade de fim de semana.",
+      "midia": {
+          "url": "https://x.com/lunaronin777/status/2094823165893509438",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/fullmetal/1.mp4"
+          ],
+          "video": "midia/twitter/fullmetal/1.mp4"
+      },
+      "twitter": "⏳ PORTAL PRO FRAGMENTO DE ORBIS TEM CONTAGEM REGRESSIVA, IGUAL GREATER RIFT DE DIABLO\n\nO mod Fullmetal Labyrinth virou resposta ao desafio de worldgen do Simon, com torres cravejadas de espinho e frota de dirigíveis em formato de chifre sobrevoando o deserto vermelho.\n\n🔹 A região se chama \"Trork's Father Sands\" e é um Fragmento de Orbis, com prazo pra sair antes do portal fechar\n🔹 Torres erguem sobre pilares finos, cravejadas de espinho do topo até a base\n\n🎥 @lunaronin777\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "⏳ PORTAL PRO FRAGMENTO DE ORBIS TEM CONTAGEM REGRESSIVA, IGUAL GREATER RIFT DE DIABLO\n\nO mod Fullmetal Labyrinth virou resposta ao desafio de worldgen do Simon, com torres cravejadas de espinho e frota de dirigíveis em formato de chifre sobrevoando o deserto vermelho.\n\n🔹 A região se chama \"Trork's Father Sands\" e é um Fragmento de Orbis, com prazo pra sair antes do portal fechar\n🔹 Torres erguem sobre pilares finos, cravejadas de espinho do topo até a base\n\n🎥 @lunaronin777\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "⏳ PORTAL PRO FRAGMENTO DE ORBIS TEM CONTAGEM REGRESSIVA, IGUAL GREATER RIFT DE DIABLO\n\nO mod Fullmetal Labyrinth virou resposta ao desafio de worldgen do Simon, com torres cravejadas de espinho e frota de dirigíveis em formato de chifre sobrevoando o deserto vermelho.\n\n🔹 A região se chama \"Trork's Father Sands\" e é um Fragmento de Orbis, com prazo pra sair antes do portal fechar\n🔹 Torres erguem sobre pilares finos, cravejadas de espinho do topo até a base\n\n🎥 @lunaronin777\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];

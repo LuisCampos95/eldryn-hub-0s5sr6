@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-11T02:18:31.761Z",
+  "geradoEm": "2026-09-12T02:13:35.146Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -547,9 +547,7 @@
       "textoMeta": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/WoWTaleTeam/status/2097747624673640566",
-      "arquivos": [
-        "midia/twitter/buzzsaw/1.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc268.mp4"
       ],
@@ -558,7 +556,7 @@
         "02-1600-rc268.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -574,9 +572,7 @@
       "textoMeta": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/GibsonHougland/status/2097127453684822112",
-      "arquivos": [
-        "midia/twitter/dunewyrm/1.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc267.mp4"
       ],
@@ -585,7 +581,7 @@
         "01-1200-rc267.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -2866,9 +2862,7 @@
           "textoMeta": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🐍 DUNEWYRM EMERGE DA AREIA E DESAFIA O GRUPO INTEIRO, IGUAL MOLDUGA DE ZELDA BOTW\n\nO modder já tem chefe funcionando dentro de templo no deserto, com barra de vida própria e luta em grupo.\n\n🔹 A criatura sai de baixo da areia pra atacar, e o combate desce até uma câmara subterrânea escura\n🔹 Jogador enfrenta o chefe empunhando duas lâminas douradas ao mesmo tempo\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/GibsonHougland/status/2097127453684822112",
-          "arquivos": [
-            "midia/twitter/dunewyrm/1.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc267.mp4"
           ],
@@ -2877,7 +2871,7 @@
             "01-1200-rc267.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -2893,9 +2887,7 @@
           "textoMeta": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔥 FERREIRO FORJA O BUZZ SAW DOS RESTOS DO SHREDDER DO SNEED, IGUAL LENDA DE WARCRAFT\n\nCena de forja do mod que recria o mundo de Warcraft dentro do Hytale, ainda em produção.\n\n🔹 O Buzz Saw nasce da sucata da máquina Shredder do Sneed, item clássico de World of Warcraft\n🔹 Dois personagens malham o metal em brasa até a peça tomar forma\n\n🎨 Modelo e textura de Danoru, via @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/WoWTaleTeam/status/2097747624673640566",
-          "arquivos": [
-            "midia/twitter/buzzsaw/1.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc268.mp4"
           ],
@@ -2904,7 +2896,7 @@
             "02-1600-rc268.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -5393,9 +5385,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 4,
+    "total": 2,
     "feitos": 0,
-    "data": "2026-09-10"
+    "data": "2026-09-11"
   },
   "custos": {
     "infraMensal": 0,
@@ -5446,11 +5438,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6072,
-      "totalPosts": 309,
+      "seguidores": 6075,
+      "totalPosts": 311,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 71,
+      "mediaCurtidas": 72,
       "amostra": 100
     },
     "twitter": {
@@ -5471,7 +5463,7 @@
     "topPosts": [
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 750,
+        "curtidas": 751,
         "comentarios": 4,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
@@ -5521,8 +5513,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-07-30T15:06:02+0000",
-      "ate": "2026-09-11T02:03:12+0000"
+      "de": "2026-08-01T01:32:28+0000",
+      "ate": "2026-09-11T21:19:01+0000"
     },
     "serie": [
       {
