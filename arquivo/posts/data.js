@@ -7549,5 +7549,49 @@ window.ELDRYN_POSTS = [
       "twitter": "⏳ VOCÊ TEM HORA PRA SAIR DESSA DIMENSÃO\n\nTem contagem regressiva rodando na tela enquanto você explora o Fragmento de Orbis, igual Greater Rift de Diablo. O mod chama Fullmetal Labyrinth e a região é a Trork's Father Sands.\n\n🔹 Torre cravejada de espinho sobe em pilar fino, com dirigível de chifre sobrevoando o deserto vermelho\n🔹 O HUD mostra quanto tempo falta até o portal fechar\n\n🎥 @lunaronin777\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "⏳ VOCÊ TEM HORA PRA SAIR DESSA DIMENSÃO\n\nTem contagem regressiva rodando na tela enquanto você explora o Fragmento de Orbis, igual Greater Rift de Diablo. O mod chama Fullmetal Labyrinth e a região é a Trork's Father Sands.\n\n🔹 Torre cravejada de espinho sobe em pilar fino, com dirigível de chifre sobrevoando o deserto vermelho\n🔹 O HUD mostra quanto tempo falta até o portal fechar\n\n🎥 @lunaronin777\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "⏳ VOCÊ TEM HORA PRA SAIR DESSA DIMENSÃO\n\nTem contagem regressiva rodando na tela enquanto você explora o Fragmento de Orbis, igual Greater Rift de Diablo. O mod chama Fullmetal Labyrinth e a região é a Trork's Father Sands.\n\n🔹 Torre cravejada de espinho sobe em pilar fino, com dirigível de chifre sobrevoando o deserto vermelho\n🔹 O HUD mostra quanto tempo falta até o portal fechar\n\n🎥 @lunaronin777\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc273",
+      "rodada": "2026-09-12 03:08",
+      "emoji": "🪤",
+      "titulo": "[X] Agora dá pra escolher onde o mob nasce",
+      "fonte": "https://x.com/EdilanTV/status/2098486706131402752",
+      "fonteData": "2026-09-11",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter, foco em coisa nova e teste dentro do jogo.",
+      "midia": {
+          "url": "https://x.com/EdilanTV/status/2098486706131402752",
+          "nota": "Midia da fonte original.",
+          "tipo": "imagem",
+          "arquivos": [
+              "midia/twitter/farmmob/1.jpg",
+              "midia/twitter/farmmob/2.jpg"
+          ]
+      },
+      "twitter": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc274",
+      "rodada": "2026-09-12 03:08",
+      "emoji": "🎒",
+      "titulo": "[X] Acabou o item entrando no inventário sozinho",
+      "fonte": "https://x.com/Starky_TV/status/2098475539644162297",
+      "fonteData": "2026-09-11",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter, foco em coisa nova e teste dentro do jogo.",
+      "midia": {
+          "url": "https://x.com/Starky_TV/status/2098475539644162297",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/pickableloot/1.mp4"
+          ],
+          "video": "midia/twitter/pickableloot/1.mp4"
+      },
+      "twitter": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
