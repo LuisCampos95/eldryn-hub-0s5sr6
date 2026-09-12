@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-12T02:13:35.146Z",
+  "geradoEm": "2026-09-12T02:14:46.172Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -538,6 +538,60 @@
     }
   ],
   "grade": [
+    {
+      "hora": "16:00",
+      "data": "2026-09-12",
+      "id": "rc270",
+      "rede": "facebook",
+      "titulo": "🥚 CASCA RACHA, GIGANTE NASCE E JÁ OBEDECE A VARINHA, IGUAL COMO TREINAR O SEU DRAGÃO",
+      "textoMeta": "🥚 CASCA RACHA, GIGANTE NASCE E JÁ OBEDECE A VARINHA, IGUAL COMO TREINAR O SEU DRAGÃO\n\nMod de RPG completo já tem sistema de leveling, raça e classe prontos, e ainda deixa criar vínculo com o gigante assim que ele sai do ovo.\n\n🔹 Segurar qualquer botão do mouse manda o gigante pro lugar que você mirar, e o botão de uso faz ele saltar\n🔹 O bicho também obedece comando pra sentar ou ficar em pé sozinho\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🥚 CASCA RACHA, GIGANTE NASCE E JÁ OBEDECE A VARINHA, IGUAL COMO TREINAR O SEU DRAGÃO\n\nMod de RPG completo já tem sistema de leveling, raça e classe prontos, e ainda deixa criar vínculo com o gigante assim que ele sai do ovo.\n\n🔹 Segurar qualquer botão do mouse manda o gigante pro lugar que você mirar, e o botão de uso faz ele saltar\n🔹 O bicho também obedece comando pra sentar ou ficar em pé sozinho\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/GibsonHougland/status/2096088871880823158",
+      "arquivos": [
+        "midia/twitter/gigantes/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc270.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-12",
+      "arquivosTwitter": [
+        "02-1600-rc270.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/2065804824041893/"
+    },
+    {
+      "hora": "12:00",
+      "data": "2026-09-12",
+      "id": "rc269",
+      "rede": "facebook",
+      "titulo": "🏛️ TEMPLO LEVANTA E ANDA COM BARRA DE VIDA, IGUAL COLOSSO DE SHADOW OF THE COLOSSUS",
+      "textoMeta": "🏛️ TEMPLO LEVANTA E ANDA COM BARRA DE VIDA, IGUAL COLOSSO DE SHADOW OF THE COLOSSUS\n\nO Roaming Temple nasceu de um teste de estresse, pra descobrir o tamanho máximo de criatura que a engine aguenta sem engasgar.\n\n🔹 As pernas são torres de pedra cobertas de limo, com cristal azul encravado no meio\n🔹 Cada parte do corpo tem barra de vida separada, além da barra do chefe inteiro\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🏛️ TEMPLO LEVANTA E ANDA COM BARRA DE VIDA, IGUAL COLOSSO DE SHADOW OF THE COLOSSUS\n\nO Roaming Temple nasceu de um teste de estresse, pra descobrir o tamanho máximo de criatura que a engine aguenta sem engasgar.\n\n🔹 As pernas são torres de pedra cobertas de limo, com cristal azul encravado no meio\n🔹 Cada parte do corpo tem barra de vida separada, além da barra do chefe inteiro\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/GibsonHougland/status/2094944446366548239",
+      "arquivos": [
+        "midia/twitter/roamingtemple/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc269.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-12",
+      "arquivosTwitter": [
+        "01-1200-rc269.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/2306835600120128/"
+    },
     {
       "hora": "16:00",
       "data": "2026-09-11",
@@ -2850,6 +2904,66 @@
     }
   ],
   "diasGrade": [
+    {
+      "dia": "2026-09-12",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-12",
+          "id": "rc269",
+          "rede": "facebook",
+          "titulo": "🏛️ TEMPLO LEVANTA E ANDA COM BARRA DE VIDA, IGUAL COLOSSO DE SHADOW OF THE COLOSSUS",
+          "textoMeta": "🏛️ TEMPLO LEVANTA E ANDA COM BARRA DE VIDA, IGUAL COLOSSO DE SHADOW OF THE COLOSSUS\n\nO Roaming Temple nasceu de um teste de estresse, pra descobrir o tamanho máximo de criatura que a engine aguenta sem engasgar.\n\n🔹 As pernas são torres de pedra cobertas de limo, com cristal azul encravado no meio\n🔹 Cada parte do corpo tem barra de vida separada, além da barra do chefe inteiro\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🏛️ TEMPLO LEVANTA E ANDA COM BARRA DE VIDA, IGUAL COLOSSO DE SHADOW OF THE COLOSSUS\n\nO Roaming Temple nasceu de um teste de estresse, pra descobrir o tamanho máximo de criatura que a engine aguenta sem engasgar.\n\n🔹 As pernas são torres de pedra cobertas de limo, com cristal azul encravado no meio\n🔹 Cada parte do corpo tem barra de vida separada, além da barra do chefe inteiro\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/GibsonHougland/status/2094944446366548239",
+          "arquivos": [
+            "midia/twitter/roamingtemple/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc269.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-12",
+          "arquivosTwitter": [
+            "01-1200-rc269.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/2306835600120128/"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-12",
+          "id": "rc270",
+          "rede": "facebook",
+          "titulo": "🥚 CASCA RACHA, GIGANTE NASCE E JÁ OBEDECE A VARINHA, IGUAL COMO TREINAR O SEU DRAGÃO",
+          "textoMeta": "🥚 CASCA RACHA, GIGANTE NASCE E JÁ OBEDECE A VARINHA, IGUAL COMO TREINAR O SEU DRAGÃO\n\nMod de RPG completo já tem sistema de leveling, raça e classe prontos, e ainda deixa criar vínculo com o gigante assim que ele sai do ovo.\n\n🔹 Segurar qualquer botão do mouse manda o gigante pro lugar que você mirar, e o botão de uso faz ele saltar\n🔹 O bicho também obedece comando pra sentar ou ficar em pé sozinho\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🥚 CASCA RACHA, GIGANTE NASCE E JÁ OBEDECE A VARINHA, IGUAL COMO TREINAR O SEU DRAGÃO\n\nMod de RPG completo já tem sistema de leveling, raça e classe prontos, e ainda deixa criar vínculo com o gigante assim que ele sai do ovo.\n\n🔹 Segurar qualquer botão do mouse manda o gigante pro lugar que você mirar, e o botão de uso faz ele saltar\n🔹 O bicho também obedece comando pra sentar ou ficar em pé sozinho\n\n🎥 @GibsonHougland\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/GibsonHougland/status/2096088871880823158",
+          "arquivos": [
+            "midia/twitter/gigantes/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc270.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-12",
+          "arquivosTwitter": [
+            "02-1600-rc270.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/2065804824041893/"
+        }
+      ],
+      "total": 2
+    },
     {
       "dia": "2026-09-11",
       "posts": [
