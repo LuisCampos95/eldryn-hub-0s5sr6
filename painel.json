@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-12T03:08:59.519Z",
+  "geradoEm": "2026-09-12T03:10:04.969Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -538,6 +538,63 @@
     }
   ],
   "grade": [
+    {
+      "hora": "16:00",
+      "data": "2026-09-14",
+      "id": "rc274",
+      "rede": "facebook",
+      "titulo": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO",
+      "textoMeta": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/Starky_TV/status/2098475539644162297",
+      "arquivos": [
+        "midia/twitter/pickableloot/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc274.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-14",
+      "arquivosTwitter": [
+        "02-1600-rc274.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1400495538852002/"
+    },
+    {
+      "hora": "12:00",
+      "data": "2026-09-14",
+      "id": "rc273",
+      "rede": "facebook",
+      "titulo": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE",
+      "textoMeta": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/EdilanTV/status/2098486706131402752",
+      "arquivos": [
+        "midia/twitter/farmmob/1.jpg",
+        "midia/twitter/farmmob/2.jpg"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc273_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc273_2.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-14",
+      "arquivosTwitter": [
+        "01-1200-rc273-1.jpg",
+        "01-1200-rc273-2.jpg"
+      ],
+      "tipo": "carrossel",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1704727251655865"
+    },
     {
       "hora": "16:00",
       "data": "2026-09-13",
@@ -2952,6 +3009,69 @@
     }
   ],
   "diasGrade": [
+    {
+      "dia": "2026-09-14",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-14",
+          "id": "rc273",
+          "rede": "facebook",
+          "titulo": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE",
+          "textoMeta": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/EdilanTV/status/2098486706131402752",
+          "arquivos": [
+            "midia/twitter/farmmob/1.jpg",
+            "midia/twitter/farmmob/2.jpg"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc273_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc273_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-14",
+          "arquivosTwitter": [
+            "01-1200-rc273-1.jpg",
+            "01-1200-rc273-2.jpg"
+          ],
+          "tipo": "carrossel",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1704727251655865"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-14",
+          "id": "rc274",
+          "rede": "facebook",
+          "titulo": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO",
+          "textoMeta": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/Starky_TV/status/2098475539644162297",
+          "arquivos": [
+            "midia/twitter/pickableloot/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc274.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-14",
+          "arquivosTwitter": [
+            "02-1600-rc274.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1400495538852002/"
+        }
+      ],
+      "total": 2
+    },
     {
       "dia": "2026-09-13",
       "posts": [
