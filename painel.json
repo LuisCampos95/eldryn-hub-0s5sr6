@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-13T05:13:22.078Z",
+  "geradoEm": "2026-09-13T05:14:21.270Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -538,6 +538,60 @@
     }
   ],
   "grade": [
+    {
+      "hora": "16:00",
+      "data": "2026-09-15",
+      "id": "rc276",
+      "rede": "facebook",
+      "titulo": "🚢 O NAVIO NUNCA VIU O MAR",
+      "textoMeta": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/WoWTaleTeam/status/2098850868351099129",
+      "arquivos": [
+        "midia/twitter/juggernaut/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc276.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-15",
+      "arquivosTwitter": [
+        "02-1600-rc276.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/28227576500184048/"
+    },
+    {
+      "hora": "12:00",
+      "data": "2026-09-15",
+      "id": "rc275",
+      "rede": "facebook",
+      "titulo": "🐛 DESCOBRIU POR QUE A PÁ FALHA TANTO",
+      "textoMeta": "🐛 DESCOBRIU POR QUE A PÁ FALHA TANTO\n\nEle ligou a visualização de hitbox pra entender a inconsistência da pá e achou a raiz do problema, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar.\n\n🔹 O painel troca de cor conforme o acerto, e dá pra ver ele sair de cima do bloco\n🔹 Do jeito que está, a pá quase não serve, e o pedido de revisão foi direto pra equipe\n\n🎥 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🐛 DESCOBRIU POR QUE A PÁ FALHA TANTO\n\nEle ligou a visualização de hitbox pra entender a inconsistência da pá e achou a raiz do problema, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar.\n\n🔹 O painel troca de cor conforme o acerto, e dá pra ver ele sair de cima do bloco\n🔹 Do jeito que está, a pá quase não serve, e o pedido de revisão foi direto pra equipe\n\n🎥 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/EdilanTV/status/2098684155471040574",
+      "arquivos": [
+        "midia/twitter/hitboxpa/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc275.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-15",
+      "arquivosTwitter": [
+        "01-1200-rc275.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1661815515367042/"
+    },
     {
       "hora": "16:00",
       "data": "2026-09-14",
@@ -3004,6 +3058,66 @@
     }
   ],
   "diasGrade": [
+    {
+      "dia": "2026-09-15",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-15",
+          "id": "rc275",
+          "rede": "facebook",
+          "titulo": "🐛 DESCOBRIU POR QUE A PÁ FALHA TANTO",
+          "textoMeta": "🐛 DESCOBRIU POR QUE A PÁ FALHA TANTO\n\nEle ligou a visualização de hitbox pra entender a inconsistência da pá e achou a raiz do problema, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar.\n\n🔹 O painel troca de cor conforme o acerto, e dá pra ver ele sair de cima do bloco\n🔹 Do jeito que está, a pá quase não serve, e o pedido de revisão foi direto pra equipe\n\n🎥 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🐛 DESCOBRIU POR QUE A PÁ FALHA TANTO\n\nEle ligou a visualização de hitbox pra entender a inconsistência da pá e achou a raiz do problema, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar.\n\n🔹 O painel troca de cor conforme o acerto, e dá pra ver ele sair de cima do bloco\n🔹 Do jeito que está, a pá quase não serve, e o pedido de revisão foi direto pra equipe\n\n🎥 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/EdilanTV/status/2098684155471040574",
+          "arquivos": [
+            "midia/twitter/hitboxpa/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc275.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-15",
+          "arquivosTwitter": [
+            "01-1200-rc275.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1661815515367042/"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-15",
+          "id": "rc276",
+          "rede": "facebook",
+          "titulo": "🚢 O NAVIO NUNCA VIU O MAR",
+          "textoMeta": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/WoWTaleTeam/status/2098850868351099129",
+          "arquivos": [
+            "midia/twitter/juggernaut/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc276.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-15",
+          "arquivosTwitter": [
+            "02-1600-rc276.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/28227576500184048/"
+        }
+      ],
+      "total": 2
+    },
     {
       "dia": "2026-09-14",
       "posts": [
