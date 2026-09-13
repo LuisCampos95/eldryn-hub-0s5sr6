@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-12T03:10:04.969Z",
+  "geradoEm": "2026-09-13T05:13:22.078Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -547,9 +547,7 @@
       "textoMeta": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/Starky_TV/status/2098475539644162297",
-      "arquivos": [
-        "midia/twitter/pickableloot/1.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc274.mp4"
       ],
@@ -574,10 +572,7 @@
       "textoMeta": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/EdilanTV/status/2098486706131402752",
-      "arquivos": [
-        "midia/twitter/farmmob/1.jpg",
-        "midia/twitter/farmmob/2.jpg"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc273_1.jpg",
         "https://luiscampos95.github.io/eldryn-midia/midia/rc273_2.jpg"
@@ -665,7 +660,7 @@
         "02-1600-rc270.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -690,7 +685,7 @@
         "01-1200-rc269.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -3021,10 +3016,7 @@
           "textoMeta": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🪤 AGORA DÁ PRA ESCOLHER ONDE O MOB NASCE\n\nMonstro de caverna profunda da Zona 1 só nasce em bloco vulcânico. Trocando todo bloco vulcânico da caverna, o lugar inteiro para de gerar bicho, e você decide onde eles voltam a aparecer.\n\n🔹 Os monstros vão parar em uma passagem estreita cheia de espinho, que mata sozinho\n🔹 O projeto é modular, dá pra repetir quantas vezes quiser pra aumentar a produção\n\n🎨 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/EdilanTV/status/2098486706131402752",
-          "arquivos": [
-            "midia/twitter/farmmob/1.jpg",
-            "midia/twitter/farmmob/2.jpg"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc273_1.jpg",
             "https://luiscampos95.github.io/eldryn-midia/midia/rc273_2.jpg"
@@ -3051,9 +3043,7 @@
           "textoMeta": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/Starky_TV/status/2098475539644162297",
-          "arquivos": [
-            "midia/twitter/pickableloot/1.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc274.mp4"
           ],
@@ -3151,7 +3141,7 @@
             "01-1200-rc269.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -3176,7 +3166,7 @@
             "02-1600-rc270.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -5723,7 +5713,7 @@
   "twitterHoje": {
     "total": 2,
     "feitos": 0,
-    "data": "2026-09-12"
+    "data": "2026-09-13"
   },
   "custos": {
     "infraMensal": 0,
@@ -5766,7 +5756,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5925,
+      "seguidores": 5924,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -5774,11 +5764,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6075,
-      "totalPosts": 311,
+      "seguidores": 6076,
+      "totalPosts": 313,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 72,
+      "mediaCurtidas": 74,
       "amostra": 100
     },
     "twitter": {
@@ -5838,19 +5828,19 @@
         "link": "https://www.instagram.com/reel/DcJJEIhjo9M/"
       },
       {
-        "titulo": "🐈 TEM MAIS DE MIL COMBINAÇÕES DE GATO POSSÍVEIS NESSE MOD, E DÁ PRA C",
-        "curtidas": 211,
-        "comentarios": 3,
-        "tipo": "carousel_album",
-        "quando": "2026-08-31T18:09:29+0000",
-        "link": "https://www.instagram.com/p/Dctsmowo4BJ/"
+        "titulo": "🏛️ O TEMPLO LEVANTOU E SAIU ANDANDO",
+        "curtidas": 217,
+        "comentarios": 5,
+        "tipo": "video",
+        "quando": "2026-09-12T17:08:03+0000",
+        "link": "https://www.instagram.com/reel/DdMfFKGDtzK/"
       }
     ],
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-08-01T01:32:28+0000",
-      "ate": "2026-09-11T21:19:01+0000"
+      "de": "2026-08-08T13:56:30+0000",
+      "ate": "2026-09-12T19:20:23+0000"
     },
     "serie": [
       {

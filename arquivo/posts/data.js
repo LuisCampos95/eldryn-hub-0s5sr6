@@ -7593,5 +7593,49 @@ window.ELDRYN_POSTS = [
       "twitter": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🎒 ACABOU O ITEM ENTRANDO NO INVENTÁRIO SOZINHO\n\nMod novo já está no navegador de mods do jogo. Item largado fica parado no chão até você mirar e pegar na mão, do jeito que RPG faz.\n\n🔹 Dá pra escolher item por item o que vai levar, em vez de encostar e recolher tudo de uma vez\n🔹 Planta madura também é colhida na mão, uma por uma\n\n🎥 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc275",
+      "rodada": "2026-09-13 05:13",
+      "emoji": "🐛",
+      "titulo": "[X] Descobriu por que a pá falha tanto",
+      "fonte": "https://x.com/EdilanTV/status/2098684155471040574",
+      "fonteData": "2026-09-12",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter, foco em teste dentro do jogo e coisa nova.",
+      "midia": {
+          "url": "https://x.com/EdilanTV/status/2098684155471040574",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/hitboxpa/1.mp4"
+          ],
+          "video": "midia/twitter/hitboxpa/1.mp4"
+      },
+      "twitter": "🐛 DESCOBRIU POR QUE A PÁ FALHA TANTO\n\nEle ligou a visualização de hitbox pra entender a inconsistência da pá e achou a raiz do problema, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar.\n\n🔹 O painel troca de cor conforme o acerto, e dá pra ver ele sair de cima do bloco\n🔹 Do jeito que está, a pá quase não serve, e o pedido de revisão foi direto pra equipe\n\n🎥 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🐛 DESCOBRIU POR QUE A PÁ FALHA TANTO\n\nEle ligou a visualização de hitbox pra entender a inconsistência da pá e achou a raiz do problema, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar.\n\n🔹 O painel troca de cor conforme o acerto, e dá pra ver ele sair de cima do bloco\n🔹 Do jeito que está, a pá quase não serve, e o pedido de revisão foi direto pra equipe\n\n🎥 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🐛 DESCOBRIU POR QUE A PÁ FALHA TANTO\n\nEle ligou a visualização de hitbox pra entender a inconsistência da pá e achou a raiz do problema, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar.\n\n🔹 O painel troca de cor conforme o acerto, e dá pra ver ele sair de cima do bloco\n🔹 Do jeito que está, a pá quase não serve, e o pedido de revisão foi direto pra equipe\n\n🎥 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc276",
+      "rodada": "2026-09-13 05:13",
+      "emoji": "🚢",
+      "titulo": "[X] O navio nunca viu o mar",
+      "fonte": "https://x.com/WoWTaleTeam/status/2098850868351099129",
+      "fonteData": "2026-09-12",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura Twitter, foco em teste dentro do jogo e coisa nova.",
+      "midia": {
+          "url": "https://x.com/WoWTaleTeam/status/2098850868351099129",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/juggernaut/1.mp4"
+          ],
+          "video": "midia/twitter/juggernaut/1.mp4"
+      },
+      "twitter": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
