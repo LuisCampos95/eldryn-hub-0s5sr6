@@ -7637,5 +7637,49 @@ window.ELDRYN_POSTS = [
       "twitter": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc277",
+      "rodada": "2026-09-14 18:39",
+      "emoji": "📦",
+      "titulo": "[MOD] Agora a caixa cai, rola e derruba o resto",
+      "fonte": "https://www.curseforge.com/hytale/mods/nomad-physics",
+      "fonteData": "2026-09-14",
+      "confiabilidade": "Pagina oficial do mod no CurseForge, criado ha 11 horas, 7 downloads.",
+      "resumo": "Varredura CurseForge por data de criacao, mod desconhecido e bom.",
+      "midia": {
+          "url": "https://www.curseforge.com/hytale/mods/nomad-physics",
+          "nota": "Galeria oficial do mod.",
+          "tipo": "imagem",
+          "arquivos": [
+              "midia/curseforge/nomadfisica/1.png",
+              "midia/curseforge/nomadfisica/2.png"
+          ]
+      },
+      "twitter": "📦 AGORA A CAIXA CAI, ROLA E DERRUBA O RESTO\n\nMod novo liga física de corpo rígido de verdade nos objetos, com a simulação rodando no servidor. Vem com physgun e gravity gun, do mesmo jeito que Garry's Mod faz.\n\n🔹 A physgun segura o objeto no ar, congela no lugar e gira no eixo que você quiser\n🔹 Ninguém precisa instalar nada no cliente, só o servidor, e outro mod pode usar a mesma física por API\n\n🎨 NomadLabs, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "📦 AGORA A CAIXA CAI, ROLA E DERRUBA O RESTO\n\nMod novo liga física de corpo rígido de verdade nos objetos, com a simulação rodando no servidor. Vem com physgun e gravity gun, do mesmo jeito que Garry's Mod faz.\n\n🔹 A physgun segura o objeto no ar, congela no lugar e gira no eixo que você quiser\n🔹 Ninguém precisa instalar nada no cliente, só o servidor, e outro mod pode usar a mesma física por API\n\n🎨 NomadLabs, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "📦 AGORA A CAIXA CAI, ROLA E DERRUBA O RESTO\n\nMod novo liga física de corpo rígido de verdade nos objetos, com a simulação rodando no servidor. Vem com physgun e gravity gun, do mesmo jeito que Garry's Mod faz.\n\n🔹 A physgun segura o objeto no ar, congela no lugar e gira no eixo que você quiser\n🔹 Ninguém precisa instalar nada no cliente, só o servidor, e outro mod pode usar a mesma física por API\n\n🎨 NomadLabs, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc278",
+      "rodada": "2026-09-14 18:39",
+      "emoji": "🪝",
+      "titulo": "[MOD] Ele fez o gancho antes do jogo lançar",
+      "fonte": "https://www.curseforge.com/hytale/mods/super-grappling-hook",
+      "fonteData": "2026-09-09",
+      "confiabilidade": "Pagina oficial do mod no CurseForge, atualizado ha 5 dias, 117 downloads.",
+      "resumo": "Varredura CurseForge por data de criacao, mod desconhecido e bom.",
+      "midia": {
+          "url": "https://www.curseforge.com/hytale/mods/super-grappling-hook",
+          "nota": "Galeria oficial do mod.",
+          "tipo": "imagem",
+          "arquivos": [
+              "midia/curseforge/gancho/1.png",
+              "midia/curseforge/gancho/2.png"
+          ]
+      },
+      "twitter": "🪝 ELE FEZ O GANCHO ANTES DO JOGO LANÇAR\n\nO Hookshot é item da 0.7.0, que ainda está em pré-lançamento. Esse mod já entrega o gancho funcionando na 0.6, e o autor ainda garante que ficou melhor que o original.\n\n🔹 Joga o gancho, prende no alvo e te puxa na hora pra lugar alto ou distante\n🔹 Dá pra fabricar na Bigorna do Ferreiro com 2 barras de ferro e 3 fibras de planta\n\n🎨 NALOlevrai, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🪝 ELE FEZ O GANCHO ANTES DO JOGO LANÇAR\n\nO Hookshot é item da 0.7.0, que ainda está em pré-lançamento. Esse mod já entrega o gancho funcionando na 0.6, e o autor ainda garante que ficou melhor que o original.\n\n🔹 Joga o gancho, prende no alvo e te puxa na hora pra lugar alto ou distante\n🔹 Dá pra fabricar na Bigorna do Ferreiro com 2 barras de ferro e 3 fibras de planta\n\n🎨 NALOlevrai, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🪝 ELE FEZ O GANCHO ANTES DO JOGO LANÇAR\n\nO Hookshot é item da 0.7.0, que ainda está em pré-lançamento. Esse mod já entrega o gancho funcionando na 0.6, e o autor ainda garante que ficou melhor que o original.\n\n🔹 Joga o gancho, prende no alvo e te puxa na hora pra lugar alto ou distante\n🔹 Dá pra fabricar na Bigorna do Ferreiro com 2 barras de ferro e 3 fibras de planta\n\n🎨 NALOlevrai, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
