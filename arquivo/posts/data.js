@@ -7681,5 +7681,27 @@ window.ELDRYN_POSTS = [
       "twitter": "🪝 ELE FEZ O GANCHO ANTES DO JOGO LANÇAR\n\nO Hookshot é item da 0.7.0, que ainda está em pré-lançamento. Esse mod já entrega o gancho funcionando na 0.6, e o autor ainda garante que ficou melhor que o original.\n\n🔹 Joga o gancho, prende no alvo e te puxa na hora pra lugar alto ou distante\n🔹 Dá pra fabricar na Bigorna do Ferreiro com 2 barras de ferro e 3 fibras de planta\n\n🎨 NALOlevrai, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🪝 ELE FEZ O GANCHO ANTES DO JOGO LANÇAR\n\nO Hookshot é item da 0.7.0, que ainda está em pré-lançamento. Esse mod já entrega o gancho funcionando na 0.6, e o autor ainda garante que ficou melhor que o original.\n\n🔹 Joga o gancho, prende no alvo e te puxa na hora pra lugar alto ou distante\n🔹 Dá pra fabricar na Bigorna do Ferreiro com 2 barras de ferro e 3 fibras de planta\n\n🎨 NALOlevrai, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🪝 ELE FEZ O GANCHO ANTES DO JOGO LANÇAR\n\nO Hookshot é item da 0.7.0, que ainda está em pré-lançamento. Esse mod já entrega o gancho funcionando na 0.6, e o autor ainda garante que ficou melhor que o original.\n\n🔹 Joga o gancho, prende no alvo e te puxa na hora pra lugar alto ou distante\n🔹 Dá pra fabricar na Bigorna do Ferreiro com 2 barras de ferro e 3 fibras de planta\n\n🎨 NALOlevrai, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc279",
+      "rodada": "2026-09-14 20:15",
+      "emoji": "🔴",
+      "titulo": "[X] Isso não é mod, é outro jogo",
+      "fonte": "https://x.com/pokeworldonlin/status/2099499679314542720",
+      "fonteData": "2026-09-14",
+      "confiabilidade": "Fonte original do criador, thread de 4 partes.",
+      "resumo": "Indicacao direta do dono, publicado na hora.",
+      "midia": {
+          "url": "https://x.com/pokeworldonlin/status/2099499679314542720",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/pokeworlds/1.mp4"
+          ],
+          "video": "midia/twitter/pokeworlds/1.mp4"
+      },
+      "twitter": "🔴 ISSO NÃO É MOD, É OUTRO JOGO\n\nPokeWorlds Online é um Pokémon 2D multijogador rodando inteiro dentro do Hytale, com cidade, Centro Pokémon, captura e ficha completa de cada bicho.\n\n🔹 A ficha do Charmeleon traz natureza, grupo de ovo, felicidade, local e nível de captura, e a tabela de golpe por nível\n🔹 A ideia do autor é provar que o Hytale serve de engine de jogo, não só de mundo pra construir em cima\n\n🎥 @pokeworldonlin\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔴 ISSO NÃO É MOD, É OUTRO JOGO\n\nPokeWorlds Online é um Pokémon 2D multijogador rodando inteiro dentro do Hytale, com cidade, Centro Pokémon, captura e ficha completa de cada bicho.\n\n🔹 A ficha do Charmeleon traz natureza, grupo de ovo, felicidade, local e nível de captura, e a tabela de golpe por nível\n🔹 A ideia do autor é provar que o Hytale serve de engine de jogo, não só de mundo pra construir em cima\n\n🎥 @pokeworldonlin\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔴 ISSO NÃO É MOD, É OUTRO JOGO\n\nPokeWorlds Online é um Pokémon 2D multijogador rodando inteiro dentro do Hytale, com cidade, Centro Pokémon, captura e ficha completa de cada bicho.\n\n🔹 A ficha do Charmeleon traz natureza, grupo de ovo, felicidade, local e nível de captura, e a tabela de golpe por nível\n🔹 A ideia do autor é provar que o Hytale serve de engine de jogo, não só de mundo pra construir em cima\n\n🎥 @pokeworldonlin\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
