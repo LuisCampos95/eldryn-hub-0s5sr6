@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-14T20:34:28.741Z",
+  "geradoEm": "2026-09-14T20:35:21.464Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -538,6 +538,33 @@
     }
   ],
   "grade": [
+    {
+      "hora": "12:00",
+      "data": "2026-09-18",
+      "id": "rc282",
+      "rede": "facebook",
+      "titulo": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO",
+      "textoMeta": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/silver25636/status/2098928241188692157",
+      "arquivos": [
+        "midia/twitter/togoplunge/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc282.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+      "arquivosTwitter": [
+        "01-1200-rc282.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1054175670740528/"
+    },
     {
       "hora": "16:00",
       "data": "2026-09-17",
@@ -3173,6 +3200,39 @@
     }
   ],
   "diasGrade": [
+    {
+      "dia": "2026-09-18",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-18",
+          "id": "rc282",
+          "rede": "facebook",
+          "titulo": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO",
+          "textoMeta": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/silver25636/status/2098928241188692157",
+          "arquivos": [
+            "midia/twitter/togoplunge/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc282.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+          "arquivosTwitter": [
+            "01-1200-rc282.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1054175670740528/"
+        }
+      ],
+      "total": 1
+    },
     {
       "dia": "2026-09-17",
       "posts": [
