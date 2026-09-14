@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-14T20:32:41.223Z",
+  "geradoEm": "2026-09-14T20:33:39.770Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -538,6 +538,60 @@
     }
   ],
   "grade": [
+    {
+      "hora": "16:00",
+      "data": "2026-09-17",
+      "id": "rc281",
+      "rede": "facebook",
+      "titulo": "🕷️ A MÃE MANDA AS FILHOTES CATAREM ITEM",
+      "textoMeta": "🕷️ A MÃE MANDA AS FILHOTES CATAREM ITEM\n\nNPC novo do mod Hexcode Evoke, a Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra procurar item e guardar.\n\n🔹 Cada aranha tem ficha própria, com inventário e botão de transferir item\n🔹 Modelo e textura são do Gwentor, autor do Tea Time\n\n🎥 @_Lexem_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🕷️ A MÃE MANDA AS FILHOTES CATAREM ITEM\n\nNPC novo do mod Hexcode Evoke, a Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra procurar item e guardar.\n\n🔹 Cada aranha tem ficha própria, com inventário e botão de transferir item\n🔹 Modelo e textura são do Gwentor, autor do Tea Time\n\n🎥 @_Lexem_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/_Lexem_/status/2099273118967648408",
+      "arquivos": [
+        "midia/twitter/chestspider/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc281.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+      "arquivosTwitter": [
+        "02-1600-rc281.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1567566688744569/"
+    },
+    {
+      "hora": "12:00",
+      "data": "2026-09-17",
+      "id": "rc280",
+      "rede": "facebook",
+      "titulo": "🗡️ A MASTER SWORD ESTÁ FINCADA NA PEDRA",
+      "textoMeta": "🗡️ A MASTER SWORD ESTÁ FINCADA NA PEDRA\n\nTrailer novo de um projeto que recria o mundo de Zelda em voxel, com floresta tomada de névoa, vagalume e ruína coberta de mato.\n\n🔹 A espada aparece no fundo de um salão escuro, iluminada só por uma fresta no teto\n🔹 A floresta lembra a Floresta Perdida, com tronco gigante e clareira de ruína no meio\n\n🎥 @CheewawaDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "🗡️ A MASTER SWORD ESTÁ FINCADA NA PEDRA\n\nTrailer novo de um projeto que recria o mundo de Zelda em voxel, com floresta tomada de névoa, vagalume e ruína coberta de mato.\n\n🔹 A espada aparece no fundo de um salão escuro, iluminada só por uma fresta no teto\n🔹 A floresta lembra a Floresta Perdida, com tronco gigante e clareira de ruína no meio\n\n🎥 @CheewawaDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/CheewawaDev/status/2099224244500771266",
+      "arquivos": [
+        "midia/twitter/zeldaproj/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc280.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+      "arquivosTwitter": [
+        "01-1200-rc280.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1876395167072545/"
+    },
     {
       "hora": "16:00",
       "data": "2026-09-16",
@@ -3123,6 +3177,66 @@
     }
   ],
   "diasGrade": [
+    {
+      "dia": "2026-09-17",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-17",
+          "id": "rc280",
+          "rede": "facebook",
+          "titulo": "🗡️ A MASTER SWORD ESTÁ FINCADA NA PEDRA",
+          "textoMeta": "🗡️ A MASTER SWORD ESTÁ FINCADA NA PEDRA\n\nTrailer novo de um projeto que recria o mundo de Zelda em voxel, com floresta tomada de névoa, vagalume e ruína coberta de mato.\n\n🔹 A espada aparece no fundo de um salão escuro, iluminada só por uma fresta no teto\n🔹 A floresta lembra a Floresta Perdida, com tronco gigante e clareira de ruína no meio\n\n🎥 @CheewawaDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🗡️ A MASTER SWORD ESTÁ FINCADA NA PEDRA\n\nTrailer novo de um projeto que recria o mundo de Zelda em voxel, com floresta tomada de névoa, vagalume e ruína coberta de mato.\n\n🔹 A espada aparece no fundo de um salão escuro, iluminada só por uma fresta no teto\n🔹 A floresta lembra a Floresta Perdida, com tronco gigante e clareira de ruína no meio\n\n🎥 @CheewawaDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/CheewawaDev/status/2099224244500771266",
+          "arquivos": [
+            "midia/twitter/zeldaproj/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc280.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+          "arquivosTwitter": [
+            "01-1200-rc280.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1876395167072545/"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-17",
+          "id": "rc281",
+          "rede": "facebook",
+          "titulo": "🕷️ A MÃE MANDA AS FILHOTES CATAREM ITEM",
+          "textoMeta": "🕷️ A MÃE MANDA AS FILHOTES CATAREM ITEM\n\nNPC novo do mod Hexcode Evoke, a Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra procurar item e guardar.\n\n🔹 Cada aranha tem ficha própria, com inventário e botão de transferir item\n🔹 Modelo e textura são do Gwentor, autor do Tea Time\n\n🎥 @_Lexem_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "🕷️ A MÃE MANDA AS FILHOTES CATAREM ITEM\n\nNPC novo do mod Hexcode Evoke, a Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra procurar item e guardar.\n\n🔹 Cada aranha tem ficha própria, com inventário e botão de transferir item\n🔹 Modelo e textura são do Gwentor, autor do Tea Time\n\n🎥 @_Lexem_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/_Lexem_/status/2099273118967648408",
+          "arquivos": [
+            "midia/twitter/chestspider/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc281.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+          "arquivosTwitter": [
+            "02-1600-rc281.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1567566688744569/"
+        }
+      ],
+      "total": 2
+    },
     {
       "dia": "2026-09-16",
       "posts": [
