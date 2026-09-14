@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-14T20:19:55.489Z",
+  "geradoEm": "2026-09-14T20:20:55.392Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -643,7 +643,7 @@
       "urlPublicada": "https://www.facebook.com/reel/1661815515367042/"
     },
     {
-      "hora": "20:15",
+      "hora": "17:20",
       "data": "2026-09-14",
       "id": "rc279",
       "rede": "facebook",
@@ -658,7 +658,9 @@
         "https://luiscampos95.github.io/eldryn-midia/midia/rc279.mp4"
       ],
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-14",
-      "arquivosTwitter": [],
+      "arquivosTwitter": [
+        "01-1720-rc279.mp4"
+      ],
       "tipo": "video",
       "status": "publicado",
       "qualidade": null,
@@ -3285,7 +3287,7 @@
           "urlPublicada": "https://www.facebook.com/reel/1400495538852002/"
         },
         {
-          "hora": "20:15",
+          "hora": "17:20",
           "data": "2026-09-14",
           "id": "rc279",
           "rede": "facebook",
@@ -3300,7 +3302,9 @@
             "https://luiscampos95.github.io/eldryn-midia/midia/rc279.mp4"
           ],
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-14",
-          "arquivosTwitter": [],
+          "arquivosTwitter": [
+            "01-1720-rc279.mp4"
+          ],
           "tipo": "video",
           "status": "publicado",
           "qualidade": null,
