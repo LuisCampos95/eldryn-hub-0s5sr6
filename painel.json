@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-14T20:51:18.413Z",
+  "geradoEm": "2026-09-14T20:52:18.110Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -583,6 +583,33 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/1567566688744569/"
+    },
+    {
+      "hora": "14:00",
+      "data": "2026-09-17",
+      "id": "rc283",
+      "rede": "facebook",
+      "titulo": "⚓ OS NAVIOS JÁ TROCAM TIRO DE CANHÃO",
+      "textoMeta": "⚓ OS NAVIOS JÁ TROCAM TIRO DE CANHÃO\n\nPrévia do Tales of the Sea, modalidade em construção no Aselion. O navio navega de verdade e o canhão de bordo já dispara contra a outra embarcação no horizonte.\n\n🔹 Dá pra circular pelo convés de espada na mão enquanto o navio se move\n🔹 A mecânica de navegação ainda está em obra, mas o combate no mar já roda\n\n🎥 @aselion_com\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "⚓ OS NAVIOS JÁ TROCAM TIRO DE CANHÃO\n\nPrévia do Tales of the Sea, modalidade em construção no Aselion. O navio navega de verdade e o canhão de bordo já dispara contra a outra embarcação no horizonte.\n\n🔹 Dá pra circular pelo convés de espada na mão enquanto o navio se move\n🔹 A mecânica de navegação ainda está em obra, mas o combate no mar já roda\n\n🎥 @aselion_com\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/aselion_com/status/2098486371715363257",
+      "arquivos": [
+        "midia/twitter/talesofsea/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc283.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+      "arquivosTwitter": [
+        "01-1400-rc283.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1053908530860935/"
     },
     {
       "hora": "12:00",
@@ -3246,6 +3273,33 @@
           "urlPublicada": "https://www.facebook.com/reel/1876395167072545/"
         },
         {
+          "hora": "14:00",
+          "data": "2026-09-17",
+          "id": "rc283",
+          "rede": "facebook",
+          "titulo": "⚓ OS NAVIOS JÁ TROCAM TIRO DE CANHÃO",
+          "textoMeta": "⚓ OS NAVIOS JÁ TROCAM TIRO DE CANHÃO\n\nPrévia do Tales of the Sea, modalidade em construção no Aselion. O navio navega de verdade e o canhão de bordo já dispara contra a outra embarcação no horizonte.\n\n🔹 Dá pra circular pelo convés de espada na mão enquanto o navio se move\n🔹 A mecânica de navegação ainda está em obra, mas o combate no mar já roda\n\n🎥 @aselion_com\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "⚓ OS NAVIOS JÁ TROCAM TIRO DE CANHÃO\n\nPrévia do Tales of the Sea, modalidade em construção no Aselion. O navio navega de verdade e o canhão de bordo já dispara contra a outra embarcação no horizonte.\n\n🔹 Dá pra circular pelo convés de espada na mão enquanto o navio se move\n🔹 A mecânica de navegação ainda está em obra, mas o combate no mar já roda\n\n🎥 @aselion_com\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/aselion_com/status/2098486371715363257",
+          "arquivos": [
+            "midia/twitter/talesofsea/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc283.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+          "arquivosTwitter": [
+            "01-1400-rc283.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1053908530860935/"
+        },
+        {
           "hora": "16:00",
           "data": "2026-09-17",
           "id": "rc281",
@@ -3267,7 +3321,7 @@
           "urlPublicada": "https://www.facebook.com/reel/1567566688744569/"
         }
       ],
-      "total": 2
+      "total": 3
     },
     {
       "dia": "2026-09-16",
