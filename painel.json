@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-14T20:55:21.276Z",
+  "geradoEm": "2026-09-14T20:56:07.261Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -538,6 +538,33 @@
     }
   ],
   "grade": [
+    {
+      "hora": "12:00",
+      "data": "2026-09-19",
+      "id": "rc286",
+      "rede": "facebook",
+      "titulo": "😤 O SIMON DEPOIS DE MORRER 100 VEZES",
+      "textoMeta": "😤 O SIMON DEPOIS DE MORRER 100 VEZES\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "textoTwitter": "😤 O SIMON DEPOIS DE MORRER 100 VEZES\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "fonte": "https://x.com/bravoxv_/status/2098143523962851632",
+      "arquivos": [
+        "midia/twitter/gobmeme/1.mp4"
+      ],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc286.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
+      "arquivosTwitter": [
+        "01-1200-rc286.mp4"
+      ],
+      "tipo": "video",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/936810528975129/"
+    },
     {
       "hora": "18:00",
       "data": "2026-09-18",
@@ -3261,6 +3288,39 @@
     }
   ],
   "diasGrade": [
+    {
+      "dia": "2026-09-19",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-19",
+          "id": "rc286",
+          "rede": "facebook",
+          "titulo": "😤 O SIMON DEPOIS DE MORRER 100 VEZES",
+          "textoMeta": "😤 O SIMON DEPOIS DE MORRER 100 VEZES\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "textoTwitter": "😤 O SIMON DEPOIS DE MORRER 100 VEZES\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+          "fonte": "https://x.com/bravoxv_/status/2098143523962851632",
+          "arquivos": [
+            "midia/twitter/gobmeme/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc286.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
+          "arquivosTwitter": [
+            "01-1200-rc286.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/936810528975129/"
+        }
+      ],
+      "total": 1
+    },
     {
       "dia": "2026-09-18",
       "posts": [
