@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-14T20:20:55.392Z",
+  "geradoEm": "2026-09-14T20:32:41.223Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -651,9 +651,7 @@
       "textoMeta": "🔴 ISSO NÃO É MOD, É OUTRO JOGO\n\nPokeWorlds Online é um Pokémon 2D multijogador rodando inteiro dentro do Hytale, com cidade, Centro Pokémon, captura e ficha completa de cada bicho.\n\n🔹 A ficha do Charmeleon traz natureza, grupo de ovo, felicidade, local e nível de captura, e a tabela de golpe por nível\n🔹 A ideia do autor é provar que o Hytale serve de engine de jogo, não só de mundo pra construir em cima\n\n🎥 @pokeworldonlin\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "textoTwitter": "🔴 ISSO NÃO É MOD, É OUTRO JOGO\n\nPokeWorlds Online é um Pokémon 2D multijogador rodando inteiro dentro do Hytale, com cidade, Centro Pokémon, captura e ficha completa de cada bicho.\n\n🔹 A ficha do Charmeleon traz natureza, grupo de ovo, felicidade, local e nível de captura, e a tabela de golpe por nível\n🔹 A ideia do autor é provar que o Hytale serve de engine de jogo, não só de mundo pra construir em cima\n\n🎥 @pokeworldonlin\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "fonte": "https://x.com/pokeworldonlin/status/2099499679314542720",
-      "arquivos": [
-        "midia/twitter/pokeworlds/1.mp4"
-      ],
+      "arquivos": [],
       "midiaWeb": [
         "https://luiscampos95.github.io/eldryn-midia/midia/rc279.mp4"
       ],
@@ -3295,9 +3293,7 @@
           "textoMeta": "🔴 ISSO NÃO É MOD, É OUTRO JOGO\n\nPokeWorlds Online é um Pokémon 2D multijogador rodando inteiro dentro do Hytale, com cidade, Centro Pokémon, captura e ficha completa de cada bicho.\n\n🔹 A ficha do Charmeleon traz natureza, grupo de ovo, felicidade, local e nível de captura, e a tabela de golpe por nível\n🔹 A ideia do autor é provar que o Hytale serve de engine de jogo, não só de mundo pra construir em cima\n\n🎥 @pokeworldonlin\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "textoTwitter": "🔴 ISSO NÃO É MOD, É OUTRO JOGO\n\nPokeWorlds Online é um Pokémon 2D multijogador rodando inteiro dentro do Hytale, com cidade, Centro Pokémon, captura e ficha completa de cada bicho.\n\n🔹 A ficha do Charmeleon traz natureza, grupo de ovo, felicidade, local e nível de captura, e a tabela de golpe por nível\n🔹 A ideia do autor é provar que o Hytale serve de engine de jogo, não só de mundo pra construir em cima\n\n🎥 @pokeworldonlin\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
           "fonte": "https://x.com/pokeworldonlin/status/2099499679314542720",
-          "arquivos": [
-            "midia/twitter/pokeworlds/1.mp4"
-          ],
+          "arquivos": [],
           "midiaWeb": [
             "https://luiscampos95.github.io/eldryn-midia/midia/rc279.mp4"
           ],
@@ -6019,10 +6015,10 @@
     "instagram": {
       "nome": "@brasilhytale",
       "seguidores": 6080,
-      "totalPosts": 317,
+      "totalPosts": 319,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 69,
+      "mediaCurtidas": 68,
       "amostra": 100
     },
     "twitter": {
@@ -6059,7 +6055,7 @@
       },
       {
         "titulo": "🏛️ O TEMPLO LEVANTOU E SAIU ANDANDO",
-        "curtidas": 261,
+        "curtidas": 262,
         "comentarios": 6,
         "tipo": "video",
         "quando": "2026-09-12T17:08:03+0000",
@@ -6093,8 +6089,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-08-11T19:07:45+0000",
-      "ate": "2026-09-14T19:43:29+0000"
+      "de": "2026-08-13T14:16:20+0000",
+      "ate": "2026-09-14T20:28:31+0000"
     },
     "serie": [
       {

@@ -7703,5 +7703,71 @@ window.ELDRYN_POSTS = [
       "twitter": "🔴 ISSO NÃO É MOD, É OUTRO JOGO\n\nPokeWorlds Online é um Pokémon 2D multijogador rodando inteiro dentro do Hytale, com cidade, Centro Pokémon, captura e ficha completa de cada bicho.\n\n🔹 A ficha do Charmeleon traz natureza, grupo de ovo, felicidade, local e nível de captura, e a tabela de golpe por nível\n🔹 A ideia do autor é provar que o Hytale serve de engine de jogo, não só de mundo pra construir em cima\n\n🎥 @pokeworldonlin\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🔴 ISSO NÃO É MOD, É OUTRO JOGO\n\nPokeWorlds Online é um Pokémon 2D multijogador rodando inteiro dentro do Hytale, com cidade, Centro Pokémon, captura e ficha completa de cada bicho.\n\n🔹 A ficha do Charmeleon traz natureza, grupo de ovo, felicidade, local e nível de captura, e a tabela de golpe por nível\n🔹 A ideia do autor é provar que o Hytale serve de engine de jogo, não só de mundo pra construir em cima\n\n🎥 @pokeworldonlin\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🔴 ISSO NÃO É MOD, É OUTRO JOGO\n\nPokeWorlds Online é um Pokémon 2D multijogador rodando inteiro dentro do Hytale, com cidade, Centro Pokémon, captura e ficha completa de cada bicho.\n\n🔹 A ficha do Charmeleon traz natureza, grupo de ovo, felicidade, local e nível de captura, e a tabela de golpe por nível\n🔹 A ideia do autor é provar que o Hytale serve de engine de jogo, não só de mundo pra construir em cima\n\n🎥 @pokeworldonlin\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc280",
+      "rodada": "2026-09-14 20:32",
+      "emoji": "🗡️",
+      "titulo": "[X] A Master Sword está fincada na pedra",
+      "fonte": "https://x.com/CheewawaDev/status/2099224244500771266",
+      "fonteData": "2026-09-13",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Indicacao direta do dono.",
+      "midia": {
+          "url": "https://x.com/CheewawaDev/status/2099224244500771266",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/zeldaproj/1.mp4"
+          ],
+          "video": "midia/twitter/zeldaproj/1.mp4"
+      },
+      "twitter": "🗡️ A MASTER SWORD ESTÁ FINCADA NA PEDRA\n\nTrailer novo de um projeto que recria o mundo de Zelda em voxel, com floresta tomada de névoa, vagalume e ruína coberta de mato.\n\n🔹 A espada aparece no fundo de um salão escuro, iluminada só por uma fresta no teto\n🔹 A floresta lembra a Floresta Perdida, com tronco gigante e clareira de ruína no meio\n\n🎥 @CheewawaDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🗡️ A MASTER SWORD ESTÁ FINCADA NA PEDRA\n\nTrailer novo de um projeto que recria o mundo de Zelda em voxel, com floresta tomada de névoa, vagalume e ruína coberta de mato.\n\n🔹 A espada aparece no fundo de um salão escuro, iluminada só por uma fresta no teto\n🔹 A floresta lembra a Floresta Perdida, com tronco gigante e clareira de ruína no meio\n\n🎥 @CheewawaDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🗡️ A MASTER SWORD ESTÁ FINCADA NA PEDRA\n\nTrailer novo de um projeto que recria o mundo de Zelda em voxel, com floresta tomada de névoa, vagalume e ruína coberta de mato.\n\n🔹 A espada aparece no fundo de um salão escuro, iluminada só por uma fresta no teto\n🔹 A floresta lembra a Floresta Perdida, com tronco gigante e clareira de ruína no meio\n\n🎥 @CheewawaDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc281",
+      "rodada": "2026-09-14 20:32",
+      "emoji": "🕷️",
+      "titulo": "[X] A mãe manda as filhotes catarem item",
+      "fonte": "https://x.com/_Lexem_/status/2099273118967648408",
+      "fonteData": "2026-09-13",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Indicacao direta do dono.",
+      "midia": {
+          "url": "https://x.com/_Lexem_/status/2099273118967648408",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/chestspider/1.mp4"
+          ],
+          "video": "midia/twitter/chestspider/1.mp4"
+      },
+      "twitter": "🕷️ A MÃE MANDA AS FILHOTES CATAREM ITEM\n\nNPC novo do mod Hexcode Evoke, a Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra procurar item e guardar.\n\n🔹 Cada aranha tem ficha própria, com inventário e botão de transferir item\n🔹 Modelo e textura são do Gwentor, autor do Tea Time\n\n🎥 @_Lexem_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🕷️ A MÃE MANDA AS FILHOTES CATAREM ITEM\n\nNPC novo do mod Hexcode Evoke, a Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra procurar item e guardar.\n\n🔹 Cada aranha tem ficha própria, com inventário e botão de transferir item\n🔹 Modelo e textura são do Gwentor, autor do Tea Time\n\n🎥 @_Lexem_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🕷️ A MÃE MANDA AS FILHOTES CATAREM ITEM\n\nNPC novo do mod Hexcode Evoke, a Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra procurar item e guardar.\n\n🔹 Cada aranha tem ficha própria, com inventário e botão de transferir item\n🔹 Modelo e textura são do Gwentor, autor do Tea Time\n\n🎥 @_Lexem_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc282",
+      "rodada": "2026-09-14 20:32",
+      "emoji": "⚔️",
+      "titulo": "[X] O mergulho emenda direto no combo",
+      "fonte": "https://x.com/silver25636/status/2098928241188692157",
+      "fonteData": "2026-09-13",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Indicacao direta do dono.",
+      "midia": {
+          "url": "https://x.com/silver25636/status/2098928241188692157",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/togoplunge/1.mp4"
+          ],
+          "video": "midia/twitter/togoplunge/1.mp4"
+      },
+      "twitter": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
