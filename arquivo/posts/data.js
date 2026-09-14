@@ -7769,5 +7769,93 @@ window.ELDRYN_POSTS = [
       "twitter": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "⚔️ O MERGULHO EMENDA DIRETO NO COMBO\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc283",
+      "rodada": "2026-09-14 20:51",
+      "emoji": "⚓",
+      "titulo": "[X] Os navios já trocam tiro de canhão",
+      "fonte": "https://x.com/aselion_com/status/2098486371715363257",
+      "fonteData": "2026-09-11",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura #Hytale no X logado, filtro de video.",
+      "midia": {
+          "url": "https://x.com/aselion_com/status/2098486371715363257",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/talesofsea/1.mp4"
+          ],
+          "video": "midia/twitter/talesofsea/1.mp4"
+      },
+      "twitter": "⚓ OS NAVIOS JÁ TROCAM TIRO DE CANHÃO\n\nPrévia do Tales of the Sea, modalidade em construção no Aselion. O navio navega de verdade e o canhão de bordo já dispara contra a outra embarcação no horizonte.\n\n🔹 Dá pra circular pelo convés de espada na mão enquanto o navio se move\n🔹 A mecânica de navegação ainda está em obra, mas o combate no mar já roda\n\n🎥 @aselion_com\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "⚓ OS NAVIOS JÁ TROCAM TIRO DE CANHÃO\n\nPrévia do Tales of the Sea, modalidade em construção no Aselion. O navio navega de verdade e o canhão de bordo já dispara contra a outra embarcação no horizonte.\n\n🔹 Dá pra circular pelo convés de espada na mão enquanto o navio se move\n🔹 A mecânica de navegação ainda está em obra, mas o combate no mar já roda\n\n🎥 @aselion_com\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "⚓ OS NAVIOS JÁ TROCAM TIRO DE CANHÃO\n\nPrévia do Tales of the Sea, modalidade em construção no Aselion. O navio navega de verdade e o canhão de bordo já dispara contra a outra embarcação no horizonte.\n\n🔹 Dá pra circular pelo convés de espada na mão enquanto o navio se move\n🔹 A mecânica de navegação ainda está em obra, mas o combate no mar já roda\n\n🎥 @aselion_com\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc284",
+      "rodada": "2026-09-14 20:51",
+      "emoji": "🔥",
+      "titulo": "[X] A tocha apaga debaixo da água",
+      "fonte": "https://x.com/Starky_TV/status/2099566348997210528",
+      "fonteData": "2026-09-14",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura #Hytale no X logado, filtro de video.",
+      "midia": {
+          "url": "https://x.com/Starky_TV/status/2099566348997210528",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/tochaagua/1.mp4"
+          ],
+          "video": "midia/twitter/tochaagua/1.mp4"
+      },
+      "twitter": "🔥 A TOCHA APAGA DEBAIXO DA ÁGUA\n\nMod que saiu hoje no navegador de mods traz realismo pra tocha, vela e braseiro. Entrou na água, o fogo morre e ainda solta fumaça na hora.\n\n🔹 Pra acender de novo, você mira no ar e usa o botão secundário\n🔹 Vale pros três, tocha, vela e braseiro\n\n🎨 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔥 A TOCHA APAGA DEBAIXO DA ÁGUA\n\nMod que saiu hoje no navegador de mods traz realismo pra tocha, vela e braseiro. Entrou na água, o fogo morre e ainda solta fumaça na hora.\n\n🔹 Pra acender de novo, você mira no ar e usa o botão secundário\n🔹 Vale pros três, tocha, vela e braseiro\n\n🎨 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔥 A TOCHA APAGA DEBAIXO DA ÁGUA\n\nMod que saiu hoje no navegador de mods traz realismo pra tocha, vela e braseiro. Entrou na água, o fogo morre e ainda solta fumaça na hora.\n\n🔹 Pra acender de novo, você mira no ar e usa o botão secundário\n🔹 Vale pros três, tocha, vela e braseiro\n\n🎨 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc285",
+      "rodada": "2026-09-14 20:51",
+      "emoji": "🔮",
+      "titulo": "[X] O altar do Vazio tem um olho aceso",
+      "fonte": "https://x.com/bluebellgb/status/2098655823715324226",
+      "fonteData": "2026-09-12",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura #Hytale no X logado, filtro de video.",
+      "midia": {
+          "url": "https://x.com/bluebellgb/status/2098655823715324226",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/voidcrystal/1.mp4"
+          ],
+          "video": "midia/twitter/voidcrystal/1.mp4"
+      },
+      "twitter": "🔮 O ALTAR DO VAZIO TEM UM OLHO ACESO\n\nPrévia do Void Crystal, mod em construção com tema do Vazio. O altar roxo tem um olho amarelo brilhando no topo e garras de pedra fechando a base.\n\n🔹 Do lado, o criador montou uma torre de cor pra testar a paleta de bloco do mod\n🔹 Está em obra, e ele abriu pra comunidade dizer o que achou\n\n🎥 @bluebellgb\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🔮 O ALTAR DO VAZIO TEM UM OLHO ACESO\n\nPrévia do Void Crystal, mod em construção com tema do Vazio. O altar roxo tem um olho amarelo brilhando no topo e garras de pedra fechando a base.\n\n🔹 Do lado, o criador montou uma torre de cor pra testar a paleta de bloco do mod\n🔹 Está em obra, e ele abriu pra comunidade dizer o que achou\n\n🎥 @bluebellgb\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🔮 O ALTAR DO VAZIO TEM UM OLHO ACESO\n\nPrévia do Void Crystal, mod em construção com tema do Vazio. O altar roxo tem um olho amarelo brilhando no topo e garras de pedra fechando a base.\n\n🔹 Do lado, o criador montou uma torre de cor pra testar a paleta de bloco do mod\n🔹 Está em obra, e ele abriu pra comunidade dizer o que achou\n\n🎥 @bluebellgb\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc286",
+      "rodada": "2026-09-14 20:51",
+      "emoji": "😤",
+      "titulo": "[X] O Simon depois de morrer 100 vezes",
+      "fonte": "https://x.com/bravoxv_/status/2098143523962851632",
+      "fonteData": "2026-09-10",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura #Hytale no X logado, filtro de video.",
+      "midia": {
+          "url": "https://x.com/bravoxv_/status/2098143523962851632",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/gobmeme/1.mp4"
+          ],
+          "video": "midia/twitter/gobmeme/1.mp4"
+      },
+      "twitter": "😤 O SIMON DEPOIS DE MORRER 100 VEZES\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "😤 O SIMON DEPOIS DE MORRER 100 VEZES\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "😤 O SIMON DEPOIS DE MORRER 100 VEZES\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
