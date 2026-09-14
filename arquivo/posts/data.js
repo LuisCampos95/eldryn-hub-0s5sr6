@@ -7637,5 +7637,49 @@ window.ELDRYN_POSTS = [
       "twitter": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "meta": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "texto": "🚢 O NAVIO NUNCA VIU O MAR\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc277",
+      "rodada": "2026-09-14 18:22",
+      "emoji": "⚔️",
+      "titulo": "[MOD] O parry na hora certa zera o dano",
+      "fonte": "https://www.curseforge.com/hytale/mods/perfect-parries",
+      "fonteData": "2026-09-10",
+      "confiabilidade": "Pagina oficial do mod no CurseForge, atualizado ha 4 dias.",
+      "resumo": "Varredura CurseForge, mod bom e atualizado.",
+      "midia": {
+          "url": "https://www.curseforge.com/hytale/mods/perfect-parries",
+          "nota": "Galeria oficial do mod.",
+          "tipo": "imagem",
+          "arquivos": [
+              "midia/curseforge/parries/1.png",
+              "midia/curseforge/parries/2.jpg"
+          ]
+      },
+      "twitter": "⚔️ O PARRY NA HORA CERTA ZERA O DANO\n\nMod de combate com 551 mil downloads troca o bloqueio comum por defesa de precisão, no esquema de Sekiro. Aparar no instante do golpe anula o dano inteiro e ainda devolve parte pro atacante.\n\n🔹 Todo NPC tem barra de postura, e quebrar ela atordoa o inimigo e abre janela de golpe crítico\n🔹 Golpe pesado só para com parry carregado, e NPC que bloqueia também apara o golpe do jogador\n\n🎨 narwhals, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "⚔️ O PARRY NA HORA CERTA ZERA O DANO\n\nMod de combate com 551 mil downloads troca o bloqueio comum por defesa de precisão, no esquema de Sekiro. Aparar no instante do golpe anula o dano inteiro e ainda devolve parte pro atacante.\n\n🔹 Todo NPC tem barra de postura, e quebrar ela atordoa o inimigo e abre janela de golpe crítico\n🔹 Golpe pesado só para com parry carregado, e NPC que bloqueia também apara o golpe do jogador\n\n🎨 narwhals, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "⚔️ O PARRY NA HORA CERTA ZERA O DANO\n\nMod de combate com 551 mil downloads troca o bloqueio comum por defesa de precisão, no esquema de Sekiro. Aparar no instante do golpe anula o dano inteiro e ainda devolve parte pro atacante.\n\n🔹 Todo NPC tem barra de postura, e quebrar ela atordoa o inimigo e abre janela de golpe crítico\n🔹 Golpe pesado só para com parry carregado, e NPC que bloqueia também apara o golpe do jogador\n\n🎨 narwhals, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc278",
+      "rodada": "2026-09-14 18:22",
+      "emoji": "🗺️",
+      "titulo": "[MOD] O mapa do jogo esquece onde você já foi",
+      "fonte": "https://www.curseforge.com/hytale/mods/bettermap",
+      "fonteData": "2026-08-27",
+      "confiabilidade": "Pagina oficial do mod no CurseForge, atualizado ha 18 dias.",
+      "resumo": "Varredura CurseForge, mod bom e atualizado.",
+      "midia": {
+          "url": "https://www.curseforge.com/hytale/mods/bettermap",
+          "nota": "Galeria oficial do mod.",
+          "tipo": "imagem",
+          "arquivos": [
+              "midia/curseforge/bettermap/1.png",
+              "midia/curseforge/bettermap/2.png"
+          ]
+      },
+      "twitter": "🗺️ O MAPA DO JOGO ESQUECE ONDE VOCÊ JÁ FOI\n\nO mapa padrão mostra só um círculo em volta do jogador e apaga tudo assim que você sai dali. O BetterMap grava o caminho andado e virou o mod mais baixado do jogo, com 915 mil downloads.\n\n🔹 Tem modo caverna, marcador de ponto e a borda do mundo desenhada no mapa\n🔹 Com permissão, dá pra teleportar clicando com o botão direito no mapa, e o mapa pode ser compartilhado entre os jogadores do servidor\n\n🎨 Paralaxe, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "🗺️ O MAPA DO JOGO ESQUECE ONDE VOCÊ JÁ FOI\n\nO mapa padrão mostra só um círculo em volta do jogador e apaga tudo assim que você sai dali. O BetterMap grava o caminho andado e virou o mod mais baixado do jogo, com 915 mil downloads.\n\n🔹 Tem modo caverna, marcador de ponto e a borda do mundo desenhada no mapa\n🔹 Com permissão, dá pra teleportar clicando com o botão direito no mapa, e o mapa pode ser compartilhado entre os jogadores do servidor\n\n🎨 Paralaxe, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "texto": "🗺️ O MAPA DO JOGO ESQUECE ONDE VOCÊ JÁ FOI\n\nO mapa padrão mostra só um círculo em volta do jogador e apaga tudo assim que você sai dali. O BetterMap grava o caminho andado e virou o mod mais baixado do jogo, com 915 mil downloads.\n\n🔹 Tem modo caverna, marcador de ponto e a borda do mundo desenhada no mapa\n🔹 Com permissão, dá pra teleportar clicando com o botão direito no mapa, e o mapa pode ser compartilhado entre os jogadores do servidor\n\n🎨 Paralaxe, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   }
 ];
