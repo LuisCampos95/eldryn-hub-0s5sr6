@@ -326,7 +326,19 @@ function fonteEhTweet(f){
   if(f.indexOf('https://x.com/')!==0 && f.indexOf('https://twitter.com/')!==0) return false;
   return f.indexOf('/status/')>0;
 }
-function podeCitar(p){ return !!(p && p.twitterCitacao && fonteEhTweet(p.fonte)); }
+function podeCitar(p){ return !!(p && fonteEhTweet(p.fonte)); }
+// O quote nao leva credito: o tweet citado ja mostra de quem e. Tira a linha
+// de credito do fim (🎥 @fulano, 🔧 Nome no CurseForge...) e devolve o resto.
+function semCredito(t){
+  var l=(t||'').split('\n');
+  while(l.length){
+    var u=l[l.length-1].trim();
+    if(u==='' || /^[^A-Za-z0-9#]/.test(u) && u.length<70){ l.pop(); continue; }
+    break;
+  }
+  return l.join('\n').trim();
+}
+function textoDoQuote(p){ return semCredito(p.textoTwitter||p.textoMeta||''); }
 
 // ClipboardItem so aceita image/png de forma confiavel, e as nossas sao .jpg.
 // Passar a Promise direto pro ClipboardItem deixa o write() ser chamado ainda
@@ -446,19 +458,12 @@ function montaDet(p){
   }
   h+='</div><div>';
 
-  // A citacao vem primeiro: quando a fonte e um tweet, e ela que vai pro ar.
-  if(podeCitar(p)){
-    h+='<div class="caixa citacao"><div class="caixa-rot">Citação pro X'+
-       '<span class="cit-n">'+p.twitterCitacao.length+' caracteres</span>'+
-       '<button data-cp="cit">copiar</button></div>'+
-       '<div class="txt">'+esc(p.twitterCitacao)+'</div></div>';
-  }
-
-  // Desde que o texto ficou igual nas 4 redes, as duas caixas antigas mostravam
-  // o mesmo paragrafo e so mudava o @ do credito. Virou uma caixa so.
+  // Uma caixa so. Duas versoes do mesmo post lado a lado so fazia o dono ter
+  // que escolher, e a escolha nao tinha resposta obvia.
   var txt=p.textoTwitter||p.textoMeta||'';
   var difere=p.textoMeta && p.textoMeta!==txt;
-  h+='<div class="caixa"><div class="caixa-rot">'+(podeCitar(p)?'Texto do post próprio':'Texto do post')+
+  h+='<div class="caixa citacao"><div class="caixa-rot">Texto do post'+
+     '<span class="cit-n">'+txt.length+' caracteres</span>'+
      '<button data-cp="tw">copiar</button>'+
      (difere?'<span class="sep">·</span><button data-cp="meta">copiar versão Face/Insta</button>':'')+
      '</div><div class="txt">'+esc(txt)+'</div></div>';
@@ -488,7 +493,7 @@ function montaDet(p){
      (p.urlPublicada?'<a class="bt" target="_blank" rel="noopener" href="'+esc(p.urlPublicada)+'">ver publicado</a>':'')+
      '</div>'+
      '<div class="nota-x">'+(podeCitar(p)
-       ? 'Esse veio de um tweet, então no X o caminho é <b>citar</b>: a mídia vem do tweet original, o autor recebe notificação e não precisa de crédito nem de download. O texto de cima é o que vai pro Face e pro Insta.'
+       ? 'Esse veio de um tweet, então no X o caminho é <b>citar</b>: vai esse mesmo texto, sem a linha de crédito (o tweet citado já mostra o autor), e a mídia vem de lá. Nada pra baixar.'
        : 'Esse não tem tweet pra citar. O X não deixa anexar arquivo por link, então o texto vai pronto e '
          + (ehVid?'o vídeo baixa pra você arrastar pro post.'
            :(m.length>1?'as imagens baixam pra você arrastar pro post.'
@@ -607,7 +612,6 @@ document.addEventListener('click',function(e){
     if(k==='meta') copia(p2.textoMeta,'texto copiado');
     if(k==='cam') copia(p2.pastaTwitter?(p2.pastaTwitter+'\\'+(arqs[0]||'')):arqs.join('\n'),'caminho copiado');
     if(k==='pasta') copia(p2.pastaTwitter,'pasta copiada');
-    if(k==='cit') copia(p2.twitterCitacao,'citação copiada');
     return;
   }
 
@@ -616,7 +620,7 @@ document.addEventListener('click',function(e){
     var pc=acha(cit.closest('.post').getAttribute('data-id'));
     // Nada de baixar midia aqui: o quote ja carrega o video/foto do tweet
     // original. So o texto curto + a url da fonte.
-    window.open(urlCitacao(pc.twitterCitacao,pc.fonte),'_blank','noopener');
+    window.open(urlCitacao(textoDoQuote(pc),pc.fonte),'_blank','noopener');
     return;
   }
 
