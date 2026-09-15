@@ -161,6 +161,8 @@ header.topo{position:sticky;top:0;z-index:60;backdrop-filter:blur(14px);
 .bt.ouro{background:linear-gradient(180deg,var(--gold),var(--gold-deep));color:#140d02;border-color:transparent}
 .bt.ouro:hover{filter:brightness(1.1);color:#140d02}
 .bt.marcado{background:rgba(58,208,127,.14);border-color:rgba(58,208,127,.4);color:#9ff0c4}
+.nota-x{margin-top:10px;font-size:11.5px;color:var(--faint);line-height:1.5;
+  border-left:2px solid var(--line);padding-left:10px}
 
 .grade2{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(290px,1fr))}
 .bloco{border:1px solid var(--line-soft);border-radius:16px;background:rgba(10,14,26,.5);padding:18px}
@@ -285,6 +287,51 @@ function toast(t){
 function copia(t,msg){ navigator.clipboard.writeText(t||'').then(function(){toast(msg||'copiado')}); }
 function acha(id){ return (D.grade||[]).filter(function(x){return x.id===id})[0]; }
 
+/* ---------- levar pro X ----------
+   O intent do X so aceita TEXTO na URL: nao existe parametro pra anexar
+   arquivo. Entao o botao abre o compositor com o texto pronto e, no mesmo
+   clique, deixa a midia a um passo: imagem vai pro clipboard (Ctrl+V dentro
+   do post) e video baixa (arrastar pra dentro do post).
+   A midia mora no mesmo host do painel, entao fetch e download funcionam. */
+function urlIntent(t){ return 'https://x.com/intent/post?text='+encodeURIComponent(t||''); }
+
+// ClipboardItem so aceita image/png de forma confiavel, e as nossas sao .jpg.
+// Passar a Promise direto pro ClipboardItem deixa o write() ser chamado ainda
+// dentro do gesto do usuario, senao o navegador recusa.
+function pngDaUrl(url){
+  return fetch(url).then(function(r){return r.blob()})
+    .then(function(b){return createImageBitmap(b)})
+    .then(function(img){
+      var c=document.createElement('canvas');
+      c.width=img.width; c.height=img.height;
+      c.getContext('2d').drawImage(img,0,0);
+      return new Promise(function(res){ c.toBlob(res,'image/png'); });
+    });
+}
+function baixa(url){
+  var a=document.createElement('a');
+  a.href=url; a.download=url.split('/').pop(); a.style.display='none';
+  document.body.appendChild(a); a.click();
+  setTimeout(function(){a.remove()},2000);
+}
+function levaMidia(p){
+  var m=p.midiaWeb||[];
+  if(!m.length) return;
+  if(ehVideo(m[0])){ baixa(m[0]); toast('vídeo baixando, arraste pro post'); return; }
+  // Carrossel: o clipboard so guarda uma imagem por vez, entao baixa todas
+  // (o X aceita ate 4) em vez de deixar 3 pra tras silenciosamente.
+  if(m.length>1){
+    m.slice(0,4).forEach(function(u,i){ setTimeout(function(){baixa(u)}, i*350); });
+    toast(Math.min(m.length,4)+' imagens baixando, arraste pro post');
+    return;
+  }
+  try{
+    navigator.clipboard.write([new ClipboardItem({'image/png':pngDaUrl(m[0])})])
+      .then(function(){toast('imagem no clipboard, cole com Ctrl+V')})
+      .catch(function(){ baixa(m[0]); toast('imagem baixando, arraste pro post'); });
+  }catch(_){ baixa(m[0]); toast('imagem baixando, arraste pro post'); }
+}
+
 /* ---------- trilho de seguidores ---------- */
 function montaTrilho(){
   var r=D.redes||{};
@@ -386,12 +433,18 @@ function montaDet(p){
   h+='</div></div>';
 
   var marcado=jaFoiNoX(p.id);
+  var ehVid=m.length&&ehVideo(m[0]);
   h+='<div class="det-acoes">'+
-     '<button class="bt '+(marcado?'marcado':'ouro')+'" data-x="1">'+(marcado?'✓ postado no X':'marcar como postado no X')+'</button>'+
+     '<button class="bt ouro" data-postar="1">📤 Abrir no X com o texto</button>'+
+     (m.length?('<button class="bt" data-midia-x="1">'+(ehVid?'⬇ baixar vídeo':(m.length>1?'⬇ baixar as '+Math.min(m.length,4)+' imagens':'📋 copiar imagem'))+'</button>'):'')+
+     '<button class="bt '+(marcado?'marcado':'')+'" data-x="1">'+(marcado?'✓ postado no X':'marcar como postado')+'</button>'+
      (p.fonte?'<a class="bt" target="_blank" rel="noopener" href="'+esc(p.fonte)+'">abrir fonte</a>':'')+
      (p.urlPublicada?'<a class="bt" target="_blank" rel="noopener" href="'+esc(p.urlPublicada)+'">ver publicado</a>':'')+
-     (m.length?'<a class="bt" target="_blank" rel="noopener" href="'+esc(m[0])+'">abrir mídia</a>':'')+
-     '</div>';
+     '</div>'+
+     '<div class="nota-x">O X não deixa anexar arquivo por link. O texto vai pronto; '+
+     (ehVid?'o vídeo baixa e você arrasta pra dentro do post.'
+       :(m.length>1?'as imagens baixam e você arrasta pra dentro do post.'
+       :(m.length?'a imagem vai pro clipboard, cola com Ctrl+V.':'esse post não tem mídia.')))+'</div>';
   return h;
 }
 function bloco(d){
@@ -508,6 +561,19 @@ document.addEventListener('click',function(e){
     if(k==='pasta') copia(p2.pastaTwitter,'pasta copiada');
     return;
   }
+
+  var pst=t.closest&&t.closest('[data-postar]');
+  if(pst){
+    var pp=acha(pst.closest('.post').getAttribute('data-id'));
+    // a midia entra primeiro: o write() do clipboard precisa da aba ainda
+    // focada, e o window.open rouba o foco.
+    levaMidia(pp);
+    window.open(urlIntent(pp.textoTwitter||pp.textoMeta),'_blank','noopener');
+    return;
+  }
+
+  var mx=t.closest&&t.closest('[data-midia-x]');
+  if(mx){ levaMidia(acha(mx.closest('.post').getAttribute('data-id'))); return; }
 
   var bx=t.closest&&t.closest('[data-x]');
   if(bx){

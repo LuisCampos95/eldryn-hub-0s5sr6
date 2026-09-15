@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-15T12:26:55.570Z",
+  "geradoEm": "2026-09-15T19:33:24.124Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -781,7 +781,7 @@
         "02-1600-rc276.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -806,7 +806,7 @@
         "01-1200-rc275.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -3362,7 +3362,7 @@
             "01-1200-rc275.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -3387,7 +3387,7 @@
             "02-1600-rc276.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -6490,10 +6490,10 @@
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
     "hoje": "2026-09-15",
-    "publicadosHoje": 0,
-    "faltamHoje": 2,
-    "agendadosFuturo": 11,
-    "publicados7dias": 18,
+    "publicadosHoje": 2,
+    "faltamHoje": 0,
+    "agendadosFuturo": 9,
+    "publicados7dias": 20,
     "instagramNoAr": 91,
     "instagramPendente": 0,
     "cobertaAte": "2026-09-19"
@@ -6509,8 +6509,8 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6080,
-      "totalPosts": 319,
+      "seguidores": 6078,
+      "totalPosts": 321,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
       "mediaCurtidas": 71,
@@ -6550,7 +6550,7 @@
       },
       {
         "titulo": "🏛️ O TEMPLO LEVANTOU E SAIU ANDANDO",
-        "curtidas": 265,
+        "curtidas": 266,
         "comentarios": 6,
         "tipo": "video",
         "quando": "2026-09-12T17:08:03+0000",
@@ -6584,8 +6584,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-08-13T14:16:20+0000",
-      "ate": "2026-09-14T20:28:31+0000"
+      "de": "2026-08-13T17:51:40+0000",
+      "ate": "2026-09-15T19:06:47+0000"
     },
     "serie": [
       {
