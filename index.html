@@ -161,6 +161,12 @@ header.topo{position:sticky;top:0;z-index:60;backdrop-filter:blur(14px);
 .bt.ouro{background:linear-gradient(180deg,var(--gold),var(--gold-deep));color:#140d02;border-color:transparent}
 .bt.ouro:hover{filter:brightness(1.1);color:#140d02}
 .bt.marcado{background:rgba(58,208,127,.14);border-color:rgba(58,208,127,.4);color:#9ff0c4}
+/* Caixa da citacao: e o texto que MAIS importa agora, entao ganha destaque
+   dourado em cima das outras caixas de texto. */
+.caixa.citacao{border-color:rgba(246,197,69,.45);background:rgba(246,197,69,.06)}
+.caixa.citacao .txt{font-size:15px;line-height:1.55;color:var(--cream)}
+.cit-n{margin-left:8px;font-weight:400;letter-spacing:0;text-transform:none;
+  color:var(--faint);font-size:10.5px}
 .nota-x{margin-top:10px;font-size:11.5px;color:var(--faint);line-height:1.5;
   border-left:2px solid var(--line);padding-left:10px}
 
@@ -294,6 +300,13 @@ function acha(id){ return (D.grade||[]).filter(function(x){return x.id===id})[0]
    do post) e video baixa (arrastar pra dentro do post).
    A midia mora no mesmo host do painel, entao fetch e download funcionam. */
 function urlIntent(t){ return 'https://x.com/intent/post?text='+encodeURIComponent(t||''); }
+// Citacao: o parametro url do intent faz o X renderizar o tweet de origem
+// como quote — a midia vem do proprio tweet, entao nao precisa baixar nada,
+// o autor recebe notificacao e a gente pega a onda do post original em vez
+// de competir com ele pelas mesmas views.
+function urlCitacao(linha,fonte){ return 'https://x.com/intent/post?text='+encodeURIComponent(linha||'')+'&url='+encodeURIComponent(fonte||''); }
+function fonteEhTweet(f){ return /^https?://(x|twitter).com/[^/]+/status//i.test(f||''); }
+function podeCitar(p){ return !!(p && p.twitterCitacao && fonteEhTweet(p.fonte)); }
 
 // ClipboardItem so aceita image/png de forma confiavel, e as nossas sao .jpg.
 // Passar a Promise direto pro ClipboardItem deixa o write() ser chamado ainda
@@ -435,13 +448,18 @@ function montaDet(p){
   var marcado=jaFoiNoX(p.id);
   var ehVid=m.length&&ehVideo(m[0]);
   h+='<div class="det-acoes">'+
-     '<button class="bt ouro" data-postar="1">📤 Abrir no X com o texto</button>'+
+     (podeCitar(p)
+       ? '<div class="caixa citacao"><div class="caixa-rot">Citação pro X <span class="cit-n">'+p.twitterCitacao.length+' caracteres</span>'+
+         '<button data-cp="cit">copiar</button></div><div class="txt">'+esc(p.twitterCitacao)+'</div></div>'
+       : '')+
+     (podeCitar(p)?'<button class="bt ouro" data-citar="1">🔁 Citar o tweet original</button>':'')+
+     '<button class="bt'+(podeCitar(p)?'':' ouro')+'" data-postar="1">📤 '+(podeCitar(p)?'Post próprio (texto longo)':'Abrir no X com o texto')+'</button>'+
      (m.length?('<button class="bt" data-midia-x="1">'+(ehVid?'⬇ baixar vídeo':(m.length>1?'⬇ baixar as '+Math.min(m.length,4)+' imagens':'📋 copiar imagem'))+'</button>'):'')+
      '<button class="bt '+(marcado?'marcado':'')+'" data-x="1">'+(marcado?'✓ postado no X':'marcar como postado')+'</button>'+
      (p.fonte?'<a class="bt" target="_blank" rel="noopener" href="'+esc(p.fonte)+'">abrir fonte</a>':'')+
      (p.urlPublicada?'<a class="bt" target="_blank" rel="noopener" href="'+esc(p.urlPublicada)+'">ver publicado</a>':'')+
      '</div>'+
-     '<div class="nota-x">O X não deixa anexar arquivo por link. O texto vai pronto; '+
+     '<div class="nota-x">'+(podeCitar(p)?'<b>Citar</b> abre o X já com a linha curta e o tweet original embutido: a mídia vem de lá, o autor recebe notificação e nada precisa ser baixado. ':'')+       'No post próprio o X não deixa anexar arquivo por link. O texto vai pronto; '+
      (ehVid?'o vídeo baixa e você arrasta pra dentro do post.'
        :(m.length>1?'as imagens baixam e você arrasta pra dentro do post.'
        :(m.length?'a imagem vai pro clipboard, cola com Ctrl+V.':'esse post não tem mídia.')))+'</div>';
@@ -559,6 +577,16 @@ document.addEventListener('click',function(e){
     if(k==='meta') copia(p2.textoMeta,'texto copiado');
     if(k==='cam') copia(p2.pastaTwitter?(p2.pastaTwitter+'\\'+(arqs[0]||'')):arqs.join('\n'),'caminho copiado');
     if(k==='pasta') copia(p2.pastaTwitter,'pasta copiada');
+    if(k==='cit') copia(p2.twitterCitacao,'citação copiada');
+    return;
+  }
+
+  var cit=t.closest&&t.closest('[data-citar]');
+  if(cit){
+    var pc=acha(cit.closest('.post').getAttribute('data-id'));
+    // Nada de baixar midia aqui: o quote ja carrega o video/foto do tweet
+    // original. So o texto curto + a url da fonte.
+    window.open(urlCitacao(pc.twitterCitacao,pc.fonte),'_blank','noopener');
     return;
   }
 
