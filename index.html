@@ -639,6 +639,9 @@ document.addEventListener('click',function(e){
     var agora=alternaX(id);
     bx.textContent=agora?'✓ postado no X':'marcar como postado no X';
     bx.classList.toggle('marcado',agora); bx.classList.toggle('ouro',!agora);
+    // O card inteiro muda de cor. E o ponto do botao: bater o olho na grade
+    // e saber o que ja saiu, sem ler tag de 11px.
+    post2.classList.toggle('feito',agora);
     var meta=post2.querySelector('.post-meta'), tagX=meta.querySelector('.tag.xok');
     if(agora&&!tagX) meta.querySelector('.tag.ok,.tag.esperando').insertAdjacentHTML('afterend','<span class="tag xok">X ✓</span>');
     if(!agora&&tagX) tagX.remove();
