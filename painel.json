@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-15T12:04:00.782Z",
+  "geradoEm": "2026-09-15T12:19:40.636Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,7 +81,7 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 266,
+      "n": 270,
       "quem": "código"
     },
     {
@@ -116,11 +116,11 @@
     }
   ],
   "motivosCorte": {
+    "link ja virou post": 12,
     "qualidade ruim, pedido do Luis pra refazer": 6,
     "mesmo tweet ja coberto pelo concorrente Comu_HytaleBR, angulo parecido demais": 1,
     "navegador de mods ja saiu em 13/08, coberto no post principal": 1,
     "sem foto nem video": 1,
-    "link ja virou post": 8,
     "velho demais": 4,
     "midia fresca fraca": 3,
     "sem midia e sem discussao": 17,
@@ -6325,10 +6325,10 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 266,
+    "coletadosTotal": 270,
     "aprovados": 33,
     "rejeitados": 33,
-    "rejeitadosFiltro": 123,
+    "rejeitadosFiltro": 127,
     "rejeitadosMemoria": 7,
     "escritos": 111,
     "agendados": 79,
@@ -6382,7 +6382,7 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-08-23T21:30:52.614Z",
+  "ultimaColeta": "2026-09-15T12:19:40.239Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
     "hoje": "2026-09-15",
