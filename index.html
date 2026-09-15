@@ -281,6 +281,9 @@ var D=null, ABERTO=null;
 var SEM=['domingo','segunda-feira','terça-feira','quarta-feira','quinta-feira','sexta-feira','sábado'];
 var MES=['jan','fev','mar','abr','mai','jun','jul','ago','set','out','nov','dez'];
 var CHAVE_X='redacao.postadoNoX';
+// Agendados no proprio X (compositor nativo, nao API). Ficam marcados de
+// saida pra grade ja abrir mostrando o que esta na fila de la.
+var AGENDADOS_NO_X=['rc275','rc276','rc280','rc281','rc282','rc283','rc284','rc285','rc286'];
 
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){
   return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
@@ -294,7 +297,7 @@ function diasEntre(iso){
   return Math.round((new Date(iso)-new Date(hoje))/864e5);
 }
 function postado(){ try{return JSON.parse(localStorage.getItem(CHAVE_X)||'[]')}catch(_){return []} }
-function jaFoiNoX(id){ return postado().indexOf(id)>=0; }
+function jaFoiNoX(id){ return postado().indexOf(id)>=0 || AGENDADOS_NO_X.indexOf(id)>=0; }
 function alternaX(id){
   var l=postado(), i=l.indexOf(id);
   if(i>=0) l.splice(i,1); else l.push(id);
