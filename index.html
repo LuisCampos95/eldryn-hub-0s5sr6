@@ -305,7 +305,11 @@ function urlIntent(t){ return 'https://x.com/intent/post?text='+encodeURICompone
 // o autor recebe notificacao e a gente pega a onda do post original em vez
 // de competir com ele pelas mesmas views.
 function urlCitacao(linha,fonte){ return 'https://x.com/intent/post?text='+encodeURIComponent(linha||'')+'&url='+encodeURIComponent(fonte||''); }
-function fonteEhTweet(f){ return /^https?://(x|twitter).com/[^/]+/status//i.test(f||''); }
+function fonteEhTweet(f){
+  f=(f||'').toLowerCase();
+  if(f.indexOf('https://x.com/')!==0 && f.indexOf('https://twitter.com/')!==0) return false;
+  return f.indexOf('/status/')>0;
+}
 function podeCitar(p){ return !!(p && p.twitterCitacao && fonteEhTweet(p.fonte)); }
 
 // ClipboardItem so aceita image/png de forma confiavel, e as nossas sao .jpg.
