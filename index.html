@@ -15,7 +15,7 @@
 :root{
   --abyss:#030409; --panel:rgba(13,18,32,.62);
   --line:rgba(246,197,69,.14); --line-soft:rgba(255,255,255,.07);
-  --gold:#f6c545; --gold-2:#ffe3a1; --gold-3:#ffd76e; --gold-deep:#b8861f;
+  --verde:#3ad07f;--gold:#f6c545; --gold-2:#ffe3a1; --gold-3:#ffd76e; --gold-deep:#b8861f;
   --text:#f4f6fc; --muted:#9aa3bb; --faint:#5d6579;
   --green:#3ad07f; --red:#ff5b5b; --azul:#5b8cff; --rosa:#ff78be;
   --f-display:'Cinzel',Georgia,serif; --f-body:'Inter',system-ui,sans-serif;
@@ -172,6 +172,15 @@ header.topo{position:sticky;top:0;z-index:60;backdrop-filter:blur(14px);
 .caixa.citacao{border-color:rgba(246,197,69,.45);background:rgba(246,197,69,.06)}
 .caixa.citacao .txt{font-size:15px;line-height:1.55;color:var(--cream)}
 .caixa-rot .sep{margin:0 2px;color:var(--line-soft)}
+
+/* Card ja postado no X: tem que dar pra bater o olho na grade e ver o que
+   saiu, sem ler tag nenhuma. Barra verde na esquerda, fundo esverdeado e o
+   conteudo apagado — como item riscado de lista. */
+.post.feito{background:rgba(58,208,127,.05);box-shadow:inset 3px 0 0 var(--verde)}
+.post.feito .post-tit{color:var(--muted)}
+.post.feito .thumb{opacity:.45;filter:grayscale(.55)}
+.post.feito .hora{color:var(--faint)}
+.post.feito:hover{background:rgba(58,208,127,.08)}
 .cit-n{margin-left:8px;font-weight:400;letter-spacing:0;text-transform:none;
   color:var(--faint);font-size:10.5px}
 .nota-x{margin-top:10px;font-size:11.5px;color:var(--faint);line-height:1.5;
@@ -414,7 +423,7 @@ function cartaoPost(p){
   var rede=p.rede==='instagram'?'<span class="tag ig">Instagram</span>':'<span class="tag fb">Facebook</span>';
   var st=p.status==='publicado'?'<span class="tag ok">no ar</span>':'<span class="tag esperando">agendado</span>';
   var x=jaFoiNoX(p.id)?'<span class="tag xok">X ✓</span>':'';
-  return '<div class="post" data-id="'+esc(p.id)+'">'+
+  return '<div class="post'+(jaFoiNoX(p.id)?' feito':'')+'" data-id="'+esc(p.id)+'">'+
     '<div class="post-cab"><div class="hora">'+esc(p.hora)+'</div>'+thumb(p)+
       '<div class="post-corpo"><div class="post-tit">'+esc(p.titulo||p.id)+'</div>'+
         '<div class="post-meta">'+rede+st+x+'<span class="tag">'+esc(p.tipo||'—')+'</span><span>'+esc(p.id)+'</span></div></div>'+
@@ -467,17 +476,23 @@ function montaDet(p){
   var marcado=jaFoiNoX(p.id);
   var ehVid=m.length&&ehVideo(m[0]);
   h+='<div class="det-acoes">'+
-     (podeCitar(p)?'<button class="bt ouro" data-citar="1">🔁 Citar o tweet</button>':'')+
-     '<button class="bt'+(podeCitar(p)?'':' ouro')+'" data-postar="1">📤 '+(podeCitar(p)?'Post próprio':'Abrir no X')+'</button>'+
-     (m.length?('<button class="bt" data-midia-x="1">'+(ehVid?'⬇ baixar vídeo':(m.length>1?'⬇ baixar as '+Math.min(m.length,4)+' imagens':'📋 copiar imagem'))+'</button>'):'')+
+     // Post que veio de tweet tem UM caminho no X: citar. Baixar a midia pra
+     // subir de novo competiria com o tweet original e deixaria o autor de
+     // fora, entao esses botoes nem aparecem.
+     (podeCitar(p)
+       ? '<button class="bt ouro" data-citar="1">🔁 Citar o tweet</button>'
+       : '<button class="bt ouro" data-postar="1">📤 Abrir no X</button>'
+         + (m.length?('<button class="bt" data-midia-x="1">'+(ehVid?'⬇ baixar vídeo':(m.length>1?'⬇ baixar as '+Math.min(m.length,4)+' imagens':'📋 copiar imagem'))+'</button>'):''))+
      '<button class="bt '+(marcado?'marcado':'')+'" data-x="1">'+(marcado?'✓ postado no X':'marcar como postado')+'</button>'+
      (p.fonte?'<a class="bt" target="_blank" rel="noopener" href="'+esc(p.fonte)+'">abrir fonte</a>':'')+
      (p.urlPublicada?'<a class="bt" target="_blank" rel="noopener" href="'+esc(p.urlPublicada)+'">ver publicado</a>':'')+
      '</div>'+
-     '<div class="nota-x">'+(podeCitar(p)?'<b>Citar</b> abre o X já com a linha curta e o tweet original embutido: a mídia vem de lá, o autor recebe notificação e nada precisa ser baixado. ':'')+       'No post próprio o X não deixa anexar arquivo por link. O texto vai pronto; '+
-     (ehVid?'o vídeo baixa e você arrasta pra dentro do post.'
-       :(m.length>1?'as imagens baixam e você arrasta pra dentro do post.'
-       :(m.length?'a imagem vai pro clipboard, cola com Ctrl+V.':'esse post não tem mídia.')))+'</div>';
+     '<div class="nota-x">'+(podeCitar(p)
+       ? 'Esse veio de um tweet, então no X o caminho é <b>citar</b>: a mídia vem do tweet original, o autor recebe notificação e não precisa de crédito nem de download. O texto de cima é o que vai pro Face e pro Insta.'
+       : 'Esse não tem tweet pra citar. O X não deixa anexar arquivo por link, então o texto vai pronto e '
+         + (ehVid?'o vídeo baixa pra você arrastar pro post.'
+           :(m.length>1?'as imagens baixam pra você arrastar pro post.'
+           :(m.length?'a imagem vai pro clipboard, cola com Ctrl+V.':'esse post não tem mídia.'))))+'</div>';
   return h;
 }
 function bloco(d){
