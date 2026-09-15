@@ -7612,8 +7612,8 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/hitboxpa/1.mp4"
       },
-      "twitter": "Ele ligou a visualização de hitbox pra entender por que a pá erra tanto, e achou o motivo. A área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar 👀\n\nOu seja, não é você que erra. É a pá.\n\n🎥 @EdilanTV",
-      "meta": "🐛 NÃO É VOCÊ QUE ERRA, É A PÁ\n\nEle ligou a visualização de hitbox pra entender a inconsistência da pá e achou a raiz do problema, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar.\n\n🔹 O painel troca de cor conforme o acerto, e dá pra ver ele sair de cima do bloco\n🔹 Do jeito que está, a pá quase não serve, e o pedido de revisão foi direto pra equipe\n\n🎥 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "twitter": "Não é você que erra com a pá. É a pá. Ele ligou a visualização de hitbox pra entender e achou o motivo, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar 👀\n\n🎥 @EdilanTV",
+      "meta": "Não é você que erra com a pá. É a pá. Ele ligou a visualização de hitbox pra entender e achou o motivo, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar 👀\n\n🎥 EdilanTV",
       "texto": "🐛 NÃO É VOCÊ QUE ERRA, É A PÁ\n\nEle ligou a visualização de hitbox pra entender a inconsistência da pá e achou a raiz do problema, a área de acerto é um painel chapado boiando na frente do jogador, desencontrado do bloco que você quer cavar.\n\n🔹 O painel troca de cor conforme o acerto, e dá pra ver ele sair de cima do bloco\n🔹 Do jeito que está, a pá quase não serve, e o pedido de revisão foi direto pra equipe\n\n🎥 @EdilanTV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "twitterCitacao": "Então não era eu que errava a pá. Era a pá."
   },
@@ -7636,7 +7636,7 @@ window.ELDRYN_POSTS = [
           "video": "midia/twitter/juggernaut/1.mp4"
       },
       "twitter": "A galera do WoWTale está refazendo o Defias Juggernaut bloco a bloco dentro do Hytale, o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira ⚓\n\nQual cenário clássico de WoW você queria ver recriado aqui? 👇\n\n🎥 @WoWTaleTeam",
-      "meta": "🚢 ELE NUNCA VIU O MAR, MAS VAI QUEIMAR UMA CIDADE\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "meta": "A galera do WoWTale está refazendo o Defias Juggernaut bloco a bloco dentro do Hytale, o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira ⚓\n\nQual cenário clássico de WoW você queria ver recriado aqui? 👇\n\n🎥 WoWTaleTeam",
       "texto": "🚢 ELE NUNCA VIU O MAR, MAS VAI QUEIMAR UMA CIDADE\n\nO Defias Juggernaut é o couraçado que a irmandade ergueu escondida pra incendiar uma capital inteira, um dos cenários mais lembrados de World of Warcraft. A equipe do WoWTale está refazendo ele bloco a bloco.\n\n🔹 O casco fica em um estaleiro fechado, cercado de andaime e neblina pesada\n🔹 Os canhões gigantes já apontam pra cima, com a obra ainda em andamento\n\n🎨 @WoWTaleTeam\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "twitterCitacao": "Isso é o Defias Juggernaut. No Hytale. Bloco a bloco."
   },
@@ -7658,8 +7658,8 @@ window.ELDRYN_POSTS = [
               "midia/curseforge/nomadfisica/2.png"
           ]
       },
-      "twitter": "Mod novo liga física de corpo rígido de verdade no Hytale, com physgun e gravity gun no estilo Garry's Mod. Pega, levanta, congela no ar e joga longe 🧲\n\nA simulação roda no servidor, então ninguém precisa instalar nada no cliente.\n\n🔧 NomadLabs, no CurseForge",
-      "meta": "🧲 PEGA, LEVANTA, CONGELA E JOGA LONGE\n\nMod novo liga física de corpo rígido de verdade nos objetos, com a simulação rodando no servidor. Vem com physgun e gravity gun, do mesmo jeito que Garry's Mod faz.\n\n🔹 A physgun segura o objeto no ar, congela no lugar e gira no eixo que você quiser\n🔹 Ninguém precisa instalar nada no cliente, só o servidor, e outro mod pode usar a mesma física por API\n\n🎨 NomadLabs, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "twitter": "Mod novo liga física de corpo rígido de verdade no Hytale, com physgun e gravity gun no estilo Garry's Mod. Pega, levanta, congela no ar e joga longe, e a simulação roda no servidor, então ninguém precisa instalar nada no cliente 🧲\n\n🔧 NomadLabs, no CurseForge",
+      "meta": "Mod novo liga física de corpo rígido de verdade no Hytale, com physgun e gravity gun no estilo Garry's Mod. Pega, levanta, congela no ar e joga longe, e a simulação roda no servidor, então ninguém precisa instalar nada no cliente 🧲\n\n🔧 NomadLabs, no CurseForge",
       "texto": "🧲 PEGA, LEVANTA, CONGELA E JOGA LONGE\n\nMod novo liga física de corpo rígido de verdade nos objetos, com a simulação rodando no servidor. Vem com physgun e gravity gun, do mesmo jeito que Garry's Mod faz.\n\n🔹 A physgun segura o objeto no ar, congela no lugar e gira no eixo que você quiser\n🔹 Ninguém precisa instalar nada no cliente, só o servidor, e outro mod pode usar a mesma física por API\n\n🎨 NomadLabs, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
@@ -7680,8 +7680,8 @@ window.ELDRYN_POSTS = [
               "midia/curseforge/gancho/2.png"
           ]
       },
-      "twitter": "O Hookshot é item da 0.7.0, que nem saiu ainda. Esse mod já entrega o gancho funcionando na 0.6, e o autor garante que ficou melhor que o original 🪝\n\nDá pra fabricar na Bigorna do Ferreiro com 2 barras de ferro e 3 fibras de planta.\n\n🔧 NALOlevrai, no CurseForge",
-      "meta": "🪝 A 0.7.0 AINDA NEM SAIU E ELE JÁ FEZ MELHOR\n\nO Hookshot é item da 0.7.0, que ainda está em pré-lançamento. Esse mod já entrega o gancho funcionando na 0.6, e o autor ainda garante que ficou melhor que o original.\n\n🔹 Joga o gancho, prende no alvo e te puxa na hora pra lugar alto ou distante\n🔹 Dá pra fabricar na Bigorna do Ferreiro com 2 barras de ferro e 3 fibras de planta\n\n🎨 NALOlevrai, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "twitter": "O Hookshot é item da 0.7.0, que nem saiu ainda. Esse mod já entrega o gancho funcionando na 0.6, e o autor garante que ficou melhor que o original 🪝\n\n🔧 NALOlevrai, no CurseForge",
+      "meta": "O Hookshot é item da 0.7.0, que nem saiu ainda. Esse mod já entrega o gancho funcionando na 0.6, e o autor garante que ficou melhor que o original 🪝\n\n🔧 NALOlevrai, no CurseForge",
       "texto": "🪝 A 0.7.0 AINDA NEM SAIU E ELE JÁ FEZ MELHOR\n\nO Hookshot é item da 0.7.0, que ainda está em pré-lançamento. Esse mod já entrega o gancho funcionando na 0.6, e o autor ainda garante que ficou melhor que o original.\n\n🔹 Joga o gancho, prende no alvo e te puxa na hora pra lugar alto ou distante\n🔹 Dá pra fabricar na Bigorna do Ferreiro com 2 barras de ferro e 3 fibras de planta\n\n🎨 NALOlevrai, no CurseForge\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
   },
   {
@@ -7724,8 +7724,8 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/zeldaproj/1.mp4"
       },
-      "twitter": "Tem um projeto recriando o mundo de Zelda em voxel, e no fim desse salão escuro está a Master Sword fincada na pedra 🗡️\n\nA única luz que chega nela vem de uma fresta no teto.\n\n🎥 @CheewawaDev",
-      "meta": "🗡️ TEM ALGO ESPERANDO NO FIM DESSE SALÃO ESCURO\n\nÉ a Master Sword, fincada na pedra no fundo do salão. O trailer é de um projeto que recria o mundo de Zelda em voxel, com floresta tomada de névoa, vagalume e ruína coberta de mato.\n\n🔹 A única luz que chega na espada vem de uma fresta no teto do salão\n🔹 A floresta lembra a Floresta Perdida, com tronco gigante e clareira de ruína no meio\n\n🎥 @CheewawaDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "twitter": "Tem um projeto recriando o mundo de Zelda em voxel, e no fim desse salão escuro está a Master Sword fincada na pedra, com a única luz chegando por uma fresta no teto 🗡️\n\n🎥 @CheewawaDev",
+      "meta": "Tem um projeto recriando o mundo de Zelda em voxel, e no fim desse salão escuro está a Master Sword fincada na pedra, com a única luz chegando por uma fresta no teto 🗡️\n\n🎥 CheewawaDev",
       "texto": "🗡️ TEM ALGO ESPERANDO NO FIM DESSE SALÃO ESCURO\n\nÉ a Master Sword, fincada na pedra no fundo do salão. O trailer é de um projeto que recria o mundo de Zelda em voxel, com floresta tomada de névoa, vagalume e ruína coberta de mato.\n\n🔹 A única luz que chega na espada vem de uma fresta no teto do salão\n🔹 A floresta lembra a Floresta Perdida, com tronco gigante e clareira de ruína no meio\n\n🎥 @CheewawaDev\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "twitterCitacao": "Você já sabe o que está fincado no fim desse salão."
   },
@@ -7747,8 +7747,8 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/chestspider/1.mp4"
       },
-      "twitter": "A Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra buscar item e guardar 🕷️\n\nCada aranha tem inventário próprio. É NPC novo do mod Hexcode Evoke.\n\n🎥 @_Lexem_",
-      "meta": "🕷️ ELA MANDA AS FILHOTES PEGAREM SUAS COISAS\n\nNPC novo do mod Hexcode Evoke, a Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra procurar item e guardar.\n\n🔹 Cada aranha tem ficha própria, com inventário e botão de transferir item\n🔹 Modelo e textura são do Gwentor, autor do Tea Time\n\n🎥 @_Lexem_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "twitter": "A Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra buscar item e guardar, cada uma com inventário próprio. É NPC novo do mod Hexcode Evoke 🕷️\n\n🎥 @_Lexem_",
+      "meta": "A Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra buscar item e guardar, cada uma com inventário próprio. É NPC novo do mod Hexcode Evoke 🕷️\n\n🎥 _Lexem_",
       "texto": "🕷️ ELA MANDA AS FILHOTES PEGAREM SUAS COISAS\n\nNPC novo do mod Hexcode Evoke, a Chest Spider tem baú no lugar do corpo e trabalha em bando. A mãe dá a ordem e as filhotes se espalham pra procurar item e guardar.\n\n🔹 Cada aranha tem ficha própria, com inventário e botão de transferir item\n🔹 Modelo e textura são do Gwentor, autor do Tea Time\n\n🎥 @_Lexem_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "twitterCitacao": "A aranha tem baú no lugar do corpo e manda as filhotes buscarem item pra ela."
   },
@@ -7770,8 +7770,8 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/togoplunge/1.mp4"
       },
-      "twitter": "O golpe de mergulho do projeto TOGO já encadeia sozinho. Cai em cima do inimigo e emenda a sequência assim que toca o chão ⚔️\n\nO alvo é um golem de lava, e ele aguenta a sequência inteira em pé.\n\n🎥 @silver25636",
-      "meta": "⚔️ CAIU EM CIMA DELE E NÃO PAROU MAIS\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "twitter": "O golpe de mergulho do projeto TOGO já encadeia sozinho. Cai em cima do inimigo e emenda a sequência assim que toca o chão, e o golem de lava aguenta tudo em pé ⚔️\n\n🎥 @silver25636",
+      "meta": "O golpe de mergulho do projeto TOGO já encadeia sozinho. Cai em cima do inimigo e emenda a sequência assim que toca o chão, e o golem de lava aguenta tudo em pé ⚔️\n\n🎥 silver25636",
       "texto": "⚔️ CAIU EM CIMA DELE E NÃO PAROU MAIS\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "twitterCitacao": "Caiu em cima do cara e não parou mais. Olha o combo emendando sozinho."
   },
@@ -7793,8 +7793,8 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/talesofsea/1.mp4"
       },
-      "twitter": "Esse modo do Aselion, o Tales of the Sea, parece divertido demais. O navio navega de verdade e o canhão de bordo já troca tiro com a outra embarcação ⚓\n\nDá pra circular pelo convés de espada na mão enquanto o navio se move.\n\n🎥 @aselion_com",
-      "meta": "⚓ O CANHÃO JÁ ESTÁ APONTADO PRO OUTRO NAVIO\n\nPrévia do Tales of the Sea, modalidade em construção no Aselion. O navio navega de verdade e o canhão de bordo já dispara contra a outra embarcação no horizonte.\n\n🔹 Dá pra circular pelo convés de espada na mão enquanto o navio se move\n🔹 A mecânica de navegação ainda está em obra, mas o combate no mar já roda\n\n🎥 @aselion_com\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "twitter": "Esse modo do Aselion, o Tales of the Sea, parece divertido demais. O navio navega de verdade, o canhão de bordo já troca tiro com a outra embarcação e dá pra circular pelo convés de espada na mão ⚓\n\n🎥 @aselion_com",
+      "meta": "Esse modo do Aselion, o Tales of the Sea, parece divertido demais. O navio navega de verdade, o canhão de bordo já troca tiro com a outra embarcação e dá pra circular pelo convés de espada na mão ⚓\n\n🎥 aselion_com",
       "texto": "⚓ O CANHÃO JÁ ESTÁ APONTADO PRO OUTRO NAVIO\n\nPrévia do Tales of the Sea, modalidade em construção no Aselion. O navio navega de verdade e o canhão de bordo já dispara contra a outra embarcação no horizonte.\n\n🔹 Dá pra circular pelo convés de espada na mão enquanto o navio se move\n🔹 A mecânica de navegação ainda está em obra, mas o combate no mar já roda\n\n🎥 @aselion_com\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "twitterCitacao": "Navio navegando de verdade e canhão trocando tiro no mar. Isso é Hytale."
   },
@@ -7816,8 +7816,8 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/tochaagua/1.mp4"
       },
-      "twitter": "Mod novo faz tocha, vela e braseiro apagarem na hora que entram na água, com fumaça e tudo 🔥\n\nPra acender de novo você mira no ar e usa o botão secundário.\n\n🎨 @Starky_TV",
-      "meta": "🔥 MERGULHOU COM A TOCHA ACESA E SE DEU MAL\n\nMod que saiu hoje no navegador de mods traz realismo pra tocha, vela e braseiro. Entrou na água, o fogo morre e ainda solta fumaça na hora.\n\n🔹 Pra acender de novo, você mira no ar e usa o botão secundário\n🔹 Vale pros três, tocha, vela e braseiro\n\n🎨 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "twitter": "Mod novo faz tocha, vela e braseiro apagarem na hora que entram na água, com fumaça e tudo. Pra acender de novo você mira no ar e usa o botão secundário 🔥\n\n🎨 @Starky_TV",
+      "meta": "Mod novo faz tocha, vela e braseiro apagarem na hora que entram na água, com fumaça e tudo. Pra acender de novo você mira no ar e usa o botão secundário 🔥\n\n🎨 Starky_TV",
       "texto": "🔥 MERGULHOU COM A TOCHA ACESA E SE DEU MAL\n\nMod que saiu hoje no navegador de mods traz realismo pra tocha, vela e braseiro. Entrou na água, o fogo morre e ainda solta fumaça na hora.\n\n🔹 Pra acender de novo, você mira no ar e usa o botão secundário\n🔹 Vale pros três, tocha, vela e braseiro\n\n🎨 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "twitterCitacao": "Entrou na água com a tocha acesa. Apagou na hora, com fumaça e tudo."
   },
@@ -7839,8 +7839,8 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/voidcrystal/1.mp4"
       },
-      "twitter": "O altar do Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. E ele está olhando de volta 🔮\n\nO mod está em obra e o criador abriu pra comunidade dizer o que achou.\n\n🎥 @bluebellgb",
-      "meta": "🔮 ESSE ALTAR ESTÁ OLHANDO DE VOLTA\n\nPrévia do Void Crystal, mod em construção com tema do Vazio. O altar roxo tem um olho amarelo brilhando no topo e garras de pedra fechando a base.\n\n🔹 Do lado, o criador montou uma torre de cor pra testar a paleta de bloco do mod\n🔹 Está em obra, e ele abriu pra comunidade dizer o que achou\n\n🎥 @bluebellgb\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "twitter": "O altar do Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. E ele está olhando de volta 🔮\n\n🎥 @bluebellgb",
+      "meta": "O altar do Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. E ele está olhando de volta 🔮\n\n🎥 bluebellgb",
       "texto": "🔮 ESSE ALTAR ESTÁ OLHANDO DE VOLTA\n\nPrévia do Void Crystal, mod em construção com tema do Vazio. O altar roxo tem um olho amarelo brilhando no topo e garras de pedra fechando a base.\n\n🔹 Do lado, o criador montou uma torre de cor pra testar a paleta de bloco do mod\n🔹 Está em obra, e ele abriu pra comunidade dizer o que achou\n\n🎥 @bluebellgb\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "twitterCitacao": "O altar tem um olho. E ele está olhando de volta."
   },
@@ -7862,8 +7862,8 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/gobmeme/1.mp4"
       },
-      "twitter": "Morreu 100 vezes no Gobliterator e foi pedir pra deixar MAIS difícil 😤\n\nA piada saiu logo depois do Simon avisar que os chefes vão ser extremamente difíceis no modo difícil.\n\n🎥 @bravoxv_",
-      "meta": "😤 MORREU 100 VEZES E MANDOU DEIXAR MAIS DIFÍCIL\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
+      "twitter": "Morreu 100 vezes no Gobliterator e foi pedir pra deixar MAIS difícil. A piada saiu logo depois do Simon avisar que os chefes vão ser extremamente difíceis no modo difícil 😤\n\n🎥 @bravoxv_",
+      "meta": "Morreu 100 vezes no Gobliterator e foi pedir pra deixar MAIS difícil. A piada saiu logo depois do Simon avisar que os chefes vão ser extremamente difíceis no modo difícil 😤\n\n🎥 bravoxv_",
       "texto": "😤 MORREU 100 VEZES E MANDOU DEIXAR MAIS DIFÍCIL\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews",
       "twitterCitacao": "Morreu 100 vezes no chefe e foi pedir pra deixar MAIS difícil."
   }
