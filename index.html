@@ -677,8 +677,34 @@ Array.prototype.forEach.call(document.querySelectorAll('.aba'),function(b){
   });
 });
 
+// Hoje/futuro/passado calculados AGORA, no navegador, e nao na hora do export.
+// Sem isso o painel ficava preso no dia em que o exportar.js rodou pela
+// ultima vez. Fuso fixo de Brasilia: o painel e aberto do celular tambem.
+function hojeBrasilia(){
+  return new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo'}).format(new Date());
+}
+function reclassificaDias(){
+  if(!D||!Array.isArray(D.diasGrade)) return;
+  var hoje=hojeBrasilia(), agora=Date.now();
+  D.diasGrade.forEach(function(d){
+    d.quando = d.dia===hoje ? 'hoje' : (d.dia>hoje ? 'futuro' : 'passado');
+    (d.posts||[]).forEach(function(q){
+      if(q.status==='agendado'){
+        var t=new Date(q.data+'T'+q.hora+':00-03:00').getTime();
+        if(t<=agora) q.status='publicado';
+      }
+    });
+  });
+  var h=D.diasGrade.filter(function(d){return d.quando==='hoje'});
+  var f=D.diasGrade.filter(function(d){return d.quando==='futuro'}).sort(function(x,y){return x.dia<y.dia?-1:1});
+  var pa=D.diasGrade.filter(function(d){return d.quando==='passado'}).sort(function(x,y){return x.dia<y.dia?1:-1});
+  D.diasGrade=h.concat(f,pa);
+  if(D.agora) D.agora.hoje=hoje;
+}
+
 fetch('painel.json?t='+Date.now()).then(function(r){return r.json()}).then(function(d){
   D=d;
+  reclassificaDias();
   montaTrilho(); montaPlacar(); montaDias(); montaDados();
   document.getElementById('rodape').textContent='painel gerado em '+new Date(d.geradoEm).toLocaleString('pt-BR')+
     ' · '+((d.grade&&d.grade.length)||0)+' posts no histórico da grade';
