@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-17T14:54:59.636Z",
+  "geradoEm": "2026-09-17T15:01:45.167Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -763,10 +763,10 @@
       "urlPublicada": "https://www.facebook.com/reel/1053908530860935/"
     },
     {
-      "hora": "12:30",
+      "hora": "11:58",
       "data": "2026-09-17",
       "id": "rc289",
-      "rede": "twitter",
+      "rede": "facebook",
       "titulo": "Saiu a Parte 3 da pre-release do Update 7, e tem coisa boa para quem joga 🔥",
       "textoMeta": "Saiu a Parte 3 da pre-release do Update 7, e tem coisa boa para quem joga 🔥\n\n⚔️ Combate e criaturas\n🔹 Algumas criaturas agora precisam ser derrotadas em combate para liberar a Memória delas\n🔹 O Skeleton Elite ficou mais rápido e ganhou sons novos\n🔹 O Feastmaster ganhou animação para escalar, nadar, voar e dormir\n🔹 Predadores grandes atacam aranhas assim que veem\n🔹 O Ground Slam agora funciona com machado de batalha\n\n🌀 Mundo e itens\n🔹 Mundos de portal podem ficar abertos sem limite de tempo\n🔹 O Barril Explosivo agora é arremessado com o clique esquerdo\n🔹 As Runas agora dizem se são de Habilidade ou Modificadoras\n🔹 O Scrap Glider ganhou modelo novo, e não dá mais para ganhar altura pulando sem parar\n🔹 Os kits de ferro e adamantita agora vêm com comida e poção de vida\n\n💻 Desempenho e correções\n🔹 Mundos salvos ocupam menos espaço no disco\n🔹 O jogo não volta mais para o inglês quando o sistema está em português do Brasil\n🔹 Corrigido o travamento ao entrar em um mundo novo\n🔹 Corrigidos vazamentos de memória e crashes no Windows e com placa de vídeo integrada da Intel\n\n🔧 Para quem faz mod\n🔹 Blocos podem mostrar nome e descrição sem precisar quebrar\n🔹 Explosões podem definir o tipo de dano, e os marcadores do mapa podem ficar maiores",
       "textoTwitter": "Saiu a Parte 3 da pre-release do Update 7, e tem coisa boa para quem joga e para quem faz mod 🔥\n\n⚔️ Combate e criaturas\n🔹 Algumas criaturas agora precisam ser derrotadas em combate para liberar a Memória delas\n🔹 O Skeleton Elite ficou mais rápido no Flowing Slashes e ganhou sons novos\n🔹 O Feastmaster ganhou animação para escalar, nadar, mergulhar, voar e dormir\n🔹 Predadores grandes atacam aranhas assim que veem\n🔹 Os goblins ficaram melhores em fugir das criaturas do Vazio\n🔹 O Ground Slam agora funciona com machado de batalha\n\n🌀 Mundo e itens\n🔹 Mundos de portal podem ficar abertos sem limite de tempo\n🔹 O Barril Explosivo agora é arremessado com o clique esquerdo\n🔹 As Runas mudaram de nome e agora dizem se são de Habilidade ou Modificadoras\n🔹 O Scrap Glider ganhou modelo novo, e não dá mais para ganhar altura pulando sem parar\n🔹 Os comandos /kit iron e /kit adamantite agora vêm com comida e poção de vida\n🔹 O lança-chamas do Goblin Burner agora faz som de superaquecimento e recarga\n\n💻 Desempenho e correções\n🔹 Mundos salvos ocupam menos espaço no disco\n🔹 Servidores cheios usam menos memória na hora de salvar o mundo\n🔹 O jogo não volta mais para o inglês quando o idioma do sistema tem variante regional, como o português do Brasil\n🔹 O menu de debug (F7 duas vezes) foi refeito, com painéis que dá para mover, redimensionar e esconder\n🔹 Corrigido o travamento ao entrar em um mundo novo\n🔹 Corrigidos vazamentos de memória ao entrar em mundos e depois de abrir o mapa\n🔹 Corrigido o crash no Windows quando o antivírus interrompia o salvamento do mundo\n🔹 Corrigido o crash nos menus com placa de vídeo integrada da Intel\n\n🔧 Para quem faz mod\n🔹 Blocos agora podem mostrar nome e descrição sem precisar quebrar\n🔹 A criatura pode entregar a Memória quando morre, em vez de quando o jogador chega perto\n🔹 Explosões podem definir o tipo de dano causado\n🔹 Marcadores do mapa podem ficar maiores\n🔹 Plugins podem impedir o jogador de abrir as telas de debug\n🔹 Itens amaldiçoados viraram itens efêmeros, e o comando /cursethis agora é /ephemeral",
@@ -779,11 +779,12 @@
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
       "arquivosTwitter": [],
       "tipo": "imagem",
-      "status": "aguardando manual",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
-      "motivo": null
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1710583234403600"
     },
     {
       "hora": "16:00",
@@ -3529,10 +3530,10 @@
       "quando": "hoje",
       "posts": [
         {
-          "hora": "12:30",
+          "hora": "11:58",
           "data": "2026-09-17",
           "id": "rc289",
-          "rede": "twitter",
+          "rede": "facebook",
           "titulo": "Saiu a Parte 3 da pre-release do Update 7, e tem coisa boa para quem joga 🔥",
           "textoMeta": "Saiu a Parte 3 da pre-release do Update 7, e tem coisa boa para quem joga 🔥\n\n⚔️ Combate e criaturas\n🔹 Algumas criaturas agora precisam ser derrotadas em combate para liberar a Memória delas\n🔹 O Skeleton Elite ficou mais rápido e ganhou sons novos\n🔹 O Feastmaster ganhou animação para escalar, nadar, voar e dormir\n🔹 Predadores grandes atacam aranhas assim que veem\n🔹 O Ground Slam agora funciona com machado de batalha\n\n🌀 Mundo e itens\n🔹 Mundos de portal podem ficar abertos sem limite de tempo\n🔹 O Barril Explosivo agora é arremessado com o clique esquerdo\n🔹 As Runas agora dizem se são de Habilidade ou Modificadoras\n🔹 O Scrap Glider ganhou modelo novo, e não dá mais para ganhar altura pulando sem parar\n🔹 Os kits de ferro e adamantita agora vêm com comida e poção de vida\n\n💻 Desempenho e correções\n🔹 Mundos salvos ocupam menos espaço no disco\n🔹 O jogo não volta mais para o inglês quando o sistema está em português do Brasil\n🔹 Corrigido o travamento ao entrar em um mundo novo\n🔹 Corrigidos vazamentos de memória e crashes no Windows e com placa de vídeo integrada da Intel\n\n🔧 Para quem faz mod\n🔹 Blocos podem mostrar nome e descrição sem precisar quebrar\n🔹 Explosões podem definir o tipo de dano, e os marcadores do mapa podem ficar maiores",
           "textoTwitter": "Saiu a Parte 3 da pre-release do Update 7, e tem coisa boa para quem joga e para quem faz mod 🔥\n\n⚔️ Combate e criaturas\n🔹 Algumas criaturas agora precisam ser derrotadas em combate para liberar a Memória delas\n🔹 O Skeleton Elite ficou mais rápido no Flowing Slashes e ganhou sons novos\n🔹 O Feastmaster ganhou animação para escalar, nadar, mergulhar, voar e dormir\n🔹 Predadores grandes atacam aranhas assim que veem\n🔹 Os goblins ficaram melhores em fugir das criaturas do Vazio\n🔹 O Ground Slam agora funciona com machado de batalha\n\n🌀 Mundo e itens\n🔹 Mundos de portal podem ficar abertos sem limite de tempo\n🔹 O Barril Explosivo agora é arremessado com o clique esquerdo\n🔹 As Runas mudaram de nome e agora dizem se são de Habilidade ou Modificadoras\n🔹 O Scrap Glider ganhou modelo novo, e não dá mais para ganhar altura pulando sem parar\n🔹 Os comandos /kit iron e /kit adamantite agora vêm com comida e poção de vida\n🔹 O lança-chamas do Goblin Burner agora faz som de superaquecimento e recarga\n\n💻 Desempenho e correções\n🔹 Mundos salvos ocupam menos espaço no disco\n🔹 Servidores cheios usam menos memória na hora de salvar o mundo\n🔹 O jogo não volta mais para o inglês quando o idioma do sistema tem variante regional, como o português do Brasil\n🔹 O menu de debug (F7 duas vezes) foi refeito, com painéis que dá para mover, redimensionar e esconder\n🔹 Corrigido o travamento ao entrar em um mundo novo\n🔹 Corrigidos vazamentos de memória ao entrar em mundos e depois de abrir o mapa\n🔹 Corrigido o crash no Windows quando o antivírus interrompia o salvamento do mundo\n🔹 Corrigido o crash nos menus com placa de vídeo integrada da Intel\n\n🔧 Para quem faz mod\n🔹 Blocos agora podem mostrar nome e descrição sem precisar quebrar\n🔹 A criatura pode entregar a Memória quando morre, em vez de quando o jogador chega perto\n🔹 Explosões podem definir o tipo de dano causado\n🔹 Marcadores do mapa podem ficar maiores\n🔹 Plugins podem impedir o jogador de abrir as telas de debug\n🔹 Itens amaldiçoados viraram itens efêmeros, e o comando /cursethis agora é /ephemeral",
@@ -3545,11 +3546,12 @@
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
           "arquivosTwitter": [],
           "tipo": "imagem",
-          "status": "aguardando manual",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
-          "motivo": null
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1710583234403600"
         },
         {
           "hora": "14:00",
@@ -6858,11 +6860,11 @@
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
     "hoje": "2026-09-17",
-    "publicadosHoje": 0,
-    "faltamHoje": 6,
-    "agendadosFuturo": 10,
-    "publicados7dias": 13,
-    "instagramNoAr": 95,
+    "publicadosHoje": 1,
+    "faltamHoje": 5,
+    "agendadosFuturo": 9,
+    "publicados7dias": 14,
+    "instagramNoAr": 96,
     "instagramPendente": 0,
     "cobertaAte": "2026-09-19"
   },
@@ -6878,7 +6880,7 @@
     "instagram": {
       "nome": "@brasilhytale",
       "seguidores": 6077,
-      "totalPosts": 323,
+      "totalPosts": 324,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
       "mediaCurtidas": 72,
@@ -6952,8 +6954,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-08-16T21:01:01+0000",
-      "ate": "2026-09-16T21:44:43+0000"
+      "de": "2026-08-17T13:26:42+0000",
+      "ate": "2026-09-17T14:59:44+0000"
     },
     "serie": [
       {
