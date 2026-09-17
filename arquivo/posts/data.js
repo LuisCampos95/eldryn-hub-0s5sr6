@@ -7857,5 +7857,49 @@ window.ELDRYN_POSTS = [
       "twitter": "Morreu 100 vezes e ainda pediu para deixar MAIS difícil. Eu estaria chorando 😭\n\n🎥 @bravoxv_",
       "meta": "Morreu 100 vezes e ainda pediu para deixar MAIS difícil. Eu estaria chorando 😭\n\n🎥 bravoxv_",
       "texto": "😤 MORREU 100 VEZES E MANDOU DEIXAR MAIS DIFÍCIL\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+  },
+  {
+      "id": "rc287",
+      "rodada": "2026-09-17 10:20",
+      "emoji": "⚡",
+      "titulo": "[REDDIT] A runa se grava sozinha na armadura",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1whbdhl/",
+      "fonteData": "2026-09-15",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura do X 17/09, fonte Reddit r/hytale. No X subiu como GIF (Chrome oculto travou upload de video).",
+      "midia": {
+          "url": "https://www.reddit.com/r/hytale/comments/1whbdhl/",
+          "nota": "Video do Reddit sem audio.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/runaarmadura/1.mp4"
+          ],
+          "video": "midia/twitter/runaarmadura/1.mp4"
+      },
+      "twitter": "Quero essa armadura AGORA ⚡ A runa se grava sozinha e solta faísca quando apanha\n\n🎥 u/Kame_No_Mi",
+      "meta": "Quero essa armadura AGORA ⚡ A runa se grava sozinha e solta faísca quando apanha\n\n🎥 Kame_No_Mi",
+      "texto": "Quero essa armadura AGORA ⚡ A runa se grava sozinha e solta faísca quando apanha\n\n🎥 Kame_No_Mi"
+  },
+  {
+      "id": "rc288",
+      "rodada": "2026-09-17 10:20",
+      "emoji": "🌧️",
+      "titulo": "[X] O aldeão fica triste quando chove",
+      "fonte": "https://x.com/GibsonHougland/status/2100386255037166032",
+      "fonteData": "2026-09-16",
+      "confiabilidade": "Fonte original do criador.",
+      "resumo": "Varredura #Hytale no X logado, filtro de media.",
+      "midia": {
+          "url": "https://x.com/GibsonHougland/status/2100386255037166032",
+          "nota": "Midia da fonte original.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/aldeaochuva/1.mp4"
+          ],
+          "video": "midia/twitter/aldeaochuva/1.mp4"
+      },
+      "twitter": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️",
+      "meta": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️\n\n🎥 GibsonHougland",
+      "texto": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️\n\n🎥 GibsonHougland"
   }
 ];

@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-16T19:38:09.901Z",
+  "geradoEm": "2026-09-17T13:44:09.310Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -643,6 +643,53 @@
       "urlPublicada": "https://www.facebook.com/reel/1054175670740528/"
     },
     {
+      "hora": "18:00",
+      "data": "2026-09-17",
+      "id": "rc280",
+      "rede": "facebook",
+      "titulo": "Você sabe o que está esperando no fim desse corredor 🗡️",
+      "textoMeta": "Você sabe o que está esperando no fim desse corredor 🗡️\n\n🎥 CheewawaDev",
+      "textoTwitter": "Você sabe o que está esperando no fim desse corredor 🗡️\n\n🎥 @CheewawaDev",
+      "twitterCitacao": "",
+      "fonte": "https://x.com/CheewawaDev/status/2099224244500771266",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc280.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null,
+      "urlPublicada": "https://www.facebook.com/reel/1876395167072545/"
+    },
+    {
+      "hora": "17:00",
+      "data": "2026-09-17",
+      "id": "rc288",
+      "rede": "twitter",
+      "titulo": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️",
+      "textoMeta": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️\n\n🎥 GibsonHougland",
+      "textoTwitter": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️",
+      "twitterCitacao": "",
+      "fonte": "https://x.com/GibsonHougland/status/2100386255037166032",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc288.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
       "hora": "16:00",
       "data": "2026-09-17",
       "id": "rc281",
@@ -665,6 +712,29 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/1567566688744569/"
+    },
+    {
+      "hora": "15:00",
+      "data": "2026-09-17",
+      "id": "rc287",
+      "rede": "twitter",
+      "titulo": "Quero essa armadura AGORA ⚡ A runa se grava sozinha e solta faísca quando apanha",
+      "textoMeta": "Quero essa armadura AGORA ⚡ A runa se grava sozinha e solta faísca quando apanha\n\n🎥 Kame_No_Mi",
+      "textoTwitter": "Quero essa armadura AGORA ⚡ A runa se grava sozinha e solta faísca quando apanha\n\n🎥 u/Kame_No_Mi",
+      "twitterCitacao": "",
+      "fonte": "https://www.reddit.com/r/hytale/comments/1whbdhl/",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc287.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
     },
     {
       "hora": "14:00",
@@ -691,30 +761,6 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/1053908530860935/"
-    },
-    {
-      "hora": "12:00",
-      "data": "2026-09-17",
-      "id": "rc280",
-      "rede": "facebook",
-      "titulo": "Você sabe o que está esperando no fim desse corredor 🗡️",
-      "textoMeta": "Você sabe o que está esperando no fim desse corredor 🗡️\n\n🎥 CheewawaDev",
-      "textoTwitter": "Você sabe o que está esperando no fim desse corredor 🗡️\n\n🎥 @CheewawaDev",
-      "twitterCitacao": "",
-      "fonte": "https://x.com/CheewawaDev/status/2099224244500771266",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc280.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null,
-      "urlPublicada": "https://www.facebook.com/reel/1876395167072545/"
     },
     {
       "hora": "16:00",
@@ -3456,96 +3502,9 @@
   ],
   "diasGrade": [
     {
-      "dia": "2026-09-16",
+      "dia": "2026-09-17",
       "quando": "hoje",
       "posts": [
-        {
-          "hora": "12:00",
-          "data": "2026-09-16",
-          "id": "rc277",
-          "rede": "facebook",
-          "titulo": "Quem jogou Garry's Mod vai sentir saudade na hora 😂 Agora dá para pegar qualquer coisa e jogar longe",
-          "textoMeta": "Quem jogou Garry's Mod vai sentir saudade na hora 😂 Agora dá para pegar qualquer coisa e jogar longe\n\n🔧 NomadLabs, no CurseForge",
-          "textoTwitter": "Quem jogou Garry's Mod vai sentir saudade na hora 😂 Agora dá para pegar qualquer coisa e jogar longe\n\n🔧 NomadLabs, no CurseForge",
-          "twitterCitacao": "",
-          "fonte": "https://www.curseforge.com/hytale/mods/nomad-physics",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc277_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc277_2.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-16",
-          "arquivosTwitter": [
-            "01-1200-rc277-1.png",
-            "01-1200-rc277-2.png"
-          ],
-          "tipo": "carrossel",
-          "status": "publicado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1707473641381226"
-        },
-        {
-          "hora": "16:00",
-          "data": "2026-09-16",
-          "id": "rc278",
-          "rede": "facebook",
-          "titulo": "Ele cansou de esperar a 0.7.0 e fez o gancho sozinho. E ainda diz que ficou melhor que o original 😂",
-          "textoMeta": "Ele cansou de esperar a 0.7.0 e fez o gancho sozinho. E ainda diz que ficou melhor que o original 😂\n\n🔧 NALOlevrai, no CurseForge",
-          "textoTwitter": "Ele cansou de esperar a 0.7.0 e fez o gancho sozinho. E ainda diz que ficou melhor que o original 😂\n\n🔧 NALOlevrai, no CurseForge",
-          "twitterCitacao": "",
-          "fonte": "https://www.curseforge.com/hytale/mods/super-grappling-hook",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc278_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc278_2.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-16",
-          "arquivosTwitter": [
-            "02-1600-rc278-1.png",
-            "02-1600-rc278-2.png"
-          ],
-          "tipo": "carrossel",
-          "status": "publicado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1707473758047881"
-        }
-      ],
-      "total": 2
-    },
-    {
-      "dia": "2026-09-17",
-      "quando": "futuro",
-      "posts": [
-        {
-          "hora": "12:00",
-          "data": "2026-09-17",
-          "id": "rc280",
-          "rede": "facebook",
-          "titulo": "Você sabe o que está esperando no fim desse corredor 🗡️",
-          "textoMeta": "Você sabe o que está esperando no fim desse corredor 🗡️\n\n🎥 CheewawaDev",
-          "textoTwitter": "Você sabe o que está esperando no fim desse corredor 🗡️\n\n🎥 @CheewawaDev",
-          "twitterCitacao": "",
-          "fonte": "https://x.com/CheewawaDev/status/2099224244500771266",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc280.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/1876395167072545/"
-        },
         {
           "hora": "14:00",
           "data": "2026-09-17",
@@ -3573,6 +3532,29 @@
           "urlPublicada": "https://www.facebook.com/reel/1053908530860935/"
         },
         {
+          "hora": "15:00",
+          "data": "2026-09-17",
+          "id": "rc287",
+          "rede": "twitter",
+          "titulo": "Quero essa armadura AGORA ⚡ A runa se grava sozinha e solta faísca quando apanha",
+          "textoMeta": "Quero essa armadura AGORA ⚡ A runa se grava sozinha e solta faísca quando apanha\n\n🎥 Kame_No_Mi",
+          "textoTwitter": "Quero essa armadura AGORA ⚡ A runa se grava sozinha e solta faísca quando apanha\n\n🎥 u/Kame_No_Mi",
+          "twitterCitacao": "",
+          "fonte": "https://www.reddit.com/r/hytale/comments/1whbdhl/",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc287.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
           "hora": "16:00",
           "data": "2026-09-17",
           "id": "rc281",
@@ -3595,9 +3577,56 @@
           "categoria": null,
           "motivo": null,
           "urlPublicada": "https://www.facebook.com/reel/1567566688744569/"
+        },
+        {
+          "hora": "17:00",
+          "data": "2026-09-17",
+          "id": "rc288",
+          "rede": "twitter",
+          "titulo": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️",
+          "textoMeta": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️\n\n🎥 GibsonHougland",
+          "textoTwitter": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/GibsonHougland/status/2100386255037166032",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc288.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
+          "hora": "18:00",
+          "data": "2026-09-17",
+          "id": "rc280",
+          "rede": "facebook",
+          "titulo": "Você sabe o que está esperando no fim desse corredor 🗡️",
+          "textoMeta": "Você sabe o que está esperando no fim desse corredor 🗡️\n\n🎥 CheewawaDev",
+          "textoTwitter": "Você sabe o que está esperando no fim desse corredor 🗡️\n\n🎥 @CheewawaDev",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/CheewawaDev/status/2099224244500771266",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc280.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1876395167072545/"
         }
       ],
-      "total": 3
+      "total": 5
     },
     {
       "dia": "2026-09-18",
@@ -3716,6 +3745,69 @@
         }
       ],
       "total": 1
+    },
+    {
+      "dia": "2026-09-16",
+      "quando": "passado",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-16",
+          "id": "rc277",
+          "rede": "facebook",
+          "titulo": "Quem jogou Garry's Mod vai sentir saudade na hora 😂 Agora dá para pegar qualquer coisa e jogar longe",
+          "textoMeta": "Quem jogou Garry's Mod vai sentir saudade na hora 😂 Agora dá para pegar qualquer coisa e jogar longe\n\n🔧 NomadLabs, no CurseForge",
+          "textoTwitter": "Quem jogou Garry's Mod vai sentir saudade na hora 😂 Agora dá para pegar qualquer coisa e jogar longe\n\n🔧 NomadLabs, no CurseForge",
+          "twitterCitacao": "",
+          "fonte": "https://www.curseforge.com/hytale/mods/nomad-physics",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc277_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc277_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-16",
+          "arquivosTwitter": [
+            "01-1200-rc277-1.png",
+            "01-1200-rc277-2.png"
+          ],
+          "tipo": "carrossel",
+          "status": "publicado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1707473641381226"
+        },
+        {
+          "hora": "16:00",
+          "data": "2026-09-16",
+          "id": "rc278",
+          "rede": "facebook",
+          "titulo": "Ele cansou de esperar a 0.7.0 e fez o gancho sozinho. E ainda diz que ficou melhor que o original 😂",
+          "textoMeta": "Ele cansou de esperar a 0.7.0 e fez o gancho sozinho. E ainda diz que ficou melhor que o original 😂\n\n🔧 NALOlevrai, no CurseForge",
+          "textoTwitter": "Ele cansou de esperar a 0.7.0 e fez o gancho sozinho. E ainda diz que ficou melhor que o original 😂\n\n🔧 NALOlevrai, no CurseForge",
+          "twitterCitacao": "",
+          "fonte": "https://www.curseforge.com/hytale/mods/super-grappling-hook",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc278_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc278_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-16",
+          "arquivosTwitter": [
+            "02-1600-rc278-1.png",
+            "02-1600-rc278-2.png"
+          ],
+          "tipo": "carrossel",
+          "status": "publicado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/1679490490846208/posts/1707473758047881"
+        }
+      ],
+      "total": 2
     },
     {
       "dia": "2026-09-15",
@@ -6676,9 +6768,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 2,
+    "total": 1,
     "feitos": 0,
-    "data": "2026-09-16"
+    "data": "2026-09-17"
   },
   "custos": {
     "infraMensal": 0,
@@ -6719,12 +6811,12 @@
   "ultimaColeta": "2026-09-15T12:19:40.239Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
-    "hoje": "2026-09-16",
-    "publicadosHoje": 2,
-    "faltamHoje": 0,
-    "agendadosFuturo": 7,
-    "publicados7dias": 21,
-    "instagramNoAr": 91,
+    "hoje": "2026-09-17",
+    "publicadosHoje": 0,
+    "faltamHoje": 5,
+    "agendadosFuturo": 9,
+    "publicados7dias": 13,
+    "instagramNoAr": 95,
     "instagramPendente": 0,
     "cobertaAte": "2026-09-19"
   },
@@ -6739,8 +6831,8 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6075,
-      "totalPosts": 322,
+      "seguidores": 6077,
+      "totalPosts": 323,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
       "mediaCurtidas": 72,
@@ -6764,7 +6856,7 @@
     "topPosts": [
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 751,
+        "curtidas": 752,
         "comentarios": 4,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
@@ -6814,8 +6906,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-08-16T16:54:50+0000",
-      "ate": "2026-09-16T18:33:41+0000"
+      "de": "2026-08-16T21:01:01+0000",
+      "ate": "2026-09-16T21:44:43+0000"
     },
     "serie": [
       {
