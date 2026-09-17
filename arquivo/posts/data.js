@@ -7766,9 +7766,9 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/togoplunge/1.mp4"
       },
-      "twitter": "Esse combo não acaba nunca ⚔️ Coitado do golem\n\n🎥 @silver25636",
-      "meta": "Esse combo não acaba nunca ⚔️ Coitado do golem\n\n🎥 silver25636",
-      "texto": "⚔️ CAIU EM CIMA DELE E NÃO PAROU MAIS\n\nNo projeto TOGO, o golpe de mergulho recém-adquirido já encadeia sozinho, caindo em cima do inimigo e emendando a sequência assim que toca o chão.\n\n🔹 O dano sai em sequência, com o número saltando a cada acerto\n🔹 O alvo é um golem de lava, que aguenta a sequência inteira em pé\n\n🎥 @silver25636\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+      "twitter": "O golpe de mergulho do mod TOGO já encadeia sozinho. O personagem cai em cima do golem de lava e emenda o combo inteiro sem parar, com o dano subindo a cada acerto ⚔️\n\n🎥 @silver25636",
+      "meta": "O golpe de mergulho do mod TOGO já encadeia sozinho. O personagem cai em cima do golem de lava e emenda o combo inteiro sem parar, com o dano subindo a cada acerto ⚔️\n\n🎥 silver25636",
+      "texto": "O golpe de mergulho do mod TOGO já encadeia sozinho. O personagem cai em cima do golem de lava e emenda o combo inteiro sem parar, com o dano subindo a cada acerto ⚔️\n\n🎥 @silver25636"
   },
   {
       "id": "rc283",
@@ -7810,9 +7810,9 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/tochaagua/1.mp4"
       },
-      "twitter": "Finalmente alguém lembrou que fogo apaga na água 😂🔥\n\n🎨 @Starky_TV",
-      "meta": "Finalmente alguém lembrou que fogo apaga na água 😂🔥\n\n🎨 Starky_TV",
-      "texto": "🔥 MERGULHOU COM A TOCHA ACESA E SE DEU MAL\n\nMod que saiu hoje no navegador de mods traz realismo pra tocha, vela e braseiro. Entrou na água, o fogo morre e ainda solta fumaça na hora.\n\n🔹 Pra acender de novo, você mira no ar e usa o botão secundário\n🔹 Vale pros três, tocha, vela e braseiro\n\n🎨 @Starky_TV\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+      "twitter": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 @Starky_TV",
+      "meta": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 Starky_TV",
+      "texto": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 @Starky_TV"
   },
   {
       "id": "rc285",
@@ -7832,9 +7832,9 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/voidcrystal/1.mp4"
       },
-      "twitter": "Eu não chegaria perto desse altar 🔮 Ele está olhando para você\n\n🎥 @bluebellgb",
-      "meta": "Eu não chegaria perto desse altar 🔮 Ele está olhando para você\n\n🎥 bluebellgb",
-      "texto": "🔮 ESSE ALTAR ESTÁ OLHANDO DE VOLTA\n\nPrévia do Void Crystal, mod em construção com tema do Vazio. O altar roxo tem um olho amarelo brilhando no topo e garras de pedra fechando a base.\n\n🔹 Do lado, o criador montou uma torre de cor pra testar a paleta de bloco do mod\n🔹 Está em obra, e ele abriu pra comunidade dizer o que achou\n\n🎥 @bluebellgb\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+      "twitter": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 @bluebellgb",
+      "meta": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 bluebellgb",
+      "texto": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 @bluebellgb"
   },
   {
       "id": "rc286",
@@ -7854,9 +7854,9 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/gobmeme/1.mp4"
       },
-      "twitter": "Morreu 100 vezes e ainda pediu para deixar MAIS difícil. Eu estaria chorando 😭\n\n🎥 @bravoxv_",
-      "meta": "Morreu 100 vezes e ainda pediu para deixar MAIS difícil. Eu estaria chorando 😭\n\n🎥 bravoxv_",
-      "texto": "😤 MORREU 100 VEZES E MANDOU DEIXAR MAIS DIFÍCIL\n\nMontagem da comunidade sobre o Gobliterator, o chefe que o próprio Simon prometeu deixar brutal no modo difícil. Na cena, o mascote dele encara a máquina de cara amarrada.\n\n🔹 O chefe é a máquina verde dos goblin, com fornalha acesa no peito\n🔹 A piada saiu logo depois do aviso de que os chefes vão ser extremamente difíceis\n\n🎥 @bravoxv_\n\n🌟 Use o código de criador BRASIL ou HYBR ao comprar no site do Hytale!\n\n#Hytale #HytaleBrasil #HytaleGame #HytaleNews"
+      "twitter": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 @bravoxv_",
+      "meta": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 bravoxv_",
+      "texto": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 @bravoxv_"
   },
   {
       "id": "rc287",
@@ -7898,9 +7898,9 @@ window.ELDRYN_POSTS = [
           ],
           "video": "midia/twitter/aldeaochuva/1.mp4"
       },
-      "twitter": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️",
-      "meta": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️\n\n🎥 GibsonHougland",
-      "texto": "Finalmente um aldeão que fica triste quando chove, igual a mim 🌧️\n\n🎥 GibsonHougland"
+      "twitter": "Os aldeões desse mod reagem ao clima. Quando começa a chover, aparece um balão de pensamento em cima de cada um mostrando o humor do momento. O mod ainda está em desenvolvimento 🌧️\n\n🎥 @GibsonHougland",
+      "meta": "Os aldeões desse mod reagem ao clima. Quando começa a chover, aparece um balão de pensamento em cima de cada um mostrando o humor do momento. O mod ainda está em desenvolvimento 🌧️\n\n🎥 GibsonHougland",
+      "texto": "Os aldeões desse mod reagem ao clima. Quando começa a chover, aparece um balão de pensamento em cima de cada um mostrando o humor do momento. O mod ainda está em desenvolvimento 🌧️\n\n🎥 @GibsonHougland"
   },
   {
       "id": "rc289",
