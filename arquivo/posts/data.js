@@ -7968,5 +7968,27 @@ window.ELDRYN_POSTS = [
       "twitter": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖\n\n📷 RedEngDeveloper",
       "meta": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖\n\n📷 RedEngDeveloper",
       "texto": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖\n\n📷 RedEngDeveloper"
+  },
+  {
+      "id": "rc293",
+      "rodada": "2026-09-18",
+      "emoji": "⚔️",
+      "titulo": "[X] Veyra vira o Hytale em um Diablo",
+      "fonte": "https://x.com/VeyraARPG/status/2100613818522997000",
+      "fonteData": "2026-09-17",
+      "confiabilidade": "alta",
+      "resumo": "Servidor gringo Veyra ARPG, update com classe Druida, elites com 9 modificadores e UI nova. Indicado pelo dono em 18/09. Video so gameplay, sem narracao.",
+      "midia": {
+          "url": "https://x.com/VeyraARPG/status/2100613818522997000/video/1",
+          "nota": "Postar video no X",
+          "tipo": "video",
+          "arquivos": [
+              "posts/midia/twitter/rc293/1.mp4"
+          ],
+          "video": "posts/midia/twitter/rc293/1.mp4"
+      },
+      "twitter": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️",
+      "meta": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️\n\n🎥 VeyraARPG",
+      "texto": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️"
   }
 ];
