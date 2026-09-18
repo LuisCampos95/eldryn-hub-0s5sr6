@@ -7966,5 +7966,29 @@ window.ELDRYN_POSTS = [
       "twitter": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪\n\n🎥 @GibsonHougland",
       "meta": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪\n\n🎥 Hexvane",
       "texto": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪\n\n🎥 @GibsonHougland"
+  },
+  {
+      "id": "rc292",
+      "rodada": "2026-09-18 16:00",
+      "emoji": "🦖",
+      "titulo": "[CURSEFORGE] Selva e deserto tomados por raptores",
+      "fonte": "https://www.curseforge.com/hytale/mods/prehistoric-journey",
+      "fonteData": "2026-09-17",
+      "confiabilidade": "Pagina oficial do mod + galeria do criador (RedEngDeveloper).",
+      "resumo": "Varredura CurseForge por data de criacao, 27 downloads. Mod de worldgen feito para a jam Raptor Hallows. No X subiu com 4 imagens da galeria (upload nosso).",
+      "midia": {
+          "url": "https://www.curseforge.com/hytale/mods/prehistoric-journey/gallery",
+          "nota": "Galeria do criador no CurseForge.",
+          "tipo": "imagem",
+          "arquivos": [
+              "midia/twitter/prehistoric-journey/1.jpg",
+              "midia/twitter/prehistoric-journey/2.jpg",
+              "midia/twitter/prehistoric-journey/3.jpg",
+              "midia/twitter/prehistoric-journey/4.jpg"
+          ]
+      },
+      "twitter": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖\n\n📷 RedEngDeveloper",
+      "meta": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖\n\n📷 RedEngDeveloper",
+      "texto": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖\n\n📷 RedEngDeveloper"
   }
 ];

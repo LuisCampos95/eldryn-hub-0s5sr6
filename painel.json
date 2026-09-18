@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-18T14:34:57.935Z",
+  "geradoEm": "2026-09-18T14:54:50.416Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -591,6 +591,32 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/2280478752719728/"
+    },
+    {
+      "hora": "16:00",
+      "data": "2026-09-18",
+      "id": "rc292",
+      "rede": "twitter",
+      "titulo": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖",
+      "textoMeta": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖\n\n📷 RedEngDeveloper",
+      "textoTwitter": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖\n\n📷 RedEngDeveloper",
+      "twitterCitacao": "",
+      "fonte": "https://www.curseforge.com/hytale/mods/prehistoric-journey",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc292_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc292_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc292_3.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc292_4.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
     },
     {
       "hora": "15:00",
@@ -3672,6 +3698,32 @@
           "urlPublicada": "https://www.facebook.com/reel/1557615308878099/"
         },
         {
+          "hora": "16:00",
+          "data": "2026-09-18",
+          "id": "rc292",
+          "rede": "twitter",
+          "titulo": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖",
+          "textoMeta": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖\n\n📷 RedEngDeveloper",
+          "textoTwitter": "Prehistoric Journey adiciona dois biomas dominados por raptores. A selva tem túneis de cogumelo, lagos azuis e uma fileira de escamas gigantes cortando o mapa, e o deserto amaldiçoado traz árvore em espiral, lagos ácidos e fósseis enormes. O mod saiu ontem no CurseForge e nasceu em uma game jam da comunidade 🦖\n\n📷 RedEngDeveloper",
+          "twitterCitacao": "",
+          "fonte": "https://www.curseforge.com/hytale/mods/prehistoric-journey",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc292_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc292_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc292_3.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc292_4.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
           "hora": "18:00",
           "data": "2026-09-18",
           "id": "rc285",
@@ -3698,7 +3750,7 @@
           "urlPublicada": "https://www.facebook.com/reel/2280478752719728/"
         }
       ],
-      "total": 5
+      "total": 6
     },
     {
       "dia": "2026-09-19",
@@ -6952,10 +7004,10 @@
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
     "hoje": "2026-09-18",
-    "publicadosHoje": 0,
+    "publicadosHoje": 1,
     "faltamHoje": 5,
     "agendadosFuturo": 6,
-    "publicados7dias": 17,
+    "publicados7dias": 18,
     "instagramNoAr": 99,
     "instagramPendente": 0,
     "cobertaAte": "2026-09-19"
@@ -6971,7 +7023,7 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6079,
+      "seguidores": 6077,
       "totalPosts": 327,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
