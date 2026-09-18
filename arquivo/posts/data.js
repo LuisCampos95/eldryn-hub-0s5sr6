@@ -7815,28 +7815,6 @@ window.ELDRYN_POSTS = [
       "texto": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 @Starky_TV"
   },
   {
-      "id": "rc285",
-      "rodada": "2026-09-14 20:51",
-      "emoji": "🔮",
-      "titulo": "[X] Esse altar está olhando de volta",
-      "fonte": "https://x.com/bluebellgb/status/2098655823715324226",
-      "fonteData": "2026-09-12",
-      "confiabilidade": "Fonte original do criador.",
-      "resumo": "Varredura #Hytale no X logado, filtro de video.",
-      "midia": {
-          "url": "https://x.com/bluebellgb/status/2098655823715324226",
-          "nota": "Midia da fonte original.",
-          "tipo": "video",
-          "arquivos": [
-              "midia/twitter/voidcrystal/1.mp4"
-          ],
-          "video": "midia/twitter/voidcrystal/1.mp4"
-      },
-      "twitter": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 @bluebellgb",
-      "meta": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 bluebellgb",
-      "texto": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 @bluebellgb"
-  },
-  {
       "id": "rc286",
       "rodada": "2026-09-14 20:51",
       "emoji": "😤",

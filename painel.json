@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-18T18:20:56.628Z",
+  "geradoEm": "2026-09-18T21:06:55.572Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -581,31 +581,6 @@
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
       "arquivosTwitter": [
         "01-1200-rc286.mp4"
-      ],
-      "tipo": "video",
-      "status": "agendado",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null
-    },
-    {
-      "hora": "18:00",
-      "data": "2026-09-18",
-      "id": "rc285",
-      "rede": "business_suite",
-      "titulo": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮",
-      "textoMeta": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 bluebellgb",
-      "textoTwitter": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 @bluebellgb",
-      "twitterCitacao": "",
-      "fonte": "https://x.com/bluebellgb/status/2098655823715324226",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc285.mp4"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
-      "arquivosTwitter": [
-        "02-1800-rc285.mp4"
       ],
       "tipo": "video",
       "status": "agendado",
@@ -3744,34 +3719,9 @@
           "engajamento": null,
           "categoria": null,
           "motivo": null
-        },
-        {
-          "hora": "18:00",
-          "data": "2026-09-18",
-          "id": "rc285",
-          "rede": "business_suite",
-          "titulo": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮",
-          "textoMeta": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 bluebellgb",
-          "textoTwitter": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 @bluebellgb",
-          "twitterCitacao": "",
-          "fonte": "https://x.com/bluebellgb/status/2098655823715324226",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc285.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
-          "arquivosTwitter": [
-            "02-1800-rc285.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null
         }
       ],
-      "total": 6
+      "total": 5
     },
     {
       "dia": "2026-09-19",
@@ -7048,10 +6998,10 @@
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
     "hoje": "2026-09-18",
-    "publicadosHoje": 4,
-    "faltamHoje": 2,
-    "agendadosFuturo": 4,
-    "publicados7dias": 21,
+    "publicadosHoje": 5,
+    "faltamHoje": 0,
+    "agendadosFuturo": 2,
+    "publicados7dias": 22,
     "instagramNoAr": 100,
     "instagramPendente": 0,
     "cobertaAte": "2026-09-19"
@@ -7067,11 +7017,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6077,
-      "totalPosts": 328,
+      "seguidores": 6076,
+      "totalPosts": 329,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 69,
+      "mediaCurtidas": 68,
       "amostra": 100
     },
     "twitter": {
@@ -7142,8 +7092,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-08-17T18:27:56+0000",
-      "ate": "2026-09-18T16:10:55+0000"
+      "de": "2026-08-17T20:46:56+0000",
+      "ate": "2026-09-18T21:00:39+0000"
     },
     "serie": [
       {
