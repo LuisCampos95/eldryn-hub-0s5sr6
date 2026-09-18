@@ -7990,5 +7990,51 @@ window.ELDRYN_POSTS = [
       "twitter": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️",
       "meta": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️\n\n🎥 VeyraARPG",
       "texto": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️"
+  },
+  {
+      "id": "rc294",
+      "rodada": "2026-09-18",
+      "emoji": "🕹️",
+      "titulo": "[CURSEFORGE] Fliperama com sete jogos dentro",
+      "fonte": "https://www.curseforge.com/hytale/mods/glymeraarcade",
+      "fonteData": "2026-09-17",
+      "confiabilidade": "alta",
+      "resumo": "GlymeraArcade, mod criado ha 1 dia (39 downloads): gabinete de fliperama com 7 minigames de teclado (MineStack, Burrow Worm, Ore Fusion, Trap Dig...), placar por jogador e recorde do servidor. Upload de 4 imagens da galeria.",
+      "midia": {
+          "url": "https://www.curseforge.com/hytale/mods/glymeraarcade/gallery",
+          "nota": "Upload de 4 imagens da galeria",
+          "tipo": "imagem",
+          "arquivos": [
+              "posts/midia/twitter/rc294/1.jpg",
+              "posts/midia/twitter/rc294/2.jpg",
+              "posts/midia/twitter/rc294/3.jpg",
+              "posts/midia/twitter/rc294/4.jpg"
+          ]
+      },
+      "twitter": "O GlymeraArcade coloca um fliperama brilhante no mundo com sete jogos dentro. Tem um parecido com Tetris feito de blocos do jogo, uma minhoca que cava a terra atrás de cristais, um de juntar minérios até chegar no prisma e até campo minado. Cada jogo guarda o melhor placar do jogador e o recorde do servidor 🕹️\n\n🔧 GlymeraCraft",
+      "meta": "O GlymeraArcade coloca um fliperama brilhante no mundo com sete jogos dentro. Tem um parecido com Tetris feito de blocos do jogo, uma minhoca que cava a terra atrás de cristais, um de juntar minérios até chegar no prisma e até campo minado. Cada jogo guarda o melhor placar do jogador e o recorde do servidor 🕹️\n\n🔧 GlymeraCraft",
+      "texto": "O GlymeraArcade coloca um fliperama brilhante no mundo com sete jogos dentro. Tem um parecido com Tetris feito de blocos do jogo, uma minhoca que cava a terra atrás de cristais, um de juntar minérios até chegar no prisma e até campo minado. Cada jogo guarda o melhor placar do jogador e o recorde do servidor 🕹️\n\n🔧 GlymeraCraft"
+  },
+  {
+      "id": "rc295",
+      "rodada": "2026-09-18",
+      "emoji": "🦖",
+      "titulo": "[X] Mod de dinossauro mostra só 15%",
+      "fonte": "https://x.com/StudioStonefall/status/2100994266327572983",
+      "fonteData": "2026-09-18",
+      "confiabilidade": "alta",
+      "resumo": "Trailer de 1:35 do Jurassic Frontier (Stonefall Studio), mod ainda nao lancado: dinossauros, fosseis, biomas. Estudio diz que o video e menos de 15% do conteudo.",
+      "midia": {
+          "url": "https://x.com/StudioStonefall/status/2100994266327572983/video/1",
+          "nota": "Postar video no X",
+          "tipo": "video",
+          "arquivos": [
+              "posts/midia/twitter/rc295/1.mp4"
+          ],
+          "video": "posts/midia/twitter/rc295/1.mp4"
+      },
+      "twitter": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖",
+      "meta": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖\n\n🎥 STONEFALL Studio",
+      "texto": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖"
   }
 ];

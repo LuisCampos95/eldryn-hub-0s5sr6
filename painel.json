@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-18T21:13:43.854Z",
+  "geradoEm": "2026-09-18T21:23:36.217Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -607,6 +607,55 @@
       ],
       "tipo": "video",
       "status": "agendado",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
+      "hora": "20:30",
+      "data": "2026-09-18",
+      "id": "rc295",
+      "rede": "twitter",
+      "titulo": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖",
+      "textoMeta": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖\n\n🎥 STONEFALL Studio",
+      "textoTwitter": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖",
+      "twitterCitacao": "",
+      "fonte": "https://x.com/StudioStonefall/status/2100994266327572983",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc295.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
+      "hora": "19:30",
+      "data": "2026-09-18",
+      "id": "rc294",
+      "rede": "twitter",
+      "titulo": "O GlymeraArcade coloca um fliperama brilhante no mundo com sete jogos dentro. Tem um parecido com Tetris feito de blocos do jogo, uma minhoca que cava a terra atrás de cristais, um de juntar minérios até chegar no prisma e até campo minado. Cada jogo guarda o melhor placar do jogador e o recorde do servidor 🕹️",
+      "textoMeta": "O GlymeraArcade coloca um fliperama brilhante no mundo com sete jogos dentro. Tem um parecido com Tetris feito de blocos do jogo, uma minhoca que cava a terra atrás de cristais, um de juntar minérios até chegar no prisma e até campo minado. Cada jogo guarda o melhor placar do jogador e o recorde do servidor 🕹️\n\n🔧 GlymeraCraft",
+      "textoTwitter": "O GlymeraArcade coloca um fliperama brilhante no mundo com sete jogos dentro. Tem um parecido com Tetris feito de blocos do jogo, uma minhoca que cava a terra atrás de cristais, um de juntar minérios até chegar no prisma e até campo minado. Cada jogo guarda o melhor placar do jogador e o recorde do servidor 🕹️\n\n🔧 GlymeraCraft",
+      "twitterCitacao": "",
+      "fonte": "https://www.curseforge.com/hytale/mods/glymeraarcade",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc294_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc294_2.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc294_3.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc294_4.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -3788,9 +3837,58 @@
           "engajamento": null,
           "categoria": null,
           "motivo": null
+        },
+        {
+          "hora": "19:30",
+          "data": "2026-09-18",
+          "id": "rc294",
+          "rede": "twitter",
+          "titulo": "O GlymeraArcade coloca um fliperama brilhante no mundo com sete jogos dentro. Tem um parecido com Tetris feito de blocos do jogo, uma minhoca que cava a terra atrás de cristais, um de juntar minérios até chegar no prisma e até campo minado. Cada jogo guarda o melhor placar do jogador e o recorde do servidor 🕹️",
+          "textoMeta": "O GlymeraArcade coloca um fliperama brilhante no mundo com sete jogos dentro. Tem um parecido com Tetris feito de blocos do jogo, uma minhoca que cava a terra atrás de cristais, um de juntar minérios até chegar no prisma e até campo minado. Cada jogo guarda o melhor placar do jogador e o recorde do servidor 🕹️\n\n🔧 GlymeraCraft",
+          "textoTwitter": "O GlymeraArcade coloca um fliperama brilhante no mundo com sete jogos dentro. Tem um parecido com Tetris feito de blocos do jogo, uma minhoca que cava a terra atrás de cristais, um de juntar minérios até chegar no prisma e até campo minado. Cada jogo guarda o melhor placar do jogador e o recorde do servidor 🕹️\n\n🔧 GlymeraCraft",
+          "twitterCitacao": "",
+          "fonte": "https://www.curseforge.com/hytale/mods/glymeraarcade",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc294_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc294_2.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc294_3.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc294_4.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
+          "hora": "20:30",
+          "data": "2026-09-18",
+          "id": "rc295",
+          "rede": "twitter",
+          "titulo": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖",
+          "textoMeta": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖\n\n🎥 STONEFALL Studio",
+          "textoTwitter": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/StudioStonefall/status/2100994266327572983",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc295.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
         }
       ],
-      "total": 6
+      "total": 8
     },
     {
       "dia": "2026-09-19",
@@ -7091,8 +7189,8 @@
   "agora": {
     "hoje": "2026-09-18",
     "publicadosHoje": 5,
-    "faltamHoje": 1,
-    "agendadosFuturo": 4,
+    "faltamHoje": 3,
+    "agendadosFuturo": 6,
     "publicados7dias": 22,
     "instagramNoAr": 100,
     "instagramPendente": 0,
