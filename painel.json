@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-18T14:24:26.616Z",
+  "geradoEm": "2026-09-18T14:34:57.935Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -617,6 +617,29 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/1557615308878099/"
+    },
+    {
+      "hora": "14:00",
+      "data": "2026-09-18",
+      "id": "rc291",
+      "rede": "twitter",
+      "titulo": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪",
+      "textoMeta": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪\n\n🎥 Hexvane",
+      "textoTwitter": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪\n\n🎥 @GibsonHougland",
+      "twitterCitacao": "",
+      "fonte": "https://www.curseforge.com/hytale/mods/strange-matter",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc291.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
     },
     {
       "hora": "12:00",
@@ -3600,6 +3623,29 @@
           "urlPublicada": "https://www.facebook.com/reel/1054175670740528/"
         },
         {
+          "hora": "14:00",
+          "data": "2026-09-18",
+          "id": "rc291",
+          "rede": "twitter",
+          "titulo": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪",
+          "textoMeta": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪\n\n🎥 Hexvane",
+          "textoTwitter": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪\n\n🎥 @GibsonHougland",
+          "twitterCitacao": "",
+          "fonte": "https://www.curseforge.com/hytale/mods/strange-matter",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc291.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
           "hora": "15:00",
           "data": "2026-09-18",
           "id": "rc284",
@@ -3652,7 +3698,7 @@
           "urlPublicada": "https://www.facebook.com/reel/2280478752719728/"
         }
       ],
-      "total": 4
+      "total": 5
     },
     {
       "dia": "2026-09-19",
@@ -6907,10 +6953,10 @@
   "agora": {
     "hoje": "2026-09-18",
     "publicadosHoje": 0,
-    "faltamHoje": 4,
-    "agendadosFuturo": 5,
+    "faltamHoje": 5,
+    "agendadosFuturo": 6,
     "publicados7dias": 17,
-    "instagramNoAr": 97,
+    "instagramNoAr": 99,
     "instagramPendente": 0,
     "cobertaAte": "2026-09-19"
   },

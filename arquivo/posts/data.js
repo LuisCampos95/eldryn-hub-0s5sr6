@@ -7944,5 +7944,27 @@ window.ELDRYN_POSTS = [
       "twitter": "O Pokémon 2D que roda dentro do Hytale ganhou os golpes de campo. O treinador surfa, mergulha, sobe cachoeira, empurra pedra com Strength, corta árvore e quebra rocha com Rock Smash. Na caverna escura, o Flash ilumina só um círculo em volta do personagem 🔦",
       "meta": "O Pokémon 2D que roda dentro do Hytale ganhou os golpes de campo. O treinador surfa, mergulha, sobe cachoeira, empurra pedra com Strength, corta árvore e quebra rocha com Rock Smash. Na caverna escura, o Flash ilumina só um círculo em volta do personagem 🔦\n\n🎥 PokeWorlds Online",
       "texto": "O Pokémon 2D que roda dentro do Hytale ganhou os golpes de campo. O treinador surfa, mergulha, sobe cachoeira, empurra pedra com Strength, corta árvore e quebra rocha com Rock Smash. Na caverna escura, o Flash ilumina só um círculo em volta do personagem 🔦"
+  },
+  {
+      "id": "rc291",
+      "rodada": "2026-09-18 11:50",
+      "emoji": "🧪",
+      "titulo": "[CURSEFORGE] Ciência maluca com arma de gravidade",
+      "fonte": "https://www.curseforge.com/hytale/mods/strange-matter",
+      "fonteData": "2026-09-17",
+      "confiabilidade": "Pagina oficial do mod + trailer do criador (Hexvane).",
+      "resumo": "Varredura CurseForge por data de criacao, 11 downloads. No X subiu como GIF do trailer (Chrome oculto trava video).",
+      "midia": {
+          "url": "https://youtu.be/HNSW0XWt5ig",
+          "nota": "Trailer do criador.",
+          "tipo": "video",
+          "arquivos": [
+              "midia/twitter/strange-matter/1.mp4"
+          ],
+          "video": "midia/twitter/strange-matter/1.mp4"
+      },
+      "twitter": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪\n\n🎥 @GibsonHougland",
+      "meta": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪\n\n🎥 Hexvane",
+      "texto": "Strange Matter traz ciência maluca para o jogo. Dá para estudar anomalias, montar um laboratório com máquinas automáticas, levantar bloco e criatura com uma arma de gravidade, copiar a aparência de um bicho com o Echoform Imprinter e sair de hoverboard pelo mapa. O mod saiu ontem no CurseForge 🧪\n\n🎥 @GibsonHougland"
   }
 ];
