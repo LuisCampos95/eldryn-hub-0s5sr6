@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-17T20:19:58.354Z",
+  "geradoEm": "2026-09-18T14:24:26.616Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -643,6 +643,29 @@
       "urlPublicada": "https://www.facebook.com/reel/1054175670740528/"
     },
     {
+      "hora": "11:35",
+      "data": "2026-09-18",
+      "id": "rc290",
+      "rede": "twitter",
+      "titulo": "O Pokémon 2D que roda dentro do Hytale ganhou os golpes de campo. O treinador surfa, mergulha, sobe cachoeira, empurra pedra com Strength, corta árvore e quebra rocha com Rock Smash. Na caverna escura, o Flash ilumina só um círculo em volta do personagem 🔦",
+      "textoMeta": "O Pokémon 2D que roda dentro do Hytale ganhou os golpes de campo. O treinador surfa, mergulha, sobe cachoeira, empurra pedra com Strength, corta árvore e quebra rocha com Rock Smash. Na caverna escura, o Flash ilumina só um círculo em volta do personagem 🔦\n\n🎥 PokeWorlds Online",
+      "textoTwitter": "O Pokémon 2D que roda dentro do Hytale ganhou os golpes de campo. O treinador surfa, mergulha, sobe cachoeira, empurra pedra com Strength, corta árvore e quebra rocha com Rock Smash. Na caverna escura, o Flash ilumina só um círculo em volta do personagem 🔦",
+      "twitterCitacao": "",
+      "fonte": "https://x.com/pokeworldonlin/status/2100900271962431670",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc290.mp4"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
       "hora": "18:00",
       "data": "2026-09-17",
       "id": "rc280",
@@ -659,7 +682,7 @@
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
       "arquivosTwitter": [],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -3526,8 +3549,149 @@
   ],
   "diasGrade": [
     {
-      "dia": "2026-09-17",
+      "dia": "2026-09-18",
       "quando": "hoje",
+      "posts": [
+        {
+          "hora": "11:35",
+          "data": "2026-09-18",
+          "id": "rc290",
+          "rede": "twitter",
+          "titulo": "O Pokémon 2D que roda dentro do Hytale ganhou os golpes de campo. O treinador surfa, mergulha, sobe cachoeira, empurra pedra com Strength, corta árvore e quebra rocha com Rock Smash. Na caverna escura, o Flash ilumina só um círculo em volta do personagem 🔦",
+          "textoMeta": "O Pokémon 2D que roda dentro do Hytale ganhou os golpes de campo. O treinador surfa, mergulha, sobe cachoeira, empurra pedra com Strength, corta árvore e quebra rocha com Rock Smash. Na caverna escura, o Flash ilumina só um círculo em volta do personagem 🔦\n\n🎥 PokeWorlds Online",
+          "textoTwitter": "O Pokémon 2D que roda dentro do Hytale ganhou os golpes de campo. O treinador surfa, mergulha, sobe cachoeira, empurra pedra com Strength, corta árvore e quebra rocha com Rock Smash. Na caverna escura, o Flash ilumina só um círculo em volta do personagem 🔦",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/pokeworldonlin/status/2100900271962431670",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc290.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
+          "hora": "12:00",
+          "data": "2026-09-18",
+          "id": "rc282",
+          "rede": "facebook",
+          "titulo": "O golpe de mergulho do mod TOGO já encadeia sozinho. O personagem cai em cima do golem de lava e emenda o combo inteiro sem parar, com o dano subindo a cada acerto ⚔️",
+          "textoMeta": "O golpe de mergulho do mod TOGO já encadeia sozinho. O personagem cai em cima do golem de lava e emenda o combo inteiro sem parar, com o dano subindo a cada acerto ⚔️\n\n🎥 silver25636",
+          "textoTwitter": "O golpe de mergulho do mod TOGO já encadeia sozinho. O personagem cai em cima do golem de lava e emenda o combo inteiro sem parar, com o dano subindo a cada acerto ⚔️\n\n🎥 @silver25636",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/silver25636/status/2098928241188692157",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc282.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1054175670740528/"
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-09-18",
+          "id": "rc284",
+          "rede": "facebook",
+          "titulo": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥",
+          "textoMeta": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 Starky_TV",
+          "textoTwitter": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 @Starky_TV",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/Starky_TV/status/2099566348997210528",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc284.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+          "arquivosTwitter": [
+            "01-1500-rc284.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1557615308878099/"
+        },
+        {
+          "hora": "18:00",
+          "data": "2026-09-18",
+          "id": "rc285",
+          "rede": "facebook",
+          "titulo": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮",
+          "textoMeta": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 bluebellgb",
+          "textoTwitter": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 @bluebellgb",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/bluebellgb/status/2098655823715324226",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc285.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
+          "arquivosTwitter": [
+            "02-1800-rc285.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/2280478752719728/"
+        }
+      ],
+      "total": 4
+    },
+    {
+      "dia": "2026-09-19",
+      "quando": "futuro",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-19",
+          "id": "rc286",
+          "rede": "facebook",
+          "titulo": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤",
+          "textoMeta": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 bravoxv_",
+          "textoTwitter": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 @bravoxv_",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/bravoxv_/status/2098143523962851632",
+          "arquivos": [
+            "midia/twitter/gobmeme/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc286.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
+          "arquivosTwitter": [
+            "01-1200-rc286.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/936810528975129/"
+        }
+      ],
+      "total": 1
+    },
+    {
+      "dia": "2026-09-17",
+      "quando": "passado",
       "posts": [
         {
           "hora": "11:58",
@@ -3666,7 +3830,7 @@
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-17",
           "arquivosTwitter": [],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -3675,124 +3839,6 @@
         }
       ],
       "total": 6
-    },
-    {
-      "dia": "2026-09-18",
-      "quando": "futuro",
-      "posts": [
-        {
-          "hora": "12:00",
-          "data": "2026-09-18",
-          "id": "rc282",
-          "rede": "facebook",
-          "titulo": "O golpe de mergulho do mod TOGO já encadeia sozinho. O personagem cai em cima do golem de lava e emenda o combo inteiro sem parar, com o dano subindo a cada acerto ⚔️",
-          "textoMeta": "O golpe de mergulho do mod TOGO já encadeia sozinho. O personagem cai em cima do golem de lava e emenda o combo inteiro sem parar, com o dano subindo a cada acerto ⚔️\n\n🎥 silver25636",
-          "textoTwitter": "O golpe de mergulho do mod TOGO já encadeia sozinho. O personagem cai em cima do golem de lava e emenda o combo inteiro sem parar, com o dano subindo a cada acerto ⚔️\n\n🎥 @silver25636",
-          "twitterCitacao": "",
-          "fonte": "https://x.com/silver25636/status/2098928241188692157",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc282.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/1054175670740528/"
-        },
-        {
-          "hora": "15:00",
-          "data": "2026-09-18",
-          "id": "rc284",
-          "rede": "facebook",
-          "titulo": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥",
-          "textoMeta": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 Starky_TV",
-          "textoTwitter": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 @Starky_TV",
-          "twitterCitacao": "",
-          "fonte": "https://x.com/Starky_TV/status/2099566348997210528",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc284.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
-          "arquivosTwitter": [
-            "01-1500-rc284.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/1557615308878099/"
-        },
-        {
-          "hora": "18:00",
-          "data": "2026-09-18",
-          "id": "rc285",
-          "rede": "facebook",
-          "titulo": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮",
-          "textoMeta": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 bluebellgb",
-          "textoTwitter": "O altar do mod Void Crystal tem um olho amarelo brilhando no topo e garras de pedra fechando a base. O mod ainda está em construção e o criador está pedindo a opinião da comunidade 🔮\n\n🎥 @bluebellgb",
-          "twitterCitacao": "",
-          "fonte": "https://x.com/bluebellgb/status/2098655823715324226",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc285.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-18",
-          "arquivosTwitter": [
-            "02-1800-rc285.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/2280478752719728/"
-        }
-      ],
-      "total": 3
-    },
-    {
-      "dia": "2026-09-19",
-      "quando": "futuro",
-      "posts": [
-        {
-          "hora": "12:00",
-          "data": "2026-09-19",
-          "id": "rc286",
-          "rede": "facebook",
-          "titulo": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤",
-          "textoMeta": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 bravoxv_",
-          "textoTwitter": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 @bravoxv_",
-          "twitterCitacao": "",
-          "fonte": "https://x.com/bravoxv_/status/2098143523962851632",
-          "arquivos": [
-            "midia/twitter/gobmeme/1.mp4"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc286.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
-          "arquivosTwitter": [
-            "01-1200-rc286.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/936810528975129/"
-        }
-      ],
-      "total": 1
     },
     {
       "dia": "2026-09-16",
@@ -6816,9 +6862,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 1,
+    "total": 2,
     "feitos": 0,
-    "data": "2026-09-17"
+    "data": "2026-09-18"
   },
   "custos": {
     "infraMensal": 0,
@@ -6859,11 +6905,11 @@
   "ultimaColeta": "2026-09-15T12:19:40.239Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
-    "hoje": "2026-09-17",
-    "publicadosHoje": 5,
-    "faltamHoje": 1,
+    "hoje": "2026-09-18",
+    "publicadosHoje": 0,
+    "faltamHoje": 4,
     "agendadosFuturo": 5,
-    "publicados7dias": 18,
+    "publicados7dias": 17,
     "instagramNoAr": 97,
     "instagramPendente": 0,
     "cobertaAte": "2026-09-19"
@@ -6871,7 +6917,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5924,
+      "seguidores": 5923,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -6880,10 +6926,10 @@
     "instagram": {
       "nome": "@brasilhytale",
       "seguidores": 6079,
-      "totalPosts": 325,
+      "totalPosts": 327,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 70,
+      "mediaCurtidas": 69,
       "amostra": 100
     },
     "twitter": {
@@ -6904,7 +6950,7 @@
     "topPosts": [
       {
         "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 752,
+        "curtidas": 753,
         "comentarios": 4,
         "tipo": "carousel_album",
         "quando": "2026-08-18T20:32:50+0000",
@@ -6928,7 +6974,7 @@
       },
       {
         "titulo": "🐈 TEM MAIS DE MIL COMBINAÇÕES DE GATO POSSÍVEIS NESSE MOD, E DÁ PRA C",
-        "curtidas": 213,
+        "curtidas": 214,
         "comentarios": 3,
         "tipo": "carousel_album",
         "quando": "2026-08-31T18:09:29+0000",
@@ -6954,8 +7000,8 @@
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-08-17T15:29:38+0000",
-      "ate": "2026-09-17T18:31:12+0000"
+      "de": "2026-08-17T18:21:24+0000",
+      "ate": "2026-09-17T21:48:20+0000"
     },
     "serie": [
       {
