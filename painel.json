@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-19T17:50:20.480Z",
+  "geradoEm": "2026-09-19T18:00:10.101Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -578,7 +578,7 @@
       "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
       "arquivosTwitter": [],
       "tipo": "imagem",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -3737,7 +3737,7 @@
           "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
           "arquivosTwitter": [],
           "tipo": "imagem",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -7188,10 +7188,10 @@
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
     "hoje": "2026-09-19",
-    "publicadosHoje": 1,
-    "faltamHoje": 2,
-    "agendadosFuturo": 2,
-    "publicados7dias": 24,
+    "publicadosHoje": 2,
+    "faltamHoje": 1,
+    "agendadosFuturo": 1,
+    "publicados7dias": 25,
     "instagramNoAr": 100,
     "instagramPendente": 0,
     "cobertaAte": "2026-09-19"
