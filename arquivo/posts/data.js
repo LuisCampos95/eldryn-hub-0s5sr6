@@ -8036,49 +8036,5 @@ window.ELDRYN_POSTS = [
       "twitter": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖",
       "meta": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖\n\n🎥 STONEFALL Studio",
       "texto": "Jurassic Frontier é o próximo mod do Stonefall Studio, e o trailer mostra um mundo cheio de dinossauros entre florestas, cavernas e praias. A ideia é sobreviver, explorar e achar fósseis enquanto se descobre por que os dinossauros apareceram em Orbis. O estúdio diz que o vídeo mostra menos de 15% do conteúdo do mod, que ainda não foi lançado 🦖"
-  },
-  {
-      "id": "rc296",
-      "rodada": "2026-09-19",
-      "emoji": "🏥",
-      "titulo": "[CURSEFORGE] Centro Pokémon para colar no mundo",
-      "fonte": "https://www.curseforge.com/hytale/prefabs/pokemon-center",
-      "fonteData": "2026-09-18",
-      "confiabilidade": "alta",
-      "resumo": "Prefab novo no CurseForge (Berris_, 2 downloads): Centro Pokémon com fachada e interior, pronto para colar no mundo. Mesmo build postado no r/hytale por GreenMatias370.",
-      "midia": {
-          "url": "https://www.curseforge.com/hytale/prefabs/pokemon-center/gallery",
-          "nota": "upload das 2 imagens da galeria",
-          "tipo": "imagem",
-          "arquivos": [
-              "posts/midia/twitter/rc296/1.jpg",
-              "posts/midia/twitter/rc296/2.jpg"
-          ]
-      },
-      "twitter": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥\n\n📷 Berris_ no CurseForge",
-      "meta": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥\n\n📷 Berris_ no CurseForge",
-      "texto": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥"
-  },
-  {
-      "id": "rc297",
-      "rodada": "2026-09-19",
-      "emoji": "🏝️",
-      "titulo": "[X] Skyblock com uma ilha por bioma",
-      "fonte": "https://x.com/Mr_Green_Games/status/2101085496252543077",
-      "fonteData": "2026-09-18",
-      "confiabilidade": "alta",
-      "resumo": "Mr_Green_Games mostra plugin de skyblock com geração aleatória: uma ilha para cada bioma principal em anel de progressão, com chefe nas Devastated Lands. Em desenvolvimento.",
-      "midia": {
-          "url": "https://x.com/Mr_Green_Games/status/2101085496252543077",
-          "nota": "upload das 2 imagens do tweet",
-          "tipo": "imagem",
-          "arquivos": [
-              "posts/midia/twitter/rc297/1.jpg",
-              "posts/midia/twitter/rc297/2.jpg"
-          ]
-      },
-      "twitter": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️\n\n📷 @Mr_Green_Games",
-      "meta": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️\n\n📷 Mr Green Games",
-      "texto": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️"
   }
 ];

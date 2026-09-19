@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-19T14:15:11.389Z",
+  "geradoEm": "2026-09-19T14:17:36.570Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -584,54 +584,6 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/1557615308878099/"
-    },
-    {
-      "hora": "14:00",
-      "data": "2026-09-19",
-      "id": "rc297",
-      "rede": "twitter",
-      "titulo": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️",
-      "textoMeta": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️\n\n📷 Mr Green Games",
-      "textoTwitter": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️\n\n📷 @Mr_Green_Games",
-      "twitterCitacao": "",
-      "fonte": "https://x.com/Mr_Green_Games/status/2101085496252543077",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc297_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc297_2.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null
-    },
-    {
-      "hora": "13:00",
-      "data": "2026-09-19",
-      "id": "rc296",
-      "rede": "twitter",
-      "titulo": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥",
-      "textoMeta": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥\n\n📷 Berris_ no CurseForge",
-      "textoTwitter": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥\n\n📷 Berris_ no CurseForge",
-      "twitterCitacao": "",
-      "fonte": "https://www.curseforge.com/hytale/prefabs/pokemon-center",
-      "arquivos": [],
-      "midiaWeb": [
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc296_1.jpg",
-        "https://luiscampos95.github.io/eldryn-midia/midia/rc296_2.jpg"
-      ],
-      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
-      "arquivosTwitter": [],
-      "tipo": "imagem",
-      "status": "aguardando manual",
-      "qualidade": null,
-      "engajamento": null,
-      "categoria": null,
-      "motivo": null
     },
     {
       "hora": "12:00",
@@ -3769,54 +3721,6 @@
           "motivo": null
         },
         {
-          "hora": "13:00",
-          "data": "2026-09-19",
-          "id": "rc296",
-          "rede": "twitter",
-          "titulo": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥",
-          "textoMeta": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥\n\n📷 Berris_ no CurseForge",
-          "textoTwitter": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥\n\n📷 Berris_ no CurseForge",
-          "twitterCitacao": "",
-          "fonte": "https://www.curseforge.com/hytale/prefabs/pokemon-center",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc296_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc296_2.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null
-        },
-        {
-          "hora": "14:00",
-          "data": "2026-09-19",
-          "id": "rc297",
-          "rede": "twitter",
-          "titulo": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️",
-          "textoMeta": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️\n\n📷 Mr Green Games",
-          "textoTwitter": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️\n\n📷 @Mr_Green_Games",
-          "twitterCitacao": "",
-          "fonte": "https://x.com/Mr_Green_Games/status/2101085496252543077",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc297_1.jpg",
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc297_2.jpg"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
-          "status": "aguardando manual",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null
-        },
-        {
           "hora": "15:00",
           "data": "2026-09-19",
           "id": "rc284",
@@ -3864,7 +3768,7 @@
           "motivo": null
         }
       ],
-      "total": 5
+      "total": 3
     },
     {
       "dia": "2026-09-18",
@@ -7285,8 +7189,8 @@
   "agora": {
     "hoje": "2026-09-19",
     "publicadosHoje": 0,
-    "faltamHoje": 5,
-    "agendadosFuturo": 5,
+    "faltamHoje": 3,
+    "agendadosFuturo": 3,
     "publicados7dias": 23,
     "instagramNoAr": 100,
     "instagramPendente": 0,
