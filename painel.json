@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-18T21:23:36.217Z",
+  "geradoEm": "2026-09-19T14:15:11.389Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -584,6 +584,54 @@
       "categoria": null,
       "motivo": null,
       "urlPublicada": "https://www.facebook.com/reel/1557615308878099/"
+    },
+    {
+      "hora": "14:00",
+      "data": "2026-09-19",
+      "id": "rc297",
+      "rede": "twitter",
+      "titulo": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️",
+      "textoMeta": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️\n\n📷 Mr Green Games",
+      "textoTwitter": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️\n\n📷 @Mr_Green_Games",
+      "twitterCitacao": "",
+      "fonte": "https://x.com/Mr_Green_Games/status/2101085496252543077",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc297_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc297_2.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
+    },
+    {
+      "hora": "13:00",
+      "data": "2026-09-19",
+      "id": "rc296",
+      "rede": "twitter",
+      "titulo": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥",
+      "textoMeta": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥\n\n📷 Berris_ no CurseForge",
+      "textoTwitter": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥\n\n📷 Berris_ no CurseForge",
+      "twitterCitacao": "",
+      "fonte": "https://www.curseforge.com/hytale/prefabs/pokemon-center",
+      "arquivos": [],
+      "midiaWeb": [
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc296_1.jpg",
+        "https://luiscampos95.github.io/eldryn-midia/midia/rc296_2.jpg"
+      ],
+      "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
+      "arquivosTwitter": [],
+      "tipo": "imagem",
+      "status": "aguardando manual",
+      "qualidade": null,
+      "engajamento": null,
+      "categoria": null,
+      "motivo": null
     },
     {
       "hora": "12:00",
@@ -3690,8 +3738,137 @@
   ],
   "diasGrade": [
     {
-      "dia": "2026-09-18",
+      "dia": "2026-09-19",
       "quando": "hoje",
+      "posts": [
+        {
+          "hora": "12:00",
+          "data": "2026-09-19",
+          "id": "rc286",
+          "rede": "business_suite",
+          "titulo": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤",
+          "textoMeta": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 bravoxv_",
+          "textoTwitter": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 @bravoxv_",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/bravoxv_/status/2098143523962851632",
+          "arquivos": [
+            "midia/twitter/gobmeme/1.mp4"
+          ],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc286.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
+          "arquivosTwitter": [
+            "01-1200-rc286.mp4"
+          ],
+          "tipo": "video",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
+          "hora": "13:00",
+          "data": "2026-09-19",
+          "id": "rc296",
+          "rede": "twitter",
+          "titulo": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥",
+          "textoMeta": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥\n\n📷 Berris_ no CurseForge",
+          "textoTwitter": "Centro Pokémon montado no Hytale, e o prédio já está no CurseForge para colar no mundo 🏥\n\n📷 Berris_ no CurseForge",
+          "twitterCitacao": "",
+          "fonte": "https://www.curseforge.com/hytale/prefabs/pokemon-center",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc296_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc296_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
+          "hora": "14:00",
+          "data": "2026-09-19",
+          "id": "rc297",
+          "rede": "twitter",
+          "titulo": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️",
+          "textoMeta": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️\n\n📷 Mr Green Games",
+          "textoTwitter": "Skyblock no Hytale com uma ilha para cada bioma, e o chefe espera no fim da volta 🏝️\n\n📷 @Mr_Green_Games",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/Mr_Green_Games/status/2101085496252543077",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc297_1.jpg",
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc297_2.jpg"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "aguardando manual",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        },
+        {
+          "hora": "15:00",
+          "data": "2026-09-19",
+          "id": "rc284",
+          "rede": "business_suite",
+          "titulo": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥",
+          "textoMeta": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 Starky_TV",
+          "textoTwitter": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 @Starky_TV",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/Starky_TV/status/2099566348997210528",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc284.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null,
+          "urlPublicada": "https://www.facebook.com/reel/1557615308878099/"
+        },
+        {
+          "hora": "18:00",
+          "data": "2026-09-19",
+          "id": "rc293",
+          "rede": "business_suite",
+          "titulo": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️",
+          "textoMeta": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️\n\n🎥 VeyraARPG",
+          "textoTwitter": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️",
+          "twitterCitacao": "",
+          "fonte": "https://x.com/VeyraARPG/status/2100613818522997000",
+          "arquivos": [],
+          "midiaWeb": [
+            "https://luiscampos95.github.io/eldryn-midia/midia/rc293.mp4"
+          ],
+          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
+          "arquivosTwitter": [],
+          "tipo": "imagem",
+          "status": "agendado",
+          "qualidade": null,
+          "engajamento": null,
+          "categoria": null,
+          "motivo": null
+        }
+      ],
+      "total": 5
+    },
+    {
+      "dia": "2026-09-18",
+      "quando": "passado",
       "posts": [
         {
           "hora": "11:35",
@@ -3889,87 +4066,6 @@
         }
       ],
       "total": 8
-    },
-    {
-      "dia": "2026-09-19",
-      "quando": "futuro",
-      "posts": [
-        {
-          "hora": "12:00",
-          "data": "2026-09-19",
-          "id": "rc286",
-          "rede": "business_suite",
-          "titulo": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤",
-          "textoMeta": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 bravoxv_",
-          "textoTwitter": "A piada da comunidade é o Simon depois de morrer 100 vezes para o Gobliterator. Foi o próprio Simon quem avisou que os chefes vão ser brutais no modo difícil 😤\n\n🎥 @bravoxv_",
-          "twitterCitacao": "",
-          "fonte": "https://x.com/bravoxv_/status/2098143523962851632",
-          "arquivos": [
-            "midia/twitter/gobmeme/1.mp4"
-          ],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc286.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
-          "arquivosTwitter": [
-            "01-1200-rc286.mp4"
-          ],
-          "tipo": "video",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null
-        },
-        {
-          "hora": "15:00",
-          "data": "2026-09-19",
-          "id": "rc284",
-          "rede": "business_suite",
-          "titulo": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥",
-          "textoMeta": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 Starky_TV",
-          "textoTwitter": "Esse mod faz tocha, vela e braseiro apagarem quando entram na água, com fumaça e tudo. Para acender de novo, basta mirar no ar e usar o botão direito. Já está disponível no navegador de mods 🔥\n\n🎨 @Starky_TV",
-          "twitterCitacao": "",
-          "fonte": "https://x.com/Starky_TV/status/2099566348997210528",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc284.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null,
-          "urlPublicada": "https://www.facebook.com/reel/1557615308878099/"
-        },
-        {
-          "hora": "18:00",
-          "data": "2026-09-19",
-          "id": "rc293",
-          "rede": "business_suite",
-          "titulo": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️",
-          "textoMeta": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️\n\n🎥 VeyraARPG",
-          "textoTwitter": "Veyra transforma o Hytale em um RPG de ação com câmera de cima, no estilo Diablo. A atualização nova trouxe a classe Druida, que vira fera e usa magia da natureza, e inimigos de elite com até 9 modificadores diferentes. A interface foi toda refeita e agora compara o item do chão com o que está equipado ⚔️",
-          "twitterCitacao": "",
-          "fonte": "https://x.com/VeyraARPG/status/2100613818522997000",
-          "arquivos": [],
-          "midiaWeb": [
-            "https://luiscampos95.github.io/eldryn-midia/midia/rc293.mp4"
-          ],
-          "pastaTwitter": "C:\\Users\\luisf\\OneDrive\\Documentos\\HytaleServer\\EldrynSocial\\twitter\\2026-09-19",
-          "arquivosTwitter": [],
-          "tipo": "imagem",
-          "status": "agendado",
-          "qualidade": null,
-          "engajamento": null,
-          "categoria": null,
-          "motivo": null
-        }
-      ],
-      "total": 3
     },
     {
       "dia": "2026-09-17",
@@ -7144,9 +7240,9 @@
     "publicadosHoje": 0
   },
   "twitterHoje": {
-    "total": 2,
+    "total": 1,
     "feitos": 0,
-    "data": "2026-09-18"
+    "data": "2026-09-19"
   },
   "custos": {
     "infraMensal": 0,
@@ -7187,11 +7283,11 @@
   "ultimaColeta": "2026-09-15T12:19:40.239Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
-    "hoje": "2026-09-18",
-    "publicadosHoje": 5,
-    "faltamHoje": 3,
-    "agendadosFuturo": 6,
-    "publicados7dias": 22,
+    "hoje": "2026-09-19",
+    "publicadosHoje": 0,
+    "faltamHoje": 5,
+    "agendadosFuturo": 5,
+    "publicados7dias": 23,
     "instagramNoAr": 100,
     "instagramPendente": 0,
     "cobertaAte": "2026-09-19"
