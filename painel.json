@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-19T14:17:36.570Z",
+  "geradoEm": "2026-09-19T17:34:22.318Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -606,7 +606,7 @@
         "01-1200-rc286.mp4"
       ],
       "tipo": "video",
-      "status": "agendado",
+      "status": "publicado",
       "qualidade": null,
       "engajamento": null,
       "categoria": null,
@@ -3714,7 +3714,7 @@
             "01-1200-rc286.mp4"
           ],
           "tipo": "video",
-          "status": "agendado",
+          "status": "publicado",
           "qualidade": null,
           "engajamento": null,
           "categoria": null,
@@ -7188,10 +7188,10 @@
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
     "hoje": "2026-09-19",
-    "publicadosHoje": 0,
-    "faltamHoje": 3,
-    "agendadosFuturo": 3,
-    "publicados7dias": 23,
+    "publicadosHoje": 1,
+    "faltamHoje": 2,
+    "agendadosFuturo": 2,
+    "publicados7dias": 24,
     "instagramNoAr": 100,
     "instagramPendente": 0,
     "cobertaAte": "2026-09-19"
@@ -7199,7 +7199,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5923,
+      "seguidores": 5922,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -7207,11 +7207,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6076,
-      "totalPosts": 329,
+      "seguidores": 6077,
+      "totalPosts": 330,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 68,
+      "mediaCurtidas": 66,
       "amostra": 100
     },
     "twitter": {
@@ -7249,7 +7249,7 @@
       {
         "titulo": "🏛️ O TEMPLO LEVANTOU E SAIU ANDANDO",
         "curtidas": 269,
-        "comentarios": 6,
+        "comentarios": 7,
         "tipo": "video",
         "quando": "2026-09-12T17:08:03+0000",
         "link": "https://www.instagram.com/reel/DdMfFKGDtzK/"
@@ -7263,27 +7263,27 @@
         "link": "https://www.instagram.com/p/Dctsmowo4BJ/"
       },
       {
-        "titulo": "🤖 UM MOD TRAZ O CALAMITY DE TERRARIA PRO HYTALE",
-        "curtidas": 202,
-        "comentarios": 0,
-        "tipo": "video",
-        "quando": "2026-08-17T20:46:56+0000",
-        "link": "https://www.instagram.com/reel/DcJ7bEHgdjF/"
-      },
-      {
         "titulo": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ ",
         "curtidas": 185,
         "comentarios": 1,
         "tipo": "image",
         "quando": "2026-08-29T22:31:42+0000",
         "link": "https://www.instagram.com/p/DcpBCRgjFuz/"
+      },
+      {
+        "titulo": "🔴 Pokémon 2D completo rodando dentro do Hytale!",
+        "curtidas": 182,
+        "comentarios": 6,
+        "tipo": "video",
+        "quando": "2026-09-14T20:28:31+0000",
+        "link": "https://www.instagram.com/reel/DdR_lBEDpQS/"
       }
     ],
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-08-17T20:46:56+0000",
-      "ate": "2026-09-18T21:00:39+0000"
+      "de": "2026-08-17T22:07:13+0000",
+      "ate": "2026-09-19T15:02:09+0000"
     },
     "serie": [
       {
