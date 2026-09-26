@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-09-22T22:45:02.661Z",
+  "geradoEm": "2026-09-26T14:31:21.879Z",
   "ia": {
     "rodadas": 6,
     "tokens": 806750,
@@ -81,7 +81,7 @@
   "funil": [
     {
       "etapa": "Coletados",
-      "n": 270,
+      "n": 271,
       "quem": "código"
     },
     {
@@ -116,7 +116,7 @@
     }
   ],
   "motivosCorte": {
-    "link ja virou post": 12,
+    "link ja virou post": 13,
     "qualidade ruim, pedido do Luis pra refazer": 6,
     "mesmo tweet ja coberto pelo concorrente Comu_HytaleBR, angulo parecido demais": 1,
     "navegador de mods ja saiu em 13/08, coberto no post principal": 1,
@@ -6765,10 +6765,10 @@
     }
   },
   "contagem": {
-    "coletadosTotal": 270,
+    "coletadosTotal": 271,
     "aprovados": 33,
     "rejeitados": 33,
-    "rejeitadosFiltro": 127,
+    "rejeitadosFiltro": 128,
     "rejeitadosMemoria": 7,
     "escritos": 111,
     "agendados": 79,
@@ -6821,14 +6821,14 @@
     ],
     "analistaEscritorNota": "Analyst e Writer rodam dentro da conversa com o Claude, sem chamada de API paga separada."
   },
-  "ultimaColeta": "2026-09-15T12:19:40.239Z",
+  "ultimaColeta": "2026-09-26T14:31:21.416Z",
   "ultimaImportacao": "2026-08-18T14:19:18.676Z",
   "agora": {
-    "hoje": "2026-09-22",
+    "hoje": "2026-09-26",
     "publicadosHoje": 0,
     "faltamHoje": 0,
     "agendadosFuturo": 0,
-    "publicados7dias": 19,
+    "publicados7dias": 0,
     "instagramNoAr": 100,
     "instagramPendente": 0,
     "cobertaAte": null
@@ -6836,7 +6836,7 @@
   "redes": {
     "facebook": {
       "nome": "Hytale Brasil",
-      "seguidores": 5919,
+      "seguidores": 5918,
       "link": "https://www.facebook.com/366088387528700",
       "totalPosts": 560,
       "engajamentoDisponivel": false,
@@ -6844,11 +6844,11 @@
     },
     "instagram": {
       "nome": "@brasilhytale",
-      "seguidores": 6056,
-      "totalPosts": 337,
+      "seguidores": 6064,
+      "totalPosts": 344,
       "link": "https://www.instagram.com/brasilhytale/",
       "engajamentoDisponivel": true,
-      "mediaCurtidas": 66,
+      "mediaCurtidas": 72,
       "amostra": 100
     },
     "twitter": {
@@ -6868,12 +6868,20 @@
     },
     "topPosts": [
       {
-        "titulo": "🦁 UM MOD COLOCA 200 ANIMAIS DE VERDADE NO HYTALE",
-        "curtidas": 753,
-        "comentarios": 4,
+        "titulo": "🚨 O CAPÍTULO 1 CHEGA EM 12 DE OUTUBRO",
+        "curtidas": 510,
+        "comentarios": 8,
+        "tipo": "video",
+        "quando": "2026-09-24T18:19:00+0000",
+        "link": "https://www.instagram.com/reel/DdrgvKElKHw/"
+      },
+      {
+        "titulo": "Tem gente colocando Pokémon no Hytale, e o Ponyta já está pronto 🔥",
+        "curtidas": 379,
+        "comentarios": 5,
         "tipo": "carousel_album",
-        "quando": "2026-08-18T20:32:50+0000",
-        "link": "https://www.instagram.com/p/DcMerMem80F/"
+        "quando": "2026-09-23T15:02:09+0000",
+        "link": "https://www.instagram.com/p/DdoleARibGx/"
       },
       {
         "titulo": "🌾 NPC AUTOMATIZADO COLHE, REGA E GUARDA ITEM NO BAÚ SOZINHO NESSE MOD",
@@ -6885,11 +6893,19 @@
       },
       {
         "titulo": "🏛️ O TEMPLO LEVANTOU E SAIU ANDANDO",
-        "curtidas": 272,
+        "curtidas": 275,
         "comentarios": 7,
         "tipo": "video",
         "quando": "2026-09-12T17:08:03+0000",
         "link": "https://www.instagram.com/reel/DdMfFKGDtzK/"
+      },
+      {
+        "titulo": "💰 US$ 15.000 para quem conseguir derrotar o Gobliterator!",
+        "curtidas": 250,
+        "comentarios": 12,
+        "tipo": "image",
+        "quando": "2026-09-25T13:57:50+0000",
+        "link": "https://www.instagram.com/p/DdtnsfEjt3m/"
       },
       {
         "titulo": "🐈 TEM MAIS DE MIL COMBINAÇÕES DE GATO POSSÍVEIS NESSE MOD, E DÁ PRA C",
@@ -6898,29 +6914,13 @@
         "tipo": "carousel_album",
         "quando": "2026-08-31T18:09:29+0000",
         "link": "https://www.instagram.com/p/Dctsmowo4BJ/"
-      },
-      {
-        "titulo": "🔴 Pokémon 2D completo rodando dentro do Hytale!",
-        "curtidas": 187,
-        "comentarios": 6,
-        "tipo": "video",
-        "quando": "2026-09-14T20:28:31+0000",
-        "link": "https://www.instagram.com/reel/DdR_lBEDpQS/"
-      },
-      {
-        "titulo": "🪐 OS CINCO PLANETAS DA ARTE CONCEITUAL ANTIGA VIRARAM BLOCO QUE VOCÊ ",
-        "curtidas": 185,
-        "comentarios": 1,
-        "tipo": "image",
-        "quando": "2026-08-29T22:31:42+0000",
-        "link": "https://www.instagram.com/p/DcpBCRgjFuz/"
       }
     ],
     "erro": null,
     "topPostsIntervalo": {
       "amostra": 100,
-      "de": "2026-08-18T20:32:50+0000",
-      "ate": "2026-09-22T22:00:39+0000"
+      "de": "2026-08-20T01:46:47+0000",
+      "ate": "2026-09-25T22:04:03+0000"
     },
     "serie": [
       {
